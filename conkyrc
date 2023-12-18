@@ -1,0 +1,176 @@
+conky.config = {
+	alignment = 'top_right',
+	gap_x = 10,
+	background = true,
+	double_buffer = true,
+	own_window = true,
+	own_window_class = 'Conky',
+	own_window_transparent = true,
+	own_window_type = 'override',
+	update_interval = 1.0,
+	use_xft = true,
+	font0 = 'Roboto:size=12',
+	font1 = 'CascaydiaCove Nerd Font:size=12',
+}
+
+conky.text = [[
+${color ffffff}CPU: ${cpu cpu0} % ${alignr}${color bd93f9}${cpubar 10,300 cpu0}
+${color ffffff}Mem: ${alignr}${color bd93f9}${membar 10,300}
+
+${color ffff00}${alignc}----- i3 Cheat sheet ------
+${color ffffff}[Win]+[Return]${alignr}Open Terminal Window (Alacritty)
+${color ffffff}[Win]+d${alignr}Launch an app
+${color ffffff}[Win]+[End]${alignr}End session
+]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

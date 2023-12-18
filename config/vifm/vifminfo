@@ -1,0 +1,745 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'1
+	/home/alex/.config/vifm
+	scripts
+1570549118
+'H
+	/home/alex/
+	..
+1550095816
+'h
+	/home/alex/
+	..
+1550095816
+'r
+	/mnt/raspi/
+	..
+1550312389
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/alex/.config/vifm/colors
+	dracula.vifm
+2
+d/home/alex
+	cowsay
+29
+d/home
+	alex
+1
+d/
+	mnt
+8
+d/mnt
+	Users
+14
+d/mnt/Users
+	MS-DOS Manfred
+4
+d/mnt/Users/MS-DOS Manfred
+	Downloads
+8
+d/mnt/Users/MS-DOS Manfred/Downloads
+	extracted
+5
+d/mnt/Users/MS-DOS Manfred/Downloads/extracted
+	Tonstorung - The Best of Tonstorung
+5
+d/home/alex
+	.config
+12
+d/home/alex/.config
+	nitrogen
+21
+d/home/alex
+	xterm.2019.05.05.17.21.30.svg
+40
+d/home
+	alex
+1
+d/
+	home
+4
+d/home
+	alex
+1
+d/home/alex
+	cowsay
+29
+d/home
+	alex
+1
+d/
+	etc
+3
+d/etc
+	systemd
+34
+d/etc/systemd
+	user
+3
+d/etc/systemd/user
+	default.target.wants
+1
+d/etc/systemd/user/default.target.wants
+	..
+0
+d/etc/systemd/user
+	sockets.target.wants
+2
+d/etc/systemd/user/sockets.target.wants
+	..
+0
+d/etc/systemd/user
+	sockets.target.wants
+2
+d/etc/systemd
+	system
+2
+d/etc/systemd/system
+	sysinit.target.wants
+6
+d/etc/systemd/system/sysinit.target.wants
+	..
+0
+d/etc/systemd/system
+	sockets.target.wants
+5
+d/etc/systemd/system/sockets.target.wants
+	..
+0
+d/etc/systemd/system
+	printer.target.wants
+4
+d/etc/systemd/system/printer.target.wants
+	..
+0
+d/etc/systemd/system
+	network-online.target.wants
+3
+d/etc/systemd/system/network-online.target.wants
+	..
+0
+d/etc/systemd/system
+	multi-user.target.wants
+2
+d/etc/systemd/system/multi-user.target.wants
+	..
+0
+d/etc/systemd/system
+	getty.target.wants
+1
+d/etc/systemd/system/getty.target.wants
+	..
+0
+d/etc/systemd/system
+	getty.target.wants
+1
+d/etc/systemd
+	network
+1
+d/etc/systemd/network
+	..
+0
+d/etc/systemd
+	user
+3
+d/etc/systemd/user
+	sockets.target.wants
+2
+d/etc/systemd
+	user
+3
+d/etc
+	systemd
+34
+d/etc/systemd
+	system
+2
+d/etc/systemd/system
+	getty.target.wants
+1
+d/etc/systemd
+	network
+1
+d/etc/systemd/network
+	..
+0
+d/etc/systemd
+	user
+3
+d/etc/systemd/user
+	sockets.target.wants
+2
+d/etc/systemd/user/sockets.target.wants
+	..
+0
+d/etc/systemd/user
+	default.target.wants
+1
+d/etc/systemd/user/default.target.wants
+	..
+0
+d/etc/systemd/user
+	default.target.wants
+1
+d/etc/systemd
+	system
+2
+d/etc/systemd/system
+	getty.target.wants
+1
+d/etc/systemd/system/getty.target.wants
+	..
+0
+d/etc/systemd/system
+	multi-user.target.wants
+2
+d/etc/systemd/system/multi-user.target.wants
+	..
+0
+d/etc/systemd/system
+	getty.target.wants
+1
+d/etc/systemd/system/getty.target.wants
+	..
+0
+d/etc/systemd/system
+	network-online.target.wants
+3
+d/etc/systemd/system/network-online.target.wants
+	..
+0
+d/etc/systemd/system
+	printer.target.wants
+4
+d/etc/systemd/system/printer.target.wants
+	..
+0
+d/etc/systemd/system
+	sockets.target.wants
+5
+d/etc/systemd/system/sockets.target.wants
+	..
+0
+d/etc/systemd/system
+	sysinit.target.wants
+6
+d/etc/systemd/system/sysinit.target.wants
+	..
+0
+d/etc/systemd/system
+	sysinit.target.wants
+6
+d/etc/systemd
+	system
+2
+d/etc
+	systemd
+34
+d/
+	var
+18
+d/var
+	lib
+5
+d/var/lib
+	systemd
+34
+d/var/lib/systemd
+	catalog
+2
+d/var/lib/systemd/catalog
+	..
+0
+d/var/lib/systemd
+	backlight
+1
+d/var/lib/systemd/backlight
+	..
+0
+d/var/lib/systemd
+	backlight
+1
+d/var/lib
+	vmware
+36
+d/var
+	lock
+7
+d/
+	usr
+17
+d/usr
+	lib
+3
+d/usr/lib
+	systemd
+34
+d/usr/lib/systemd
+	user
+13
+d/usr/lib/systemd/user
+	systemd-exit.service
+28
+d/usr/lib/systemd
+	system
+7
+d/usr/lib/systemd/system
+	..
+0
+d/home/alex
+	Bilder
+1
+d/home/alex/Bilder
+	pyramids-1920x1200-triangles-dark-geometric-hd-10664.jpg
+4
+d/home/alex
+	.config
+12
+d/home/alex/.config
+	vifm
+29
+d/home/alex/.config/vifm
+	vifmrc
+5
+d/home/alex/.config
+	vifm
+29
+d/home/alex
+	Dokumente
+4
+d/home/alex/Dokumente
+	FS-UAE
+2
+d/home/alex/Dokumente/FS-UAE
+	Floppies
+6
+d/home/alex/Dokumente/FS-UAE/Floppies
+	wb31-extras.adf
+1
+d
+
+# Right window history (oldest to newest):
+D/home/alex/.config/volumeicon
+	volumeicon
+1
+D/home/alex/.config
+	volumeicon
+21
+D/home/alex
+	Downloads
+14
+D/home/alex/Downloads
+	dotfiles
+2
+D/home/alex/Downloads/dotfiles
+	.config
+1
+D/home/alex/Downloads/dotfiles/.config
+	compton
+2
+D/home/alex/Downloads/dotfiles/.config/compton
+	compton.conf
+1
+D/home/alex/Downloads/dotfiles/.config
+	compton
+2
+D/home/alex/Downloads/dotfiles
+	.config
+1
+D/home/alex/Downloads
+	dotfiles
+2
+D/home/alex
+	.config
+2
+D/home/alex/.config
+	volumeicon
+26
+D/home/alex
+	.config
+2
+D/home/alex/.config
+	i3
+11
+D/home/alex/.config/i3
+	config
+1
+D/home/alex/.config
+	i3
+14
+D/home/alex
+	.config
+2
+D/home
+	alex
+1
+D/
+	mnt
+8
+D/mnt
+	raspi
+1
+D/mnt/raspi
+	media
+9
+D/mnt/raspi/media
+	hdd0
+1
+D/mnt/raspi/media/hdd0
+	dl
+10
+D/mnt/raspi/media
+	..
+0
+D/mnt/raspi
+	media
+9
+D/mnt/raspi/media
+	hdd1
+2
+D/mnt/raspi/media/hdd1
+	Musik
+24
+D/mnt/raspi/media/hdd1/Musik
+	04 [S]uper[I]ntelligentes[D]rogen[O]pfer F-LL JM
+21
+D/mnt/raspi/media/hdd1/Musik/04 [S]uper[I]ntelligentes[D]rogen[O]pfer F-LL JM
+	..
+0
+D/mnt/raspi/media/hdd1/Musik
+	04 [S]uper[I]ntelligentes[D]rogen[O]pfer F-LL JM
+21
+D/home/alex
+	..
+0
+D/mnt/raspi
+	media
+9
+D/mnt/raspi/media
+	hdd1
+2
+D/mnt/raspi
+	media
+9
+D/home/alex
+	GOG Games
+4
+D/home/alex/GOG Games
+	X3 Terran War Pack
+1
+D/home/alex/GOG Games/X3 Terran War Pack
+	lib
+4
+D/home/alex/GOG Games/X3 Terran War Pack/lib
+	..
+0
+D/home/alex/GOG Games/X3 Terran War Pack
+	lib
+2
+D/home/alex/GOG Games
+	X3 Terran War Pack
+1
+D/home/alex
+	..
+0
+D/home
+	..
+0
+D/
+	home
+4
+D/home
+	..
+0
+D/
+	usr
+17
+D/usr
+	share
+8
+D/usr/share
+	lightdm-webkit
+18
+D/usr/share/lightdm-webkit
+	themes
+1
+D/usr/share/lightdm-webkit/themes
+	material2
+3
+D/usr/share/lightdm-webkit/themes/material2
+	..
+0
+D/usr/share/lightdm-webkit/themes
+	material2
+3
+D/usr/share/lightdm-webkit
+	themes
+1
+D/usr/share
+	lightdm-webkit
+18
+D/usr
+	share
+8
+D/
+	home
+4
+D/home
+	alex
+1
+D/home/alex
+	Desktop
+31
+D/home
+	alex
+1
+D/home/alex
+	.mednafen
+4
+D/home/alex/.mednafen
+	sav
+8
+D/home/alex/.mednafen/sav
+	..
+0
+D/home/alex/.mednafen
+	sav
+8
+D/home/alex/.mednafen/sav
+	Grandia (Germany) (Disc 1).402e28caf948ccf44732139e58955a1c.0.mcr
+3
+D/home/alex/.mednafen
+	sav
+8
+D/home/alex
+	.config
+11
+D/home/alex/.config
+	vifm
+30
+D/home/alex/.config/vifm
+	scripts
+2
+D/home/alex/.config/vifm/scripts
+	imgt
+2
+D/home/alex/.config/vifm
+	scripts
+2
+D/home/alex/.config
+	Electron
+3
+D/home/alex
+	xterm.2019.05.05.17.21.30.svg
+41
+D/home
+	alex
+1
+D/
+	usr
+17
+D/usr
+	share
+8
+D/usr/share
+	picmi
+37
+D/usr
+	share
+8
+D/
+	home
+4
+D/home
+	alex
+1
+D/home/alex
+	Bilder
+1
+D/home/alex/Bilder
+	Bildschirmfoto von 2019-09-12 22-56-07.png
+1
+D/home/alex
+	dotfiles
+16
+D/home/alex/dotfiles
+	vifm
+17
+D/home/alex/dotfiles/vifm
+	scripts
+2
+D/home/alex/dotfiles/vifm/scripts
+	imgt
+2
+D/home/alex/dotfiles/vifm
+	scripts
+2
+D/home/alex/dotfiles
+	vifm
+17
+D/home/alex
+	Bilder
+1
+D/home/alex/Bilder
+	Bildschirmfoto von 2019-09-15 19-15-38.png
+3
+D/home/alex
+	Bilder
+1
+D/home/alex/.config/vifm
+	..
+0
+D/home/alex/.config
+	vifm
+36
+D/home/alex
+	Musik
+8
+D/home/alex/Musik
+	Kategorie C - Sport Frei 98
+2
+D/home/alex
+	Musik
+8
+D/home/alex/Musik
+	Kategorie C - Sport Frei 98
+2
+D/home/alex
+	Downloads
+5
+D/home/alex/Downloads
+	workbench
+7
+D/home/alex/Downloads/workbench
+	wb31-workbench.adf
+6
+D/home/alex/Downloads
+	workbench
+7
+D/home/alex
+	Downloads
+5
+D
+
+# Command line history (oldest to newest):
+:cd config
+:cd $ZSH
+:git stash
+:copy ~/.config/vifm/vifmrc
+:cp
+:copy
+:compare
+:w
+:mark
+:shell
+:?
+:h
+:chmod+x
+:cd .config
+:cd vifm
+:.zshrc
+:help mark
+:marks
+:cd .config/vifm
+:unset runexec
+:set runexec=0
+:vimhelp
+:set vimhelp
+:help set
+:vim
+:set novimhelp
+:Q
+:set runexec
+:set norunexec
+:chmod -x
+:source vifmrc
+:colorscheme Default
+:colorscheme zenburn
+:config
+:help
+:sudo umount /mnt
+:colorscheme dracula
+:colorscheme
+:q
+
+# Search history (oldest to newest):
+/pcs
+/epsxe
+/systemd
+
+# Prompt history (oldest to newest):
+pvifmrc
+pvifm
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/alex/Downloads/workbench/wb31-extras.adf
+""/home/alex/Downloads/workbench/wb31-fonts.adf
+""/home/alex/Downloads/workbench/wb31-install.adf
+""/home/alex/Downloads/workbench/wb31-locale.adf
+""/home/alex/Downloads/workbench/wb31-storage.adf
+""/home/alex/Downloads/workbench/wb31-workbench.adf
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/alex/.local/share/vifm/Trash/000_vifmrc(1)
+	/home/alex/Downloads/dotfiles/.config/vifm/vifmrc(1)
+t/home/alex/.local/share/vifm/Trash/000_vifmrc
+	/home/alex/.config/vifm/vifmrc
+t/home/alex/.local/share/vifm/Trash/000_Stargate-KinoX to 19963 -bySGexx
+	/mnt/raspi/media/hdd0/dl/Stargate-KinoX to 19963 -bySGexx
+t/home/alex/.local/share/vifm/Trash/000_WAW - FF,VuV
+	/mnt/raspi/media/hdd0/dl/WAW - FF,VuV
+t/home/alex/.local/share/vifm/Trash/000_WAW-12S
+	/mnt/raspi/media/hdd0/dl/WAW-12S
+t/home/alex/.local/share/vifm/Trash/000_YDKJ
+	/mnt/raspi/media/hdd0/dl/YDKJ
+t/home/alex/.local/share/vifm/Trash/000_04 [S]uper[I]ntelligentes[D]rogen[O]pfer F-LL JM
+	/mnt/raspi/media/hdd0/dl/extracted/04 [S]uper[I]ntelligentes[D]rogen[O]pfer F-LL JM
+t/home/alex/.local/share/vifm/Trash/000_GOG Games
+	/home/alex/GOG Games
+t/home/alex/.local/share/vifm/Trash/000_aur.list
+	/home/alex/aur.list
+t/home/alex/.local/share/vifm/Trash/000_packages.list
+	/home/alex/packages.list
+t/home/alex/.local/share/vifm/Trash/000_1_002.png
+	/home/alex/Bilder/1_002.png
+t/home/alex/.local/share/vifm/Trash/000_2_001.png
+	/home/alex/Bilder/2_001.png
+t/home/alex/.local/share/vifm/Trash/000_2_003.png
+	/home/alex/Bilder/2_003.png
+t/home/alex/.local/share/vifm/Trash/000_Bildschirmfoto von 2019-09-12 22-56-07.png
+	/home/alex/Bilder/Bildschirmfoto von 2019-09-12 22-56-07.png
+t/home/alex/.local/share/vifm/Trash/000_Bildschirmfoto von 2019-09-15 19-14-07.png
+	/home/alex/Bilder/Bildschirmfoto von 2019-09-15 19-14-07.png
+t/home/alex/.local/share/vifm/Trash/000_Bildschirmfoto von 2019-09-15 19-15-38.png
+	/home/alex/Bilder/Bildschirmfoto von 2019-09-15 19-15-38.png
+t/home/alex/.local/share/vifm/Trash/000_screenie.png
+	/home/alex/Bilder/screenie.png
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
