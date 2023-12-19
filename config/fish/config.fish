@@ -57,7 +57,7 @@ set -U fish_user_paths $HOME/.bin $HOME/.local/bin $HOME/Applications $fish_user
 #set -x VISUAL nano
 #set -x TERM alacritty
 # Sets the terminal type for proper colors
-set TERM "xterm-256color"
+#set TERM "xterm-256color"
 
 # Suppresses fish's intro message
 set fish_greeting
@@ -184,20 +184,13 @@ function less
     command less -R $argv
 end
 
-function cd
-    builtin cd $argv; and ls
-end
+#function cd
+#    builtin cd $argv; and ls
+#end
 
 ### ALIASES ###
 
 #list
-alias ls="ls --color=auto"
-alias la="ls -a"
-alias ll="ls -alFh"
-alias l="ls"
-alias l.="ls -A | egrep '^\.'"
-alias listdir="ls -d */ > list"
-
 #pacman
 alias sps='sudo pacman -S'
 alias spr='sudo pacman -R'
@@ -246,8 +239,8 @@ alias give-me-azerty-be="sudo localectl set-x11-keymap be"
 alias give-me-qwerty-us="sudo localectl set-x11-keymap us"
 
 #setlocale
-alias setlocale="sudo localectl set-locale LANG=en_US.UTF-8"
-alias setlocales="sudo localectl set-x11-keymap be && sudo localectl set-locale LANG=en_US.UTF-8"
+alias setlocale="sudo localectl set-locale LANG=de_DE.UTF-8"
+alias setlocales="sudo localectl set-x11-keymap de && sudo localectl set-locale LANG=de_DE.UTF-8"
 
 #pacman unlock
 alias unlock="sudo rm /var/lib/pacman/db.lck"
@@ -589,10 +582,7 @@ set fish_color_search_match --background="#60AEFF"
 
 ### Aliases
 alias ls='ls -lah --color=auto'
-alias upg='paru -Syu --noconfirm'
-alias upgaur='paru -Syua --noconfirm'
-alias search='paru -Ss'
-alias inst='paru -S --noconfirm'
+alias vim='nvim'
 
 set -gx EDITOR vim
 set -gx VISUAL vim

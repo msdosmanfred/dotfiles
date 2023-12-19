@@ -115,17 +115,28 @@
     at new Promise (<anonymous>)
 [2023-12-18 21:32:19.791] [info]  Finished search indexing
 [2023-12-18 21:32:21.358] [info]  Finished search indexing
-[2023-12-19 22:20:26.484] [info]  State version: 9
-[2023-12-19 22:20:26.494] [info]  Migrator vl (to version 2) should migrate: false - up
-[2023-12-19 22:20:26.496] [info]  Migrator il (to version 3) should migrate: false - up
-[2023-12-19 22:20:26.500] [info]  Migrator sl (to version 4) should migrate: false - up
-[2023-12-19 22:20:26.501] [info]  Migrator ol (to version 5) should migrate: false - up
-[2023-12-19 22:20:26.502] [info]  Migrator ll (to version 6) should migrate: false - up
-[2023-12-19 22:20:26.503] [info]  Migrator ul (to version 7) should migrate: false - up
-[2023-12-19 22:20:26.503] [info]  Migrator hl (to version 8) should migrate: false - up
-[2023-12-19 22:20:26.504] [info]  Migrator gl (to version 9) should migrate: false - up
-[2023-12-19 22:20:26.611] [info]  Error: No password found
-[2023-12-19 22:20:27.121] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+[2023-12-18 21:39:40.177] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47777:36)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47547:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/usr/lib/bitwarden/app.asar/main.js:47543:12)
+    at WindowMain.updateWindowState (/usr/lib/bitwarden/app.asar/main.js:47772:16)
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47706:28)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47547:71
+    at new Promise (<anonymous>)
+[2023-12-19 21:03:58.831] [info]  State version: 9
+[2023-12-19 21:03:58.837] [info]  Migrator vl (to version 2) should migrate: false - up
+[2023-12-19 21:03:58.838] [info]  Migrator il (to version 3) should migrate: false - up
+[2023-12-19 21:03:58.841] [info]  Migrator sl (to version 4) should migrate: false - up
+[2023-12-19 21:03:58.842] [info]  Migrator ol (to version 5) should migrate: false - up
+[2023-12-19 21:03:58.843] [info]  Migrator ll (to version 6) should migrate: false - up
+[2023-12-19 21:03:58.844] [info]  Migrator ul (to version 7) should migrate: false - up
+[2023-12-19 21:03:58.845] [info]  Migrator hl (to version 8) should migrate: false - up
+[2023-12-19 21:03:58.845] [info]  Migrator gl (to version 9) should migrate: false - up
+[2023-12-19 21:03:58.941] [info]  Error: No password found
+[2023-12-19 21:03:59.404] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
     at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48310:55)
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:48218:71
@@ -136,7 +147,7 @@
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:48394:71
     at new Promise (<anonymous>)
-[2023-12-19 22:20:27.237] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+[2023-12-19 21:03:59.476] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
     at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48310:55)
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:48218:71
@@ -147,9 +158,9 @@
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:48394:71
     at new Promise (<anonymous>)
-[2023-12-19 22:20:27.860] [info]  Finished search indexing
-[2023-12-19 22:20:29.654] [info]  Finished search indexing
-[2023-12-19 22:21:41.575] [error] TypeError: Object has been destroyed
+[2023-12-19 21:03:59.940] [info]  Finished search indexing
+[2023-12-19 21:04:01.313] [info]  Finished search indexing
+[2023-12-19 21:15:49.336] [error] TypeError: Object has been destroyed
     at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47777:36)
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:47547:71

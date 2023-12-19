@@ -1,2 +1,0 @@
-current_playlist=0
-playlist=Wiedergabeliste
