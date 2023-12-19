@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/doom/packages.el

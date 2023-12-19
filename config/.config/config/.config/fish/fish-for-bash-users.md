@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/fish/fish-for-bash-users.md

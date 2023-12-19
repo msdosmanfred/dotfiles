@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/fish/4-install-tide-plugin.sh

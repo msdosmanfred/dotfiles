@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/emacs/lisp/lib/scratch.el

@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/conky/lua/system-bar.lua

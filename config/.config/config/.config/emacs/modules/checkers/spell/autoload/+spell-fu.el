@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/emacs/modules/checkers/spell/autoload/+spell-fu.el

@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/ranger/plugins/ranger_devicons/Makefile

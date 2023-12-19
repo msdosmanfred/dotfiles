@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/fish/666-remove-oh-my-fish-and-all-folders-completely.sh

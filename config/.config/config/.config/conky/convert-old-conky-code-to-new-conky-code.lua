@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/conky/convert-old-conky-code-to-new-conky-code.lua

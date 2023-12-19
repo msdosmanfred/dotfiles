@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/emacs/modules/ui/minimap/packages.el

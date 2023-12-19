@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/conky/lua/widget_rings.lua

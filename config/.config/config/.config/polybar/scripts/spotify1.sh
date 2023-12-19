@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/polybar/scripts/spotify1.sh

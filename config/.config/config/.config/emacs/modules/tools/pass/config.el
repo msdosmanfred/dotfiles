@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/emacs/modules/tools/pass/config.el

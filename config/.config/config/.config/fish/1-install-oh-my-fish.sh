@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/fish/1-install-oh-my-fish.sh

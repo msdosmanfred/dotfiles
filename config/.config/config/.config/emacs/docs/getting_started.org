@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/emacs/docs/getting_started.org

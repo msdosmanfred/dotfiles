@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/emacs/modules/email/wanderlust/packages.el

@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/emacs/modules/lang/org/contrib/journal.el

@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/emacs/modules/ui/vc-gutter/autoload/diff-hl.el

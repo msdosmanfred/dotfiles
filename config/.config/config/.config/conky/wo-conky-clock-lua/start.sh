@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/conky/wo-conky-clock-lua/start.sh

@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/emacs/modules/term/shell/config.el

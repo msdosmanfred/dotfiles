@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/emacs/modules/editor/file-templates/templates/nix-mode/__shell.nix

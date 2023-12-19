@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/conky/lua/conky_redux.lua

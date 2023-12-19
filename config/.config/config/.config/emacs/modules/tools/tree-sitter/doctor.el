@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/emacs/modules/tools/tree-sitter/doctor.el

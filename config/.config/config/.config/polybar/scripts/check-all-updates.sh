@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/polybar/scripts/check-all-updates.sh

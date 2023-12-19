@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/emacs/modules/editor/objed/packages.el

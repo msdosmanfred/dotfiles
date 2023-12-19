@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/emacs/templates/config.example.el

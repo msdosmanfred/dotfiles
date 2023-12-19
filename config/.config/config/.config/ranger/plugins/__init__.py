@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/ranger/plugins/__init__.py

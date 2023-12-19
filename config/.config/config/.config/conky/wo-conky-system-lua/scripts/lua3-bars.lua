@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/conky/wo-conky-system-lua/scripts/lua3-bars.lua

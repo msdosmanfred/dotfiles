@@ -1,0 +1,1 @@
+/home/alex/.dotfiles/config/conky/breaking-bad/rings-v1.2.1_breaking_bad.lua
