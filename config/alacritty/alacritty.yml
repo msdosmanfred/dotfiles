@@ -1,3 +1,19 @@
+font:
+  regular:
+    family: Mononoki Nerd Font 
+    style: Regular
+  bold:
+    family: Mononoki Nerd Font
+    style: Bold
+  italic:
+    family: Mononoki Nerd Font
+    style: Italic
+  bold_italic:
+    family: Mononoki Nerd Font
+    style: Bold Italic
+  size: 14
+window:
+  opacity: 0.9
 items:
   - colors:
       name: 3024 (dark)
@@ -80,19 +96,3 @@ colors:
     cyan: '#a4ffff'
     white: '#ffffff'
 theme: Dracula
-font:
-  regular:
-    family: Mononoki Nerd Font
-    style: Regular
-  bold:
-    family: Mononoki Nerd Font
-    style: Bold
-  italic:
-    family: Mononoki Nerd Font
-    style: Italic
-  bold_italic:
-    family: Mononoki Nerd Font
-    style: Bold Italic
-  size: 14
-window:
-  opacity: 0.9
