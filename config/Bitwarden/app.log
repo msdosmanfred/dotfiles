@@ -171,3 +171,83 @@
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:47547:71
     at new Promise (<anonymous>)
+[2023-12-22 00:38:17.625] [info]  State version: 9
+[2023-12-22 00:38:17.630] [info]  Migrator vl (to version 2) should migrate: false - up
+[2023-12-22 00:38:17.630] [info]  Migrator il (to version 3) should migrate: false - up
+[2023-12-22 00:38:17.633] [info]  Migrator sl (to version 4) should migrate: false - up
+[2023-12-22 00:38:17.634] [info]  Migrator ol (to version 5) should migrate: false - up
+[2023-12-22 00:38:17.634] [info]  Migrator ll (to version 6) should migrate: false - up
+[2023-12-22 00:38:17.635] [info]  Migrator ul (to version 7) should migrate: false - up
+[2023-12-22 00:38:17.635] [info]  Migrator hl (to version 8) should migrate: false - up
+[2023-12-22 00:38:17.636] [info]  Migrator gl (to version 9) should migrate: false - up
+[2023-12-22 00:38:17.690] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:17.713] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:17.782] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:17.782] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:17.804] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:17.843] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48257:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:48218:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:48214:12)
+    at BiometricsService.osSupportsBiometric (/usr/lib/bitwarden/app.asar/main.js:48256:16)
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48267:58)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/bitwarden/app.asar/main.js:48215:58)
+[2023-12-22 00:38:17.843] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48257:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:48218:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:48214:12)
+    at BiometricsService.osSupportsBiometric (/usr/lib/bitwarden/app.asar/main.js:48256:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48466:59)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:48394:71
+    at new Promise (<anonymous>)
+[2023-12-22 00:38:17.892] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:18.310] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:18.510] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:18.571] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:18.660] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:18.680] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:18.757] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:18.878] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:20.737] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:24.837] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:24.859] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-12-22 00:38:24.872] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48310:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:48218:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:48214:12)
+    at BiometricsService.deleteBiometricKey (/usr/lib/bitwarden/app.asar/main.js:48308:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48517:45)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:48394:71
+    at new Promise (<anonymous>)
+[2023-12-22 00:38:24.875] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48310:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:48218:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:48214:12)
+    at BiometricsService.deleteBiometricKey (/usr/lib/bitwarden/app.asar/main.js:48308:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48517:45)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:48394:71
+    at new Promise (<anonymous>)
+[2023-12-22 00:38:25.173] [info]  Finished search indexing
+[2023-12-22 00:40:03.244] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47777:36)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47547:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/usr/lib/bitwarden/app.asar/main.js:47543:12)
+    at WindowMain.updateWindowState (/usr/lib/bitwarden/app.asar/main.js:47772:16)
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47706:28)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47547:71
+    at new Promise (<anonymous>)

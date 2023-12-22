@@ -1,5 +1,5 @@
 [General]
-theme=ArcDark
+theme=Dracula-Solid
 
 [Applications]
 KvGnomeDark=virtualbox
