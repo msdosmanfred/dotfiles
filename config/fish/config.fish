@@ -584,9 +584,13 @@ set fish_color_search_match --background="#60AEFF"
 alias ls='ls -lah --color=auto'
 alias vim='nvim'
 
+### Environment variables
 set -gx EDITOR vim
 set -gx VISUAL vim
 set -gx TERM alacritty
 
 ### Starship prompt
 starship init fish | source
+
+### some stuff
+colorscript -r
