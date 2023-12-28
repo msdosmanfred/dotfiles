@@ -481,6 +481,7 @@
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:47547:71
     at new Promise (<anonymous>)
+<<<<<<< HEAD
 [2023-12-27 00:24:48.085] [info]  State version: 9
 [2023-12-27 00:24:48.090] [info]  Migrator vl (to version 2) should migrate: false - up
 [2023-12-27 00:24:48.091] [info]  Migrator il (to version 3) should migrate: false - up
@@ -496,6 +497,23 @@
 [2023-12-27 00:24:48.303] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
 [2023-12-27 00:24:48.321] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
 [2023-12-27 00:24:48.359] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+=======
+[2023-12-27 16:04:34.506] [info]  State version: 9
+[2023-12-27 16:04:34.511] [info]  Migrator vl (to version 2) should migrate: false - up
+[2023-12-27 16:04:34.511] [info]  Migrator il (to version 3) should migrate: false - up
+[2023-12-27 16:04:34.515] [info]  Migrator sl (to version 4) should migrate: false - up
+[2023-12-27 16:04:34.516] [info]  Migrator ol (to version 5) should migrate: false - up
+[2023-12-27 16:04:34.516] [info]  Migrator ll (to version 6) should migrate: false - up
+[2023-12-27 16:04:34.517] [info]  Migrator ul (to version 7) should migrate: false - up
+[2023-12-27 16:04:34.517] [info]  Migrator hl (to version 8) should migrate: false - up
+[2023-12-27 16:04:34.517] [info]  Migrator gl (to version 9) should migrate: false - up
+[2023-12-27 16:04:34.606] [info]  Error: No password found
+[2023-12-27 16:04:34.631] [info]  Error: No password found
+[2023-12-27 16:04:34.731] [info]  Error: No password found
+[2023-12-27 16:04:34.732] [info]  Error: No password found
+[2023-12-27 16:04:34.754] [info]  Error: No password found
+[2023-12-27 16:04:34.810] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+>>>>>>> refs/remotes/origin/master
     at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48257:55)
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:48218:71
@@ -505,7 +523,11 @@
     at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48267:58)
     at Generator.next (<anonymous>)
     at fulfilled (/usr/lib/bitwarden/app.asar/main.js:48215:58)
+<<<<<<< HEAD
 [2023-12-27 00:24:48.360] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+=======
+[2023-12-27 16:04:34.818] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+>>>>>>> refs/remotes/origin/master
     at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48257:55)
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:48218:71
@@ -516,6 +538,7 @@
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:48394:71
     at new Promise (<anonymous>)
+<<<<<<< HEAD
 [2023-12-27 00:24:48.418] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
 [2023-12-27 00:24:48.802] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
 [2023-12-27 00:24:49.000] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
@@ -528,6 +551,19 @@
 [2023-12-27 00:24:57.336] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
 [2023-12-27 00:24:57.364] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
 [2023-12-27 00:24:57.376] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+=======
+[2023-12-27 16:04:34.827] [info]  Error: No password found
+[2023-12-27 16:04:35.428] [info]  Error: No password found
+[2023-12-27 16:04:35.799] [info]  Error: No password found
+[2023-12-27 16:04:35.822] [info]  Error: No password found
+[2023-12-27 16:04:35.939] [info]  Error: No password found
+[2023-12-27 16:04:36.099] [info]  Error: No password found
+[2023-12-27 16:04:36.117] [info]  Error: No password found
+[2023-12-27 16:04:37.649] [info]  Error: No password found
+[2023-12-27 16:04:40.216] [info]  Error: No password found
+[2023-12-27 16:04:44.626] [info]  Error: No password found
+[2023-12-27 16:04:46.014] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+>>>>>>> refs/remotes/origin/master
     at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48310:55)
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:48218:71
@@ -538,7 +574,11 @@
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:48394:71
     at new Promise (<anonymous>)
+<<<<<<< HEAD
 [2023-12-27 00:24:57.378] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+=======
+[2023-12-27 16:04:46.018] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+>>>>>>> refs/remotes/origin/master
     at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48310:55)
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:48218:71
@@ -549,8 +589,78 @@
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:48394:71
     at new Promise (<anonymous>)
+<<<<<<< HEAD
 [2023-12-27 00:24:57.668] [info]  Finished search indexing
 [2023-12-27 00:25:41.118] [error] TypeError: Object has been destroyed
+=======
+[2023-12-27 16:04:46.396] [info]  Finished search indexing
+[2023-12-28 01:51:45.346] [info]  State version: 9
+[2023-12-28 01:51:45.352] [info]  Migrator vl (to version 2) should migrate: false - up
+[2023-12-28 01:51:45.354] [info]  Migrator il (to version 3) should migrate: false - up
+[2023-12-28 01:51:45.361] [info]  Migrator sl (to version 4) should migrate: false - up
+[2023-12-28 01:51:45.361] [info]  Migrator ol (to version 5) should migrate: false - up
+[2023-12-28 01:51:45.363] [info]  Migrator ll (to version 6) should migrate: false - up
+[2023-12-28 01:51:45.363] [info]  Migrator ul (to version 7) should migrate: false - up
+[2023-12-28 01:51:45.364] [info]  Migrator hl (to version 8) should migrate: false - up
+[2023-12-28 01:51:45.365] [info]  Migrator gl (to version 9) should migrate: false - up
+[2023-12-28 01:51:45.452] [info]  Error: No password found
+[2023-12-28 01:51:45.476] [info]  Error: No password found
+[2023-12-28 01:51:45.573] [info]  Error: No password found
+[2023-12-28 01:51:45.575] [info]  Error: No password found
+[2023-12-28 01:51:45.597] [info]  Error: No password found
+[2023-12-28 01:51:45.675] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48257:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:48218:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:48214:12)
+    at BiometricsService.osSupportsBiometric (/usr/lib/bitwarden/app.asar/main.js:48256:16)
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48267:58)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/bitwarden/app.asar/main.js:48215:58)
+[2023-12-28 01:51:45.676] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48257:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:48218:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:48214:12)
+    at BiometricsService.osSupportsBiometric (/usr/lib/bitwarden/app.asar/main.js:48256:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48466:59)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:48394:71
+    at new Promise (<anonymous>)
+[2023-12-28 01:51:45.784] [info]  Error: No password found
+[2023-12-28 01:51:45.982] [error] Unable to fetch ServerConfig: Failed to fetch
+[2023-12-28 01:51:45.990] [info]  Error: No password found
+[2023-12-28 01:51:46.009] [info]  Error: No password found
+[2023-12-28 01:51:46.237] [info]  Error: No password found
+[2023-12-28 01:51:46.525] [info]  Error: No password found
+[2023-12-28 01:51:48.492] [info]  Error: No password found
+[2023-12-28 01:51:52.411] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48310:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:48218:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:48214:12)
+    at BiometricsService.deleteBiometricKey (/usr/lib/bitwarden/app.asar/main.js:48308:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48517:45)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:48394:71
+    at new Promise (<anonymous>)
+[2023-12-28 01:51:52.415] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48310:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:48218:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:48214:12)
+    at BiometricsService.deleteBiometricKey (/usr/lib/bitwarden/app.asar/main.js:48308:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48517:45)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:48394:71
+    at new Promise (<anonymous>)
+[2023-12-28 01:51:52.772] [info]  Finished search indexing
+[2023-12-28 01:52:26.710] [error] TypeError: Object has been destroyed
+>>>>>>> refs/remotes/origin/master
     at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47777:36)
     at Generator.next (<anonymous>)
     at /usr/lib/bitwarden/app.asar/main.js:47547:71
