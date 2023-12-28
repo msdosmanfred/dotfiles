@@ -1,0 +1,16 @@
+xrdb:  "Xft.hinting" on line 9 overrides entry on line 5
+xrdb:  "Xft.hintstyle" on line 12 overrides entry on line 6
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent: Ein gpg-agent läuft bereits - ein weiterer wird nicht gestartet
+
+(xfwm4:13659): xfwm4-WARNING **: 14:31:46.143: Unsupported GL renderer (SVGA3D; build: RELEASE;  LLVM;).
+
+(xfce4-session:13594): xfce4-session-WARNING **: 14:31:47.466: Unable to launch "am-conky-session" (specified by autostart/am-conky-session.desktop): Kindprozess »am-conky-session« konnte nicht ausgeführt werden (Datei oder Verzeichnis nicht gefunden)
+
+(xfce4-session:13594): xfce4-session-WARNING **: 14:31:47.489: Unable to launch "redshift-gtk" (specified by autostart/redshift-gtk.desktop): Kindprozess »redshift-gtk« konnte nicht ausgeführt werden (Datei oder Verzeichnis nicht gefunden)
+
+(xfce4-session:13594): xfce4-session-WARNING **: 14:31:47.518: Unable to launch "telegram-desktop -startintray -- " (specified by autostart/telegramdesktop.desktop): Kindprozess »telegram-desktop« konnte nicht ausgeführt werden (Datei oder Verzeichnis nicht gefunden)
+
+(xfce4-session:13594): xfce4-session-WARNING **: 14:31:47.546: Unable to launch "telegram-desktop -startintray --" (specified by autostart/Telegram Desktop.desktop): Kindprozess »telegram-desktop« konnte nicht ausgeführt werden (Datei oder Verzeichnis nicht gefunden)
+/usr/bin/mysqlcheck: Deprecated program name. It will be removed in a future release, use '/usr/bin/mariadb-check' instead
+/usr/bin/mysql_upgrade: Deprecated program name. It will be removed in a future release, use '/usr/bin/mariadb-upgrade' instead
