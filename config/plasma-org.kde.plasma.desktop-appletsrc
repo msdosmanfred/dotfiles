@@ -8,6 +8,7 @@ RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][28]
 ItemGeometries-1366x768=
+ItemGeometries-1918x920=
 ItemGeometriesHorizontal=
 activityId=23995814-19d9-4b3f-a526-f3acd0c7b627
 formfactor=0
@@ -40,21 +41,6 @@ location=4
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
 
-[Containments][29][Applets][30]
-immutability=1
-plugin=org.kde.plasma.kickoff
-
-[Containments][29][Applets][30][Configuration]
-PreloadWeight=100
-popupHeight=550
-popupWidth=547
-
-[Containments][29][Applets][30][Configuration][General]
-favoritesPortedToKAstats=true
-
-[Containments][29][Applets][30][Configuration][Shortcuts]
-global=Alt+F1
-
 [Containments][29][Applets][31]
 immutability=1
 plugin=org.kde.plasma.pager
@@ -62,6 +48,9 @@ plugin=org.kde.plasma.pager
 [Containments][29][Applets][32]
 immutability=1
 plugin=org.kde.plasma.icontasks
+
+[Containments][29][Applets][32][Configuration][General]
+launchers=applications:systemsettings.desktop,applications:org.kde.discover.desktop,preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop
 
 [Containments][29][Applets][33]
 immutability=1
@@ -90,12 +79,27 @@ DialogWidth=720
 immutability=1
 plugin=org.kde.plasma.showdesktop
 
+[Containments][29][Applets][54]
+immutability=1
+plugin=org.kde.plasma.kicker
+
+[Containments][29][Applets][54][Configuration]
+PreloadWeight=100
+popupHeight=550
+popupWidth=687
+
+[Containments][29][Applets][54][Configuration][General]
+favoritesPortedToKAstats=true
+
+[Containments][29][Applets][54][Configuration][Shortcuts]
+global=Alt+F1
+
 [Containments][29][ConfigDialog]
 DialogHeight=84
 DialogWidth=1366
 
 [Containments][29][General]
-AppletOrder=30;31;32;33;34;48;49
+AppletOrder=54;31;32;33;34;48;49
 
 [Containments][35]
 activityId=
