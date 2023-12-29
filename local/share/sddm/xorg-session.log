@@ -1,0 +1,493 @@
+/bin/sh: Zeile 1: pamac-tray: Kommando nicht gefunden.
+/bin/sh: Zeile 1: /usr/lib/mate-polkit/polkit-mate-authentication-agent-1: Datei oder Verzeichnis nicht gefunden
+/bin/sh: Zeile 1: gnome-keyring-daemon: Kommando nicht gefunden.
+/bin/sh: Zeile 1: redshift-gtk: Kommando nicht gefunden.
+/bin/sh: Zeile 1: emoji-keyboard: Kommando nicht gefunden.
+/bin/sh: Zeile 1: shutter: Kommando nicht gefunden.
+/bin/sh: Zeile 1: conky: Kommando nicht gefunden.
+polybar|notice:  Parsing config file: /home/alex/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 1257)
+polybar|notice:  Loading module 'i3' of type 'internal/i3'
+
+(nitrogen:1236): Gtk-WARNING **: 14:52:02.720: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:1236): Gtk-WARNING **: 14:52:02.740: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1236): Gtk-WARNING **: 14:52:02.740: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1236): Gtk-WARNING **: 14:52:02.742: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1236): Gtk-WARNING **: 14:52:02.742: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1236): Gtk-WARNING **: 14:52:02.742: Unable to locate theme engine in module_path: "murrine",
+polybar|error: Invalid value for "module/i3.label-visible-underline", using default value (reason: The reference ${module/i3.label-focused-underline} does not exist (no fallback set))
+polybar|notice:  Loading module 'l-arrow0' of type 'custom/text'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'l-arrow1' of type 'custom/text'
+polybar|notice:  Loading module 'r-arrow8' of type 'custom/text'
+polybar|notice:  Loading module 'updates' of type 'custom/script'
+polybar|notice:  Loading module 'r-arrow7' of type 'custom/text'
+polybar|notice:  Loading module 'wlan' of type 'internal/network'
+polybar|error: Disabling module "wlan" (reason: No interface found for type 'wireless')
+polybar|notice:  Loading module 'r-arrow6' of type 'custom/text'
+polybar|notice:  Loading module 'eth' of type 'internal/network'
+polybar|notice:  module/eth: Discovered wired interface ens160
+polybar|notice:  Loading module 'r-arrow5' of type 'custom/text'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink 
+polybar|notice:  Loading module 'r-arrow4' of type 'custom/text'
+polybar|notice:  Loading module 'xkeyboard' of type 'internal/xkeyboard'
+polybar|notice:  Loading module 'r-arrow3' of type 'custom/text'
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'r-arrow2' of type 'custom/text'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'r-arrow1' of type 'custom/text'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'r-arrow0' of type 'custom/text'
+polybar|notice:  Loading module 'systray' of type 'internal/tray'
+polybar|notice:  Loaded 21 modules
+polybar|notice:  Loaded font "NotoSans Nerd Font:style=Regular:size=10" (name=NotoSans Nerd Font, offset=2, file=/usr/share/fonts/TTF/NotoSansNerdFont-Regular.ttf)
+polybar|notice:  Loaded font "CaskaydiaMono Nerd Font:style=Regular:size=10" (name=CaskaydiaMono Nerd Font, offset=2, file=/usr/share/fonts/TTF/CaskaydiaMonoNerdFont-Regular.ttf)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+invalid color string: #bbc5ff 
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.analog-stereo
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(nitrogen:1236): Gtk-WARNING **: 14:52:03.605: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:1236): Gtk-WARNING **: 14:52:03.607: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1236): Gtk-WARNING **: 14:52:03.607: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1236): Gtk-WARNING **: 14:52:03.608: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1236): Gtk-WARNING **: 14:52:03.608: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1236): Gtk-WARNING **: 14:52:03.608: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1236): GLib-GObject-CRITICAL **: 14:52:03.610: Attempting to freeze the notification queue for object GtkSettings[0x5574362f6590]; Property notification does not work during instance finalization.
+
+(nitrogen:1236): GLib-GObject-CRITICAL **: 14:52:03.610: Attempting to thaw the notification queue for object GtkSettings[0x5574362f6590]; Property notification does not work during instance finalization.
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+polybar|error: tray: Failed to clear client(0x120000c, TelegramDesktop) (XCB_WINDOW (3))
+polybar|error: tray: Failed to unembed window '' (0x120000c)
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(nm-applet:1238): GLib-GIO-WARNING **: 14:52:28.379: unable to send notifications through org.freedesktop.Notifications: Zeitüberschreitung wurde erreicht
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(process:45868): GLib-CRITICAL **: 15:18:14.455: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(pcmanfm:45882): Gtk-WARNING **: 15:18:14.535: Im Modulpfad »adwaita« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:45882): Gtk-WARNING **: 15:18:14.549: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:45882): Gtk-WARNING **: 15:18:14.549: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:45882): Gtk-WARNING **: 15:18:14.550: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:45882): Gtk-WARNING **: 15:18:14.550: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:45882): Gtk-WARNING **: 15:18:14.550: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.911: GFileInfo created without standard::edit-name
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.911: file ../glib/gio/gfileinfo.c: line 1743 (g_file_info_get_edit_name): should not be reached
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.911: GFileInfo created without standard::size
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.911: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.911: GFileInfo created without standard::content-type
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.911: file ../glib/gio/gfileinfo.c: line 1822 (g_file_info_get_content_type): should not be reached
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.911: GFileInfo created without standard::is-symlink
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.911: file ../glib/gio/gfileinfo.c: line 1677 (g_file_info_get_is_symlink): should not be reached
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.911: GFileInfo created without standard::is-backup
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.911: file ../glib/gio/gfileinfo.c: line 1655 (g_file_info_get_is_backup): should not be reached
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.913: GFileInfo created without standard::edit-name
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.913: file ../glib/gio/gfileinfo.c: line 1743 (g_file_info_get_edit_name): should not be reached
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.913: GFileInfo created without standard::size
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.913: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.913: GFileInfo created without standard::is-symlink
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.913: file ../glib/gio/gfileinfo.c: line 1677 (g_file_info_get_is_symlink): should not be reached
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.914: GFileInfo created without standard::is-hidden
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.914: file ../glib/gio/gfileinfo.c: line 1633 (g_file_info_get_is_hidden): should not be reached
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.914: GFileInfo created without standard::is-backup
+
+(pcmanfm:45882): GLib-GIO-CRITICAL **: 15:18:14.914: file ../glib/gio/gfileinfo.c: line 1655 (g_file_info_get_is_backup): should not be reached
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+
+(process:65947): GLib-CRITICAL **: 15:34:34.915: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(pcmanfm:65961): Gtk-WARNING **: 15:34:34.990: Im Modulpfad »adwaita« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:65961): Gtk-WARNING **: 15:34:35.004: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:65961): Gtk-WARNING **: 15:34:35.004: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:65961): Gtk-WARNING **: 15:34:35.005: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:65961): Gtk-WARNING **: 15:34:35.005: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:65961): Gtk-WARNING **: 15:34:35.005: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.164: GFileInfo created without standard::edit-name
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.164: file ../glib/gio/gfileinfo.c: line 1743 (g_file_info_get_edit_name): should not be reached
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.164: GFileInfo created without standard::size
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.164: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.164: GFileInfo created without standard::content-type
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.164: file ../glib/gio/gfileinfo.c: line 1822 (g_file_info_get_content_type): should not be reached
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.164: GFileInfo created without standard::is-symlink
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.164: file ../glib/gio/gfileinfo.c: line 1677 (g_file_info_get_is_symlink): should not be reached
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.164: GFileInfo created without standard::is-backup
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.164: file ../glib/gio/gfileinfo.c: line 1655 (g_file_info_get_is_backup): should not be reached
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.166: GFileInfo created without standard::edit-name
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.166: file ../glib/gio/gfileinfo.c: line 1743 (g_file_info_get_edit_name): should not be reached
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.166: GFileInfo created without standard::size
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.166: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.166: GFileInfo created without standard::is-symlink
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.166: file ../glib/gio/gfileinfo.c: line 1677 (g_file_info_get_is_symlink): should not be reached
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.166: GFileInfo created without standard::is-hidden
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.166: file ../glib/gio/gfileinfo.c: line 1633 (g_file_info_get_is_hidden): should not be reached
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.166: GFileInfo created without standard::is-backup
+
+(pcmanfm:65961): GLib-GIO-CRITICAL **: 15:34:35.166: file ../glib/gio/gfileinfo.c: line 1655 (g_file_info_get_is_backup): should not be reached
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+
+(process:94423): GLib-CRITICAL **: 16:18:33.688: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(pcmanfm:94440): Gtk-WARNING **: 16:18:33.792: Im Modulpfad »adwaita« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:94440): Gtk-WARNING **: 16:18:33.807: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:94440): Gtk-WARNING **: 16:18:33.807: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:94440): Gtk-WARNING **: 16:18:33.808: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:94440): Gtk-WARNING **: 16:18:33.808: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:94440): Gtk-WARNING **: 16:18:33.808: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.023: GFileInfo created without standard::edit-name
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.023: file ../glib/gio/gfileinfo.c: line 1743 (g_file_info_get_edit_name): should not be reached
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.023: GFileInfo created without standard::size
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.023: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.023: GFileInfo created without standard::content-type
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.023: file ../glib/gio/gfileinfo.c: line 1822 (g_file_info_get_content_type): should not be reached
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.023: GFileInfo created without standard::is-symlink
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.023: file ../glib/gio/gfileinfo.c: line 1677 (g_file_info_get_is_symlink): should not be reached
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.023: GFileInfo created without standard::is-backup
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.023: file ../glib/gio/gfileinfo.c: line 1655 (g_file_info_get_is_backup): should not be reached
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.024: GFileInfo created without standard::edit-name
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.024: file ../glib/gio/gfileinfo.c: line 1743 (g_file_info_get_edit_name): should not be reached
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.024: GFileInfo created without standard::size
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.024: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.024: GFileInfo created without standard::is-symlink
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.024: file ../glib/gio/gfileinfo.c: line 1677 (g_file_info_get_is_symlink): should not be reached
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.024: GFileInfo created without standard::is-hidden
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.024: file ../glib/gio/gfileinfo.c: line 1633 (g_file_info_get_is_hidden): should not be reached
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.025: GFileInfo created without standard::is-backup
+
+(pcmanfm:94440): GLib-GIO-CRITICAL **: 16:18:34.025: file ../glib/gio/gfileinfo.c: line 1655 (g_file_info_get_is_backup): should not be reached
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
