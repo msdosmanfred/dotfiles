@@ -5,7 +5,7 @@
 
 [
     {
-        "version": "4013000"
+        "version": "4014006"
     },
     {
         "command": "media_play",
@@ -154,5 +154,29 @@
     {
         "command": "last_chat",
         "keys": "ctrl+alt+end"
+    },
+    {
+        "command": "account1",
+        "keys": null
+    },
+    {
+        "command": "account2",
+        "keys": null
+    },
+    {
+        "command": "account3",
+        "keys": null
+    },
+    {
+        "command": "account4",
+        "keys": null
+    },
+    {
+        "command": "account5",
+        "keys": null
+    },
+    {
+        "command": "account6",
+        "keys": null
     }
 ]
