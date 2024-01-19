@@ -1,25 +1,25 @@
 /bin/sh: Zeile 1: pamac-tray: Kommando nicht gefunden.
 /bin/sh: Zeile 1: gnome-keyring-daemon: Kommando nicht gefunden.
 /bin/sh: Zeile 1: /usr/lib/mate-polkit/polkit-mate-authentication-agent-1: Datei oder Verzeichnis nicht gefunden
+/bin/sh: Zeile 1: redshift-gtk: Kommando nicht gefunden.
 /bin/sh: Zeile 1: emoji-keyboard: Kommando nicht gefunden.
 /bin/sh: Zeile 1: shutter: Kommando nicht gefunden.
 /bin/sh: Zeile 1: conky: Kommando nicht gefunden.
-/bin/sh: Zeile 1: redshift-gtk: Kommando nicht gefunden.
+
+(nitrogen:1252): Gtk-WARNING **: 17:28:25.295: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:1252): Gtk-WARNING **: 17:28:25.335: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1252): Gtk-WARNING **: 17:28:25.335: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1252): Gtk-WARNING **: 17:28:25.338: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1252): Gtk-WARNING **: 17:28:25.338: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1252): Gtk-WARNING **: 17:28:25.338: Unable to locate theme engine in module_path: "murrine",
 polybar|notice:  Parsing config file: /home/alex/.config/polybar/config.ini
-polybar|notice:  Listening for IPC messages (PID: 1193)
+polybar|notice:  Listening for IPC messages (PID: 1272)
 polybar|notice:  Loading module 'i3' of type 'internal/i3'
-
-(nitrogen:1173): Gtk-WARNING **: 20:54:02.034: Unable to locate theme engine in module_path: "adwaita",
-
-(nitrogen:1173): Gtk-WARNING **: 20:54:02.051: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1173): Gtk-WARNING **: 20:54:02.051: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1173): Gtk-WARNING **: 20:54:02.053: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1173): Gtk-WARNING **: 20:54:02.053: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1173): Gtk-WARNING **: 20:54:02.053: Unable to locate theme engine in module_path: "murrine",
 polybar|error: Invalid value for "module/i3.label-visible-underline", using default value (reason: The reference ${module/i3.label-focused-underline} does not exist (no fallback set))
 polybar|notice:  Loading module 'l-arrow0' of type 'custom/text'
 polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
@@ -50,33 +50,37 @@ polybar|notice:  Loaded font "NotoSans Nerd Font:style=Regular:size=10" (name=No
 polybar|notice:  Loaded font "CaskaydiaMono Nerd Font:style=Regular:size=10" (name=CaskaydiaMono Nerd Font, offset=2, file=/usr/share/fonts/TTF/CaskaydiaMonoNerdFont-Regular.ttf)
 polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
 polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
 polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
 polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+ALSA lib control.c:1570:(snd_ctl_open_noupdate) Invalid CTL HDA Intel PCH
+Failed to open sound device with name: HDA Intel PCH
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
-
-(nitrogen:1173): Gtk-WARNING **: 20:54:03.908: Unable to locate theme engine in module_path: "adwaita",
-
-(nitrogen:1173): Gtk-WARNING **: 20:54:03.910: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1173): Gtk-WARNING **: 20:54:03.910: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1173): Gtk-WARNING **: 20:54:03.911: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1173): Gtk-WARNING **: 20:54:03.911: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1173): Gtk-WARNING **: 20:54:03.911: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1173): GLib-GObject-CRITICAL **: 20:54:03.912: Attempting to freeze the notification queue for object GtkSettings[0x5d32873b5750]; Property notification does not work during instance finalization.
-
-(nitrogen:1173): GLib-GObject-CRITICAL **: 20:54:03.912: Attempting to thaw the notification queue for object GtkSettings[0x5d32873b5750]; Property notification does not work during instance finalization.
 invalid color string: #bbc5ff 
 polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.analog-stereo
 polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.analog-stereo
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
+
+(nitrogen:1252): Gtk-WARNING **: 17:28:32.649: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:1252): Gtk-WARNING **: 17:28:32.652: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1252): Gtk-WARNING **: 17:28:32.652: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1252): Gtk-WARNING **: 17:28:32.652: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1252): Gtk-WARNING **: 17:28:32.652: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1252): Gtk-WARNING **: 17:28:32.652: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1252): GLib-GObject-CRITICAL **: 17:28:32.654: Attempting to freeze the notification queue for object GtkSettings[0x59eb82ac2ec0]; Property notification does not work during instance finalization.
+
+(nitrogen:1252): GLib-GObject-CRITICAL **: 17:28:32.654: Attempting to thaw the notification queue for object GtkSettings[0x59eb82ac2ec0]; Property notification does not work during instance finalization.
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
@@ -109,238 +113,39 @@ Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
 Xlib: ignoring invalid extension event 146
 Xlib: ignoring invalid extension event 146
 polybar|error: tray: Failed to clear client(0x120000c, TelegramDesktop) (XCB_WINDOW (3))
 polybar|error: tray: Failed to unembed window '' (0x120000c)
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+/bin/sh: Zeile 1: xterm: Kommando nicht gefunden.
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
 
-(process:1747): GLib-CRITICAL **: 20:54:09.078: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-
-(nm-applet:1175): GLib-GIO-WARNING **: 20:54:29.218: unable to send notifications through org.freedesktop.Notifications: Zeitüberschreitung wurde erreicht
+(nm-applet:1254): GLib-GIO-WARNING **: 17:28:57.329: unable to send notifications through org.freedesktop.Notifications: Zeitüberschreitung wurde erreicht
 Xlib: ignoring invalid extension event 146
 Xlib: ignoring invalid extension event 146
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 146
 Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
@@ -382,17 +187,17 @@ Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 
-(lxappearance:39372): Gtk-WARNING **: 21:15:31.360: Im Modulpfad »adwaita« konnte keine Themen-Engine gefunden werden,
+(lxappearance:2063): Gtk-WARNING **: 17:29:25.408: Im Modulpfad »adwaita« konnte keine Themen-Engine gefunden werden,
 
-(lxappearance:39372): Gtk-WARNING **: 21:15:31.362: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+(lxappearance:2063): Gtk-WARNING **: 17:29:25.410: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
 
-(lxappearance:39372): Gtk-WARNING **: 21:15:31.362: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+(lxappearance:2063): Gtk-WARNING **: 17:29:25.410: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
 
-(lxappearance:39372): Gtk-WARNING **: 21:15:31.362: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+(lxappearance:2063): Gtk-WARNING **: 17:29:25.411: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
 
-(lxappearance:39372): Gtk-WARNING **: 21:15:31.362: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+(lxappearance:2063): Gtk-WARNING **: 17:29:25.411: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
 
-(lxappearance:39372): Gtk-WARNING **: 21:15:31.362: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+(lxappearance:2063): Gtk-WARNING **: 17:29:25.411: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
@@ -407,81 +212,18 @@ Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.2.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.2.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.2.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.2.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.2.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.3.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.3.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.3.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.3.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.3.analog-stereo
+polybar|error: module/i3: i3 --get-socketpath failed with exit code 1 and output ''
+polybar|notice:  Stopping 'module/i3'...
+[ 19.01.2024 17:33:24.159 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+polybar|error: X connection error, terminating... (what: Socket, pipe or stream error)
+polybar|notice:  Termination signal received, shutting down...
