@@ -1,9 +1,9 @@
 [Session]
-active=1
+active=-1
 activities1=
 activities2=
 activities3=
-count=3
+count=0
 desktop=1
 desktop1=-1
 desktop2=-1
@@ -15,11 +15,7 @@ fullscreen1=0
 fullscreen2=0
 fullscreen3=0
 geometry1=0,0,1918,920
-<<<<<<< HEAD
 geometry2=840,888,237,32
-=======
-geometry2=841,888,236,32
->>>>>>> refs/remotes/origin/master
 geometry3=0,0,1918,20
 iconified1=false
 iconified2=false
@@ -40,17 +36,11 @@ resourceName1=plasmashell
 resourceName2=plasmashell
 resourceName3=plasmashell
 restore1=0,0,1918,920
-restore2=853,888,212,32
+restore2=820,888,277,32
 restore3=0,0,1918,20
-<<<<<<< HEAD
-sessionId1=1013e156dcd1000170380280400000010620000
-sessionId2=1013e156dcd1000170380280400000010620000
-sessionId3=1013e156dcd1000170380280400000010620000
-=======
-sessionId1=107063310000170376418900000113860000
-sessionId2=107063310000170376418900000113860000
-sessionId3=107063310000170376418900000113860000
->>>>>>> refs/remotes/origin/master
+sessionId1=1013e156dcd1000170569478300005376870000
+sessionId2=1013e156dcd1000170569478300005376870000
+sessionId3=1013e156dcd1000170569478300005376870000
 shaded1=false
 shaded2=false
 shaded3=false
@@ -66,15 +56,9 @@ skipSwitcher3=false
 skipTaskbar1=false
 skipTaskbar2=false
 skipTaskbar3=false
-<<<<<<< HEAD
 stackingOrder1=0
 stackingOrder2=1
 stackingOrder3=2
-=======
-stackingOrder1=2
-stackingOrder2=0
-stackingOrder3=1
->>>>>>> refs/remotes/origin/master
 staysOnTop1=false
 staysOnTop2=false
 staysOnTop3=false

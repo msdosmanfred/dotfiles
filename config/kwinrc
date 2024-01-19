@@ -18,8 +18,14 @@ padding=4
 [Tiling][213a9620-187e-58a6-b80b-85d8fb95dfce]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][4c85f5bb-4dcb-5bec-8433-5c0e6860d679]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][75ed573d-6eee-5e00-a7c4-c7589c8df991]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Xwayland]
+Scale=1
 
 [org.kde.kdecoration2]
 ButtonsOnLeft=XAI

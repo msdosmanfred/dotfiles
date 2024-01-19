@@ -5,56 +5,14 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-<<<<<<< HEAD
-clientId1=1013e156dcd1000170380281400000010620004
-clientId2=1013e156dcd1000170380091400000011730005
-clientId3=1013e156dcd1000170380281900000010620005
-clientId4=1013e156dcd1000170380282700000010620009
 clientId5[$d]
 clientId6[$d]
-count=4
-discardCommand3[$e]=rm,$HOME/.config/session/kmix_1013e156dcd1000170380281900000010620005_1703802998_128034
-program1=/usr/lib/DiscoverNotifier
-program2=/usr/bin/kclockd
-program3=/usr/bin/kmix
-program4=/usr/bin/kalendarac
+count=0
 program5[$d]
 program6[$d]
-restartCommand1=/usr/lib/DiscoverNotifier,-session,1013e156dcd1000170380281400000010620004_1703802998_127850
-restartCommand2=/usr/bin/kclockd,-session,1013e156dcd1000170380091400000011730005_1703802998_128070
-restartCommand3=/usr/bin/kmix,-session,1013e156dcd1000170380281900000010620005_1703802998_128034
-restartCommand4=/usr/bin/kalendarac,-session,1013e156dcd1000170380282700000010620009_1703802998_129676
-=======
-clientId1=107063310000170376372700000011420005
-clientId2=107063310000170376373000000011420006
-clientId3=107063310000170376373000000011420007
-clientId4=107063310000170376421300000113860008
-clientId5[$d]
-clientId6[$d]
-count=4
-discardCommand4[$e]=rm,$HOME/.config/session/kmix_107063310000170376421300000113860008_1703770283_611603
-program1=/usr/bin/kclockd
-program2=/usr/bin/kalendarac
-program3=/usr/lib/DiscoverNotifier
-program4=/usr/bin/kmix
-program5[$d]
-program6[$d]
-restartCommand1=/usr/bin/kclockd,-session,107063310000170376372700000011420005_1703770283_603777
-restartCommand2=/usr/bin/kalendarac,-session,107063310000170376373000000011420006_1703770283_604622
-restartCommand3=/usr/lib/DiscoverNotifier,-session,107063310000170376373000000011420007_1703770283_605524
-restartCommand4=/usr/bin/kmix,-session,107063310000170376421300000113860008_1703770283_611603
->>>>>>> refs/remotes/origin/master
 restartCommand5[$d]
 restartCommand6[$d]
-restartStyleHint1=0
-restartStyleHint2=0
-restartStyleHint3=0
-restartStyleHint4=0
 restartStyleHint5[$d]
 restartStyleHint6[$d]
-userId1=alex
-userId2=alex
-userId3=alex
-userId4=alex
 userId5[$d]
 userId6[$d]

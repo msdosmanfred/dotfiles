@@ -3,7 +3,7 @@ _k_friendly_name=Aktivitätenverwaltung
 switch-to-activity-23995814-19d9-4b3f-a526-f3acd0c7b627=none,none,Zu Aktivität „Standard“ wechseln
 
 [KDE Keyboard Layout Switcher]
-Switch to Next Keyboard Layout=Meta+Alt+K,none,Auf nächste Tastaturbelegung umschalten
+Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,Auf nächste Tastaturbelegung umschalten
 _k_friendly_name=Umschaltung der Tastaturbelegung
 
 [kaccess]
@@ -13,7 +13,7 @@ _k_friendly_name=Zugangshilfen
 [kcm_touchpad]
 Disable Touchpad=Touchpad Off,Touchpad Off,Touchpad abschalten
 Enable Touchpad=Touchpad On,Touchpad On,Touchpad aktivieren
-Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,Touchpad umschalten
+Toggle Touchpad=Touchpad Toggle,Touchpad Toggle\tMeta+Ctrl+Zenkaku Hankaku,Touchpad umschalten
 _k_friendly_name=Touchpad
 
 [kded5]
@@ -52,6 +52,7 @@ ExposeClass=Ctrl+F7,Ctrl+F7,Fenster der Fensterklasse anzeigen
 ExposeClassCurrentDesktop=none,none,Fenster der Fensterklasse auf der aktuellen Arbeitsfläche anzeigen
 Increase Opacity=none,,Die Deckkraft des aktiven Fensters um 5 % erhöhen
 Kill Window=Meta+Ctrl+Esc,Meta+Ctrl+Esc,Fenster beseitigen
+Move Tablet to Next Output=none,none,Move the tablet to the next output
 MoveMouseToCenter=Meta+F6,Meta+F6,Mauszeiger zentrieren
 MoveMouseToFocus=Meta+F5,Meta+F5,Mauszeiger in den Fokus verschieben
 MoveZoomDown=none,none,Vergrößerten Bereich nach unten verschieben

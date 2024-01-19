@@ -1,25 +1,29 @@
 /bin/sh: Zeile 1: pamac-tray: Kommando nicht gefunden.
-/bin/sh: Zeile 1: /usr/lib/mate-polkit/polkit-mate-authentication-agent-1: Datei oder Verzeichnis nicht gefunden
 /bin/sh: Zeile 1: gnome-keyring-daemon: Kommando nicht gefunden.
 /bin/sh: Zeile 1: redshift-gtk: Kommando nicht gefunden.
 /bin/sh: Zeile 1: shutter: Kommando nicht gefunden.
-/bin/sh: Zeile 1: conky: Kommando nicht gefunden.
 /bin/sh: Zeile 1: emoji-keyboard: Kommando nicht gefunden.
+conky: desktop window (36a) is root window
+conky: window type - override
+conky: drawing to created window (0x800001)
+conky: drawing to double buffer
+conky: forked to background, pid is 631986
 
-(nitrogen:1154): Gtk-WARNING **: 18:03:09.607: Unable to locate theme engine in module_path: "adwaita",
-
-(nitrogen:1154): Gtk-WARNING **: 18:03:09.633: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1154): Gtk-WARNING **: 18:03:09.633: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1154): Gtk-WARNING **: 18:03:09.634: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1154): Gtk-WARNING **: 18:03:09.634: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1154): Gtk-WARNING **: 18:03:09.634: Unable to locate theme engine in module_path: "murrine",
 polybar|notice:  Parsing config file: /home/alex/.config/polybar/config.ini
-polybar|notice:  Listening for IPC messages (PID: 1174)
+polybar|notice:  Listening for IPC messages (PID: 631987)
 polybar|notice:  Loading module 'i3' of type 'internal/i3'
+
+(nitrogen:631966): Gtk-WARNING **: 22:50:26.470: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:631966): Gtk-WARNING **: 22:50:26.528: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:631966): Gtk-WARNING **: 22:50:26.528: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:631966): Gtk-WARNING **: 22:50:26.532: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:631966): Gtk-WARNING **: 22:50:26.532: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:631966): Gtk-WARNING **: 22:50:26.532: Unable to locate theme engine in module_path: "murrine",
 polybar|error: Invalid value for "module/i3.label-visible-underline", using default value (reason: The reference ${module/i3.label-focused-underline} does not exist (no fallback set))
 polybar|notice:  Loading module 'l-arrow0' of type 'custom/text'
 polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
@@ -34,7 +38,7 @@ polybar|notice:  Loading module 'eth' of type 'internal/network'
 polybar|notice:  module/eth: Discovered wired interface ens160
 polybar|notice:  Loading module 'r-arrow5' of type 'custom/text'
 polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
-polybar|notice:  pulseaudio: using default sink 
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.analog-stereo
 polybar|notice:  Loading module 'r-arrow4' of type 'custom/text'
 polybar|notice:  Loading module 'xkeyboard' of type 'internal/xkeyboard'
 polybar|notice:  Loading module 'r-arrow3' of type 'custom/text'
@@ -47,34 +51,30 @@ polybar|notice:  Loading module 'r-arrow0' of type 'custom/text'
 polybar|notice:  Loading module 'systray' of type 'internal/tray'
 polybar|notice:  Loaded 21 modules
 polybar|notice:  Loaded font "NotoSans Nerd Font:style=Regular:size=10" (name=NotoSans Nerd Font, offset=2, file=/usr/share/fonts/TTF/NotoSansNerdFont-Regular.ttf)
+
+(nitrogen:631966): Gtk-WARNING **: 22:50:29.258: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:631966): Gtk-WARNING **: 22:50:29.261: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:631966): Gtk-WARNING **: 22:50:29.261: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:631966): Gtk-WARNING **: 22:50:29.261: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:631966): Gtk-WARNING **: 22:50:29.262: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:631966): Gtk-WARNING **: 22:50:29.262: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:631966): GLib-GObject-CRITICAL **: 22:50:29.263: Attempting to freeze the notification queue for object GtkSettings[0x557c7bb83570]; Property notification does not work during instance finalization.
+
+(nitrogen:631966): GLib-GObject-CRITICAL **: 22:50:29.263: Attempting to thaw the notification queue for object GtkSettings[0x557c7bb83570]; Property notification does not work during instance finalization.
 polybar|notice:  Loaded font "CaskaydiaMono Nerd Font:style=Regular:size=10" (name=CaskaydiaMono Nerd Font, offset=2, file=/usr/share/fonts/TTF/CaskaydiaMonoNerdFont-Regular.ttf)
-polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
-polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
-polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
-polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-ALSA lib control.c:1570:(snd_ctl_open_noupdate) Invalid CTL HDA Intel PCH
-Failed to open sound device with name: HDA Intel PCH
 
-(nitrogen:1154): Gtk-WARNING **: 18:03:13.073: Unable to locate theme engine in module_path: "adwaita",
+(polkit-mate-authentication-agent-1:631972): GLib-CRITICAL **: 22:50:29.324: g_variant_new_string: assertion 'string != NULL' failed
 
-(nitrogen:1154): Gtk-WARNING **: 18:03:13.075: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1154): Gtk-WARNING **: 18:03:13.075: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1154): Gtk-WARNING **: 18:03:13.076: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1154): Gtk-WARNING **: 18:03:13.076: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1154): Gtk-WARNING **: 18:03:13.076: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:1154): GLib-GObject-CRITICAL **: 18:03:13.078: Attempting to freeze the notification queue for object GtkSettings[0x598c9cc5be50]; Property notification does not work during instance finalization.
-
-(nitrogen:1154): GLib-GObject-CRITICAL **: 18:03:13.078: Attempting to thaw the notification queue for object GtkSettings[0x598c9cc5be50]; Property notification does not work during instance finalization.
+(polkit-mate-authentication-agent-1:631972): polkit-mate-1-WARNING **: 22:50:29.324: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
 invalid color string: #bbc5ff 
-polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.analog-stereo
-polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.analog-stereo
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
@@ -111,171 +111,22 @@ Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 146
 Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-polybar|error: tray: Failed to clear client(0x120000c, TelegramDesktop) (XCB_WINDOW (3))
-polybar|error: tray: Failed to unembed window '' (0x120000c)
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-/bin/sh: Zeile 1: xterm: Kommando nicht gefunden.
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
+polybar|error: tray: Failed to clear client(0x160000c, TelegramDesktop) (XCB_WINDOW (3))
+polybar|error: tray: Failed to unembed window '' (0x160000c)
 Xlib: ignoring invalid extension event 146
 Xlib: ignoring invalid extension event 146
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
 
-(nm-applet:1156): GLib-GIO-WARNING **: 18:03:38.435: unable to send notifications through org.freedesktop.Notifications: Zeitüberschreitung wurde erreicht
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
+(nm-applet:631968): GLib-GIO-WARNING **: 22:50:54.976: unable to send notifications through org.freedesktop.Notifications: Zeitüberschreitung wurde erreicht
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:45.708: Im Modulpfad »adwaita« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:45.710: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:45.710: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:45.711: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:45.711: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:45.711: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:50.498: Im Modulpfad »adwaita« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:50.500: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:50.500: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:50.500: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:50.500: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:50.501: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:51.779: Im Modulpfad »adwaita« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:51.781: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:51.781: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:51.781: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:51.781: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1789): Gtk-WARNING **: 18:03:51.781: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-
-(lxappearance:1845): Gtk-WARNING **: 18:04:10.204: Im Modulpfad »adwaita« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1845): Gtk-WARNING **: 18:04:10.205: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1845): Gtk-WARNING **: 18:04:10.206: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1845): Gtk-WARNING **: 18:04:10.206: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1845): Gtk-WARNING **: 18:04:10.206: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1845): Gtk-WARNING **: 18:04:10.206: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-
-(lxappearance:1845): Gtk-WARNING **: 18:04:21.888: Im Modulpfad »adwaita« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1845): Gtk-WARNING **: 18:04:21.890: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1845): Gtk-WARNING **: 18:04:21.890: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1845): Gtk-WARNING **: 18:04:21.891: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1845): Gtk-WARNING **: 18:04:21.891: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
-
-(lxappearance:1845): Gtk-WARNING **: 18:04:21.891: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
