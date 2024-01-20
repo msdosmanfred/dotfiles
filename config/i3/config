@@ -198,7 +198,8 @@ mode "$mode_system" {
     bindsym Escape mode "default"
 }
 
-bindsym $mod+End mode "$mode_system"
+#bindsym $mod+End mode "$mode_system"
+bindsym $mod+End exec archlinux-logout
 
 set $mode_gaps Gaps: (o)uter, (i)nner, (h)orizontal, (v)ertical, (t)op, (r)ight, (b)ottom, (l)eft
 set $mode_gaps_outer Outer Gaps: +|-|0 (local), Shift + +|-|0 (global)

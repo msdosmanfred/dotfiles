@@ -6,10 +6,10 @@ if ! updates_arch=$(checkupdates &> /dev/null | wc -l ); then
     updates_arch=0
 fi
 
-# if ! updates_aur=$(cower -u 2> /dev/null | wc -l); then
-if ! updates_aur=$(paru -Sua --quiet &> /dev/null | wc -l); then
+#if ! updates_aur=$(cower -u 2> /dev/null | wc -l); then
+# if ! updates_aur=$(paru -Sua --quiet &> /dev/null | wc -l); then
     updates_aur=0
-fi
+#fi
 
 updates=$(("$updates_arch" + "$updates_aur"))
 

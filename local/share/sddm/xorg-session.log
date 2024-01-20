@@ -1,29 +1,19 @@
-/bin/sh: Zeile 1: pamac-tray: Kommando nicht gefunden.
 /bin/sh: Zeile 1: gnome-keyring-daemon: Kommando nicht gefunden.
+/bin/sh: Zeile 1: pamac-tray: Kommando nicht gefunden.
 /bin/sh: Zeile 1: redshift-gtk: Kommando nicht gefunden.
 /bin/sh: Zeile 1: shutter: Kommando nicht gefunden.
 /bin/sh: Zeile 1: emoji-keyboard: Kommando nicht gefunden.
+polybar|notice:  Parsing config file: /home/alex/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 1041)
+polybar|notice:  Loading module 'i3' of type 'internal/i3'
 conky: desktop window (36a) is root window
 conky: window type - override
-conky: drawing to created window (0x800001)
+conky: drawing to created window (0xe00001)
 conky: drawing to double buffer
-conky: forked to background, pid is 631986
+conky: forked to background, pid is 1072
 
-polybar|notice:  Parsing config file: /home/alex/.config/polybar/config.ini
-polybar|notice:  Listening for IPC messages (PID: 631987)
-polybar|notice:  Loading module 'i3' of type 'internal/i3'
 
-(nitrogen:631966): Gtk-WARNING **: 22:50:26.470: Unable to locate theme engine in module_path: "adwaita",
-
-(nitrogen:631966): Gtk-WARNING **: 22:50:26.528: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:631966): Gtk-WARNING **: 22:50:26.528: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:631966): Gtk-WARNING **: 22:50:26.532: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:631966): Gtk-WARNING **: 22:50:26.532: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:631966): Gtk-WARNING **: 22:50:26.532: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:1021): Gtk-WARNING **: 11:39:07.143: Unable to locate theme engine in module_path: "adwaita",
 polybar|error: Invalid value for "module/i3.label-visible-underline", using default value (reason: The reference ${module/i3.label-focused-underline} does not exist (no fallback set))
 polybar|notice:  Loading module 'l-arrow0' of type 'custom/text'
 polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
@@ -38,7 +28,17 @@ polybar|notice:  Loading module 'eth' of type 'internal/network'
 polybar|notice:  module/eth: Discovered wired interface ens160
 polybar|notice:  Loading module 'r-arrow5' of type 'custom/text'
 polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
-polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.analog-stereo
+
+(nitrogen:1021): Gtk-WARNING **: 11:39:07.186: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1021): Gtk-WARNING **: 11:39:07.186: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1021): Gtk-WARNING **: 11:39:07.196: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1021): Gtk-WARNING **: 11:39:07.197: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1021): Gtk-WARNING **: 11:39:07.197: Unable to locate theme engine in module_path: "murrine",
+polybar|notice:  pulseaudio: using default sink 
 polybar|notice:  Loading module 'r-arrow4' of type 'custom/text'
 polybar|notice:  Loading module 'xkeyboard' of type 'internal/xkeyboard'
 polybar|notice:  Loading module 'r-arrow3' of type 'custom/text'
@@ -51,30 +51,42 @@ polybar|notice:  Loading module 'r-arrow0' of type 'custom/text'
 polybar|notice:  Loading module 'systray' of type 'internal/tray'
 polybar|notice:  Loaded 21 modules
 polybar|notice:  Loaded font "NotoSans Nerd Font:style=Regular:size=10" (name=NotoSans Nerd Font, offset=2, file=/usr/share/fonts/TTF/NotoSansNerdFont-Regular.ttf)
-
-(nitrogen:631966): Gtk-WARNING **: 22:50:29.258: Unable to locate theme engine in module_path: "adwaita",
-
-(nitrogen:631966): Gtk-WARNING **: 22:50:29.261: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:631966): Gtk-WARNING **: 22:50:29.261: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:631966): Gtk-WARNING **: 22:50:29.261: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:631966): Gtk-WARNING **: 22:50:29.262: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:631966): Gtk-WARNING **: 22:50:29.262: Unable to locate theme engine in module_path: "murrine",
-
-(nitrogen:631966): GLib-GObject-CRITICAL **: 22:50:29.263: Attempting to freeze the notification queue for object GtkSettings[0x557c7bb83570]; Property notification does not work during instance finalization.
-
-(nitrogen:631966): GLib-GObject-CRITICAL **: 22:50:29.263: Attempting to thaw the notification queue for object GtkSettings[0x557c7bb83570]; Property notification does not work during instance finalization.
 polybar|notice:  Loaded font "CaskaydiaMono Nerd Font:style=Regular:size=10" (name=CaskaydiaMono Nerd Font, offset=2, file=/usr/share/fonts/TTF/CaskaydiaMonoNerdFont-Regular.ttf)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
 
-(polkit-mate-authentication-agent-1:631972): GLib-CRITICAL **: 22:50:29.324: g_variant_new_string: assertion 'string != NULL' failed
+(polkit-mate-authentication-agent-1:1027): GLib-CRITICAL **: 11:39:07.748: g_variant_new_string: assertion 'string != NULL' failed
 
-(polkit-mate-authentication-agent-1:631972): polkit-mate-1-WARNING **: 22:50:29.324: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+(polkit-mate-authentication-agent-1:1027): polkit-mate-1-WARNING **: 11:39:07.750: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.analog-stereo
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
 invalid color string: #bbc5ff 
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
+
+(nitrogen:1021): Gtk-WARNING **: 11:39:08.310: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:1021): Gtk-WARNING **: 11:39:08.311: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1021): Gtk-WARNING **: 11:39:08.311: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1021): Gtk-WARNING **: 11:39:08.312: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1021): Gtk-WARNING **: 11:39:08.312: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1021): Gtk-WARNING **: 11:39:08.312: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1021): GLib-GObject-CRITICAL **: 11:39:08.315: Attempting to freeze the notification queue for object GtkSettings[0x585fa24024f0]; Property notification does not work during instance finalization.
+
+(nitrogen:1021): GLib-GObject-CRITICAL **: 11:39:08.315: Attempting to thaw the notification queue for object GtkSettings[0x585fa24024f0]; Property notification does not work during instance finalization.
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
@@ -105,22 +117,22 @@ Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 161
-Xlib: ignoring invalid extension event 146
-Xlib: ignoring invalid extension event 146
 polybar|error: tray: Failed to clear client(0x160000c, TelegramDesktop) (XCB_WINDOW (3))
 polybar|error: tray: Failed to unembed window '' (0x160000c)
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 146
 Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 
-(nm-applet:631968): GLib-GIO-WARNING **: 22:50:54.976: unable to send notifications through org.freedesktop.Notifications: Zeitüberschreitung wurde erreicht
+(nm-applet:1023): GLib-GIO-WARNING **: 11:39:34.708: unable to send notifications through org.freedesktop.Notifications: Zeitüberschreitung wurde erreicht
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
@@ -129,6 +141,1201 @@ Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.2.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.2.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.2.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.2.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.2.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.2.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.2.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.2.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.3.analog-stereo
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.3.analog-stereo
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(process:51916): GLib-CRITICAL **: 12:10:19.737: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(pcmanfm:51931): Gtk-WARNING **: 12:10:19.832: Im Modulpfad »adwaita« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:51931): Gtk-WARNING **: 12:10:19.853: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:51931): Gtk-WARNING **: 12:10:19.853: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:51931): Gtk-WARNING **: 12:10:19.855: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:51931): Gtk-WARNING **: 12:10:19.855: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:51931): Gtk-WARNING **: 12:10:19.855: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.331: GFileInfo created without standard::edit-name
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.331: file ../glib/gio/gfileinfo.c: line 1743 (g_file_info_get_edit_name): should not be reached
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.331: GFileInfo created without standard::size
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.331: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.331: GFileInfo created without standard::content-type
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.332: file ../glib/gio/gfileinfo.c: line 1822 (g_file_info_get_content_type): should not be reached
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.332: GFileInfo created without standard::is-symlink
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.332: file ../glib/gio/gfileinfo.c: line 1677 (g_file_info_get_is_symlink): should not be reached
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.332: GFileInfo created without standard::is-backup
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.332: file ../glib/gio/gfileinfo.c: line 1655 (g_file_info_get_is_backup): should not be reached
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.333: GFileInfo created without standard::edit-name
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.333: file ../glib/gio/gfileinfo.c: line 1743 (g_file_info_get_edit_name): should not be reached
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.333: GFileInfo created without standard::size
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.333: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.333: GFileInfo created without standard::is-symlink
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.333: file ../glib/gio/gfileinfo.c: line 1677 (g_file_info_get_is_symlink): should not be reached
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.333: GFileInfo created without standard::is-hidden
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.333: file ../glib/gio/gfileinfo.c: line 1633 (g_file_info_get_is_hidden): should not be reached
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.334: GFileInfo created without standard::is-backup
+
+(pcmanfm:51931): GLib-GIO-CRITICAL **: 12:10:20.334: file ../glib/gio/gfileinfo.c: line 1655 (g_file_info_get_is_backup): should not be reached
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+
+(process:72907): GLib-CRITICAL **: 12:23:43.914: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(pcmanfm:72926): Gtk-WARNING **: 12:23:44.005: Im Modulpfad »adwaita« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:72926): Gtk-WARNING **: 12:23:44.026: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:72926): Gtk-WARNING **: 12:23:44.027: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:72926): Gtk-WARNING **: 12:23:44.028: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:72926): Gtk-WARNING **: 12:23:44.028: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+
+(pcmanfm:72926): Gtk-WARNING **: 12:23:44.028: Im Modulpfad »murrine« konnte keine Themen-Engine gefunden werden,
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.228: GFileInfo created without standard::edit-name
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.228: file ../glib/gio/gfileinfo.c: line 1743 (g_file_info_get_edit_name): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.228: GFileInfo created without standard::size
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.228: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.228: GFileInfo created without standard::content-type
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.228: file ../glib/gio/gfileinfo.c: line 1822 (g_file_info_get_content_type): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.228: GFileInfo created without standard::is-symlink
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.228: file ../glib/gio/gfileinfo.c: line 1677 (g_file_info_get_is_symlink): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.228: GFileInfo created without standard::is-backup
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.228: file ../glib/gio/gfileinfo.c: line 1655 (g_file_info_get_is_backup): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.230: GFileInfo created without standard::edit-name
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.230: file ../glib/gio/gfileinfo.c: line 1743 (g_file_info_get_edit_name): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.230: GFileInfo created without standard::size
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.230: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.230: GFileInfo created without standard::is-symlink
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.230: file ../glib/gio/gfileinfo.c: line 1677 (g_file_info_get_is_symlink): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.230: GFileInfo created without standard::is-hidden
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.230: file ../glib/gio/gfileinfo.c: line 1633 (g_file_info_get_is_hidden): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.230: GFileInfo created without standard::is-backup
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.230: file ../glib/gio/gfileinfo.c: line 1655 (g_file_info_get_is_backup): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.242: GFileInfo created without standard::edit-name
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.242: file ../glib/gio/gfileinfo.c: line 1743 (g_file_info_get_edit_name): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.242: GFileInfo created without standard::size
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.242: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.242: GFileInfo created without standard::is-symlink
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.242: file ../glib/gio/gfileinfo.c: line 1677 (g_file_info_get_is_symlink): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.242: GFileInfo created without standard::icon
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.242: file ../glib/gio/gfileinfo.c: line 1766 (g_file_info_get_icon): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.242: GFileInfo created without standard::is-hidden
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.242: file ../glib/gio/gfileinfo.c: line 1633 (g_file_info_get_is_hidden): should not be reached
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.242: GFileInfo created without standard::is-backup
+
+(pcmanfm:72926): GLib-GIO-CRITICAL **: 12:23:44.242: file ../glib/gio/gfileinfo.c: line 1655 (g_file_info_get_is_backup): should not be reached
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(process:74589): GLib-CRITICAL **: 12:28:02.193: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+Subroutine Pango::Layout::set_text redefined at /usr/share/perl5/vendor_perl/Gtk3.pm line 2299.
+	require Gtk3.pm called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+Subroutine Pango::Layout::set_markup redefined at /usr/share/perl5/vendor_perl/Gtk3.pm line 2305.
+	require Gtk3.pm called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+GLib-GObject-CRITICAL **: g_boxed_type_register_static: assertion 'g_type_from_name (name) == 0' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 110.
+ at /usr/share/perl5/vendor_perl/Gtk3.pm line 489.
+	Gtk3::import("Gtk3", "-init") called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+GLib-CRITICAL **: g_once_init_leave: assertion 'result != 0' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 110.
+ at /usr/share/perl5/vendor_perl/Gtk3.pm line 489.
+	Gtk3::import("Gtk3", "-init") called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+GLib-GObject-CRITICAL **: g_boxed_type_register_static: assertion 'g_type_from_name (name) == 0' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 110.
+ at /usr/share/perl5/vendor_perl/Gtk3.pm line 489.
+	Gtk3::import("Gtk3", "-init") called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+GLib-CRITICAL **: g_once_init_leave: assertion 'result != 0' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 110.
+ at /usr/share/perl5/vendor_perl/Gtk3.pm line 489.
+	Gtk3::import("Gtk3", "-init") called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+GLib-GObject-CRITICAL **: g_boxed_type_register_static: assertion 'g_type_from_name (name) == 0' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 110.
+ at /usr/share/perl5/vendor_perl/Gtk3.pm line 489.
+	Gtk3::import("Gtk3", "-init") called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+GLib-CRITICAL **: g_once_init_leave: assertion 'result != 0' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 110.
+ at /usr/share/perl5/vendor_perl/Gtk3.pm line 489.
+	Gtk3::import("Gtk3", "-init") called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+given is deprecated at /usr/share/perl5/vendor_perl/Gtk3/ImageView.pm line 179.
+	require Gtk3/ImageView.pm called at /usr/bin/shutter line 74
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 74
+	eval {...} called at /usr/bin/shutter line 74
+when is deprecated at /usr/share/perl5/vendor_perl/Gtk3/ImageView.pm line 180.
+	require Gtk3/ImageView.pm called at /usr/bin/shutter line 74
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 74
+	eval {...} called at /usr/bin/shutter line 74
+when is deprecated at /usr/share/perl5/vendor_perl/Gtk3/ImageView.pm line 184.
+	require Gtk3/ImageView.pm called at /usr/bin/shutter line 74
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 74
+	eval {...} called at /usr/bin/shutter line 74
+when is deprecated at /usr/share/perl5/vendor_perl/Gtk3/ImageView.pm line 189.
+	require Gtk3/ImageView.pm called at /usr/bin/shutter line 74
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 74
+	eval {...} called at /usr/bin/shutter line 74
+when is deprecated at /usr/share/perl5/vendor_perl/Gtk3/ImageView.pm line 200.
+	require Gtk3/ImageView.pm called at /usr/bin/shutter line 74
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 74
+	eval {...} called at /usr/bin/shutter line 74
+when is deprecated at /usr/share/perl5/vendor_perl/Gtk3/ImageView.pm line 204.
+	require Gtk3/ImageView.pm called at /usr/bin/shutter line 74
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 74
+	eval {...} called at /usr/bin/shutter line 74
+when is deprecated at /usr/share/perl5/vendor_perl/Gtk3/ImageView.pm line 208.
+	require Gtk3/ImageView.pm called at /usr/bin/shutter line 74
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 74
+	eval {...} called at /usr/bin/shutter line 74
+when is deprecated at /usr/share/perl5/vendor_perl/Gtk3/ImageView.pm line 216.
+	require Gtk3/ImageView.pm called at /usr/bin/shutter line 74
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 74
+	eval {...} called at /usr/bin/shutter line 74
+when is deprecated at /usr/share/perl5/vendor_perl/Gtk3/ImageView.pm line 237.
+	require Gtk3/ImageView.pm called at /usr/bin/shutter line 74
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 74
+	eval {...} called at /usr/bin/shutter line 74
+given is deprecated at /usr/share/perl5/vendor_perl/Gtk3/ImageView.pm line 615.
+	require Gtk3/ImageView.pm called at /usr/bin/shutter line 74
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 74
+	eval {...} called at /usr/bin/shutter line 74
+when is deprecated at /usr/share/perl5/vendor_perl/Gtk3/ImageView.pm line 616.
+	require Gtk3/ImageView.pm called at /usr/bin/shutter line 74
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 74
+	eval {...} called at /usr/bin/shutter line 74
+when is deprecated at /usr/share/perl5/vendor_perl/Gtk3/ImageView.pm line 619.
+	require Gtk3/ImageView.pm called at /usr/bin/shutter line 74
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 74
+	eval {...} called at /usr/bin/shutter line 74
+Variable "$progname_active" will not stay shared at /usr/bin/shutter line 2751.
+Variable "$progname" will not stay shared at /usr/bin/shutter line 2752.
+Variable "$im_colors_active" will not stay shared at /usr/bin/shutter line 2760.
+Variable "$combobox_im_colors" will not stay shared at /usr/bin/shutter line 2761.
+Variable "$trans_check" will not stay shared at /usr/bin/shutter line 2771.
+Variable "$css_provider_alpha" will not stay shared at /usr/bin/shutter line 2772.
+Variable "$trans_custom" will not stay shared at /usr/bin/shutter line 2777.
+Variable "$trans_custom_btn" will not stay shared at /usr/bin/shutter line 2778.
+Variable "$trans_backg" will not stay shared at /usr/bin/shutter line 2784.
+Variable "$window" will not stay shared at /usr/bin/shutter line 2787.
+Variable "$cursor_active" will not stay shared at /usr/bin/shutter line 2792.
+Variable "$cursor_status_active" will not stay shared at /usr/bin/shutter line 2792.
+Variable "$delay_status" will not stay shared at /usr/bin/shutter line 2802.
+Variable "$delay" will not stay shared at /usr/bin/shutter line 2802.
+Variable "$delay_vlabel" will not stay shared at /usr/bin/shutter line 2803.
+Variable "$d" will not stay shared at /usr/bin/shutter line 2803.
+Variable "$delay_status_vlabel" will not stay shared at /usr/bin/shutter line 2809.
+Variable "$menu_delay_vlabel" will not stay shared at /usr/bin/shutter line 2814.
+Variable "$menu_delay" will not stay shared at /usr/bin/shutter line 2814.
+Variable "$hide_time_vlabel" will not stay shared at /usr/bin/shutter line 2819.
+Variable "$hide_time" will not stay shared at /usr/bin/shutter line 2819.
+Variable "$thumbnail_active" will not stay shared at /usr/bin/shutter line 2824.
+Variable "$thumbnail" will not stay shared at /usr/bin/shutter line 2825.
+Variable "$combobox_type" will not stay shared at /usr/bin/shutter line 2840.
+Variable "$scale" will not stay shared at /usr/bin/shutter line 2841.
+Variable "$bordereffect_active" will not stay shared at /usr/bin/shutter line 2853.
+Variable "$bordereffect" will not stay shared at /usr/bin/shutter line 2854.
+Variable "$bordereffect_vlabel" will not stay shared at /usr/bin/shutter line 2862.
+Variable "$scale_label" will not stay shared at /usr/bin/shutter line 2869.
+Variable "$combobox_ns" will not stay shared at /usr/bin/shutter line 2893.
+Variable "$window" will not stay shared at /usr/bin/shutter line 2910.
+Variable "$hide_active" will not stay shared at /usr/bin/shutter line 2914.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 2918.
+Variable "$x11_supported" will not stay shared at /usr/bin/shutter line 2943.
+Variable "$d" will not stay shared at /usr/bin/shutter line 2945.
+Variable "$notify_ptimeout_active" will not stay shared at /usr/bin/shutter line 2969.
+Variable "$menu_delay" will not stay shared at /usr/bin/shutter line 2971.
+Variable "$hide_time" will not stay shared at /usr/bin/shutter line 3036.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 3059.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 3061.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 3079.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 3108.
+Variable "$close_at_close_active" will not stay shared at /usr/bin/shutter line 3123.
+Variable "$tray" will not stay shared at /usr/bin/shutter line 3124.
+Variable "$window" will not stay shared at /usr/bin/shutter line 3126.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 3127.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 3143.
+Variable "$combobox_settings_profiles" will not stay shared at /usr/bin/shutter line 3158.
+Variable "$sas" will not stay shared at /usr/bin/shutter line 3162.
+Variable "$fs_active" will not stay shared at /usr/bin/shutter line 3164.
+Variable "$fs_min_active" will not stay shared at /usr/bin/shutter line 3165.
+Variable "$fs_nonot_active" will not stay shared at /usr/bin/shutter line 3166.
+Variable "$app" will not stay shared at /usr/bin/shutter line 3169.
+Variable "$window" will not stay shared at /usr/bin/shutter line 3201.
+Variable "$tray_menu" will not stay shared at /usr/bin/shutter line 3210.
+Variable "$tray_menu" will not stay shared at /usr/bin/shutter line 3228.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 3248.
+Variable "$d" will not stay shared at /usr/bin/shutter line 3260.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 3274.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 3299.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 3330.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 3364.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 3388.
+Variable "$clipboard" will not stay shared at /usr/bin/shutter line 3425.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 3461.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 3470.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 3480.
+Variable "$st" will not stay shared at /usr/bin/shutter line 3490.
+Variable "$tray_menu" will not stay shared at /usr/bin/shutter line 3503.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 3691.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 3691.
+Variable "$settings_dialog" will not stay shared at /usr/bin/shutter line 3699.
+Variable "$current_profile_indx" will not stay shared at /usr/bin/shutter line 3715.
+Variable "$combobox_settings_profiles" will not stay shared at /usr/bin/shutter line 3715.
+Variable "$sas" will not stay shared at /usr/bin/shutter line 3729.
+Variable "$fs_active" will not stay shared at /usr/bin/shutter line 3731.
+Variable "$fs_min_active" will not stay shared at /usr/bin/shutter line 3732.
+Variable "$fs_nonot_active" will not stay shared at /usr/bin/shutter line 3733.
+Variable "$pagesetup" will not stay shared at /usr/bin/shutter line 3752.
+Variable "$window" will not stay shared at /usr/bin/shutter line 3752.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 3774.
+Variable "$current_profile_indx" will not stay shared at /usr/bin/shutter line 3816.
+Variable "$sas" will not stay shared at /usr/bin/shutter line 3829.
+Variable "$fs_active" will not stay shared at /usr/bin/shutter line 3831.
+Variable "$fs_min_active" will not stay shared at /usr/bin/shutter line 3832.
+Variable "$fs_nonot_active" will not stay shared at /usr/bin/shutter line 3833.
+Variable "$current_profile_indx" will not stay shared at /usr/bin/shutter line 3852.
+Variable "$d" will not stay shared at /usr/bin/shutter line 3859.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 3861.
+Variable "$settings_xml" will not stay shared at /usr/bin/shutter line 3872.
+Variable "$current_profile_indx" will not stay shared at /usr/bin/shutter line 3873.
+Variable "$d" will not stay shared at /usr/bin/shutter line 3880.
+Variable "$tray_legacy" will not stay shared at /usr/bin/shutter line 3892.
+Variable "$tray_libappindicator" will not stay shared at /usr/bin/shutter line 3899.
+Variable "$tray" will not stay shared at /usr/bin/shutter line 3903.
+Variable "$tray_menu" will not stay shared at /usr/bin/shutter line 3921.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 3936.
+Variable "$d" will not stay shared at /usr/bin/shutter line 3956.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 3962.
+Variable "$d" will not stay shared at /usr/bin/shutter line 3976.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 4001.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 4034.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 4064.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 4105.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 4152.
+Variable "$d" will not stay shared at /usr/bin/shutter line 4152.
+Variable "@signal_connections" will not stay shared at /usr/bin/shutter line 4168.
+Variable "$app" will not stay shared at /usr/bin/shutter line 4169.
+Variable "$tray" will not stay shared at /usr/bin/shutter line 4175.
+Variable "$st" will not stay shared at /usr/bin/shutter line 4210.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 4210.
+Variable "$x11_supported" will not stay shared at /usr/bin/shutter line 4214.
+Variable "$window" will not stay shared at /usr/bin/shutter line 4259.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 4271.
+Variable "$st" will not stay shared at /usr/bin/shutter line 4277.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 4311.
+Variable "$css_provider_alpha" will not stay shared at /usr/bin/shutter line 4314.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 4401.
+Variable "%settings" will not stay shared at /usr/bin/shutter line 4488.
+Variable "$combobox_settings_profiles" will not stay shared at /usr/bin/shutter line 4490.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 4494.
+Variable "$combobox_type" will not stay shared at /usr/bin/shutter line 4502.
+Variable "$scale" will not stay shared at /usr/bin/shutter line 4503.
+Variable "$filename" will not stay shared at /usr/bin/shutter line 4504.
+Variable "$saveDir_button" will not stay shared at /usr/bin/shutter line 4505.
+Variable "$save_auto_active" will not stay shared at /usr/bin/shutter line 4509.
+Variable "$save_ask_active" will not stay shared at /usr/bin/shutter line 4510.
+Variable "$save_no_active" will not stay shared at /usr/bin/shutter line 4511.
+Variable "$image_autocopy_active" will not stay shared at /usr/bin/shutter line 4512.
+Variable "$fname_autocopy_active" will not stay shared at /usr/bin/shutter line 4513.
+Variable "$no_autocopy_active" will not stay shared at /usr/bin/shutter line 4514.
+Variable "$cursor_active" will not stay shared at /usr/bin/shutter line 4515.
+Variable "$delay" will not stay shared at /usr/bin/shutter line 4516.
+Variable "$current_monitor_active" will not stay shared at /usr/bin/shutter line 4519.
+Variable "$st" will not stay shared at /usr/bin/shutter line 4523.
+Variable "$progname" will not stay shared at /usr/bin/shutter line 4536.
+Variable "$progname_active" will not stay shared at /usr/bin/shutter line 4545.
+Variable "$combobox_im_colors" will not stay shared at /usr/bin/shutter line 4546.
+Variable "$im_colors_active" will not stay shared at /usr/bin/shutter line 4547.
+Variable "$thumbnail" will not stay shared at /usr/bin/shutter line 4548.
+Variable "$thumbnail_active" will not stay shared at /usr/bin/shutter line 4549.
+Variable "$bordereffect" will not stay shared at /usr/bin/shutter line 4550.
+Variable "$bordereffect_active" will not stay shared at /usr/bin/shutter line 4551.
+Variable "$bordereffect_cbtn" will not stay shared at /usr/bin/shutter line 4552.
+Variable "$zoom_active" will not stay shared at /usr/bin/shutter line 4556.
+Variable "$as_help_active" will not stay shared at /usr/bin/shutter line 4557.
+Variable "$asel_size3" will not stay shared at /usr/bin/shutter line 4558.
+Variable "$asel_size4" will not stay shared at /usr/bin/shutter line 4559.
+Variable "$asel_size1" will not stay shared at /usr/bin/shutter line 4560.
+Variable "$asel_size2" will not stay shared at /usr/bin/shutter line 4561.
+Variable "$border_active" will not stay shared at /usr/bin/shutter line 4562.
+Variable "$winresize_active" will not stay shared at /usr/bin/shutter line 4563.
+Variable "$winresize_w" will not stay shared at /usr/bin/shutter line 4564.
+Variable "$winresize_h" will not stay shared at /usr/bin/shutter line 4565.
+Variable "$autoshape_active" will not stay shared at /usr/bin/shutter line 4566.
+Variable "$visible_windows_active" will not stay shared at /usr/bin/shutter line 4567.
+Variable "$menu_delay" will not stay shared at /usr/bin/shutter line 4568.
+Variable "$menu_waround_active" will not stay shared at /usr/bin/shutter line 4569.
+Variable "$combobox_web_width" will not stay shared at /usr/bin/shutter line 4570.
+Variable "$trans_check" will not stay shared at /usr/bin/shutter line 4573.
+Variable "$trans_custom" will not stay shared at /usr/bin/shutter line 4574.
+Variable "$trans_custom_btn" will not stay shared at /usr/bin/shutter line 4575.
+Variable "$trans_backg" will not stay shared at /usr/bin/shutter line 4577.
+Variable "$session_asc" will not stay shared at /usr/bin/shutter line 4579.
+Variable "$session_asc_combo" will not stay shared at /usr/bin/shutter line 4580.
+Variable "$session_desc" will not stay shared at /usr/bin/shutter line 4581.
+Variable "$session_desc_combo" will not stay shared at /usr/bin/shutter line 4582.
+Variable "$fs_active" will not stay shared at /usr/bin/shutter line 4585.
+Variable "$fs_min_active" will not stay shared at /usr/bin/shutter line 4586.
+Variable "$fs_nonot_active" will not stay shared at /usr/bin/shutter line 4587.
+Variable "$hide_active" will not stay shared at /usr/bin/shutter line 4588.
+Variable "$hide_time" will not stay shared at /usr/bin/shutter line 4589.
+Variable "$present_after_active" will not stay shared at /usr/bin/shutter line 4590.
+Variable "$close_at_close_active" will not stay shared at /usr/bin/shutter line 4591.
+Variable "$notify_after_active" will not stay shared at /usr/bin/shutter line 4592.
+Variable "$notify_timeout_active" will not stay shared at /usr/bin/shutter line 4593.
+Variable "$notify_ptimeout_active" will not stay shared at /usr/bin/shutter line 4594.
+Variable "$combobox_ns" will not stay shared at /usr/bin/shutter line 4595.
+Variable "$ask_on_delete_active" will not stay shared at /usr/bin/shutter line 4596.
+Variable "$delete_on_close_active" will not stay shared at /usr/bin/shutter line 4597.
+Variable "$ask_on_fs_delete_active" will not stay shared at /usr/bin/shutter line 4598.
+Variable "$ftp_remote_entry" will not stay shared at /usr/bin/shutter line 4601.
+Variable "$ftp_mode_combo" will not stay shared at /usr/bin/shutter line 4602.
+Variable "$ftp_username_entry" will not stay shared at /usr/bin/shutter line 4603.
+Variable "$ftp_password_entry" will not stay shared at /usr/bin/shutter line 4604.
+Variable "$ftp_wurl_entry" will not stay shared at /usr/bin/shutter line 4605.
+Variable "%plugins" will not stay shared at /usr/bin/shutter line 4608.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 4633.
+Variable "$d" will not stay shared at /usr/bin/shutter line 4633.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 4641.
+Variable "%accounts" will not stay shared at /usr/bin/shutter line 4667.
+Variable "$combobox_type" will not stay shared at /usr/bin/shutter line 4717.
+Variable "$int_jpeg" will not stay shared at /usr/bin/shutter line 4717.
+Variable "$int_png" will not stay shared at /usr/bin/shutter line 4719.
+Variable "$scale" will not stay shared at /usr/bin/shutter line 4728.
+Variable "$filename" will not stay shared at /usr/bin/shutter line 4730.
+Variable "$saveDir_button" will not stay shared at /usr/bin/shutter line 4733.
+Variable "$save_auto_active" will not stay shared at /usr/bin/shutter line 4735.
+Variable "$save_ask_active" will not stay shared at /usr/bin/shutter line 4736.
+Variable "$save_no_active" will not stay shared at /usr/bin/shutter line 4737.
+Variable "$image_autocopy_active" will not stay shared at /usr/bin/shutter line 4739.
+Variable "$fname_autocopy_active" will not stay shared at /usr/bin/shutter line 4740.
+Variable "$no_autocopy_active" will not stay shared at /usr/bin/shutter line 4741.
+Variable "$cursor_active" will not stay shared at /usr/bin/shutter line 4743.
+Variable "$delay" will not stay shared at /usr/bin/shutter line 4744.
+Variable "$current_monitor_active" will not stay shared at /usr/bin/shutter line 4753.
+Variable "$st" will not stay shared at /usr/bin/shutter line 4756.
+Variable "$progname" will not stay shared at /usr/bin/shutter line 4771.
+Variable "$progname_active" will not stay shared at /usr/bin/shutter line 4774.
+Variable "$im_colors_active" will not stay shared at /usr/bin/shutter line 4776.
+Variable "$combobox_im_colors" will not stay shared at /usr/bin/shutter line 4777.
+Variable "$thumbnail" will not stay shared at /usr/bin/shutter line 4779.
+Variable "$thumbnail_active" will not stay shared at /usr/bin/shutter line 4780.
+Variable "$bordereffect" will not stay shared at /usr/bin/shutter line 4782.
+Variable "$bordereffect_active" will not stay shared at /usr/bin/shutter line 4783.
+Variable "$bordereffect_cbtn" will not stay shared at /usr/bin/shutter line 4785.
+Variable "$zoom_active" will not stay shared at /usr/bin/shutter line 4789.
+Variable "$as_help_active" will not stay shared at /usr/bin/shutter line 4791.
+Variable "$asel_size3" will not stay shared at /usr/bin/shutter line 4793.
+Variable "$asel_size4" will not stay shared at /usr/bin/shutter line 4794.
+Variable "$asel_size1" will not stay shared at /usr/bin/shutter line 4795.
+Variable "$asel_size2" will not stay shared at /usr/bin/shutter line 4796.
+Variable "$border_active" will not stay shared at /usr/bin/shutter line 4798.
+Variable "$winresize_active" will not stay shared at /usr/bin/shutter line 4800.
+Variable "$winresize_w" will not stay shared at /usr/bin/shutter line 4801.
+Variable "$winresize_h" will not stay shared at /usr/bin/shutter line 4802.
+Variable "$autoshape_active" will not stay shared at /usr/bin/shutter line 4804.
+Variable "$visible_windows_active" will not stay shared at /usr/bin/shutter line 4805.
+Variable "$menu_waround_active" will not stay shared at /usr/bin/shutter line 4806.
+Variable "$menu_delay" will not stay shared at /usr/bin/shutter line 4807.
+Variable "$combobox_web_width" will not stay shared at /usr/bin/shutter line 4808.
+Variable "$trans_check" will not stay shared at /usr/bin/shutter line 4811.
+Variable "$trans_custom" will not stay shared at /usr/bin/shutter line 4812.
+Variable "$trans_custom_btn" will not stay shared at /usr/bin/shutter line 4814.
+Variable "$trans_backg" will not stay shared at /usr/bin/shutter line 4816.
+Variable "$session_asc" will not stay shared at /usr/bin/shutter line 4818.
+Variable "$session_asc_combo" will not stay shared at /usr/bin/shutter line 4819.
+Variable "$session_desc" will not stay shared at /usr/bin/shutter line 4820.
+Variable "$session_desc_combo" will not stay shared at /usr/bin/shutter line 4821.
+Variable "$fs_active" will not stay shared at /usr/bin/shutter line 4824.
+Variable "$fs_min_active" will not stay shared at /usr/bin/shutter line 4825.
+Variable "$fs_nonot_active" will not stay shared at /usr/bin/shutter line 4826.
+Variable "$hide_active" will not stay shared at /usr/bin/shutter line 4827.
+Variable "$hide_time" will not stay shared at /usr/bin/shutter line 4828.
+Variable "$present_after_active" will not stay shared at /usr/bin/shutter line 4829.
+Variable "$close_at_close_active" will not stay shared at /usr/bin/shutter line 4830.
+Variable "$notify_after_active" will not stay shared at /usr/bin/shutter line 4831.
+Variable "$notify_timeout_active" will not stay shared at /usr/bin/shutter line 4832.
+Variable "$notify_ptimeout_active" will not stay shared at /usr/bin/shutter line 4833.
+Variable "$combobox_ns" will not stay shared at /usr/bin/shutter line 4834.
+Variable "$ask_on_delete_active" will not stay shared at /usr/bin/shutter line 4835.
+Variable "$delete_on_close_active" will not stay shared at /usr/bin/shutter line 4836.
+Variable "$ask_on_fs_delete_active" will not stay shared at /usr/bin/shutter line 4837.
+Variable "$ftp_remote_entry" will not stay shared at /usr/bin/shutter line 4846.
+Variable "$ftp_mode_combo" will not stay shared at /usr/bin/shutter line 4847.
+Variable "$ftp_username_entry" will not stay shared at /usr/bin/shutter line 4848.
+Variable "$ftp_password_entry" will not stay shared at /usr/bin/shutter line 4849.
+Variable "$ftp_wurl_entry" will not stay shared at /usr/bin/shutter line 4850.
+Variable "$accounts_tree" will not stay shared at /usr/bin/shutter line 4864.
+Variable "$accounts_model" will not stay shared at /usr/bin/shutter line 4866.
+Variable "%plugins" will not stay shared at /usr/bin/shutter line 4904.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 4920.
+Variable "$d" will not stay shared at /usr/bin/shutter line 4920.
+Variable "$d" will not stay shared at /usr/bin/shutter line 4949.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5000.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5000.
+Variable "%accounts" will not stay shared at /usr/bin/shutter line 5010.
+Variable "$status" will not stay shared at /usr/bin/shutter line 5084.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5096.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5113.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 5118.
+Variable "$status" will not stay shared at /usr/bin/shutter line 5172.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5176.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5192.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5207.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5218.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5219.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5229.
+Variable "$ask_on_delete_active" will not stay shared at /usr/bin/shutter line 5248.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5249.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5250.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5250.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 5265.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5270.
+Variable "$window" will not stay shared at /usr/bin/shutter line 5280.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 5280.
+Variable "$delete_on_close_active" will not stay shared at /usr/bin/shutter line 5378.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5383.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 5389.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5390.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5394.
+Variable "$window" will not stay shared at /usr/bin/shutter line 5404.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 5404.
+Variable "$clipboard" will not stay shared at /usr/bin/shutter line 5481.
+Variable "$combobox_type" will not stay shared at /usr/bin/shutter line 5485.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5488.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5488.
+Variable "$sp" will not stay shared at /usr/bin/shutter line 5498.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5527.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 5548.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5548.
+Variable "$clipboard" will not stay shared at /usr/bin/shutter line 5561.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5562.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5586.
+Variable "$filename" will not stay shared at /usr/bin/shutter line 5598.
+Variable "$filename_hint" will not stay shared at /usr/bin/shutter line 5599.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5613.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5635.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5651.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5658.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5687.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5702.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5709.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5730.
+Variable "%plugins" will not stay shared at /usr/bin/shutter line 5746.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5747.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5747.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5756.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5783.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5789.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5823.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5828.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5859.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5876.
+Variable "$scale" will not stay shared at /usr/bin/shutter line 5893.
+Variable "$filename" will not stay shared at /usr/bin/shutter line 5902.
+Variable "$saveDir_button" will not stay shared at /usr/bin/shutter line 5908.
+Variable "$save_no_active" will not stay shared at /usr/bin/shutter line 5909.
+Variable "$combobox_type" will not stay shared at /usr/bin/shutter line 5920.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5923.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5923.
+Variable "$delay" will not stay shared at /usr/bin/shutter line 5938.
+Variable "$cursor_active" will not stay shared at /usr/bin/shutter line 5954.
+Variable "$notify_timeout_active" will not stay shared at /usr/bin/shutter line 5966.
+Variable "$wnck_screen" will not stay shared at /usr/bin/shutter line 5967.
+Variable "$current_monitor_active" will not stay shared at /usr/bin/shutter line 5968.
+Variable "$border_active" will not stay shared at /usr/bin/shutter line 5999.
+Variable "$winresize_active" will not stay shared at /usr/bin/shutter line 5999.
+Variable "$winresize_w" will not stay shared at /usr/bin/shutter line 5999.
+Variable "$winresize_h" will not stay shared at /usr/bin/shutter line 5999.
+Variable "$hide_time" will not stay shared at /usr/bin/shutter line 6000.
+Variable "$autoshape_active" will not stay shared at /usr/bin/shutter line 6000.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 6010.
+Variable "$visible_windows_active" will not stay shared at /usr/bin/shutter line 6011.
+Variable "$menu_waround_active" will not stay shared at /usr/bin/shutter line 6011.
+Variable "$zoom_active" will not stay shared at /usr/bin/shutter line 6038.
+Variable "$as_help_active" will not stay shared at /usr/bin/shutter line 6038.
+Variable "$asel_size3" will not stay shared at /usr/bin/shutter line 6038.
+Variable "$asel_size4" will not stay shared at /usr/bin/shutter line 6039.
+Variable "$asel_size1" will not stay shared at /usr/bin/shutter line 6039.
+Variable "$asel_size2" will not stay shared at /usr/bin/shutter line 6039.
+Variable "$combobox_web_width" will not stay shared at /usr/bin/shutter line 6050.
+Variable "$st" will not stay shared at /usr/bin/shutter line 6058.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 6198.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 6211.
+Variable "$present_after_active" will not stay shared at /usr/bin/shutter line 6286.
+Variable "$bordereffect_active" will not stay shared at /usr/bin/shutter line 6391.
+Variable "$bordereffect" will not stay shared at /usr/bin/shutter line 6397.
+Variable "$bordereffect_cbtn" will not stay shared at /usr/bin/shutter line 6397.
+Variable "$save_ask_active" will not stay shared at /usr/bin/shutter line 6401.
+Variable "$sp" will not stay shared at /usr/bin/shutter line 6427.
+Variable "$im_colors_active" will not stay shared at /usr/bin/shutter line 6439.
+Variable "$combobox_im_colors" will not stay shared at /usr/bin/shutter line 6441.
+Variable "$thumbnail_active" will not stay shared at /usr/bin/shutter line 6454.
+Variable "$thumbnail" will not stay shared at /usr/bin/shutter line 6457.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 6461.
+Variable "$no_autocopy_active" will not stay shared at /usr/bin/shutter line 6507.
+Variable "$image_autocopy_active" will not stay shared at /usr/bin/shutter line 6510.
+Variable "$clipboard" will not stay shared at /usr/bin/shutter line 6511.
+Variable "$fname_autocopy_active" will not stay shared at /usr/bin/shutter line 6515.
+Variable "$progname_active" will not stay shared at /usr/bin/shutter line 6522.
+Variable "$progname" will not stay shared at /usr/bin/shutter line 6523.
+Variable "$notify_after_active" will not stay shared at /usr/bin/shutter line 6537.
+Variable "$tray_menu" will not stay shared at /usr/bin/shutter line 6592.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 6616.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 6648.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 6654.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 6678.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 6684.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 6705.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 6711.
+Variable "$pagesetup" will not stay shared at /usr/bin/shutter line 6724.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 6750.
+Variable "$window" will not stay shared at /usr/bin/shutter line 6767.
+Variable "$d" will not stay shared at /usr/bin/shutter line 6792.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 6792.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 6808.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 6840.
+Variable "$window" will not stay shared at /usr/bin/shutter line 6851.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 6870.
+Variable "$d" will not stay shared at /usr/bin/shutter line 6870.
+Variable "$status" will not stay shared at /usr/bin/shutter line 6954.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 6955.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 6994.
+Variable "$window" will not stay shared at /usr/bin/shutter line 7002.
+Variable "$status" will not stay shared at /usr/bin/shutter line 7007.
+Variable "$d" will not stay shared at /usr/bin/shutter line 7008.
+Variable "$hu" will not stay shared at /usr/bin/shutter line 7008.
+Variable "$combobox_settings_profiles" will not stay shared at /usr/bin/shutter line 7024.
+Variable "$tray" will not stay shared at /usr/bin/shutter line 7025.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7045.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7066.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 7089.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7095.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7109.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 7119.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7125.
+Variable "$tray_menu" will not stay shared at /usr/bin/shutter line 7144.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 7153.
+Variable "$combobox_status_profiles" will not stay shared at /usr/bin/shutter line 7159.
+Variable "$combobox_status_profiles_label" will not stay shared at /usr/bin/shutter line 7162.
+Variable "$d" will not stay shared at /usr/bin/shutter line 7168.
+Variable "$status" will not stay shared at /usr/bin/shutter line 7170.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7230.
+Variable "$lp_ne" will not stay shared at /usr/bin/shutter line 7289.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 7457.
+Variable "$ask_on_fs_delete_active" will not stay shared at /usr/bin/shutter line 7486.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 7493.
+Variable "$d" will not stay shared at /usr/bin/shutter line 7494.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 7502.
+Variable "$sp" will not stay shared at /usr/bin/shutter line 7548.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7686.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 7702.
+Variable "$progname" will not stay shared at /usr/bin/shutter line 7711.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 7752.
+Variable "$d" will not stay shared at /usr/bin/shutter line 7752.
+Variable "$combobox_settings_profiles" will not stay shared at /usr/bin/shutter line 7768.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 7883.
+Variable "$d" will not stay shared at /usr/bin/shutter line 7884.
+Variable "$window" will not stay shared at /usr/bin/shutter line 7919.
+Variable "$d" will not stay shared at /usr/bin/shutter line 7919.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 7947.
+Variable "%plugins" will not stay shared at /usr/bin/shutter line 7965.
+Variable "$window" will not stay shared at /usr/bin/shutter line 8066.
+Variable "$d" will not stay shared at /usr/bin/shutter line 8066.
+Variable "%accounts" will not stay shared at /usr/bin/shutter line 8106.
+Variable "$progname" will not stay shared at /usr/bin/shutter line 8207.
+Variable "$current_monitor_active" will not stay shared at /usr/bin/shutter line 8218.
+Variable "$d" will not stay shared at /usr/bin/shutter line 8218.
+Variable "$settings_xml" will not stay shared at /usr/bin/shutter line 8323.
+Variable "$wnck_screen" will not stay shared at /usr/bin/shutter line 8356.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 8366.
+Variable "$d" will not stay shared at /usr/bin/shutter line 8369.
+Variable "$d" will not stay shared at /usr/bin/shutter line 8417.
+Variable "$x11_supported" will not stay shared at /usr/bin/shutter line 8418.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 8427.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 8543.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 8624.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 8636.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 8642.
+Variable "$d" will not stay shared at /usr/bin/shutter line 8722.
+Variable "$settings_xml" will not stay shared at /usr/bin/shutter line 8779.
+Variable "$current_profile_indx" will not stay shared at /usr/bin/shutter line 8820.
+Variable "$accounts_model" will not stay shared at /usr/bin/shutter line 8838.
+Variable "%accounts" will not stay shared at /usr/bin/shutter line 8843.
+Variable "%plugins" will not stay shared at /usr/bin/shutter line 8863.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 8880.
+Variable "$d" will not stay shared at /usr/bin/shutter line 8912.
+Variable "%accounts" will not stay shared at /usr/bin/shutter line 8937.
+Variable "$accounts_model" will not stay shared at /usr/bin/shutter line 8942.
+Variable "$d" will not stay shared at /usr/bin/shutter line 9033.
+Variable "$window" will not stay shared at /usr/bin/shutter line 9259.
+Variable "$d" will not stay shared at /usr/bin/shutter line 9261.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 9265.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 9352.
+Variable "$d" will not stay shared at /usr/bin/shutter line 9471.
+Variable "$window" will not stay shared at /usr/bin/shutter line 9471.
+Variable "$lp_ne" will not stay shared at /usr/bin/shutter line 9487.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 9529.
+Variable "$saveDir_button" will not stay shared at /usr/bin/shutter line 9530.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 9554.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 9576.
+Variable "$d" will not stay shared at /usr/bin/shutter line 9579.
+Variable "$window" will not stay shared at /usr/bin/shutter line 9580.
+Variable "$saveDir_button" will not stay shared at /usr/bin/shutter line 9596.
+Variable "$lp_ne" will not stay shared at /usr/bin/shutter line 9612.
+Variable "$sp" will not stay shared at /usr/bin/shutter line 9768.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 9817.
+Variable "$d" will not stay shared at /usr/bin/shutter line 9910.
+Variable "$window" will not stay shared at /usr/bin/shutter line 9910.
+Variable "%plugins" will not stay shared at /usr/bin/shutter line 9930.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 10016.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 10055.
+Variable "$d" will not stay shared at /usr/bin/shutter line 10105.
+Variable "$window" will not stay shared at /usr/bin/shutter line 10106.
+Variable "%accounts" will not stay shared at /usr/bin/shutter line 10116.
+Variable "$ftp_remote_entry" will not stay shared at /usr/bin/shutter line 10217.
+Variable "$ftp_mode_combo" will not stay shared at /usr/bin/shutter line 10231.
+Variable "$ftp_username_entry" will not stay shared at /usr/bin/shutter line 10243.
+Variable "$ftp_password_entry" will not stay shared at /usr/bin/shutter line 10257.
+Variable "$ftp_wurl_entry" will not stay shared at /usr/bin/shutter line 10269.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 10395.
+Variable "$clipboard" will not stay shared at /usr/bin/shutter line 10496.
+Variable "$d" will not stay shared at /usr/bin/shutter line 10697.
+Variable "$d" will not stay shared at /usr/bin/shutter line 10717.
+Variable "$window" will not stay shared at /usr/bin/shutter line 10732.
+Variable "$d" will not stay shared at /usr/bin/shutter line 10738.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 10777.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 10801.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 10808.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 10815.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 10822.
+Variable "$window" will not stay shared at /usr/bin/shutter line 10830.
+Variable "$nav_toolbar" will not stay shared at /usr/bin/shutter line 10840.
+Name "Gtk3::Gdk::SELECTION_CLIPBOARD" used only once: possible typo at /usr/bin/shutter line 298.
+WARNING: gnome-web-photo is missing --> screenshots of websites will be disabled!
+
+ at /usr/bin/shutter line 9096.
+	Shutter::App::fct_init_depend() called at /usr/bin/shutter line 196
+WARNING: Image::ExifTool is missing --> writing Exif information will be disabled!
+
+ at /usr/bin/shutter line 9115.
+	Shutter::App::fct_init_depend() called at /usr/bin/shutter line 196
+Subroutine lookup redefined at /usr/share/shutter/resources/modules/Shutter/Draw/DrawingTool.pm line 28.
+	require Shutter/Draw/DrawingTool.pm called at /usr/bin/shutter line 229
+Variable "$self" will not stay shared at /usr/share/shutter/resources/modules/Shutter/Draw/DrawingTool.pm line 679.
+	require Shutter/Draw/DrawingTool.pm called at /usr/bin/shutter line 229
+Variable "$self" will not stay shared at /usr/share/shutter/resources/modules/Shutter/Screenshot/SelectorAdvanced.pm line 840.
+	require Shutter/Screenshot/SelectorAdvanced.pm called at /usr/bin/shutter line 234
+GLib-CRITICAL **: g_variant_type_checked_: assertion 'g_variant_type_string_is_valid (type_string)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 321, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_copy: assertion 'g_variant_type_check (type)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 321, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_checked_: assertion 'g_variant_type_string_is_valid (type_string)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 341, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_copy: assertion 'g_variant_type_check (type)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 341, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_checked_: assertion 'g_variant_type_string_is_valid (type_string)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 348, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_copy: assertion 'g_variant_type_check (type)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 348, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_checked_: assertion 'g_variant_type_string_is_valid (type_string)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 355, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_copy: assertion 'g_variant_type_check (type)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 355, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_checked_: assertion 'g_variant_type_string_is_valid (type_string)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 385, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_copy: assertion 'g_variant_type_check (type)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 385, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_checked_: assertion 'g_variant_type_string_is_valid (type_string)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 398, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_copy: assertion 'g_variant_type_check (type)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 398, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_checked_: assertion 'g_variant_type_string_is_valid (type_string)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 411, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_copy: assertion 'g_variant_type_check (type)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 411, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_checked_: assertion 'g_variant_type_string_is_valid (type_string)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 417, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_copy: assertion 'g_variant_type_check (type)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 417, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_checked_: assertion 'g_variant_type_string_is_valid (type_string)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 430, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_copy: assertion 'g_variant_type_check (type)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 430, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_checked_: assertion 'g_variant_type_string_is_valid (type_string)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 436, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+GLib-CRITICAL **: g_variant_type_copy: assertion 'g_variant_type_check (type)' failed at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67, <DATA> line 19.
+ at /usr/bin/shutter line 436, <DATA> line 19.
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+ERROR: settingsfile /home/alex/.shutter/settings.xml does not exist
+
+ at /usr/bin/shutter line 4928, <DATA> line 19.
+	Shutter::App::fct_load_settings("start") called at /usr/bin/shutter line 774
+	Shutter::App::STARTUP(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Can't locate Path/Class.pm in @INC (you may need to install the Path::Class module) (@INC entries checked: /usr/share/shutter/resources/modules /usr/lib/perl5/5.38/site_perl /usr/share/perl5/site_perl /usr/lib/perl5/5.38/vendor_perl /usr/share/perl5/vendor_perl /usr/lib/perl5/5.38/core_perl /usr/share/perl5/core_perl) at /usr/share/shutter/resources/system/upload_plugins/upload/Imgur.pm line 77.
+BEGIN failed--compilation aborted at /usr/share/shutter/resources/system/upload_plugins/upload/Imgur.pm line 77.
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+
+(shutter:74613): GLib-GIO-WARNING **: 12:28:07.849: Your application does not implement g_application_activate() and has no handlers connected to the 'activate' signal.  It should do one of these.
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+
+(shutter:74613): Gtk-CRITICAL **: 12:28:27.135: gtk_drag_source_set_icon_pixbuf: assertion 'site != NULL' failed
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+
+(shutter:74613): Gtk-CRITICAL **: 12:29:15.473: gtk_drag_source_set_icon_pixbuf: assertion 'site != NULL' failed
+GLib-CRITICAL **: Source ID 740 was not found when attempting to remove it at /usr/bin/shutter line 6957, <DATA> line 19.
+ at /usr/bin/shutter line 6955, <DATA> line 19.
+	Shutter::App::fct_show_status_message(1, "Die Bilddatei /home/alex/.cache/shutter/unsaved/1_001.png wur"...) called at /usr/bin/shutter line 7629
+	Shutter::App::fct_update_tab("[1] - 1_001.png") called at /usr/bin/shutter line 4131
+	Shutter::App::__ANON__(Glib::Object::_Unregistered::GInotifyFileMonitor=HASH(0x60adcee57a18), Glib::Object::_Unregistered::GLocalFile=HASH(0x60adcf57abe0), undef, "deleted", "[1] - 1_001.png") called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	eval {...} called at /usr/lib/perl5/5.38/vendor_perl/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x60adcf4ca098)) called at /usr/bin/shutter line 10944
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.997': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x16: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.997': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x16: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.997': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x16: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.997': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x16: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.997': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x16: errno 22 (Invalid argument))
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+Xlib: ignoring invalid extension event 146
+polybar|notice:  Parsing config file: /home/alex/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 88982)
+polybar|notice:  Loading module 'i3' of type 'internal/i3'
+polybar|error: Invalid value for "module/i3.label-visible-underline", using default value (reason: The reference ${module/i3.label-focused-underline} does not exist (no fallback set))
+polybar|notice:  Loading module 'l-arrow0' of type 'custom/text'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'l-arrow1' of type 'custom/text'
+polybar|notice:  Loading module 'r-arrow8' of type 'custom/text'
+polybar|notice:  Loading module 'updates' of type 'custom/script'
+polybar|notice:  Loading module 'r-arrow7' of type 'custom/text'
+polybar|notice:  Loading module 'wlan' of type 'internal/network'
+polybar|error: Disabling module "wlan" (reason: No interface found for type 'wireless')
+polybar|notice:  Loading module 'r-arrow6' of type 'custom/text'
+polybar|notice:  Loading module 'eth' of type 'internal/network'
+polybar|notice:  module/eth: Discovered wired interface ens160
+polybar|notice:  Loading module 'r-arrow5' of type 'custom/text'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_01.0.3.analog-stereo
+polybar|notice:  Loading module 'r-arrow4' of type 'custom/text'
+polybar|notice:  Loading module 'xkeyboard' of type 'internal/xkeyboard'
+polybar|notice:  Loading module 'r-arrow3' of type 'custom/text'
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'r-arrow2' of type 'custom/text'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'r-arrow1' of type 'custom/text'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'r-arrow0' of type 'custom/text'
+polybar|notice:  Loading module 'systray' of type 'internal/tray'
+polybar|notice:  Loaded 21 modules
+polybar|notice:  Loaded font "NotoSans Nerd Font:style=Regular:size=10" (name=NotoSans Nerd Font, offset=2, file=/usr/share/fonts/TTF/NotoSansNerdFont-Regular.ttf)
+polybar|notice:  Loaded font "CaskaydiaMono Nerd Font:style=Regular:size=10" (name=CaskaydiaMono Nerd Font, offset=2, file=/usr/share/fonts/TTF/CaskaydiaMonoNerdFont-Regular.ttf)
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
 Xlib: ignoring invalid extension event 161
