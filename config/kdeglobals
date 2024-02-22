@@ -148,6 +148,9 @@ LookAndFeelPackage=Dracula
 SingleClick=false
 widgetStyle=Breeze
 
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
 [WM]
 activeBackground=47,52,63
 activeBlend=47,52,63

@@ -350,6 +350,10 @@ plugin=org.kde.plasma.networkmanagement
 [Containments][59][Applets][74][Configuration]
 PreloadWeight=42
 
+[Containments][59][Applets][95]
+immutability=1
+plugin=org.kde.plasma.bluetooth
+
 [Containments][59][Configuration]
 PreloadWeight=42
 
@@ -371,6 +375,9 @@ wallpaperplugin=org.kde.image
 [Containments][76][Applets][77]
 immutability=1
 plugin=org.kde.plasma.clipboard
+
+[Containments][76][Applets][77][Configuration]
+PreloadWeight=65
 
 [Containments][76][Applets][78]
 immutability=1
@@ -434,11 +441,15 @@ immutability=1
 plugin=org.kde.plasma.nightcolorcontrol
 
 [Containments][76][Applets][90][Configuration]
-PreloadWeight=42
+PreloadWeight=34
 
 [Containments][76][Applets][91]
 immutability=1
 plugin=org.kde.plasma.battery
+
+[Containments][76][Applets][96]
+immutability=1
+plugin=org.kde.plasma.bluetooth
 
 [Containments][76][General]
 extraItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.kscreen,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.plasma.kclock_1x2,org.kde.plasma.printmanager,org.kde.merkuro.contact,org.kde.kdeconnect

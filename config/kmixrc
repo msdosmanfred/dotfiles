@@ -5,7 +5,7 @@ update_info=disable_kmix.upd:PlasmaVolume_DisableKMixAutostart
 ConfigVersion=3
 MasterMixer=PulseAudio::Playback_Devices:1
 MasterMixerDevice=alsa_output.pci-0000_02_01.0.analog-stereo
-Size=520,556
+Size=640,480
 Visible=false
 
 [Profiles]
@@ -14,6 +14,9 @@ PulseAudio::Capture_Streams:1=PulseAudio.Aufnahmestreams.1.default
 PulseAudio::Playback_Devices:1=PulseAudio.Wiedergabegeräte.1.default
 PulseAudio::Playback_Streams:1=PulseAudio.Wiedergabestreams.1.default
 
+[View.PulseAudio.Aufnahmegeräte.1.default.PulseAudio::Capture_Devices:1.alsa_input.pci-0000_00_1b.0.7.analog-stereo]
+Split=false
+
 [View.PulseAudio.Aufnahmegeräte.1.default.PulseAudio::Capture_Devices:1.alsa_input.pci-0000_00_1b.0.analog-stereo]
 Split=false
 
@@ -21,6 +24,9 @@ Split=false
 Split=false
 
 [View.PulseAudio.Aufnahmegeräte.1.default.PulseAudio::Capture_Devices:1.alsa_input.pci-0000_02_01.0.analog-stereo]
+Split=false
+
+[View.PulseAudio.Wiedergabegeräte.1.default.PulseAudio::Playback_Devices:1.alsa_output.pci-0000_00_1b.0.7.analog-stereo]
 Split=false
 
 [View.PulseAudio.Wiedergabegeräte.1.default.PulseAudio::Playback_Devices:1.alsa_output.pci-0000_00_1b.0.analog-stereo]

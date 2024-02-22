@@ -1016,6 +1016,9 @@ LookAndFeelPackage[$d]
 SingleClick[$d]
 widgetStyle[$d]
 
+[KShortcutsDialog Settings]
+Dialog Size[$d]
+
 [Main]
 AlreadyImported=defaults,kde32b1,konqueror_gestures_kde321
 Disabled=false
