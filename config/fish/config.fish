@@ -582,7 +582,7 @@ set fish_pager_color_progress brwhite --background=cyan
 set fish_color_search_match --background="#60AEFF"
 
 ### Aliases
-alias ls='eza -lhagTL1 --icons always'
+alias ls='eza -lhag --icons always'
 #alias vim='nvim'
 
 ### Environment variables
