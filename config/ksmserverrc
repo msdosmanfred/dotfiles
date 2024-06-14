@@ -5,14 +5,35 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
+clientId1=10d8d77276000171672927000000044440004
+clientId2=10d8d77276000171672927600000044440006
+clientId3=10d8d77276000171672927600000044440007
+clientId4=10d8d77276000171672927700000044440008
 clientId5[$d]
 clientId6[$d]
-count=0
+count=4
+discardCommand2[$e]=rm,$HOME/.config/session/kmix_10d8d77276000171672927600000044440006_1716729296_797896
+program1=/usr/bin/kclockd
+program2=/usr/bin/kmix
+program3=/usr/bin/kalendarac
+program4=/usr/lib/DiscoverNotifier
 program5[$d]
 program6[$d]
+restartCommand1=/usr/bin/kclockd,-session,10d8d77276000171672927000000044440004_1716729296_797547
+restartCommand2=/usr/bin/kmix,-session,10d8d77276000171672927600000044440006_1716729296_797896
+restartCommand3=/usr/bin/kalendarac,-session,10d8d77276000171672927600000044440007_1716729296_797616
+restartCommand4=/usr/lib/DiscoverNotifier,-session,10d8d77276000171672927700000044440008_1716729296_797729
 restartCommand5[$d]
 restartCommand6[$d]
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
 restartStyleHint5[$d]
 restartStyleHint6[$d]
+userId1=alex
+userId2=alex
+userId3=alex
+userId4=alex
 userId5[$d]
 userId6[$d]

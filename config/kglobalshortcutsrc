@@ -3,6 +3,7 @@ _k_friendly_name=Aktivitätenverwaltung
 switch-to-activity-23995814-19d9-4b3f-a526-f3acd0c7b627=none,none,Zu Aktivität „Standard“ wechseln
 
 [KDE Keyboard Layout Switcher]
+Switch to Last-Used Keyboard Layout=Meta+Alt+L,Meta+Alt+L,Switch to Last-Used Keyboard Layout
 Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,Auf nächste Tastaturbelegung umschalten
 _k_friendly_name=Umschaltung der Tastaturbelegung
 
@@ -16,11 +17,6 @@ Enable Touchpad=Touchpad On,Touchpad On,Touchpad aktivieren
 Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,Touchpad umschalten
 _k_friendly_name=Touchpad
 
-[kded5]
-Show System Activity=Ctrl+Esc,Ctrl+Esc,Systemaktivität anzeigen
-_k_friendly_name=KDE Daemon
-display=Display\tMeta+P,Display\tMeta+P,Anzeige wechseln
-
 [khotkeys]
 _k_friendly_name=Dienst für eigene Kurzbefehle
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Suchen
@@ -29,27 +25,34 @@ _k_friendly_name=Dienst für eigene Kurzbefehle
 _k_friendly_name=Lautstärke
 decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Mikrofonlautstärke verringern
 decrease_volume=Volume Down,Volume Down,Lautstärke verringern
+decrease_volume_small=Shift+Volume Down,Shift+Volume Down,Lautstärke um 1% verringern
 increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,Mikrofonlautstärke erhöhen
 increase_volume=Volume Up,Volume Up,Lautstärke erhöhen
+increase_volume_small=Shift+Volume Up,Shift+Volume Up,Lautstärke um 1% erhöhen
 mic_mute=Microphone Mute\tMeta+Volume Mute,Microphone Mute\tMeta+Volume Mute,Mikrofon stummschalten
 mute=Volume Mute,Volume Mute,Stummschalten
 
 [ksmserver]
-Halt Without Confirmation=Ctrl+Alt+PgDown,,Ohne Rückfrage herunterfahren
+Halt Without Confirmation=Ctrl+Alt+PgDown,,Shut Down Without Confirmation
 Lock Session=Meta+L\tScreensaver,Meta+L\tScreensaver,Sitzung sperren
-Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Abmelden
-Log Out Without Confirmation=Ctrl+Alt+End,,Ohne Rückfrage abmelden
-Reboot Without Confirmation=Ctrl+Alt+PgUp,,Ohne Rückfrage neu starten
-_k_friendly_name=Sitzungsverwaltung
+Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Log Out
+Log Out Without Confirmation=Ctrl+Alt+End,,Log Out Without Confirmation
+Reboot=none,,Reboot
+Reboot Without Confirmation=Ctrl+Alt+PgUp,,Reboot Without Confirmation
+Shut Down=none,,Shut Down
+_k_friendly_name=ksmserver
 
 [kwin]
 Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,Fenster aktivieren\\, das Aufmerksamkeit erfordert
+Cycle Overview=none,none,Cycle through Overview and Grid View
+Cycle Overview Opposite=none,none,Cycle through Grid View and Overview
 Decrease Opacity=none,,Die Deckkraft des aktiven Fensters um 5 % verringern
 Edit Tiles=none,Meta+T,Tiling-Editor ein-/ausschalten
 Expose=Ctrl+F9,Ctrl+F9,Fenster der aktuellen Arbeitsfläche anzeigen
 ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),Fenster aller Arbeitsflächen anzeigen
 ExposeClass=Ctrl+F7,Ctrl+F7,Fenster der Fensterklasse anzeigen
 ExposeClassCurrentDesktop=none,none,Fenster der Fensterklasse auf der aktuellen Arbeitsfläche anzeigen
+Grid View=Meta+G,Meta+G,Toggle Grid View
 Increase Opacity=none,,Die Deckkraft des aktiven Fensters um 5 % erhöhen
 Kill Window=Meta+Ctrl+Esc,Meta+Ctrl+Esc,Fenster beseitigen
 Move Tablet to Next Output=none,none,Move the tablet to the next output
@@ -59,7 +62,7 @@ MoveZoomDown=none,none,Vergrößerten Bereich nach unten verschieben
 MoveZoomLeft=none,none,Vergrößerten Bereich nach links verschieben
 MoveZoomRight=none,none,Vergrößerten Bereich nach rechts verschieben
 MoveZoomUp=none,none,Vergrößerten Bereich nach oben verschieben
-Overview=Meta+W,Meta+W,Übersicht umschalten
+Overview=Meta+W,Meta+W,Toggle Overview
 Setup Window Shortcut=none,,Kurzbefehl für Fenster einrichten
 Show Desktop=Meta+D,Meta+D,Blick auf die Arbeitsfläche
 ShowDesktopGrid=Meta+F8,Meta+F8,Arbeitsflächen-Raster anzeigen
@@ -108,14 +111,10 @@ Switch to Screen Above=none,,Zum Bildschirm oben wechseln
 Switch to Screen Below=none,,Zum Bildschirm unten wechseln
 Switch to Screen to the Left=none,,Zum Bildschirm links wechseln
 Switch to Screen to the Right=none,,Zum Bildschirm rechts wechseln
-Toggle Night Color=none,none,Nachtfarben umschalten
+Toggle Night Color=none,none,Toggle Night Light
 Toggle Window Raise/Lower=none,,Fenster nach vorne/hinten
-Walk Through Desktop List=none,,Nächster Eintrag in Arbeitsflächenliste
-Walk Through Desktop List (Reverse)=none,,Nächster Eintrag in Arbeitsflächenliste (Gegenrichtung)
-Walk Through Desktops=none,,Zwischen Arbeitsflächen umschalten
-Walk Through Desktops (Reverse)=none,,Zwischen Arbeitsflächen umschalten (Gegenrichtung)
 Walk Through Windows=Alt+Tab,Alt+Tab,Zwischen Fenstern wechseln
-Walk Through Windows (Reverse)=Alt+Shift+Backtab,Alt+Shift+Backtab,Zwischen Fenstern wechseln (Gegenrichtung)
+Walk Through Windows (Reverse)=Alt+Shift+Backtab,Alt+Shift+Tab,Zwischen Fenstern wechseln (Gegenrichtung)
 Walk Through Windows Alternative=none,,Alternatives Wechseln zwischen Fenstern
 Walk Through Windows Alternative (Reverse)=none,,Alternatives Wechseln zwischen Fenstern (Gegenrichtung)
 Walk Through Windows of Current Application=Alt+`,Alt+`,Zwischen Fenstern der aktuellen Anwendung wechseln
@@ -141,10 +140,10 @@ Window One Desktop Down=Meta+Ctrl+Shift+Down,Meta+Ctrl+Shift+Down,Fenster eine A
 Window One Desktop Up=Meta+Ctrl+Shift+Up,Meta+Ctrl+Shift+Up,Fenster eine Arbeitsfläche nach oben
 Window One Desktop to the Left=Meta+Ctrl+Shift+Left,Meta+Ctrl+Shift+Left,Fenster eine Arbeitsfläche nach links
 Window One Desktop to the Right=Meta+Ctrl+Shift+Right,Meta+Ctrl+Shift+Right,Fenster eine Arbeitsfläche nach rechts
-Window One Screen Down=none,,Fenster einen Bildschirm nach unten
-Window One Screen Up=none,,Fenster einen Bildschirm nach oben
-Window One Screen to the Left=none,,Fenster einen Bildschirm nach links
-Window One Screen to the Right=none,,Fenster einen Bildschirm nach rechts
+Window One Screen Down=none,,Fenster einen Bildschirm nach unten verschieben
+Window One Screen Up=none,,Fenster einen Bildschirm nach oben verschieben
+Window One Screen to the Left=none,,Fenster einen Bildschirm nach links verschieben
+Window One Screen to the Right=none,,Fenster einen Bildschirm nach rechts verschieben
 Window Operations Menu=Alt+F3,Alt+F3,Fensteraktionen-Menü
 Window Pack Down=none,,Fenster nach unten verschieben
 Window Pack Left=none,,Fenster nach links verschieben
@@ -187,67 +186,48 @@ Window to Next Desktop=none,,Fenster auf nächste Arbeitsfläche verschieben
 Window to Next Screen=Meta+Shift+Right,Meta+Shift+Right,Fenster auf nächsten Bildschirm verschieben
 Window to Previous Desktop=none,,Fenster auf vorherige Arbeitsfläche verschieben
 Window to Previous Screen=Meta+Shift+Left,Meta+Shift+Left,Fenster auf vorherigen Bildschirm verschieben
-Window to Screen 0=none,,Fenster auf Bildschirm 0
-Window to Screen 1=none,,Fenster auf Bildschirm 1
-Window to Screen 2=none,,Fenster auf Bildschirm 2
-Window to Screen 3=none,,Fenster auf Bildschirm 3
-Window to Screen 4=none,,Fenster auf Bildschirm 4
-Window to Screen 5=none,,Fenster auf Bildschirm 5
-Window to Screen 6=none,,Fenster auf Bildschirm 6
-Window to Screen 7=none,,Fenster auf Bildschirm 7
+Window to Screen 0=none,,Fenster auf Bildschirm 0 verschieben
+Window to Screen 1=none,,Fenster auf Bildschirm 1 verschieben
+Window to Screen 2=none,,Fenster auf Bildschirm 2 verschieben
+Window to Screen 3=none,,Fenster auf Bildschirm 3 verschieben
+Window to Screen 4=none,,Fenster auf Bildschirm 4 verschieben
+Window to Screen 5=none,,Fenster auf Bildschirm 5 verschieben
+Window to Screen 6=none,,Fenster auf Bildschirm 6 verschieben
+Window to Screen 7=none,,Fenster auf Bildschirm 7 verschieben
 _k_friendly_name=KWin
 view_actual_size=Meta+0,Meta+0,Auf Originalgröße zoomen
 view_zoom_in=Meta++\tMeta+=,Meta++\tMeta+=,Vergrößern
 view_zoom_out=Meta+-,Meta+-,Verkleinern
 
-[org.kde.dolphin.desktop]
-_k_friendly_name=Dolphin
-_launch=Meta+E,Meta+E,Dolphin
-
-[org.kde.kcalc.desktop]
-_k_friendly_name=KCalc
-_launch=Launch (1),Launch (1),KCalc
-
-[org.kde.konsole.desktop]
-NewTab=none,none,Ein neues Unterfenster öffnen
-NewWindow=none,none,Ein neues Fenster öffnen
-_k_friendly_name=Konsole
-_launch=Ctrl+Alt+T\tMeta+T,Ctrl+Alt+T,Konsole
-
-[org.kde.krunner.desktop]
-RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Befehl mit dem Inhalt der Zwischenablage ausführen
-_k_friendly_name=KRunner
-_launch=Alt+Space\tAlt+F2\tSearch,Alt+Space\tAlt+F2\tSearch,KRunner
-
-[org.kde.plasma.emojier.desktop]
-_k_friendly_name=Emoji-Auswahl
-_launch=Meta+.\tMeta+Ctrl+Alt+Shift+Space,Meta+.\tMeta+Ctrl+Alt+Shift+Space,Emoji-Auswahl
-
-[org.kde.spectacle.desktop]
-ActiveWindowScreenShot=Meta+Print,Meta+Print,Das aktive Fenster aufnehmen
-CurrentMonitorScreenShot=none,none,Den aktuellen Bildschirm aufnehmen
-FullScreenScreenShot=Shift+Print,Shift+Print,Die gesamte Arbeitsfläche aufnehmen
-OpenWithoutScreenshot=none,none,Ohne Aufnahme eines Bildschirmfotos starten
-RectangularRegionScreenShot=Meta+Shift+Print,Meta+Shift+Print,Einen rechteckigen Bereich aufnehmen
-WindowUnderCursorScreenShot=Meta+Ctrl+Print,Meta+Ctrl+Print,Fenster unter dem Mauszeiger aufnehmen
-_k_friendly_name=Spectacle
-_launch=Print,Print,Spectacle
+[mediacontrol]
+_k_friendly_name=Media Controller
+mediavolumedown=none,,Media volume down
+mediavolumeup=none,,Media volume up
+nextmedia=Media Next,Media Next,Media playback next
+pausemedia=Media Pause,Media Pause,Pause media playback
+playmedia=none,,Play media playback
+playpausemedia=Media Play,Media Play,Play/Pause media playback
+previousmedia=Media Previous,Media Previous,Media playback previous
+stopmedia=Media Stop,Media Stop,Stop media playback
 
 [org_kde_powerdevil]
 Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Helligkeit der Tastatur-Hintergrundbeleuchtung verringern
 Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,Bildschirmhelligkeit verringern
+Decrease Screen Brightness Small=Shift+Monitor Brightness Down,Shift+Monitor Brightness Down,Bildschirmhelligkeit um 1 % verringern
 Hibernate=Hibernate,Hibernate,Ruhezustand
 Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,Helligkeit der Tastatur-Hintergrundbeleuchtung erhöhen
 Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,Bildschirmhelligkeit erhöhen
+Increase Screen Brightness Small=Shift+Monitor Brightness Up,Shift+Monitor Brightness Up,Bildschirmhelligkeit um 1 % erhöhen
 PowerDown=Power Down,Power Down,Abschalten
 PowerOff=Power Off,Power Off,Ausschalten
 Sleep=Sleep,Sleep,Standby-Modus
 Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Hintergrundbeleuchtung der Tastatur umschalten
 Turn Off Screen=none,none,Bildschirm ausschalten
-_k_friendly_name=Energieverwaltung
+_k_friendly_name=KDE-Energieverwaltungssystem
+powerProfile=Battery\tMeta+B,Battery\tMeta+B,Energieprofil wechseln
 
 [plasmashell]
-_k_friendly_name=Plasma
+_k_friendly_name=plasmashell
 activate task manager entry 1=Meta+1,Meta+1,Fensterleisteneintrag 1 aktivieren
 activate task manager entry 10=none,Meta+0,Fensterleisteneintrag 10 aktivieren
 activate task manager entry 2=Meta+2,Meta+2,Fensterleisteneintrag 2 aktivieren
@@ -258,6 +238,7 @@ activate task manager entry 6=Meta+6,Meta+6,Fensterleisteneintrag 6 aktivieren
 activate task manager entry 7=Meta+7,Meta+7,Fensterleisteneintrag 7 aktivieren
 activate task manager entry 8=Meta+8,Meta+8,Fensterleisteneintrag 8 aktivieren
 activate task manager entry 9=Meta+9,Meta+9,Fensterleisteneintrag 9 aktivieren
+activate widget 115=none,none,Miniprogramm Anwendungsmenü aktivieren
 activate widget 27=Alt+F1,none,Miniprogramm Anwendungsmenü aktivieren
 activate widget 55=none,none,Miniprogramm Anwendungsübersicht aktivieren
 clear-history=none,,Bisherigen Inhalt der Zwischenablage löschen
@@ -265,24 +246,21 @@ clipboard_action=Meta+Ctrl+X,Meta+Ctrl+X,Automatisches Aufklappmenü für Aktion
 cycle-panels=Meta+Alt+P,Meta+Alt+P,Tastaturfokus zwischen Kontrollleisten umschalten
 cycleNextAction=none,,Nächstes Element im Verlauf
 cyclePrevAction=none,,Vorheriges Element im Verlauf
-edit_clipboard=none,,Inhalt bearbeiten ...
+edit_clipboard=none,none,Inhalt bearbeiten ...
 manage activities=Meta+Q,Meta+Q,Aktivitätenwechsler anzeigen
-next activity=Meta+Tab,none,Zwischen Aktivitäten wechseln
-previous activity=Meta+Shift+Tab,none,Zwischen Aktivitäten wechseln (Gegenrichtung)
+next activity=Meta+A,none,Zwischen Aktivitäten wechseln
+previous activity=Meta+Shift+A,none,Zwischen Aktivitäten wechseln (Gegenrichtung)
 repeat_action=Meta+Ctrl+R,Meta+Ctrl+R,Aktionen der aktuellen Zwischenablage manuell aufrufen
 show dashboard=Ctrl+F12,Ctrl+F12,Arbeitsfläche anzeigen
 show-barcode=none,,Strichcode anzeigen ...
-show-on-mouse-pos=Meta+V,Meta+V,Elemente an Mausposition anzeigen
+show-on-mouse-pos=Meta+V,Meta+V,Elemente der Zwischenablage an Mausposition anzeigen
 stop current activity=Meta+S,Meta+S,Aktuelle Aktivität anhalten
 switch to next activity=none,,Zur nächsten Aktivität wechseln
 switch to previous activity=none,,Zur vorherigen Aktivität wechseln
 toggle do not disturb=none,,Nicht stören umschalten
 
-[systemsettings.desktop]
-_k_friendly_name=Systemeinstellungen
-_launch=Tools,Tools,Systemeinstellungen
-kcm-kscreen=none,none,Anzeige-Einrichtung
-kcm-lookandfeel=none,none,Globales Design
-kcm-users=none,none,Benutzer
-powerdevilprofilesconfig=none,none,Energiesparen
-screenlocker=none,none,Bildschirmsperre
+[services][org.kde.konsole.desktop]
+_launch=Ctrl+Alt+T\tMeta+T
+
+[services][org.kde.spectacle.desktop]
+RecordWindow=none

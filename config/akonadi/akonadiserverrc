@@ -5,6 +5,7 @@ Tracer=null
 Driver=QMYSQL
 
 [QMYSQL]
+DataDir=/home/alex/.local/share/akonadi/db_data
 Host=
 Name=akonadi
 Options="UNIX_SOCKET=/run/user/1000/akonadi/mysql.socket"
