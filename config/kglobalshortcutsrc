@@ -14,7 +14,7 @@ _k_friendly_name=Zugangshilfen
 [kcm_touchpad]
 Disable Touchpad=Touchpad Off,Touchpad Off,Touchpad abschalten
 Enable Touchpad=Touchpad On,Touchpad On,Touchpad aktivieren
-Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,Touchpad umschalten
+Toggle Touchpad=Touchpad Toggle,Touchpad Toggle\tMeta+Ctrl+Zenkaku Hankaku,Touchpad umschalten
 _k_friendly_name=Touchpad
 
 [khotkeys]
@@ -40,7 +40,7 @@ Log Out Without Confirmation=Ctrl+Alt+End,,Log Out Without Confirmation
 Reboot=none,,Reboot
 Reboot Without Confirmation=Ctrl+Alt+PgUp,,Reboot Without Confirmation
 Shut Down=none,,Shut Down
-_k_friendly_name=ksmserver
+_k_friendly_name=Session Management
 
 [kwin]
 Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,Fenster aktivieren\\, das Aufmerksamkeit erfordert

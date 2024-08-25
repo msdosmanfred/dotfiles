@@ -9,5 +9,5 @@ DataDir=/home/alex/.local/share/akonadi/db_data
 Host=
 Name=akonadi
 Options="UNIX_SOCKET=/run/user/1000/akonadi/mysql.socket"
-ServerPath=/usr/bin/mysqld
+ServerPath=/nix/store/68aj84bw4xrzm7vkk8fxw9b2ygr1x3p2-mariadb-server-10.11.8/bin/mysqld
 StartServer=true

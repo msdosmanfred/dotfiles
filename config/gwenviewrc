@@ -12,5 +12,9 @@ State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 ToolBarsMovable=Disabled
 Virtual1=Virtual1
 
+[Recent Files]
+File1[$e]=$HOME/.cache/plasma_engine_potd/apod
+Name1[$e]=apod
+
 [SideBar]
-InformationSplitterSizes=0,0
+InformationSplitterSizes=210,245
