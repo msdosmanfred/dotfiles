@@ -5,7 +5,7 @@
 
 [
     {
-        "version": "4014008"
+        "version": "5004001"
     },
     {
         "command": "media_play",
@@ -177,6 +177,30 @@
     },
     {
         "command": "account6",
+        "keys": null
+    },
+    {
+        "command": "message",
+        "keys": null
+    },
+    {
+        "command": "message_silently",
+        "keys": null
+    },
+    {
+        "command": "message_scheduled",
+        "keys": null
+    },
+    {
+        "command": "media_viewer_video_fullscreen",
+        "keys": null
+    },
+    {
+        "command": "show_scheduled",
+        "keys": null
+    },
+    {
+        "command": "archive_chat",
         "keys": null
     }
 ]

@@ -3,6 +3,7 @@ DimDisplayWhenIdle=false
 TurnOffDisplayWhenIdle=false
 
 [AC][SuspendAndShutdown]
+AutoSuspendAction=0
 LidAction=1
 
 [Battery][SuspendAndShutdown]

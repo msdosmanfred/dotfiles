@@ -1,8 +1,8 @@
 [General]
-ColorScheme=DraculaPurple
+ColorScheme=BreezeLight
 
 [Icons]
-Theme=candy-icons
+Theme=breeze
 
 [KDE]
 widgetStyle=Breeze

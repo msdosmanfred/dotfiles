@@ -22,21 +22,22 @@ _k_friendly_name=Dienst für eigene Kurzbefehle
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Suchen
 
 [kmix]
-_k_friendly_name=Lautstärke
-decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Mikrofonlautstärke verringern
-decrease_volume=Volume Down,Volume Down,Lautstärke verringern
-decrease_volume_small=Shift+Volume Down,Shift+Volume Down,Lautstärke um 1% verringern
-increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,Mikrofonlautstärke erhöhen
-increase_volume=Volume Up,Volume Up,Lautstärke erhöhen
-increase_volume_small=Shift+Volume Up,Shift+Volume Up,Lautstärke um 1% erhöhen
-mic_mute=Microphone Mute\tMeta+Volume Mute,Microphone Mute\tMeta+Volume Mute,Mikrofon stummschalten
+_k_friendly_name=Audio Volume
+decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Decrease Microphone Volume
+decrease_volume=Volume Down,Volume Down,Decrease Volume
+decrease_volume_small=Shift+Volume Down,Shift+Volume Down,Decrease Volume by 1%
+increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,Increase Microphone Volume
+increase_volume=Volume Up,Volume Up,Increase Volume
+increase_volume_small=Shift+Volume Up,Shift+Volume Up,Increase Volume by 1%
+mic_mute=Microphone Mute\tMeta+Volume Mute,Microphone Mute\tMeta+Volume Mute,Mute Microphone
 mute=Volume Mute,Volume Mute,Stummschalten
 
 [ksmserver]
 Halt Without Confirmation=Ctrl+Alt+PgDown,,Shut Down Without Confirmation
 Lock Session=Meta+L\tScreensaver,Meta+L\tScreensaver,Sitzung sperren
-Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Log Out
+Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Show Logout Prompt
 Log Out Without Confirmation=Ctrl+Alt+End,,Log Out Without Confirmation
+LogOut=none,,Log Out
 Reboot=none,,Reboot
 Reboot Without Confirmation=Ctrl+Alt+PgUp,,Reboot Without Confirmation
 Shut Down=none,,Shut Down
@@ -65,7 +66,6 @@ MoveZoomUp=none,none,Vergrößerten Bereich nach oben verschieben
 Overview=Meta+W,Meta+W,Toggle Overview
 Setup Window Shortcut=none,,Kurzbefehl für Fenster einrichten
 Show Desktop=Meta+D,Meta+D,Blick auf die Arbeitsfläche
-ShowDesktopGrid=Meta+F8,Meta+F8,Arbeitsflächen-Raster anzeigen
 Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,Compositing aussetzen
 Switch One Desktop Down=Meta+Ctrl+Down,Meta+Ctrl+Down,Eine Arbeitsfläche nach unten
 Switch One Desktop Up=Meta+Ctrl+Up,Meta+Ctrl+Up,Eine Arbeitsfläche nach oben
@@ -111,7 +111,7 @@ Switch to Screen Above=none,,Zum Bildschirm oben wechseln
 Switch to Screen Below=none,,Zum Bildschirm unten wechseln
 Switch to Screen to the Left=none,,Zum Bildschirm links wechseln
 Switch to Screen to the Right=none,,Zum Bildschirm rechts wechseln
-Toggle Night Color=none,none,Toggle Night Light
+Toggle Night Color=none,none,Suspend/Resume Night Light
 Toggle Window Raise/Lower=none,,Fenster nach vorne/hinten
 Walk Through Windows=Alt+Tab,Alt+Tab,Zwischen Fenstern wechseln
 Walk Through Windows (Reverse)=Alt+Shift+Backtab,Alt+Shift+Tab,Zwischen Fenstern wechseln (Gegenrichtung)
@@ -228,6 +228,7 @@ powerProfile=Battery\tMeta+B,Battery\tMeta+B,Energieprofil wechseln
 
 [plasmashell]
 _k_friendly_name=plasmashell
+activate application launcher=Meta,Meta\tAlt+F1,Activate Application Launcher
 activate task manager entry 1=Meta+1,Meta+1,Fensterleisteneintrag 1 aktivieren
 activate task manager entry 10=none,Meta+0,Fensterleisteneintrag 10 aktivieren
 activate task manager entry 2=Meta+2,Meta+2,Fensterleisteneintrag 2 aktivieren
@@ -264,3 +265,14 @@ _launch=Ctrl+Alt+T\tMeta+T
 
 [services][org.kde.spectacle.desktop]
 RecordWindow=none
+
+[wacomtablet]
+Map to fullscreen=Meta+Ctrl+F,Meta+Ctrl+F,Bildschirmfüllend abbilden
+Map to screen 1=Meta+Ctrl+1,Meta+Ctrl+1,Auf Bildschirm 1 abbilden
+Map to screen 2=Meta+Ctrl+2,Meta+Ctrl+2,Auf Bildschirm 2 abbilden
+Next Profile=Meta+Ctrl+N,Meta+Ctrl+N,Nächstes Profil
+Previous Profile=Meta+Ctrl+P,Meta+Ctrl+P,Vorheriges Profil
+Toggle screen map selection=Meta+Ctrl+M,Meta+Ctrl+M,Zwischen allen Bildschirmen umschalten
+Toggle stylus mode=Meta+Ctrl+S,Meta+Ctrl+S,Funktionsweise des Stift-Werkzeugs zwischen relativ/absolut umschalten
+Toggle touch tool=Meta+Ctrl+T,Meta+Ctrl+T,Touch-Werkzeug aktivieren/deaktivieren
+_k_friendly_name=Wacom-Tablett

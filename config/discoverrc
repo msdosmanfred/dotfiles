@@ -2,5 +2,5 @@
 Sources=flathub
 
 [Window]
-geometry=0,0,936,684
-visibility=2
+geometry=0,0,1366,712
+visibility=4
