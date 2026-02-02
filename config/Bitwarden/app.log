@@ -114,3 +114,175 @@
 [2026-02-02 14:37:37.934] [error] [SignalR] Connection disconnected with error 'Error: Server timeout elapsed without receiving a message from the server.'.
 [2026-02-02 14:40:24.000] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
 [2026-02-02 14:40:24.002] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2026-02-02 15:35:50.254] [info]  State version: 72
+[2026-02-02 15:35:50.300] [info]  Migrator MinVersionMigrator (to version 3) should migrate: false - up
+[2026-02-02 15:35:50.302] [info]  Migrator RemoveEverBeenUnlockedMigrator (to version 4) should migrate: false - up
+[2026-02-02 15:35:50.302] [info]  Migrator AddKeyTypeToOrgKeysMigrator (to version 5) should migrate: false - up
+[2026-02-02 15:35:50.304] [info]  Migrator RemoveLegacyEtmKeyMigrator (to version 6) should migrate: false - up
+[2026-02-02 15:35:50.305] [info]  Migrator MoveBiometricAutoPromptToAccount (to version 7) should migrate: false - up
+[2026-02-02 15:35:50.306] [info]  Migrator MoveStateVersionMigrator (to version 8) should migrate: false - up
+[2026-02-02 15:35:50.306] [info]  Migrator MoveBrowserSettingsToGlobal (to version 9) should migrate: false - up
+[2026-02-02 15:35:50.307] [info]  Migrator EverHadUserKeyMigrator (to version 10) should migrate: false - up
+[2026-02-02 15:35:50.308] [info]  Migrator OrganizationKeyMigrator (to version 11) should migrate: false - up
+[2026-02-02 15:35:50.309] [info]  Migrator MoveEnvironmentStateToProviders (to version 12) should migrate: false - up
+[2026-02-02 15:35:50.310] [info]  Migrator ProviderKeyMigrator (to version 13) should migrate: false - up
+[2026-02-02 15:35:50.310] [info]  Migrator MoveBiometricClientKeyHalfToStateProviders (to version 14) should migrate: false - up
+[2026-02-02 15:35:50.310] [info]  Migrator FolderMigrator (to version 15) should migrate: false - up
+[2026-02-02 15:35:50.310] [info]  Migrator LastSyncMigrator (to version 16) should migrate: false - up
+[2026-02-02 15:35:50.310] [info]  Migrator EnablePasskeysMigrator (to version 17) should migrate: false - up
+[2026-02-02 15:35:50.310] [info]  Migrator AutofillSettingsKeyMigrator (to version 18) should migrate: false - up
+[2026-02-02 15:35:50.310] [info]  Migrator RequirePasswordOnStartMigrator (to version 19) should migrate: false - up
+[2026-02-02 15:35:50.317] [info]  Migrator PrivateKeyMigrator (to version 20) should migrate: false - up
+[2026-02-02 15:35:50.319] [info]  Migrator CollectionMigrator (to version 21) should migrate: false - up
+[2026-02-02 15:35:50.321] [info]  Migrator CollapsedGroupingsMigrator (to version 22) should migrate: false - up
+[2026-02-02 15:35:50.321] [info]  Migrator MoveBiometricPromptsToStateProviders (to version 23) should migrate: false - up
+[2026-02-02 15:35:50.323] [info]  Migrator SmOnboardingTasksMigrator (to version 24) should migrate: false - up
+[2026-02-02 15:35:50.323] [info]  Migrator ClearClipboardDelayMigrator (to version 25) should migrate: false - up
+[2026-02-02 15:35:50.323] [info]  Migrator RevertLastSyncMigrator (to version 26) should migrate: false - up
+[2026-02-02 15:35:50.323] [info]  Migrator BadgeSettingsMigrator (to version 27) should migrate: false - up
+[2026-02-02 15:35:50.324] [info]  Migrator MoveBiometricUnlockToStateProviders (to version 28) should migrate: false - up
+[2026-02-02 15:35:50.324] [info]  Migrator UserNotificationSettingsKeyMigrator (to version 29) should migrate: false - up
+[2026-02-02 15:35:50.324] [info]  Migrator PolicyMigrator (to version 30) should migrate: false - up
+[2026-02-02 15:35:50.325] [info]  Migrator EnableContextMenuMigrator (to version 31) should migrate: false - up
+[2026-02-02 15:35:50.325] [info]  Migrator PreferredLanguageMigrator (to version 32) should migrate: false - up
+[2026-02-02 15:35:50.325] [info]  Migrator AppIdMigrator (to version 33) should migrate: false - up
+[2026-02-02 15:35:50.326] [info]  Migrator DomainSettingsMigrator (to version 34) should migrate: false - up
+[2026-02-02 15:35:50.326] [info]  Migrator MoveThemeToStateProviderMigrator (to version 35) should migrate: false - up
+[2026-02-02 15:35:50.326] [info]  Migrator VaultSettingsKeyMigrator (to version 36) should migrate: false - up
+[2026-02-02 15:35:50.327] [info]  Migrator AvatarColorMigrator (to version 37) should migrate: false - up
+[2026-02-02 15:35:50.327] [info]  Migrator TokenServiceStateProviderMigrator (to version 38) should migrate: false - up
+[2026-02-02 15:35:50.327] [info]  Migrator MoveBillingAccountProfileMigrator (to version 39) should migrate: false - up
+[2026-02-02 15:35:50.327] [info]  Migrator OrganizationMigrator (to version 40) should migrate: false - up
+[2026-02-02 15:35:50.327] [info]  Migrator EventCollectionMigrator (to version 41) should migrate: false - up
+[2026-02-02 15:35:50.328] [info]  Migrator EnableFaviconMigrator (to version 42) should migrate: false - up
+[2026-02-02 15:35:50.328] [info]  Migrator AutoConfirmFingerPrintsMigrator (to version 43) should migrate: false - up
+[2026-02-02 15:35:50.328] [info]  Migrator UserDecryptionOptionsMigrator (to version 44) should migrate: false - up
+[2026-02-02 15:35:50.328] [info]  Migrator MergeEnvironmentState (to version 45) should migrate: false - up
+[2026-02-02 15:35:50.328] [info]  Migrator DeleteBiometricPromptCancelledData (to version 46) should migrate: false - up
+[2026-02-02 15:35:50.328] [info]  Migrator MoveDesktopSettingsMigrator (to version 47) should migrate: false - up
+[2026-02-02 15:35:50.329] [info]  Migrator MoveDdgToStateProviderMigrator (to version 48) should migrate: false - up
+[2026-02-02 15:35:50.329] [info]  Migrator AccountServerConfigMigrator (to version 49) should migrate: false - up
+[2026-02-02 15:35:50.330] [info]  Migrator KeyConnectorMigrator (to version 50) should migrate: false - up
+[2026-02-02 15:35:50.331] [info]  Migrator RememberedEmailMigrator (to version 51) should migrate: false - up
+[2026-02-02 15:35:50.331] [info]  Migrator DeleteInstalledVersion (to version 52) should migrate: false - up
+[2026-02-02 15:35:50.331] [info]  Migrator DeviceTrustServiceStateProviderMigrator (to version 53) should migrate: false - up
+[2026-02-02 15:35:50.331] [info]  Migrator SendMigrator (to version 54) should migrate: false - up
+[2026-02-02 15:35:50.331] [info]  Migrator MoveMasterKeyStateToProviderMigrator (to version 55) should migrate: false - up
+[2026-02-02 15:35:50.331] [info]  Migrator AuthRequestMigrator (to version 56) should migrate: false - up
+[2026-02-02 15:35:50.332] [info]  Migrator CipherServiceMigrator (to version 57) should migrate: false - up
+[2026-02-02 15:35:50.332] [info]  Migrator RemoveRefreshTokenMigratedFlagMigrator (to version 58) should migrate: false - up
+[2026-02-02 15:35:50.332] [info]  Migrator KdfConfigMigrator (to version 59) should migrate: false - up
+[2026-02-02 15:35:50.332] [info]  Migrator KnownAccountsMigrator (to version 60) should migrate: false - up
+[2026-02-02 15:35:50.332] [info]  Migrator PinStateMigrator (to version 61) should migrate: false - up
+[2026-02-02 15:35:50.332] [info]  Migrator VaultTimeoutSettingsServiceStateProviderMigrator (to version 62) should migrate: false - up
+[2026-02-02 15:35:50.332] [info]  Migrator PasswordOptionsMigrator (to version 63) should migrate: false - up
+[2026-02-02 15:35:50.332] [info]  Migrator GeneratorHistoryMigrator (to version 64) should migrate: false - up
+[2026-02-02 15:35:50.333] [info]  Migrator ForwarderOptionsMigrator (to version 65) should migrate: false - up
+[2026-02-02 15:35:50.333] [info]  Migrator MoveFinalDesktopSettingsMigrator (to version 66) should migrate: false - up
+[2026-02-02 15:35:50.333] [info]  Migrator RemoveUnassignedItemsBannerDismissed (to version 67) should migrate: false - up
+[2026-02-02 15:35:50.333] [info]  Migrator MoveLastSyncDate (to version 68) should migrate: false - up
+[2026-02-02 15:35:50.333] [info]  Migrator MigrateIncorrectFolderKey (to version 69) should migrate: false - up
+[2026-02-02 15:35:50.333] [info]  Migrator RemoveAcBannersDismissed (to version 70) should migrate: false - up
+[2026-02-02 15:35:50.333] [info]  Migrator RemoveNewCustomizationOptionsCalloutDismissed (to version 71) should migrate: false - up
+[2026-02-02 15:35:50.333] [info]  Migrator RemoveAccountDeprovisioningBannerDismissed (to version 72) should migrate: false - up
+[2026-02-02 15:35:50.844] [info]  [Process Isolation] Isolating process from debuggers and memory dumps
+[2026-02-02 15:35:50.890] [info]  Coredumps are disabled in renderer process
+[2026-02-02 15:35:51.111] [info]  Native messaging server started at: /home/alex/.cache/com.bitwarden.desktop/app.bitwarden
+[2026-02-02 15:35:51.154] [warn]  Chrome not found, skipping.
+[2026-02-02 15:35:51.155] [warn]  Chromium not found, skipping.
+[2026-02-02 15:35:51.156] [warn]  Microsoft Edge not found, skipping.
+[2026-02-02 15:35:51.835] [info]  [Native Messaging IPC] Browser integration fingerprint validation is disabled, untrusting all connected apps
+[2026-02-02 15:35:51.838] [info]  State version: 72
+[2026-02-02 15:35:52.662] [info]  Using SignalR for server notifications
+[2026-02-02 15:35:52.760] [info]  [CipherService]: decrypt complete took 71.40000000037253 [ [ 'Items', 309 ] ]
+[2026-02-02 15:35:52.860] [info]  [SearchService]: index complete took 88 [ [ 'Items', 309 ] ]
+[2026-02-02 15:35:53.217] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2026-02-02 15:35:53.218] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2026-02-02 15:35:53.482] [info]  [CipherService]: decrypt complete took 47.40000000037253 [ [ 'Items', 309 ] ]
+[2026-02-02 15:35:53.525] [info]  [SearchService]: index complete took 42.40000000037253 [ [ 'Items', 309 ] ]
+[2026-02-02 15:40:38.418] [info]  State version: 72
+[2026-02-02 15:40:38.436] [info]  Migrator MinVersionMigrator (to version 3) should migrate: false - up
+[2026-02-02 15:40:38.437] [info]  Migrator RemoveEverBeenUnlockedMigrator (to version 4) should migrate: false - up
+[2026-02-02 15:40:38.438] [info]  Migrator AddKeyTypeToOrgKeysMigrator (to version 5) should migrate: false - up
+[2026-02-02 15:40:38.438] [info]  Migrator RemoveLegacyEtmKeyMigrator (to version 6) should migrate: false - up
+[2026-02-02 15:40:38.438] [info]  Migrator MoveBiometricAutoPromptToAccount (to version 7) should migrate: false - up
+[2026-02-02 15:40:38.439] [info]  Migrator MoveStateVersionMigrator (to version 8) should migrate: false - up
+[2026-02-02 15:40:38.439] [info]  Migrator MoveBrowserSettingsToGlobal (to version 9) should migrate: false - up
+[2026-02-02 15:40:38.440] [info]  Migrator EverHadUserKeyMigrator (to version 10) should migrate: false - up
+[2026-02-02 15:40:38.440] [info]  Migrator OrganizationKeyMigrator (to version 11) should migrate: false - up
+[2026-02-02 15:40:38.440] [info]  Migrator MoveEnvironmentStateToProviders (to version 12) should migrate: false - up
+[2026-02-02 15:40:38.440] [info]  Migrator ProviderKeyMigrator (to version 13) should migrate: false - up
+[2026-02-02 15:40:38.441] [info]  Migrator MoveBiometricClientKeyHalfToStateProviders (to version 14) should migrate: false - up
+[2026-02-02 15:40:38.442] [info]  Migrator FolderMigrator (to version 15) should migrate: false - up
+[2026-02-02 15:40:38.442] [info]  Migrator LastSyncMigrator (to version 16) should migrate: false - up
+[2026-02-02 15:40:38.442] [info]  Migrator EnablePasskeysMigrator (to version 17) should migrate: false - up
+[2026-02-02 15:40:38.442] [info]  Migrator AutofillSettingsKeyMigrator (to version 18) should migrate: false - up
+[2026-02-02 15:40:38.442] [info]  Migrator RequirePasswordOnStartMigrator (to version 19) should migrate: false - up
+[2026-02-02 15:40:38.443] [info]  Migrator PrivateKeyMigrator (to version 20) should migrate: false - up
+[2026-02-02 15:40:38.444] [info]  Migrator CollectionMigrator (to version 21) should migrate: false - up
+[2026-02-02 15:40:38.445] [info]  Migrator CollapsedGroupingsMigrator (to version 22) should migrate: false - up
+[2026-02-02 15:40:38.447] [info]  Migrator MoveBiometricPromptsToStateProviders (to version 23) should migrate: false - up
+[2026-02-02 15:40:38.448] [info]  Migrator SmOnboardingTasksMigrator (to version 24) should migrate: false - up
+[2026-02-02 15:40:38.449] [info]  Migrator ClearClipboardDelayMigrator (to version 25) should migrate: false - up
+[2026-02-02 15:40:38.449] [info]  Migrator RevertLastSyncMigrator (to version 26) should migrate: false - up
+[2026-02-02 15:40:38.450] [info]  Migrator BadgeSettingsMigrator (to version 27) should migrate: false - up
+[2026-02-02 15:40:38.450] [info]  Migrator MoveBiometricUnlockToStateProviders (to version 28) should migrate: false - up
+[2026-02-02 15:40:38.451] [info]  Migrator UserNotificationSettingsKeyMigrator (to version 29) should migrate: false - up
+[2026-02-02 15:40:38.452] [info]  Migrator PolicyMigrator (to version 30) should migrate: false - up
+[2026-02-02 15:40:38.452] [info]  Migrator EnableContextMenuMigrator (to version 31) should migrate: false - up
+[2026-02-02 15:40:38.453] [info]  Migrator PreferredLanguageMigrator (to version 32) should migrate: false - up
+[2026-02-02 15:40:38.454] [info]  Migrator AppIdMigrator (to version 33) should migrate: false - up
+[2026-02-02 15:40:38.454] [info]  Migrator DomainSettingsMigrator (to version 34) should migrate: false - up
+[2026-02-02 15:40:38.454] [info]  Migrator MoveThemeToStateProviderMigrator (to version 35) should migrate: false - up
+[2026-02-02 15:40:38.455] [info]  Migrator VaultSettingsKeyMigrator (to version 36) should migrate: false - up
+[2026-02-02 15:40:38.455] [info]  Migrator AvatarColorMigrator (to version 37) should migrate: false - up
+[2026-02-02 15:40:38.456] [info]  Migrator TokenServiceStateProviderMigrator (to version 38) should migrate: false - up
+[2026-02-02 15:40:38.456] [info]  Migrator MoveBillingAccountProfileMigrator (to version 39) should migrate: false - up
+[2026-02-02 15:40:38.456] [info]  Migrator OrganizationMigrator (to version 40) should migrate: false - up
+[2026-02-02 15:40:38.456] [info]  Migrator EventCollectionMigrator (to version 41) should migrate: false - up
+[2026-02-02 15:40:38.457] [info]  Migrator EnableFaviconMigrator (to version 42) should migrate: false - up
+[2026-02-02 15:40:38.457] [info]  Migrator AutoConfirmFingerPrintsMigrator (to version 43) should migrate: false - up
+[2026-02-02 15:40:38.457] [info]  Migrator UserDecryptionOptionsMigrator (to version 44) should migrate: false - up
+[2026-02-02 15:40:38.457] [info]  Migrator MergeEnvironmentState (to version 45) should migrate: false - up
+[2026-02-02 15:40:38.458] [info]  Migrator DeleteBiometricPromptCancelledData (to version 46) should migrate: false - up
+[2026-02-02 15:40:38.458] [info]  Migrator MoveDesktopSettingsMigrator (to version 47) should migrate: false - up
+[2026-02-02 15:40:38.458] [info]  Migrator MoveDdgToStateProviderMigrator (to version 48) should migrate: false - up
+[2026-02-02 15:40:38.458] [info]  Migrator AccountServerConfigMigrator (to version 49) should migrate: false - up
+[2026-02-02 15:40:38.460] [info]  Migrator KeyConnectorMigrator (to version 50) should migrate: false - up
+[2026-02-02 15:40:38.461] [info]  Migrator RememberedEmailMigrator (to version 51) should migrate: false - up
+[2026-02-02 15:40:38.461] [info]  Migrator DeleteInstalledVersion (to version 52) should migrate: false - up
+[2026-02-02 15:40:38.461] [info]  Migrator DeviceTrustServiceStateProviderMigrator (to version 53) should migrate: false - up
+[2026-02-02 15:40:38.462] [info]  Migrator SendMigrator (to version 54) should migrate: false - up
+[2026-02-02 15:40:38.462] [info]  Migrator MoveMasterKeyStateToProviderMigrator (to version 55) should migrate: false - up
+[2026-02-02 15:40:38.462] [info]  Migrator AuthRequestMigrator (to version 56) should migrate: false - up
+[2026-02-02 15:40:38.462] [info]  Migrator CipherServiceMigrator (to version 57) should migrate: false - up
+[2026-02-02 15:40:38.462] [info]  Migrator RemoveRefreshTokenMigratedFlagMigrator (to version 58) should migrate: false - up
+[2026-02-02 15:40:38.463] [info]  Migrator KdfConfigMigrator (to version 59) should migrate: false - up
+[2026-02-02 15:40:38.463] [info]  Migrator KnownAccountsMigrator (to version 60) should migrate: false - up
+[2026-02-02 15:40:38.463] [info]  Migrator PinStateMigrator (to version 61) should migrate: false - up
+[2026-02-02 15:40:38.463] [info]  Migrator VaultTimeoutSettingsServiceStateProviderMigrator (to version 62) should migrate: false - up
+[2026-02-02 15:40:38.464] [info]  Migrator PasswordOptionsMigrator (to version 63) should migrate: false - up
+[2026-02-02 15:40:38.464] [info]  Migrator GeneratorHistoryMigrator (to version 64) should migrate: false - up
+[2026-02-02 15:40:38.464] [info]  Migrator ForwarderOptionsMigrator (to version 65) should migrate: false - up
+[2026-02-02 15:40:38.464] [info]  Migrator MoveFinalDesktopSettingsMigrator (to version 66) should migrate: false - up
+[2026-02-02 15:40:38.464] [info]  Migrator RemoveUnassignedItemsBannerDismissed (to version 67) should migrate: false - up
+[2026-02-02 15:40:38.464] [info]  Migrator MoveLastSyncDate (to version 68) should migrate: false - up
+[2026-02-02 15:40:38.464] [info]  Migrator MigrateIncorrectFolderKey (to version 69) should migrate: false - up
+[2026-02-02 15:40:38.464] [info]  Migrator RemoveAcBannersDismissed (to version 70) should migrate: false - up
+[2026-02-02 15:40:38.465] [info]  Migrator RemoveNewCustomizationOptionsCalloutDismissed (to version 71) should migrate: false - up
+[2026-02-02 15:40:38.465] [info]  Migrator RemoveAccountDeprovisioningBannerDismissed (to version 72) should migrate: false - up
+[2026-02-02 15:40:38.880] [info]  [Process Isolation] Isolating process from debuggers and memory dumps
+[2026-02-02 15:40:39.021] [info]  Coredumps are disabled in renderer process
+[2026-02-02 15:40:39.297] [info]  Native messaging server started at: /home/alex/.cache/com.bitwarden.desktop/app.bitwarden
+[2026-02-02 15:40:39.321] [warn]  Chrome not found, skipping.
+[2026-02-02 15:40:39.322] [warn]  Chromium not found, skipping.
+[2026-02-02 15:40:39.322] [warn]  Microsoft Edge not found, skipping.
+[2026-02-02 15:40:39.898] [info]  [Native Messaging IPC] Browser integration fingerprint validation is disabled, untrusting all connected apps
+[2026-02-02 15:40:39.900] [info]  State version: 72
+[2026-02-02 15:40:40.047] [info]  Using SignalR for server notifications
+[2026-02-02 15:40:40.208] [info]  [CipherService]: decrypt complete took 74 [ [ 'Items', 309 ] ]
+[2026-02-02 15:40:40.339] [info]  [SearchService]: index complete took 111.40000000037253 [ [ 'Items', 309 ] ]
+[2026-02-02 15:40:40.587] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2026-02-02 15:40:40.588] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2026-02-02 15:40:41.779] [info]  [CipherService]: decrypt complete took 40.80000000074506 [ [ 'Items', 309 ] ]
+[2026-02-02 15:40:41.823] [info]  [SearchService]: index complete took 43.5 [ [ 'Items', 309 ] ]
