@@ -20,9 +20,15 @@
       "type": "host",
       "keyColor": "red"
     },
-    "kernel",
+    {
+      "type": "kernel",
+      "keyColor": "red"
+    },
+    {
+      "type": "separator"
+    },
     "uptime",
-    "packages",
+    //"packages",
     "shell",
     "display",
     "de",
