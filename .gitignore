@@ -2,3 +2,5 @@
 *.log
 
 config/Bitwarden/
+config/discord/
+config/Vencord/
