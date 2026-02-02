@@ -42,7 +42,7 @@ _k_friendly_name=Sitzungsverwaltung
 
 [kwin]
 Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,Fenster aktivieren\\, das Aufmerksamkeit erfordert
-Cube=Meta+C,none,Würfel umschalten
+Cube=Meta+C,Meta+C,Würfel umschalten
 Cycle Overview=none,none,Durch Überblick und Rasteransicht wechseln
 Cycle Overview Opposite=none,none,Durch Rasteransicht und Überblick wechseln
 Decrease Opacity=none,,Die Deckkraft des aktiven Fensters um 5 % verringern

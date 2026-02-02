@@ -139,12 +139,32 @@ PreloadWeight=55
 immutability=1
 plugin=org.kde.plasma.weather
 
+[Containments][2][Applets][7][Applets][24][Configuration]
+PreloadWeight=60
+
+[Containments][2][Applets][7][Applets][24][Configuration][Appearance]
+showPressureInTooltip=true
+showTemperatureInBadge=true
+showTemperatureInCompactMode=true
+
+[Containments][2][Applets][7][Applets][24][Configuration][ConfigDialog]
+DialogHeight=630
+DialogWidth=810
+
+[Containments][2][Applets][7][Applets][24][Configuration][Units]
+speedUnit=9001
+
+[Containments][2][Applets][7][Applets][24][Configuration][WeatherStation]
+placeDisplayName=Leipzig
+placeInfo=Leipzig|10471
+provider=dwd
+
 [Containments][2][Applets][7][Applets][25]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][2][Applets][7][Applets][25][Configuration]
-PreloadWeight=96
+PreloadWeight=100
 
 [Containments][2][Applets][7][Applets][26]
 immutability=1
@@ -158,7 +178,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][2][Applets][7][Applets][78][Configuration]
-PreloadWeight=92
+PreloadWeight=97
 
 [Containments][2][Applets][7][Applets][79]
 immutability=1
@@ -269,8 +289,14 @@ useCustomButtonImage=true
 immutability=1
 plugin=org.kde.plasma.taskmanager
 
+[Containments][2][Applets][83][Configuration][ConfigDialog]
+DialogHeight=630
+DialogWidth=810
+
 [Containments][2][Applets][83][Configuration][General]
+groupPopups=false
 launchers=applications:systemsettings.desktop,applications:org.kde.discover.desktop,preferred://filemanager,preferred://browser,applications:org.mozilla.Thunderbird.desktop
+taskMaxWidth=Narrow
 
 [Containments][2][General]
 AppletOrder=82;4;83;74;75;73;6;7;21;72;22
@@ -417,7 +443,7 @@ popupHeight=400
 popupWidth=560
 
 [Containments][84][Applets][109][Configuration][Appearance]
-chartFace=org.kde.ksysguard.linechart
+chartFace=org.kde.ksysguard.piechart
 title=Gesamt-CPU-Auslastung
 
 [Containments][84][Applets][109][Configuration][ConfigDialog]
@@ -471,7 +497,7 @@ plugin=org.kde.plasma.kicker
 [Containments][84][Applets][112][Configuration]
 PreloadWeight=100
 popupHeight=441
-popupWidth=311
+popupWidth=322
 
 [Containments][84][Applets][112][Configuration][ConfigDialog]
 DialogHeight=630
@@ -485,6 +511,9 @@ useCustomButtonImage=true
 [Containments][84][Applets][113]
 immutability=1
 plugin=org.kde.plasma.taskmanager
+
+[Containments][84][Applets][113][Configuration][General]
+launchers=applications:systemsettings.desktop,applications:org.kde.discover.desktop,preferred://filemanager,preferred://browser,applications:org.mozilla.Thunderbird.desktop
 
 [Containments][84][Applets][85]
 immutability=1
@@ -569,6 +598,13 @@ plugin=org.kde.plasma.manage-inputmethod
 [Containments][84][Applets][87][Applets][91]
 immutability=1
 plugin=org.kde.plasma.keyboardlayout
+
+[Containments][84][Applets][87][Applets][91][Configuration][ConfigDialog]
+DialogHeight=630
+DialogWidth=810
+
+[Containments][84][Applets][87][Applets][91][Configuration][General]
+displayStyle=LabelOverFlag
 
 [Containments][84][Applets][87][Applets][92]
 immutability=1
