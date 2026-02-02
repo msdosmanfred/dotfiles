@@ -1,0 +1,16 @@
+[2026-01-31 15:25:24.792] [info]  [Main] ----------------------------------------------
+[2026-01-31 15:25:24.795] [info]  [Main] 1.0.18 - /tmp/.mount_TruckyHqGD8b/resources/app.asar - /tmp/.mount_TruckyHqGD8b/trucky-modmanager
+[2026-01-31 15:25:24.795] [info]  [Main] App start
+[2026-01-31 15:25:24.798] [info]  [Main] Setting Default Client Protocol
+[2026-01-31 15:25:26.154] [info]  [Main] Acquired Single Instance Lock
+[2026-01-31 15:25:26.249] [info]  [Main] App Ready Event
+[2026-01-31 15:25:26.250] [info]  [BackgroundController] Bootstrapping
+[2026-01-31 15:25:26.258] [info]  [SettingsService] Open Settings file at /home/alex/.config/trucky-modmanager/config.json
+[2026-01-31 15:25:26.259] [info]  [SettingsService] Current Settings: {"app":{"autoLaunch":false,"showDesktopWindowAtStartup":false,"user":{"id":426053,"name":"MS-DOS Manfred","donate_url":null,"featured":0,"discord_url":null,"buymeacoffee_url":null,"bio":null,"filament_roles":null,"crm_id":null,"newsletter":0,"verified_creator":0,"settings":"[]","stripe_id":null,"pm_type":null,"pm_last_four":null,"trial_ends_at":null,"accept_payments":0,"patreon_url":null,"paypal_me_url":null,"is_admin":0,"beta":null,"avatar_url":"https://truckymods.io/assets/images/default-avatar.png","profile_url":"https://truckymods.io/user/426053"},"token":"55655|zvb7nLwiVWE0d5XiMa14so3vpbaHGoZPHbtkA2Py42a4090f","gameInstallations":{"ETS2":null,"ATS":null},"modsDirectory":{"ETS2":"/home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2","ATS":null},"env":"production","platform":"linux","gameVersions":{"ETS2":"1.57","ATS":null}}}
+[2026-01-31 15:25:26.681] [info]  [OverwolfApplication] Initializing OverwolfApplication
+[2026-01-31 15:25:26.681] [info]  [OverwolfApplication] AppID: undefined
+[2026-01-31 15:25:26.684] [info]  [LibraryService] Loading Mods DB from /home/alex/.config/trucky-modmanager/modsdb.json
+[2026-01-31 15:25:26.685] [info]  [LibraryService] Mods DB loaded
+[2026-01-31 15:25:27.302] [info]  [LibraryService] Checking updates
+[2026-01-31 15:25:27.303] [info]  [BackgroundController] Creating and showing Desktop Window
+[2026-01-31 15:25:27.340] [info]  Resolving file:///tmp/.mount_TruckyHqGD8b/resources/app.asar/dist/renderer/index.html

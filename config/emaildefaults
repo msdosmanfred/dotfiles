@@ -1,0 +1,11 @@
+[Defaults]
+Profile=Standard
+
+[PROFILE_Standard]
+EmailAddress=
+EmailClient[$e]=org.mozilla.Thunderbird.desktop
+FullName=MS-DOS Manfred
+Organization=
+ReplyAddr=
+ServerType=
+TerminalClient=false

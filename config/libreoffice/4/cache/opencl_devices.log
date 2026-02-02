@@ -1,0 +1,18 @@
+Device Index: 0
+  Selected: false
+  Device Name: AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.64, 6.18.8-3-cachyos)
+  Device Vendor: AMD
+  Device Version: OpenCL 3.0 
+  Driver Version: 25.3.4-arch1.2
+  Device Type: gpu 
+  Device Extensions: cl_khr_byte_addressable_store cl_khr_create_command_queue cl_khr_expect_assume cl_khr_extended_bit_ops cl_khr_extended_versioning cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_il_program cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_khr_integer_dot_product cl_khr_spirv_no_integer_wrap_decoration cl_khr_spirv_queries cl_khr_suggested_local_work_size cl_ext_immutable_memory_objects cl_khr_spirv_linkonce_odr cl_khr_fp16 cl_khr_gl_sharing cles_khr_int64 cl_khr_kernel_clock cl_khr_3d_image_writes cl_khr_depth_images cl_ext_image_unorm_int_2_101010 cl_khr_pci_bus_info cl_khr_priority_hints cl_khr_device_uuid cl_khr_subgroup_shuffle cl_khr_subgroup_shuffle_relative cl_arm_shared_virtual_memory cl_ext_buffer_device_address cl_khr_external_semaphore cl_khr_external_semaphore_sync_fd cl_khr_semaphore
+  Device OpenCL C Version: OpenCL C 1.2 
+  Device Available: true
+  Device Compiler Available: true
+  Device Linker Available: true
+  Platform Name: rusticl
+  Platform Vendor: Mesa/X.org
+  Platform Version: OpenCL 3.0 
+  Platform Profile: FULL_PROFILE
+  Platform Extensions: cl_khr_icd cl_khr_byte_addressable_store cl_khr_create_command_queue cl_khr_expect_assume cl_khr_extended_bit_ops cl_khr_extended_versioning cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_il_program cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_khr_integer_dot_product cl_khr_spirv_no_integer_wrap_decoration cl_khr_spirv_queries cl_khr_suggested_local_work_size cl_ext_immutable_memory_objects cl_khr_spirv_linkonce_odr cl_khr_fp16 cl_khr_gl_sharing cles_khr_int64 cl_khr_kernel_clock cl_khr_3d_image_writes cl_khr_depth_images cl_ext_image_unorm_int_2_101010 cl_khr_pci_bus_info cl_khr_priority_hints cl_khr_device_uuid cl_khr_subgroup_shuffle cl_khr_subgroup_shuffle_relative cl_arm_shared_virtual_memory cl_ext_buffer_device_address cl_khr_external_semaphore cl_khr_external_semaphore_sync_fd cl_khr_semaphore
+

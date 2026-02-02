@@ -1,0 +1,24 @@
+[2026-01-31 14:58:30.031] [info]  [Main] ----------------------------------------------
+[2026-01-31 14:58:30.034] [info]  [Main] 1.0.18 - /tmp/.mount_Trucky199Hv0/resources/app.asar - /tmp/.mount_Trucky199Hv0/trucky-modmanager
+[2026-01-31 14:58:30.034] [info]  [Main] App start
+[2026-01-31 14:58:30.037] [info]  [Main] Setting Default Client Protocol
+[2026-01-31 14:58:31.291] [info]  [Main] Acquired Single Instance Lock
+[2026-01-31 14:58:31.390] [info]  [Main] App Ready Event
+[2026-01-31 14:58:31.390] [info]  [BackgroundController] Bootstrapping
+[2026-01-31 14:58:31.943] [info]  [SettingsService] Open Settings file at /home/alex/.config/trucky-modmanager/config.json
+[2026-01-31 14:58:31.943] [info]  [SettingsService] Current Settings: {"app":{"autoLaunch":true,"showDesktopWindowAtStartup":true,"user":null,"token":null,"gameInstallations":{"ETS2":null,"ATS":null},"modsDirectory":{"ETS2":null,"ATS":null}}}
+[2026-01-31 14:58:32.348] [info]  [OverwolfApplication] Initializing OverwolfApplication
+[2026-01-31 14:58:32.349] [info]  [OverwolfApplication] AppID: undefined
+[2026-01-31 14:58:32.352] [info]  [LibraryService] Loading Mods DB from /home/alex/.config/trucky-modmanager/modsdb.json
+[2026-01-31 14:58:32.353] [info]  [LibraryService] Mods DB not found. Creating empty db
+[2026-01-31 14:58:32.982] [info]  [BackgroundController] Creating and showing Desktop Window
+[2026-01-31 14:58:33.013] [info]  Resolving file:///tmp/.mount_Trucky199Hv0/resources/app.asar/dist/renderer/index.html
+[2026-01-31 14:59:10.676] [info]  [LibraryService] Checking updates
+[2026-01-31 15:00:10.793] [info]  [BackgroundController] Enabling auto launch
+[2026-01-31 15:00:11.048] [info]  [LibraryService] Checking updates
+[2026-01-31 15:24:34.863] [info]  [BackgroundController] Enabling auto launch
+[2026-01-31 15:24:35.271] [info]  [LibraryService] Checking updates
+[2026-01-31 15:25:00.781] [info]  [BackgroundController] Enabling auto launch
+[2026-01-31 15:25:01.081] [info]  [LibraryService] Checking updates
+[2026-01-31 15:25:03.988] [info]  [BackgroundController] Disabling auto launch
+[2026-01-31 15:25:04.275] [info]  [LibraryService] Checking updates

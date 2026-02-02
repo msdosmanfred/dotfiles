@@ -1,0 +1,27 @@
+[2026-02-02 12:51:00.711] [info]  No state version found, assuming empty state.
+[2026-02-02 12:51:00.788] [info]  [Process Isolation] Isolating process from debuggers and memory dumps
+[2026-02-02 12:51:00.824] [info]  Coredumps are disabled in renderer process
+[2026-02-02 12:51:03.069] [info]  [Native Messaging IPC] Clearing connected apps
+[2026-02-02 12:51:03.070] [info]  State version: 72
+[2026-02-02 12:51:03.257] [info]  Retrieving application id
+[2026-02-02 12:51:14.352] [info]  Retrieving application id
+[2026-02-02 12:51:14.364] [info]  Retrieving application id
+[2026-02-02 12:51:20.631] [info]  Retrieving application id
+[2026-02-02 12:51:20.911] [info]  [KeyService] Deriving master key took 13ms
+[2026-02-02 12:51:20.916] [info]  Retrieving application id
+[2026-02-02 12:51:51.433] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 2eeebd7f-92f6-44f9-a7c9-a978011b1251_accessTokenKey
+[2026-02-02 12:51:51.468] [info]  Using SignalR for server notifications
+[2026-02-02 12:51:51.557] [info]  [NAPI] [INFO] desktop_core::password::password: OS keyring is_locked=false
+[2026-02-02 12:51:51.938] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2026-02-02 12:51:51.939] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2026-02-02 12:51:52.590] [info]  [CipherService]: decrypt complete took 75.29999999998836 [ [ 'Items', 309 ] ]
+[2026-02-02 12:51:52.778] [info]  [SearchService]: index complete took 180.5 [ [ 'Items', 309 ] ]
+[2026-02-02 12:51:52.869] [error] SSO login email not found.
+[2026-02-02 12:52:21.474] [info]  [Native Messaging IPC] Browser integration fingerprint validation is disabled, untrusting all connected apps
+[2026-02-02 12:52:21.474] [info]  Native messaging server started at: /home/alex/.cache/com.bitwarden.desktop/app.bitwarden
+[2026-02-02 12:52:21.477] [warn]  Chrome not found, skipping.
+[2026-02-02 12:52:21.477] [warn]  Chromium not found, skipping.
+[2026-02-02 12:52:21.477] [warn]  Microsoft Edge not found, skipping.
+[2026-02-02 13:05:19.006] [error] [SignalR] Connection disconnected with error 'Error: Server timeout elapsed without receiving a message from the server.'.
+[2026-02-02 13:07:20.243] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2026-02-02 13:07:20.244] [info]  [SignalR] Using HubProtocol 'messagepack'.

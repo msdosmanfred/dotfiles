@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+ <version>LibreOffice v1</version>
+ <device>
+  <type>opencl</type>
+  <name>AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.64, 6.18.8-3-cachyos)</name>
+  <driver>25.3.4-arch1.2</driver>
+  <time>max</time>
+  <errors>false</errors>
+ </device>
+ <device>
+  <type>native</type>
+  <time>2996736</time>
+  <errors>false</errors>
+ </device>
+</profile>

@@ -1,0 +1,17 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display,dolphin_directorysizemode.upd:convert-directorysizecount-to-directorysizemode
+
+[DetailsMode]
+PreviewSize=16
+
+[General]
+RememberOpenedTabs=false
+Version=202
+ViewPropsTimestamp=2023,12,28,12,5,32.978
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,directorythumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,opendocumentthumbnail,svgthumbnail,windowsexethumbnail,windowsimagethumbnail,fontthumbnail,calligraimagethumbnail,calligrathumbnail,ffmpegthumbs,itinerarythumbnail,quithumbnail,blenderthumbnail,gsthumbnail,mobithumbnail,rawthumbnail,mltpreview,pothumbnail,webarchivethumbnail,palathumbcreator,glycin-heif,glycin-image-rs,glycin-jxl,glycin-svg,ffmpegthumbnailer,gsf-office,FreeCAD

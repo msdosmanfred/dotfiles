@@ -1,0 +1,58 @@
+00:00:00.000266 main     VirtualBox XPCOM Server 7.2.6 r172322 linux.amd64 (Jan 15 2026 14:44:00) release log
+00:00:00.000272 main     Log opened 2026-01-30T14:32:32.237705000Z
+00:00:00.000273 main     Build Type: release
+00:00:00.000282 main     OS Product: Linux
+00:00:00.000283 main     OS Release: 6.18.7-2-cachyos
+00:00:00.000285 main     OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 24 Jan 2026 21:21:21 +0000
+00:00:00.000319 main     DMI Product Name: Aspire A515-45
+00:00:00.000333 main     DMI Product Version: V1.55
+00:00:00.000343 main     Firmware type: UEFI
+00:00:00.000553 main     Secure Boot: Disabled
+00:00:00.000634 main     Host RAM: 15329MB (14.9GB) total, 9760MB (9.5GB) available
+00:00:00.000642 main     Executable: /opt/VirtualBox/VBoxSVC
+00:00:00.000643 main     Process ID: 32267
+00:00:00.000644 main     Package type: LINUX_64BITS_GENERIC
+00:00:00.003212 main     IPC socket path: /tmp/.vbox-alex-ipc/ipcd
+00:00:00.005681 DCon01   VirtualBox: object creation starts
+00:00:00.005818 DCon01   Home directory: '/home/alex/.config/VirtualBox'
+00:00:00.020292 DCon01   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0029)
+00:00:00.020547 DCon01   Successfully initialised host USB using sysfs
+00:00:00.054875 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.064361 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet8: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.065630 DCon01   HostDnsMonitor: initializing
+00:00:00.066155 DCon01   NAT: resolv.conf: nameserver 127.0.0.53
+00:00:00.066168 DCon01   NAT: resolv.conf: ignoring "options edns0 trust-ad"
+00:00:00.066186 DCon01   HostDnsMonitor: updating information
+00:00:00.066210 DCon01   HostDnsMonitor: old information
+00:00:00.066215 DCon01     no server entries
+00:00:00.066222 DCon01     no domain set
+00:00:00.066228 DCon01     no search string entries
+00:00:00.066232 DCon01   HostDnsMonitor: new information
+00:00:00.066238 DCon01     server 1: 127.0.0.53
+00:00:00.066245 DCon01     domain: speedport.ip
+00:00:00.066250 DCon01     search string 1: speedport.ip
+00:00:00.068938 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.085787 DCon01   OCI: Local config file '/home/alex/.config/VirtualBox/oci_config' does not exist
+00:00:00.085841 DCon01   OCI: Original config file '/home/alex/.oci/config' does not exist
+00:00:00.085848 DCon01   OCI: Reading profiles finished with status NS_OK
+00:00:00.085861 DCon01   ExtPack: Created cloud provider 'OCI' (hrc=NS_OK)
+00:00:00.085932 DCon01   VirtualBox: object created
+00:00:00.840437 DCon04   Saving settings file "/home/alex/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.846775 DCon04   Finished saving settings file "/home/alex/.config/VirtualBox/VirtualBox.xml"
+00:00:00.847175 DCon04   Saving settings file "/home/alex/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.852287 DCon04   Finished saving settings file "/home/alex/.config/VirtualBox/VirtualBox.xml"
+00:00:00.852658 DCon04   Saving settings file "/home/alex/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.859560 DCon04   Finished saving settings file "/home/alex/.config/VirtualBox/VirtualBox.xml"
+00:00:01.222131 DCon04   Saving settings file "/home/alex/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.228566 DCon04   Finished saving settings file "/home/alex/.config/VirtualBox/VirtualBox.xml"
+00:00:04.197413 DCon02   Saving settings file "/home/alex/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:04.205155 DCon02   Finished saving settings file "/home/alex/.config/VirtualBox/VirtualBox.xml"
+00:00:13.123181 DCon02   Saving settings file "/home/alex/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:13.131409 DCon02   Finished saving settings file "/home/alex/.config/VirtualBox/VirtualBox.xml"
+00:00:19.241383 DCon02   Saving settings file "/home/alex/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:19.247869 DCon02   Finished saving settings file "/home/alex/.config/VirtualBox/VirtualBox.xml"
+00:00:25.262812 main     VirtualBox: object deletion starts
+00:00:25.263436 main     HostDnsMonitor: shutting down ...
+00:00:25.263697 main     HostDnsMonitor: shut down
+00:00:25.274729 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:25.274815 main     VirtualBox: object deleted

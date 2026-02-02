@@ -1,0 +1,6 @@
+[General]
+HotspotName=alex-hotspot
+HotspotPassword=BFBDBC5C5D2E37CAD8C9D71B46
+ManageVirtualConnections=true
+SystemConnectionsByDefault=false
+UnlockModemOnDetection=true

@@ -1,0 +1,14 @@
+[General]
+Default Identity=573709686
+
+[Identity #0]
+Default Domain=denkbrett
+Disable Fcc=false
+Disable Spam=false
+Identity=MS-DOS Manfred
+Image Location=
+Inline Signature=
+Name=MS-DOS Manfred
+Override Encryption Defaults=false
+Signature Enabled=false
+uoid=573709686
