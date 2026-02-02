@@ -1,0 +1,4 @@
+# logfiles
+*.log
+
+config/Bitwarden/
