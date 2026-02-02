@@ -19,7 +19,7 @@ _k_friendly_name=Dienst für eigene Kurzbefehle
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Suchen
 
 [kmix]
-_k_friendly_name=Lautstärke
+_k_friendly_name=KMix
 decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Mikrofonlautstärke verringern
 decrease_volume=Volume Down,Volume Down,Lautstärke verringern
 decrease_volume_small=Shift+Volume Down,Shift+Volume Down,Lautstärke um 1 % verringern
@@ -27,7 +27,7 @@ increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,Mikrofonlau
 increase_volume=Volume Up,Volume Up,Lautstärke erhöhen
 increase_volume_small=Shift+Volume Up,Shift+Volume Up,Lautstärke um 1 % erhöhen
 mic_mute=Microphone Mute\tMeta+Volume Mute,Microphone Mute\tMeta+Volume Mute,Mikrofon stummschalten
-mute=Volume Mute,Volume Mute,Stummschalten
+mute=Volume Mute,Volume Mute,Stumm
 
 [ksmserver]
 Halt Without Confirmation=Ctrl+Alt+PgDown,,Ohne Rückfrage herunterfahren
