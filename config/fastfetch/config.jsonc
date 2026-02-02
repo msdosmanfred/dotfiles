@@ -16,7 +16,10 @@
       "type": "os",
       "keyColor": "red"
     },
-    "host",
+    {
+      "type": "host",
+      "keyColor": "red"
+    },
     "kernel",
     "uptime",
     "packages",
