@@ -151,7 +151,7 @@ Theme=BeautyLine
 
 [KDE]
 LookAndFeelPackage=org.kde.breezedark.desktop
-widgetStyle=Breeze
+widgetStyle=qt6ct-style
 
 [KFileDialog Settings]
 Allow Expansion=false

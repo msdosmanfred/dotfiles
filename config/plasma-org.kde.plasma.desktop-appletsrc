@@ -18,7 +18,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][21][Configuration]
-PreloadWeight=55
+PreloadWeight=60
 popupHeight=451
 popupWidth=810
 
@@ -105,7 +105,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][2][Applets][7][Applets][17][Configuration]
-PreloadWeight=85
+PreloadWeight=100
 
 [Containments][2][Applets][7][Applets][18]
 immutability=1
@@ -140,7 +140,7 @@ immutability=1
 plugin=org.kde.plasma.weather
 
 [Containments][2][Applets][7][Applets][24][Configuration]
-PreloadWeight=60
+PreloadWeight=70
 
 [Containments][2][Applets][7][Applets][24][Configuration][Appearance]
 showPressureInTooltip=true
@@ -178,14 +178,14 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][2][Applets][7][Applets][78][Configuration]
-PreloadWeight=97
+PreloadWeight=92
 
 [Containments][2][Applets][7][Applets][79]
 immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][2][Applets][7][Applets][79][Configuration]
-PreloadWeight=18
+PreloadWeight=2
 
 [Containments][2][Applets][7][Applets][9]
 immutability=1
@@ -210,7 +210,7 @@ plugin=org.kde.plasma.systemmonitor.cpu
 
 [Containments][2][Applets][73][Configuration]
 CurrentPreset=org.kde.plasma.systemmonitor
-PreloadWeight=55
+PreloadWeight=60
 popupHeight=400
 popupWidth=560
 
@@ -236,7 +236,7 @@ plugin=org.kde.plasma.systemmonitor.net
 
 [Containments][2][Applets][74][Configuration]
 CurrentPreset=org.kde.plasma.systemmonitor
-PreloadWeight=75
+PreloadWeight=80
 popupHeight=400
 popupWidth=560
 
@@ -546,7 +546,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][84][Applets][87][Applets][101][Configuration]
-PreloadWeight=55
+PreloadWeight=65
 
 [Containments][84][Applets][87][Applets][101][Configuration][General]
 migrated=true
@@ -567,14 +567,14 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][84][Applets][87][Applets][104][Configuration]
-PreloadWeight=23
+PreloadWeight=17
 
 [Containments][84][Applets][87][Applets][105]
 immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][84][Applets][87][Applets][105][Configuration]
-PreloadWeight=18
+PreloadWeight=2
 
 [Containments][84][Applets][87][Applets][114]
 immutability=1
@@ -629,6 +629,9 @@ PreloadWeight=100
 immutability=1
 plugin=org.kde.plasma.notifications
 
+[Containments][84][Applets][87][Applets][96][Configuration]
+PreloadWeight=55
+
 [Containments][84][Applets][87][Applets][97]
 immutability=1
 plugin=org.kde.plasma.keyboardindicator
@@ -654,4 +657,4 @@ tabIdentifier=xkcd
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/86Box.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/86Box.desktop,0,1a0a3bec-6ec2-4b3e-8db4-c58f67d1262d,desktop:/TruckyModsManager_Logs_20260131_153948.zip,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/vmware-workstation.desktop,0,1a0a3bec-6ec2-4b3e-8db4-c58f67d1262d,desktop:/steam.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/Trucky Mods Manager.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/vmware-workstation.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,file:///home/alex/Schreibtisch/Trucky Mods Manager.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/avalonia86.desktop,0,1a0a3bec-6ec2-4b3e-8db4-c58f67d1262d,desktop:/avalonia86.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627
+screenMapping=desktop:/Trucky Mods Manager.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/com.hypixel.HytaleLauncher.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/86Box.desktop,0,1a0a3bec-6ec2-4b3e-8db4-c58f67d1262d,desktop:/86Box.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/avalonia86.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/vmware-workstation.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/vmware-workstation.desktop,0,1a0a3bec-6ec2-4b3e-8db4-c58f67d1262d,file:///home/alex/Schreibtisch/Trucky Mods Manager.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/avalonia86.desktop,0,1a0a3bec-6ec2-4b3e-8db4-c58f67d1262d,desktop:/steam.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/curseforge.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/TruckyModsManager_Logs_20260131_153948.zip,0,23995814-19d9-4b3f-a526-f3acd0c7b627

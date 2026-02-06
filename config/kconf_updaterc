@@ -31,9 +31,9 @@ done=PlasmaVolume_DisableKMixAutostart
 mtime=1701816651
 
 [dolphin_detailsmodesettings.upd]
-ctime=1770046793
+ctime=1770308628
 done=rename-leading-padding,move-content-display,rename-side-padding
-mtime=1767903033
+mtime=1770297846
 
 [dolphin_directorysizemode.upd]
 ctime=1716726391
@@ -41,14 +41,14 @@ done=convert-directorysizecount-to-directorysizemode
 mtime=1716314522
 
 [dolphin_replace_view_mode_with_view_settings_in_toolbar.upd]
-ctime=1770046793
+ctime=1770308628
 done=replace-view-mode-with-view-settings-in-toolbar
-mtime=1767903033
+mtime=1770297846
 
 [dolphin_statusandlocationbarssettings.upd]
-ctime=1770046793
+ctime=1770308628
 done=replace-view-mode-with-view-settings-in-toolbar,25.04-convert-bool-showstatusbar-to-enum-showstatusbar
-mtime=1767903033
+mtime=1770297846
 
 [filepicker.upd]
 ctime=1716726366
@@ -91,9 +91,9 @@ done=IconsRemoveEffects
 mtime=1702320594
 
 [kalarm.upd]
-ctime=1770046794
+ctime=1770308629
 done=remove_deprecated_gtk4_option_v2,3.10.0-run_mode
-mtime=1767909460
+mtime=1770303618
 
 [katesession_migration.upd]
 ctime=1708623136
@@ -105,9 +105,9 @@ ctime=1708623151
 mtime=1707904626
 
 [kcalcrc.upd]
-ctime=1770046795
+ctime=1770308630
 done=3.10.0-run_mode
-mtime=1767903518
+mtime=1770298314
 
 [kcm_rename_plasma_desktop.upd]
 ctime=1708622772
@@ -134,9 +134,9 @@ done=kleopatra-15.08-kickoff
 mtime=1707908191
 
 [klickety.upd]
-ctime=1770046797
+ctime=1770308633
 done=3.10.0-run_mode
-mtime=1767902798
+mtime=1770297482
 
 [konsole.upd]
 ctime=1716726394
