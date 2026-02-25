@@ -140,23 +140,25 @@ XftAntialias=true
 XftHintStyle=hintfull
 XftSubPixel=rgb
 accentColorFromWallpaper=true
-fixed=ComicShannsMono Nerd Font,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-font=Cantarell,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-menuFont=Cantarell,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-smallestReadableFont=Cantarell,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-toolBarFont=Cantarell,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+fixed=ComicShannsMono Nerd Font,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+font=Cabin,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=Cabin,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+smallestReadableFont=Cabin,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+toolBarFont=Cabin,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 
 [Icons]
 Theme=BeautyLine
 
 [KDE]
 LookAndFeelPackage=org.kde.breezedark.desktop
+contrast=4
+frameContrast=0.2
 widgetStyle=qt6ct-style
 
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
-Breadcrumb Navigation=true
+Breadcrumb Navigation=false
 Decoration position=2
 Show Full Path=false
 Show Inline Previews=true
@@ -180,7 +182,7 @@ MaximumRemoteSize=0
 [WM]
 activeBackground=39,44,49
 activeBlend=252,252,252
-activeFont=Cantarell,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+activeFont=Cabin,12,-1,5,700,0,0,0,0,0,0,0,0,0,0,1,Bold
 activeForeground=252,252,252
 inactiveBackground=32,36,40
 inactiveBlend=161,169,177

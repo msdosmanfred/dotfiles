@@ -2,7 +2,11 @@
 embed-application/json=false
 embed-application/x-docbook+xml=false
 embed-application/x-yaml=false
+embed-inode/directory=false
 embed-text/markdown=false
 embed-text/plain=false
 embed-text/x-cmake=false
+embed-x-scheme-handler/geo=false
+embed-x-scheme-handler/http=false
+embed-x-scheme-handler/https=false
 embed-x-scheme-handler/mailto=false

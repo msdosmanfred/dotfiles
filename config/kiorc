@@ -1,5 +1,5 @@
 [Confirmations]
-ConfirmDelete=false
+ConfirmDelete=true
 ConfirmEmptyTrash=true
 ConfirmTrash=false
 

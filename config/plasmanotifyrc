@@ -1,4 +1,10 @@
+[Applications][discord]
+Seen=true
+
 [Applications][firefox]
+Seen=true
+
+[Applications][heroic]
 Seen=true
 
 [Applications][org.qbittorrent.qBittorrent]

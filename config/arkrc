@@ -1,3 +1,6 @@
+[ExtractDialog]
+DirHistory[$e]=/data/zeugs/
+
 [Extraction]
 extractToSubfolder=false
 

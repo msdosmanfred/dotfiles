@@ -8,5 +8,13 @@ ShowSidebar=true
 [Recent Files]
 File1[$e]=$HOME/86Box VMs/PC005/printer/20260129-230523-237.ps
 File2[$e]=$HOME/86Box VMs/PC005/printer/20260129-230523-237.pdf
+File3[$e]=$HOME/86Box VMs/PC003/printer/20260216-130405-781.ps
+File4[$e]=$HOME/win98-quickinstall/README.md
+File5[$e]=$HOME/86Box VMs/PC003/printer/20260221-124028-618.pdf
+File6[$e]=$HOME/86Box VMs/PC005/printer/20260221-222101-007.pdf
 Name1[$e]=20260129-230523-237.ps
 Name2[$e]=20260129-230523-237.pdf
+Name3[$e]=20260216-130405-781.ps
+Name4[$e]=README.md
+Name5[$e]=20260221-124028-618.pdf
+Name6[$e]=20260221-222101-007.pdf

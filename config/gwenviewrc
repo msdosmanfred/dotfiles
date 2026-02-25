@@ -9,12 +9,29 @@ LastUsedVersion=210800
 1918x920 screen: YPosition=215
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
-ToolBarsMovable=Disabled
 Virtual1=Virtual1
 
 [Recent Files]
-File1[$e]=$HOME/.cache/plasma_engine_potd/apod
-Name1[$e]=apod
+File1[$e]=$HOME/Downloads/boing_fertig.png
+File10[$e]=/data/zeugs/fat32-unterstützung.png
+File2[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_223545.png
+File3[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_223955.png
+File4[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_224049.png
+File5[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_224118.png
+File6[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_224253.png
+File7[$e]=$HOME/Bilder/Screenshots/2026-02-14_22-47.png
+File8[$e]=$HOME/86Box VMs/PC005/screenshots/Monitor_1_20260218-173550-849.png
+File9[$e]=$HOME/86Box VMs/PC005/screenshots/Monitor_1_20260218-173608-863.png
+Name1[$e]=boing_fertig.png
+Name10[$e]=fat32-unterstützung.png
+Name2[$e]=Bildschirmfoto_20260214_223545.png
+Name3[$e]=Bildschirmfoto_20260214_223955.png
+Name4[$e]=Bildschirmfoto_20260214_224049.png
+Name5[$e]=Bildschirmfoto_20260214_224118.png
+Name6[$e]=Bildschirmfoto_20260214_224253.png
+Name7[$e]=2026-02-14_22-47.png
+Name8[$e]=Monitor_1_20260218-173550-849.png
+Name9[$e]=Monitor_1_20260218-173608-863.png
 
 [SideBar]
 InformationSplitterSizes=210,245

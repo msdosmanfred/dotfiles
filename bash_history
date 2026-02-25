@@ -28,3 +28,26 @@ clear
 chezmoi add .config --debug
 rm -rf .config/chezmoi
 chezmoi add .config --debug
+pipx ensurepath
+pipx completions
+pipx install argcomplete
+pipx ensurepath
+source ~/.bashrc
+cat requirements.txt 
+pipx install wininfparser
+pip install wininfparser
+paru -S python-wininfparser
+paru -Ss python-wininfparser
+pip install wininfparser --break-system-packages
+sudo pip install wininfparser --break-system-packages
+cat requirements.txt 
+pip install cabarchive --break-system-packages
+sudo pip install cabarchive --break-system-packages
+python ./sysprep.py --help
+pip install FATtools --break-system-packages
+python ./sysprep.py --help
+pip install -r requirements.txt --break-system-packages
+python ./sysprep.py --help
+ls
+ls -l sysprep.py 
+vim sysprep.sh 

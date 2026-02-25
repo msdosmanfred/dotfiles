@@ -4,6 +4,9 @@ update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize,kcminp
 [Keyboard]
 NumLock=0
 
+[Libinput][1267][12610][ELAN0515:00 04F3:3142 Touchpad]
+Enabled=false
+
 [Libinput][1739][0][Synaptics TM3053-003]
 NaturalScroll=true
 TapToClick=true

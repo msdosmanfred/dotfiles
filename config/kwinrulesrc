@@ -1,2 +1,24 @@
 [$Version]
 update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[34b21a90-582c-4c83-b577-eb3efad9e782]
+Description=86Box
+disableglobalshortcuts=true
+disableglobalshortcutsrule=2
+types=1
+wmclass=86Box net.86box.86Box
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=2
+rules=d8f6be74-eacd-456c-a8f0-ee4d27fc45bf,34b21a90-582c-4c83-b577-eb3efad9e782
+
+[d8f6be74-eacd-456c-a8f0-ee4d27fc45bf]
+Description=VMWare
+disableglobalshortcuts=true
+disableglobalshortcutsrule=2
+types=1
+wmclass=mware Vmware
+wmclasscomplete=true
+wmclassmatch=1

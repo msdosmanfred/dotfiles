@@ -1,2 +1,5 @@
+[ELAN0515:00 04F3:3142 Touchpad]
+enabled=true
+
 [Synaptics TM3053-003]
 naturalScroll=true

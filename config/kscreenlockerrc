@@ -5,3 +5,8 @@ update_info=kscreenlocker.upd:0.1-autolock
 Autolock=false
 LockOnResume=false
 Timeout=0
+
+[Greeter][Wallpaper][org.kde.image][General]
+FillMode=0
+Image=file:///usr/share/wallpapers/synthwave.jpg
+PreviewImage=file:///usr/share/wallpapers/synthwave.jpg

@@ -29,7 +29,7 @@ readcd last seen newest version=3.2a09
 readcd user parameters=
 search path[$e]=/usr/bin/,/usr/local/bin/,/usr/sbin/,/usr/local/sbin/,/sbin
 sox default=/usr/bin/sox
-sox last seen newest version=14.7.0.6
+sox last seen newest version=14.7.0.8
 sox user parameters=
 vcdxbuild default=/usr/bin/vcdxbuild
 vcdxbuild last seen newest version=2.0.1
@@ -45,7 +45,7 @@ vcdxrip user parameters=
 Allow overburning=false
 Fifo buffer=4
 Force unsafe operations=false
-Last system check version=25.12.1
+Last system check version=25.12.2
 Manual buffer size=false
 Navigator breadcrumb mode=true
 No cd eject=false
@@ -53,7 +53,7 @@ Show Document Header=true
 Temp Dir=/home/alex/Videos/
 burnfree=true
 check system config=true
-config version=25.12.1
+config version=25.12.2
 current theme=quant
 current_writer=/dev/sr0
 
@@ -77,6 +77,14 @@ show bookmarks=false
 [image writing]
 last written image[$e]=/data/zeugs/multi.iso
 recent images[$e]=/data/zeugs/multi.iso
+
+[last used Formatting and Erasing]
+force=false
+quick format=true
+writer_device=/dev/sr0
+writing_app=Automatisch
+writing_mode=auto
+writing_speed=0
 
 [last used image writing]
 copies=1
