@@ -153,7 +153,7 @@ Theme=BeautyLine
 LookAndFeelPackage=org.kde.breezedark.desktop
 contrast=4
 frameContrast=0.2
-widgetStyle=qt6ct-style
+widgetStyle=Breeze
 
 [KFileDialog Settings]
 Allow Expansion=false
