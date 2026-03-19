@@ -1,0 +1,88 @@
+{
+  "app_name": "6ee8fe4d83fe49e49cbb79741616ec3b",
+  "app_title": "Eternights",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "6ee8fe4d83fe49e49cbb79741616ec3b",
+      "asset_id": "6ee8fe4d83fe49e49cbb79741616ec3b",
+      "build_version": "1.10",
+      "catalog_item_id": "13092063f71b4331b488bbe22d0a083e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9f4476b05b9148a185d80eff794f502f"
+      },
+      "namespace": "0bb1bf6df5784815a0c62120f8a82b25",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-05-19T18:51:27.802Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "Eternights"
+      }
+    },
+    "description": "Eternights ist ein Dating-Actionspiel, bei dem du dein Leben in der Zeit der Apokalypse genie\u00dft. Montag: Date. Dienstag: Dungeon. Freitag: Ausflippen! Die Zeit l\u00e4uft!",
+    "developer": "Studio Sai",
+    "developerId": "o-lvb56g8qlk84vsgdalnw26p9pqwmql",
+    "endOfSupport": false,
+    "entitlementName": "13092063f71b4331b488bbe22d0a083e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "13092063f71b4331b488bbe22d0a083e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Eternights Offer",
+        "height": 1440,
+        "md5": "228d06ee9eda07e53246ee4a2de5d594",
+        "size": 987558,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-05-20T11:05:51.596Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/63c94a59a4b84942a5ea12a818ad13d0/eternights-offer-11r8i.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Eternights Offer",
+        "height": 1600,
+        "md5": "94b3f33def985aef1ef1adb53e353c7f",
+        "size": 544535,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-05-20T11:05:51.319Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/63c94a59a4b84942a5ea12a818ad13d0/download-eternights-offer-12511.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-10T19:41:26.822Z",
+    "mainGameItemList": [],
+    "namespace": "0bb1bf6df5784815a0c62120f8a82b25",
+    "releaseInfo": [
+      {
+        "appId": "6ee8fe4d83fe49e49cbb79741616ec3b",
+        "compatibleApps": [],
+        "dateAdded": "2023-06-01T17:08:22.410Z",
+        "id": "721b033817ac4c15a5bf106b2602a29b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Eternights",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

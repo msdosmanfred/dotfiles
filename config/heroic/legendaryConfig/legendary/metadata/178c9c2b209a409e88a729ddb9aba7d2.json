@@ -1,0 +1,120 @@
+{
+  "app_name": "178c9c2b209a409e88a729ddb9aba7d2",
+  "app_title": "Tales from the Borderlands",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "178c9c2b209a409e88a729ddb9aba7d2",
+      "asset_id": "178c9c2b209a409e88a729ddb9aba7d2",
+      "build_version": "110",
+      "catalog_item_id": "dc303cd4a9884d70bfeb2115c67c0c42",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "da0fa474b1c04bfe8ee6c1f980285214",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi456756nLa4sTZ7Y1Cgrm7780zx0c",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-08-19T01:06:10.271Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/Telltale Games/Tales from the Borderlands/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TalesfromtheBorderland"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "2000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "da0fa474b1c04bfe8ee6c1f980285214"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Tales from the Borderlands",
+    "developer": "2K Games, Inc.",
+    "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "endOfSupport": false,
+    "entitlementName": "dc303cd4a9884d70bfeb2115c67c0c42",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && amaranth)"
+    ],
+    "id": "dc303cd4a9884d70bfeb2115c67c0c42",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "9461ecb6c4ec0002fdb7aab6d1e89541",
+        "size": 997576,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-02-11T00:35:15.130Z",
+        "url": "https://cdn1.epicgames.com/da0fa474b1c04bfe8ee6c1f980285214/item/EGS_TalesfromtheBorderlands_TelltaleGames_S5-1920x1080-9461ecb6c4ec0002fdb7aab6d1e89541.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "cd596711a9d40c3442ac242dd5f20242",
+        "size": 890977,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-02-11T00:35:27.658Z",
+        "url": "https://cdn1.epicgames.com/da0fa474b1c04bfe8ee6c1f980285214/item/EGS_TalesfromtheBorderlands_TelltaleGames_S6-1200x1600-cd596711a9d40c3442ac242dd5f20242.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-05-02T20:37:51.779Z",
+    "mainGameItemList": [],
+    "namespace": "da0fa474b1c04bfe8ee6c1f980285214",
+    "releaseInfo": [
+      {
+        "appId": "178c9c2b209a409e88a729ddb9aba7d2",
+        "dateAdded": "2020-09-21T00:00:00.000Z",
+        "id": "409e91dff79b4573bb5ae6fe9659dcf5",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Tales from the Borderlands",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

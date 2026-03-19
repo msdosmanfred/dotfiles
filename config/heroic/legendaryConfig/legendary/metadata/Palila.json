@@ -1,0 +1,116 @@
+{
+  "app_name": "Palila",
+  "app_title": "Horace",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Palila",
+      "asset_id": "Palila",
+      "build_version": "1.8",
+      "catalog_item_id": "abad6949101348dc9735ec624259f42e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8aa6e526d2864c108f219747ad7011e5",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-01-29T13:08:59.152Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../locallow/505 Games/Horace/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Horace"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "8aa6e526d2864c108f219747ad7011e5"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Horace wurde von 2 Personen erschaffen und bietet mehr als 15 Stunden spannendes Platforming. Mit der tiefgr\u00fcndigen Geschichte und nostalgischen Popculture-Bez\u00fcgen verschiebt es die Grenzen des Genres! Von Videogame-Fans f\u00fcr Videogame-Fans!",
+    "developer": "505 Games",
+    "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "endOfSupport": false,
+    "entitlementName": "abad6949101348dc9735ec624259f42e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "abad6949101348dc9735ec624259f42e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "12033b116d2430ab4453a200042822b8",
+        "size": 463276,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-04-28T20:22:44.441Z",
+        "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/item/EGS_Horace_PaulHelmanSeanScapelhorn_S3-2560x1440-12033b116d2430ab4453a200042822b8.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1148,
+        "md5": "a11dc8a7bf502e5fdef6cc62271302db",
+        "size": 382956,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-04-28T20:23:18.055Z",
+        "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/item/EGS_Horace_PaulHelmanSeanScapelhorn_S2-860x1148-a11dc8a7bf502e5fdef6cc62271302db.jpg",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2025-03-11T02:00:41.200Z",
+    "longDescription": "<!--textBlock-->\n<!--title-->\n# Ein Spiel von Videospielfans f\u00fcr Videospielfans!\n<!--text-->\nEine Geschichte von einem kleinen Roboter auf einem gro\u00dfen Abenteuer, die du dir nicht entgehen lassen solltest! Horace wurde von nur zwei Personen entwickelt und bietet ein spannendes Plattformspielerlebnis von mehr als 15 Stunden. Mit der tiefgr\u00fcndigen Story und den nostalgischen Popkulturanspielungen \u00fcberschreitet es die Grenzen des Genres!\n\n\u2013 \u201eEin zauberhaftes Pixel-Art-Plattformabenteuerspiel\u201c Kotaku UK - 9/10 \u2013 \u201eVielleicht sogar das beste Plattformspiel des Jahres 2019\u201c Cub3d\n\n\u2013 \u201eHorace besticht durch eine herzerw\u00e4rmende Erz\u00e4hlung, die dich bei seinem Hardcore-Gameplay begleitet, und die qualitativ hochwertige \u00c4sthetik und Musik lassen dich nicht wieder los\u201c Escapist Magazine \u2013 9/10 \u201eDefinitiv eines der besten Indie-Spiele, die ich dieses Jahr gespielt habe\u201c Demon Gaming\n\n\u2013 9,5/10 \u201eDas ist eines der besten Spiele des Jahres 2019 und eines der besten Indie-Spiele, die ich jemals gespielt habe\u201c Way too many games \u2013 8,5/10 \u201eDas Spiel interpretiert das Plattformgenre auf ganz eigene Weise und \u00fcberrascht mit seiner Erz\u00e4hlstruktur\u201c Multiplayer.it\n\n\u2013 8/10 \u201eEin einzigartiges, aufregendes und \u00fcberraschendes Spiel\u201c. Everyeye.it \u2013 \u201eEs \u00fcbertrifft auf brilliante Weise alle Erwartungen\u201c PDVG \u2013 \u201eEin wahres Vergn\u00fcgen, das man sich nicht entgehen lassen sollte\u201c Get Indie Gaming\n\nGenie\u00dfe das stundenlange, abwechslungsreiche Gameplay, das von vielen als das Indie-GOTY 2019 bezeichnet wurde! Bew\u00e4ltige unvergleichliche 2D-Plattformherausforderungen, schalte neue Roboterf\u00e4higkeiten frei, die von Metroidvania inspiriert wurden, erfreue dich an Retro-Minispielen und vereine Horace mit seiner Familie.\n",
+    "mainGameItemList": [],
+    "namespace": "8aa6e526d2864c108f219747ad7011e5",
+    "releaseInfo": [
+      {
+        "appId": "Palila",
+        "dateAdded": "2019-10-03T00:00:00.000Z",
+        "id": "a440573ff1fe429b871e8503e44acb60",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Horace",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

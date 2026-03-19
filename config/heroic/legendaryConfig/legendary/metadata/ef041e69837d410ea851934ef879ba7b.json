@@ -1,0 +1,84 @@
+{
+  "app_name": "ef041e69837d410ea851934ef879ba7b",
+  "app_title": "Floppy Knights",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ef041e69837d410ea851934ef879ba7b",
+      "asset_id": "ef041e69837d410ea851934ef879ba7b",
+      "build_version": "0016w",
+      "catalog_item_id": "8792117b4de44b098523bab9b3ff6e76",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "1323828515c6463c8d580db624748a96"
+      },
+      "namespace": "f7ca5706875344d8a1fe695093353fae",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-04-25T17:08:14.829Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "FloppyKnightsIVKNG"
+      }
+    },
+    "description": "Floppy Knights",
+    "developer": "Rose City Games",
+    "developerId": "o-q33grcu5fnu5f6ywl7st6avfuc3ry4",
+    "endOfSupport": false,
+    "entitlementName": "8792117b4de44b098523bab9b3ff6e76",
+    "entitlementType": "EXECUTABLE",
+    "id": "8792117b4de44b098523bab9b3ff6e76",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Floppy Knights Offer",
+        "height": 1440,
+        "md5": "de4e4fc9aefbb69a2804c45f21e73cfb",
+        "size": 3286652,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-04-29T21:38:48.087Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/e6d8370167ce4fe99a69d195174f6208/floppy-knights-q7ahh.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Floppy Knights Offer",
+        "height": 1600,
+        "md5": "84a770edbc18c4c04abb768a6ae4ed67",
+        "size": 1620330,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-04-29T21:38:45.765Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/e6d8370167ce4fe99a69d195174f6208/floppy-knights-mzrl9.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-01-22T20:50:05.723Z",
+    "mainGameItemList": [],
+    "namespace": "f7ca5706875344d8a1fe695093353fae",
+    "releaseInfo": [
+      {
+        "appId": "ef041e69837d410ea851934ef879ba7b",
+        "id": "b64fe91e33374a8ab836bfdb814b8703",
+        "platform": [
+          "Mac",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Floppy Knights",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

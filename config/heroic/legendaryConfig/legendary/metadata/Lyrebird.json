@@ -1,0 +1,112 @@
+{
+  "app_name": "Lyrebird",
+  "app_title": "Hob",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Lyrebird",
+      "asset_id": "Lyrebird",
+      "build_version": "1.0",
+      "catalog_item_id": "49beebd4c5d84527a8015fcfe804f3b4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e1067ce994e24a4abbe36247eaa26bfd",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-05-20T22:54:33.250Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Hob"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "e1067ce994e24a4abbe36247eaa26bfd"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Hob",
+    "developer": "Arc Games",
+    "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+    "endOfSupport": false,
+    "entitlementName": "49beebd4c5d84527a8015fcfe804f3b4",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "49beebd4c5d84527a8015fcfe804f3b4",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "7d0cc955fcee93ab9c55bd891b7b23db",
+        "size": 1648954,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-03-20T18:51:07.772Z",
+        "url": "https://cdn1.epicgames.com/e1067ce994e24a4abbe36247eaa26bfd/item/HOB_storefront_epic_20200309_wishlist_2560x1440-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1148,
+        "md5": "b34298a75b82a08527060f43bb719965",
+        "size": 655157,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-03-20T18:51:24.425Z",
+        "url": "https://cdn1.epicgames.com/e1067ce994e24a4abbe36247eaa26bfd/item/HOB_storefront_epic_20200309_wishlist_860x1148-860x1148-b34298a75b82a08527060f43bb719965-860x1148-b34298a75b82a08527060f43bb719965.jpg",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2025-05-21T18:22:58.096Z",
+    "mainGameItemList": [],
+    "namespace": "e1067ce994e24a4abbe36247eaa26bfd",
+    "releaseInfo": [
+      {
+        "appId": "Lyrebird",
+        "dateAdded": "2019-10-17T00:00:00.000Z",
+        "id": "d68554816fe64672ae42471e3041591f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Hob",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

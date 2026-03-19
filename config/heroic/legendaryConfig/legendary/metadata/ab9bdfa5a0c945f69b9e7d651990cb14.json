@@ -1,0 +1,150 @@
+{
+  "app_name": "ab9bdfa5a0c945f69b9e7d651990cb14",
+  "app_title": "STALCRAFT: X",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ab9bdfa5a0c945f69b9e7d651990cb14",
+      "asset_id": "ab9bdfa5a0c945f69b9e7d651990cb14",
+      "build_version": "2603041724",
+      "catalog_item_id": "f1de33de1cff4a8f94cd7df1e981498c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "b56473fffdfb48d9817edc089e1d63b0"
+      },
+      "namespace": "1319020a7c08408489d4dc9c5b1df4c0",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567sF2czMeMb6eScZS0BVkhtR9n",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-08-12T09:44:58.295Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "STALCRAFT"
+      }
+    },
+    "description": "STALCRAFT: X is a free-to-play MMOFPS with RPG elements.\n\nExplore an open world, engage in PvPvE activities, participate in events, and choose from a variety of weapons \u2014 all set in the post-Soviet Chernobyl Exclusion Zone!",
+    "developer": "EXBO EAST LLP",
+    "developerId": "o-xb7ge3k4nenmmb6vm5ragv5cgc3vuh",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-12-24T14:35:01.402Z",
+        "customAttributes": {},
+        "description": "Start exploring the world of the Zone with a Starter Pack. It includes everything you need for your initial raids: a 7-day Premium, weapons, armor, artifacts, and cosmetics.",
+        "developer": "EXBO EAST LLP",
+        "developerId": "o-xb7ge3k4nenmmb6vm5ragv5cgc3vuh",
+        "endOfSupport": false,
+        "entitlementName": "43faa962d223401f87046a40912a9170",
+        "entitlementType": "EXECUTABLE",
+        "id": "43faa962d223401f87046a40912a9170",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "STALCRAFT: X STALCRAFT: X Starter Pack Offer",
+            "height": 1440,
+            "md5": "f505cff886653df0ce31b32124965120",
+            "size": 3579227,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-02-10T13:45:36.059Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-2aorw.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download STALCRAFT: X STALCRAFT: X Starter Pack Offer",
+            "height": 1600,
+            "md5": "f4a62dd3908d123b4930da0118e74132",
+            "size": 2282171,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-01-27T16:49:49.464Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-561tf.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-02-24T11:33:11.373Z",
+        "mainGameItem": {
+          "id": "f1de33de1cff4a8f94cd7df1e981498c",
+          "namespace": "1319020a7c08408489d4dc9c5b1df4c0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1de33de1cff4a8f94cd7df1e981498c",
+            "namespace": "1319020a7c08408489d4dc9c5b1df4c0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1319020a7c08408489d4dc9c5b1df4c0",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "STALCRAFT: X Starter Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "f1de33de1cff4a8f94cd7df1e981498c",
+    "entitlementType": "EXECUTABLE",
+    "id": "f1de33de1cff4a8f94cd7df1e981498c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "STALCRAFT: X Offer",
+        "height": 1440,
+        "md5": "16361ed769ad0b4536800e9188deb606",
+        "size": 2184989,
+        "type": "DieselGameBox",
+        "uploadedDate": "2026-03-04T14:41:23.285Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-191ya.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download STALCRAFT: X Offer",
+        "height": 1600,
+        "md5": "f87702254bfaba798b7af41f209e16ce",
+        "size": 1365140,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2026-03-04T14:41:27.437Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-1ruif.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-03-05T16:01:26.074Z",
+    "mainGameItemList": [],
+    "namespace": "1319020a7c08408489d4dc9c5b1df4c0",
+    "releaseInfo": [
+      {
+        "appId": "ab9bdfa5a0c945f69b9e7d651990cb14",
+        "id": "265481644729487b87f46f86574f7f4f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "STALCRAFT: X",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "36bf5e695a144d0a94defc03b3d151d1"
+    },
+    "rev": 1
+  }
+}

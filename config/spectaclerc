@@ -2,11 +2,16 @@
 update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
 
 [General]
-ocrLanguages=afr
+ocrLanguages=deu,deu_frak,eng,frk
+useLightMaskColor=true
 
 [ImageSave]
-lastImageSaveLocation=file:///home/alex/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_224253.png
+lastImageSaveLocation=file:///home/alex/Bilder/Bildschirmfotos/Bildschirmfoto_20260226_151918.png
 translatedScreenshotsFolder=Bildschirmfotos
 
 [VideoSave]
 translatedScreencastsFolder=Bildschirmaufnahmen
+
+[ViewerWindow]
+2 screens: Height=570
+2 screens: Width=1174

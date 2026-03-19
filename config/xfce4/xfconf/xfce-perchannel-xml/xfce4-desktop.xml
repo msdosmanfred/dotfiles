@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 
 <channel name="xfce4-desktop" version="1.0">
   <property name="backdrop" type="empty">
@@ -25,6 +25,26 @@
           <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-shapes.svg"/>
         </property>
       </property>
+      <property name="monitorHDMI-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/wallpapers/synthwave.jpg"/>
+        </property>
+      </property>
+      <property name="monitoreDP-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/wallpapers/synthwave.jpg"/>
+        </property>
+      </property>
     </property>
+  </property>
+  <property name="last-settings-migration-version" type="uint" value="1"/>
+  <property name="last" type="empty">
+    <property name="window-width" type="int" value="944"/>
+    <property name="window-height" type="int" value="589"/>
+  </property>
+  <property name="desktop-icons" type="empty">
+    <property name="primary" type="bool" value="true"/>
+    <property name="gravity" type="int" value="0"/>
+    <property name="confirm-sorting" type="bool" value="false"/>
   </property>
 </channel>

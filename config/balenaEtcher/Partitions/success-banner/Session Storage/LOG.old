@@ -1,2 +1,3 @@
-2026/01/29-21:53:22.904 19ad4 Creating DB /home/alex/.config/balenaEtcher/Partitions/success-banner/Session Storage since it was missing.
-2026/01/29-21:53:22.913 19ad4 Reusing MANIFEST /home/alex/.config/balenaEtcher/Partitions/success-banner/Session Storage/MANIFEST-000001
+2026/03/10-11:03:32.060 2aca Reusing MANIFEST /home/alex/.config/balenaEtcher/Partitions/success-banner/Session Storage/MANIFEST-000001
+2026/03/10-11:03:32.060 2aca Recovering log #3
+2026/03/10-11:03:32.060 2aca Reusing old log /home/alex/.config/balenaEtcher/Partitions/success-banner/Session Storage/000003.log 

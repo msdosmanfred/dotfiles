@@ -1,0 +1,112 @@
+{
+  "app_name": "90a9dbcace12452ebd9cab6d8d750490",
+  "app_title": "Alex Kidd in Miracle World DX",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "90a9dbcace12452ebd9cab6d8d750490",
+      "asset_id": "90a9dbcace12452ebd9cab6d8d750490",
+      "build_version": "16",
+      "catalog_item_id": "62594a6bb77b407cb4f0b99935bc8256",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "de876d33cd8742ab90988913097c4ade",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567EjInrQfW8jLKK3UMe0CQZUcB",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-04-20T09:23:35.465Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Merge Games/Alex Kidd in Miracle World DX/savedata/Epic/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AlexKiddMWDX"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "de876d33cd8742ab90988913097c4ade"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Alex Kidd in Miracle World DX",
+    "developer": "Silver Lining Interactive",
+    "developerId": "o-d9dh23jb6uamngl64hw8lnejdz6334",
+    "endOfSupport": false,
+    "entitlementName": "62594a6bb77b407cb4f0b99935bc8256",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "62594a6bb77b407cb4f0b99935bc8256",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "8f3161e44bd7b70b38f56c6b77007d81",
+        "size": 986994,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-16T18:49:34.953Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AlexKiddinMiracleWorldDX_Jankenteam_S1_2560x1440-8f3161e44bd7b70b38f56c6b77007d81",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "c744cb4b7b451e6debb7a4473c6d7d35",
+        "size": 988642,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-16T18:49:45.757Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AlexKiddinMiracleWorldDX_Jankenteam_S2_1200x1600-c744cb4b7b451e6debb7a4473c6d7d35",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-02-10T03:24:51.938Z",
+    "mainGameItemList": [],
+    "namespace": "de876d33cd8742ab90988913097c4ade",
+    "releaseInfo": [
+      {
+        "appId": "90a9dbcace12452ebd9cab6d8d750490",
+        "id": "3f88342d2e244375baf15ba5225929ec",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Alex Kidd in Miracle World DX",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

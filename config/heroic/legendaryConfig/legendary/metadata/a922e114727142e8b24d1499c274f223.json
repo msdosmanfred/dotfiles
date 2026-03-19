@@ -1,0 +1,116 @@
+{
+  "app_name": "a922e114727142e8b24d1499c274f223",
+  "app_title": "Dreamscaper",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a922e114727142e8b24d1499c274f223",
+      "asset_id": "a922e114727142e8b24d1499c274f223",
+      "build_version": "1.1.6.0",
+      "catalog_item_id": "c6e4e2778f0d4c64a7fe7628c0ef676f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "613b428f31274e15aec899d760cfe594",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-05-20T19:31:05.638Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "DreamscaperSaveSlot*.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Dreamscaper/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Dreamscaper"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "613b428f31274e15aec899d760cfe594"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Dreamscaper",
+    "developer": "Freedom Games",
+    "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+    "endOfSupport": false,
+    "entitlementName": "c6e4e2778f0d4c64a7fe7628c0ef676f",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c6e4e2778f0d4c64a7fe7628c0ef676f",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "862b7cad318cfa0110ae32c3f8caf74f",
+        "size": 601701,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-14T19:11:59.510Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Dreamscaper_Afterburner_S1_2560x1440-862b7cad318cfa0110ae32c3f8caf74f",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "3248e4d2e0cae74633bc62204b6cbf72",
+        "size": 394240,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-14T19:12:05.028Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Dreamscaper_Afterburner_S2_1200x1600-3248e4d2e0cae74633bc62204b6cbf72",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:40:07.403Z",
+    "mainGameItemList": [],
+    "namespace": "613b428f31274e15aec899d760cfe594",
+    "releaseInfo": [
+      {
+        "appId": "a922e114727142e8b24d1499c274f223",
+        "id": "9bf2878a81aa404382488802264d57d8",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Dreamscaper",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

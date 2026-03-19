@@ -1,0 +1,5 @@
+[General]
+Gameboard=/usr/share/ktuberling/pics/default_theme.theme
+KeepAspectRatio=false
+Language=/usr/share/ktuberling/sounds/de.soundtheme
+Sound=on

@@ -1,0 +1,104 @@
+{
+  "app_name": "b3cb6e007019430ebb1dd87f6e8c87d3",
+  "app_title": "Bear and Breakfast",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b3cb6e007019430ebb1dd87f6e8c87d3",
+      "asset_id": "b3cb6e007019430ebb1dd87f6e8c87d3",
+      "build_version": "1.8.30b",
+      "catalog_item_id": "9a26128dfe1f480e97c16015736b20f7",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "ae8ab826e9d94427b21e232cc0aa850c",
+        "update_type": "PATCH"
+      },
+      "namespace": "6c3a09646a954c04b5ab774e5b8c861d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-06-14T21:02:24.701Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "BearandBreakfastfGamb"
+      }
+    },
+    "description": "Bear and Breakfast ist ein entspanntes Management-Abenteuerspiel, in dem du ein Bed & Breakfast aufbaust und betreibst ... aber als B\u00e4r.",
+    "developer": "Armor Games Studios",
+    "developerId": "o-ttudgfyffrswppq6pflnkwfzdm6qc3",
+    "endOfSupport": false,
+    "entitlementName": "9a26128dfe1f480e97c16015736b20f7",
+    "entitlementType": "EXECUTABLE",
+    "id": "9a26128dfe1f480e97c16015736b20f7",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Bear and Breakfast Offer",
+        "height": 1440,
+        "md5": "e88b21ce7c69127dfb39ea14f0c51727",
+        "size": 998956,
+        "type": "OfferImageWide",
+        "uploadedDate": "2022-07-26T03:05:52.328Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/9f8b082e3cf84425be6aa563f0ddc2a0/bear-and-breakfast-offer-1ck44.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Bear and Breakfast Offer",
+        "height": 1600,
+        "md5": "525078bf5e2721408afbed7b48818376",
+        "size": 511228,
+        "type": "OfferImageTall",
+        "uploadedDate": "2022-07-26T03:05:57.063Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/9f8b082e3cf84425be6aa563f0ddc2a0/download-bear-and-breakfast-offer-88dlv.jpg",
+        "width": 1200
+      },
+      {
+        "alt": "Bear and Breakfast Offer",
+        "height": 1440,
+        "md5": "8fb6ae260042089b73cf6b6d0d99cae7",
+        "size": 998970,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-07-26T03:06:08.918Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/9f8b082e3cf84425be6aa563f0ddc2a0/bear-and-breakfast-offer-1dp0i.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Bear and Breakfast Offer",
+        "height": 1600,
+        "md5": "99724d7f4038aa553a4674aeef17dcd1",
+        "size": 511242,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-07-26T03:06:16.227Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/9f8b082e3cf84425be6aa563f0ddc2a0/download-bear-and-breakfast-offer-1ktvr.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-21T20:36:29.730Z",
+    "mainGameItemList": [],
+    "namespace": "6c3a09646a954c04b5ab774e5b8c861d",
+    "releaseInfo": [
+      {
+        "appId": "b3cb6e007019430ebb1dd87f6e8c87d3",
+        "id": "fbef2e251e774b4e889abde7c087e6ef",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Bear and Breakfast",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -34,13 +34,13 @@
 		},
 		"modsDirectory": {
 			"ETS2": "/home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2",
-			"ATS": null
+			"ATS": "/home/alex/.local/share/Steam/steamapps/compatdata/270880/pfx/drive_c/users/steamuser/Documents/American Truck Simulator"
 		},
 		"env": "production",
 		"platform": "linux",
 		"gameVersions": {
-			"ETS2": "1.57",
-			"ATS": null
+			"ETS2": "1.58",
+			"ATS": "1.58"
 		}
 	}
 }

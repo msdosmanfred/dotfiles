@@ -1,0 +1,115 @@
+{
+  "app_name": "3a0cae9455844390ad00505a704d641e",
+  "app_title": "Beyond Blue",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "3a0cae9455844390ad00505a704d641e",
+      "asset_id": "3a0cae9455844390ad00505a704d641e",
+      "build_version": "1.7.17798",
+      "catalog_item_id": "c17465f604fe411a8dca86089cd68898",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MINOR"
+      },
+      "namespace": "bd9fd28ca1214868922f2ab41d6d3b65",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-21T14:25:27.849Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../locallow/E-Line Media/Beyond Blue/Saves/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BeyondBlue"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "bd9fd28ca1214868922f2ab41d6d3b65"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Beyond Blue",
+    "developer": "E-Line Media",
+    "developerId": "o-4ngf8f445bswz3vfhmvbfxbgf67bc4",
+    "endOfSupport": false,
+    "entitlementName": "c17465f604fe411a8dca86089cd68898",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c17465f604fe411a8dca86089cd68898",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "5d205f1273f6b805db82bc525a1432b9",
+        "size": 732880,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-06-05T13:54:54.937Z",
+        "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/item/EGS_BeyondBlue_ELineMedia_S1-2560x1440-5d205f1273f6b805db82bc525a1432b9.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "66ee2b1322a74ff2e35e462d644ff519",
+        "size": 572820,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-06-05T13:55:05.186Z",
+        "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/item/EGS_BeyondBlue_ELineMedia_S2-1200x1600-66ee2b1322a74ff2e35e462d644ff519.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-05T16:47:54.324Z",
+    "mainGameItemList": [],
+    "namespace": "bd9fd28ca1214868922f2ab41d6d3b65",
+    "releaseInfo": [
+      {
+        "appId": "3a0cae9455844390ad00505a704d641e",
+        "id": "f9df17ea942a4c69a25b163dddfc5889",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Beyond Blue",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

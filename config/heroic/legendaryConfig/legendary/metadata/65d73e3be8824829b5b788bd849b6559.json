@@ -1,0 +1,120 @@
+{
+  "app_name": "65d73e3be8824829b5b788bd849b6559",
+  "app_title": "Death's Door",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "65d73e3be8824829b5b788bd849b6559",
+      "asset_id": "65d73e3be8824829b5b788bd849b6559",
+      "build_version": "1150",
+      "catalog_item_id": "267fb10f28a141ec94a715f1cb24954d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f588333a02fe4011980472c7be02db12",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-03-28T16:49:53.864Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Acid Nerve/DeathsDoor/SAVEDATA/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DeathsDoor"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "f588333a02fe4011980472c7be02db12"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Death's Door",
+    "developer": "Devolver Digital, Inc.",
+    "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "endOfSupport": false,
+    "entitlementName": "267fb10f28a141ec94a715f1cb24954d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "267fb10f28a141ec94a715f1cb24954d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "185f96703b26a44d9a1a092475808553",
+        "size": 208126,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-07-21T19:22:40.392Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DeathsDoor_AcidNerve_S1_2560x1440-185f96703b26a44d9a1a092475808553",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "fd945c4873fb79d8159af8dfd68e6bcc",
+        "size": 158951,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-07-21T19:22:42.646Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DeathsDoor_AcidNerve_S2_1200x1600-fd945c4873fb79d8159af8dfd68e6bcc",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-31T21:05:22.312Z",
+    "mainGameItemList": [],
+    "namespace": "f588333a02fe4011980472c7be02db12",
+    "releaseInfo": [
+      {
+        "appId": "65d73e3be8824829b5b788bd849b6559",
+        "id": "ecee23c0c60e4fe080fd890b05c81ca7",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Death's Door",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

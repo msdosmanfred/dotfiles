@@ -1,0 +1,18 @@
+# GIMP user context
+
+(tool "gimp-by-color-select-tool")
+(paint-info "gimp-paintbrush")
+(foreground
+    (color "HSVA float" 16 "\0\0\0\0\0\0\200\77\0\0\200\77\0\0\200\77" 0))
+(background
+    (color "R'G'B'A float" 16 "\1\0\200\77\1\0\200\77\1\0\200\77\0\0\200\77" 0))
+(brush "2. Hardness 050")
+(dynamics "Pressure Size")
+(mybrush "100% Opaque")
+(pattern "Pine")
+(gradient "VG nach HG (RGB)")
+(palette "Farbchronik")
+(font "Sans-serif")
+(tool-preset "Virtual core pointer")
+
+# end of user context

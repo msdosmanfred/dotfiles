@@ -1,0 +1,92 @@
+{
+  "app_name": "530f09c9ac834a7bbc98056c69b44471",
+  "app_title": "Evoland Legendary Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "530f09c9ac834a7bbc98056c69b44471",
+      "asset_id": "530f09c9ac834a7bbc98056c69b44471",
+      "build_version": "1.0.0",
+      "catalog_item_id": "2be09d16553145aca03d9afa8087ac52",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "02b1bd98804245398b96488dd0a534b0"
+      },
+      "namespace": "3f7bd21610f743e598fa8e955500f5b7",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-09-19T18:03:13.854Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "EvolandLegendaryEditdWwMI"
+      }
+    },
+    "description": "Evoland Legendary Edition bietet zwei gro\u00dfartige und einzigartige RPGs, deren Grafikstil und Gameplay sich im Laufe des Spiels ver\u00e4ndern!",
+    "developer": "Shiro Games SAS",
+    "developerId": "o-ealhln64lfep9ww929uq9qcdmbyfn4",
+    "endOfSupport": false,
+    "entitlementName": "2be09d16553145aca03d9afa8087ac52",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "2be09d16553145aca03d9afa8087ac52",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Evoland Legendary Edition Offer",
+        "height": 1440,
+        "md5": "fe78f5fd3d772bcfdb304e17d431feef",
+        "size": 3583889,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-10-11T12:30:32.930Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/aafde465b31e4bd5a169ff1c8a164a17/evoland-legendary-edition-casqq.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Evoland Legendary Edition Offer",
+        "height": 1600,
+        "md5": "ba07ced6dc384cd34299b893a3e0301a",
+        "size": 2243746,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-10-11T12:30:32.375Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/aafde465b31e4bd5a169ff1c8a164a17/evoland-legendary-edition-3x125.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-10-27T15:03:54.247Z",
+    "mainGameItemList": [],
+    "namespace": "3f7bd21610f743e598fa8e955500f5b7",
+    "releaseInfo": [
+      {
+        "appId": "530f09c9ac834a7bbc98056c69b44471",
+        "id": "814393d7120340d4a7d860d297f9b676",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Evoland Legendary Edition",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

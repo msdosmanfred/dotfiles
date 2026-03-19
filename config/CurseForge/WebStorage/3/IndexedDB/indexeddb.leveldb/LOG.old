@@ -1,0 +1,25 @@
+2026/02/07-14:10:03.702 1d4e Reusing MANIFEST /home/alex/.config/CurseForge/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/02/07-14:10:03.702 1d4e Recovering log #57
+2026/02/07-14:10:03.702 1d4e Reusing old log /home/alex/.config/CurseForge/WebStorage/3/IndexedDB/indexeddb.leveldb/000057.log 
+2026/02/07-14:10:03.702 1d4e Delete type=2 #56
+2026/02/07-14:10:03.838 1dd4 Level-0 table #62: started
+2026/02/07-14:10:03.841 1dd4 Level-0 table #62: 1337 bytes OK
+2026/02/07-14:10:03.846 1dd4 Delete type=0 #57
+2026/02/07-14:10:03.847 1d4e Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\xc8\x05\x00s\x00t\x00o\x00r\x00e' @ 895 : 1
+2026/02/07-14:10:03.847 1d4e Compacting 1@0 + 1@1 files
+2026/02/07-14:10:03.849 1d4e Generated table #63@0: 43 keys, 1281 bytes
+2026/02/07-14:10:03.850 1d4e Compacted 1@0 + 1@1 files => 1281 bytes
+2026/02/07-14:10:03.855 1d4e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/07-14:10:03.856 1d4e Delete type=2 #62
+2026/02/07-14:10:03.857 1dd4 Manual compaction at level-0 from '\x00\x0a\x00\x00\xc8\x05\x00s\x00t\x00o\x00r\x00e' @ 895 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/07-14:10:13.028 1d4e Level-0 table #65: started
+2026/02/07-14:10:13.031 1d4e Level-0 table #65: 409 bytes OK
+2026/02/07-14:10:13.036 1d4e Delete type=2 #59
+2026/02/07-14:10:13.036 1d4e Delete type=0 #61
+2026/02/07-14:10:13.036 1d4e Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x04' @ 941 : 1
+2026/02/07-14:10:13.036 1d4e Compacting 1@0 + 1@1 files
+2026/02/07-14:10:13.039 1d4e Generated table #66@0: 43 keys, 1281 bytes
+2026/02/07-14:10:13.039 1d4e Compacted 1@0 + 1@1 files => 1281 bytes
+2026/02/07-14:10:13.044 1d4e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/07-14:10:13.044 1d4e Delete type=2 #65
+2026/02/07-14:10:13.044 1d4e Manual compaction at level-0 from '\x00\x0a\x00\x00\x04' @ 941 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

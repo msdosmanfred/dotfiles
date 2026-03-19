@@ -6,7 +6,6 @@ Xft.autohint: true
 Xft.hintstyle: hintfull
 Xft.lcdfilter: lcdfilter
 
-Xcursor.theme: Bibata-Modern-Ice
 
 XTerm*renderFont: true
 XTerm*faceName: xft:Mononoki Nerd Font
@@ -148,3 +147,5 @@ XTerm*cursorColor:  #eceff1
 *.color7:       #cfd8dc
 *.color15:      #eceff1
 
+Xcursor.theme: Sweet-cursors
+Xcursor.size: 20

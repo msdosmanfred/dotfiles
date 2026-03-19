@@ -1,0 +1,120 @@
+{
+  "app_name": "Hazelnut",
+  "app_title": "Limbo",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Hazelnut",
+      "asset_id": "Hazelnut",
+      "build_version": "1.0.1",
+      "catalog_item_id": "9354cd92a21f42a186b73c984290c942",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "92053006068e4aa9b1ad413f72090f5e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-23T17:01:02.316Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/save_game/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Limbo"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "92053006068e4aa9b1ad413f72090f5e"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Limbo",
+    "developer": "Playdead",
+    "developerId": "o-t88sw9ly7ajm3wz7tll53xt3cmypx8",
+    "endOfSupport": false,
+    "entitlementName": "9354cd92a21f42a186b73c984290c942",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "9354cd92a21f42a186b73c984290c942",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "LIMBO Offer",
+        "height": 1440,
+        "md5": "991acf390a0798b014c6ee5ace492028",
+        "size": 650231,
+        "type": "DieselGameBox",
+        "uploadedDate": "2026-01-20T13:31:09.014Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/483e8369f22e4c46884b0b8406a33bde/limbo-1oyfn.jpg",
+        "width": 2560
+      },
+      {
+        "height": 440,
+        "md5": "5d0f4083d70fdfc1656a15428e98ec43",
+        "size": 55342,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-09-25T11:00:02.903Z",
+        "url": "https://cdn1.epicgames.com/92053006068e4aa9b1ad413f72090f5e/item/LIMBO_340X440-340x440-5d0f4083d70fdfc1656a15428e98ec43.jpg",
+        "width": 340
+      }
+    ],
+    "lastModifiedDate": "2026-01-22T21:41:06.447Z",
+    "mainGameItemList": [],
+    "namespace": "92053006068e4aa9b1ad413f72090f5e",
+    "releaseInfo": [
+      {
+        "appId": "Hazelnut",
+        "id": "47857ef0d4e94ebc81ad24df577b425d",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Limbo",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,93 @@
+{
+  "app_name": "d1df808b70104992a53512d64fae933c",
+  "app_title": "Castlevania Anniversary Collection",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "d1df808b70104992a53512d64fae933c",
+      "asset_id": "d1df808b70104992a53512d64fae933c",
+      "build_version": "1.1.005",
+      "catalog_item_id": "62da4c1440ae445093f1d650c3a5cc8c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "af2ce6678da04dada60f958acc2252f2",
+        "update_type": "PATCH"
+      },
+      "namespace": "247d4d4b4e424afd9b474334fe450a43",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-09-07T01:05:29.248Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/Konami/CastlevaniaAnniversaryCollection/{EpicID}/SaveData/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CastlevaniaAnniversaXJ2A3"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "100"
+      }
+    },
+    "description": "Castlevania Anniversary Collection",
+    "developer": "KONAMI",
+    "developerId": "o-snd8ledlra6sytkbbve7h5uwuxuytv",
+    "endOfSupport": false,
+    "entitlementName": "62da4c1440ae445093f1d650c3a5cc8c",
+    "entitlementType": "EXECUTABLE",
+    "id": "62da4c1440ae445093f1d650c3a5cc8c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Castlevania Anniversary Collection Offer",
+        "height": 1440,
+        "md5": "5a2a25faa597f1c48d7d6879c985c07b",
+        "size": 2622146,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-06-14T08:28:11.963Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-b2t74.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Castlevania Anniversary Collection Offer",
+        "height": 1600,
+        "md5": "87ac463e55df816ae5e7b6c90284111b",
+        "size": 3348361,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-06-14T08:18:57.418Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-1opye.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-01-16T05:03:55.099Z",
+    "mainGameItemList": [],
+    "namespace": "247d4d4b4e424afd9b474334fe450a43",
+    "releaseInfo": [
+      {
+        "appId": "d1df808b70104992a53512d64fae933c",
+        "id": "310609f539c8434fbe024967a89fd68e",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Castlevania Anniversary Collection",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

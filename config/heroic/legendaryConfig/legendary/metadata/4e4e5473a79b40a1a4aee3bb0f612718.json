@@ -1,0 +1,88 @@
+{
+  "app_name": "4e4e5473a79b40a1a4aee3bb0f612718",
+  "app_title": "STASIS : BONE TOTEM",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "4e4e5473a79b40a1a4aee3bb0f612718",
+      "asset_id": "4e4e5473a79b40a1a4aee3bb0f612718",
+      "build_version": "1.0.4.4B",
+      "catalog_item_id": "eedba248be294fc69bce3d95deb2cf4e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "03db493a549b4cd3b348be26d201c0bc"
+      },
+      "namespace": "1cc65ff03931492b8e8c288b6fd92e8c",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567G655HEbQ3JJBUPQB4fdHvFzs",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-09-08T07:49:36.952Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/THE BROTHERHOOD/STASIS2/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "STASISBONETOTEM"
+      }
+    },
+    "description": "In BONE TOTEM erwartet dich eine packende Reise im klassischen Point-and-Click-Stil zu geheimen Orten tief unter der Meeresoberfl\u00e4che. Erkunde mit drei Charakteren eine atmosph\u00e4rische Spielwelt mit isometrischen Grafiken, vorgerenderten Zwischensequenzen...",
+    "developer": "BURN VISUAL ILLUSTRATION CC",
+    "developerId": "o-vvs3e5njyumqmye6qpxeykpl8atf7b",
+    "endOfSupport": false,
+    "entitlementName": "eedba248be294fc69bce3d95deb2cf4e",
+    "entitlementType": "EXECUTABLE",
+    "id": "eedba248be294fc69bce3d95deb2cf4e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "STASIS BONE TOTEM Offer",
+        "height": 1440,
+        "md5": "02b0b361f6a4be7d64d5174732f07a3e",
+        "size": 239701,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-04-30T13:27:29.015Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/aa889a5e4bfe4192954deeade985cbd9/stasis-bone-totem-15snn.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download STASIS BONE TOTEM Offer",
+        "height": 1600,
+        "md5": "b37a9f18ba5611869553d7cc007676fe",
+        "size": 181324,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-04-30T13:27:30.257Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/aa889a5e4bfe4192954deeade985cbd9/stasis-bone-totem-45qu8.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-01-22T14:44:24.704Z",
+    "mainGameItemList": [],
+    "namespace": "1cc65ff03931492b8e8c288b6fd92e8c",
+    "releaseInfo": [
+      {
+        "appId": "4e4e5473a79b40a1a4aee3bb0f612718",
+        "id": "985759e51aa04ff69a6680a09f971af5",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "STASIS : BONE TOTEM",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

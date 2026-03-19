@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 
 <channel name="xfce4-panel" version="1.0">
   <property name="configver" type="int" value="2"/>
@@ -26,6 +26,7 @@
         <value type="int" value="13"/>
         <value type="int" value="14"/>
       </property>
+      <property name="output-name" type="string" value="Primary"/>
     </property>
   </property>
   <property name="plugins" type="empty">
@@ -42,6 +43,15 @@
     </property>
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="pamac-tray"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="ckb-next_ckb-next"/>
+        <value type="string" value="TelegramDesktop"/>
+        <value type="string" value="chrome_status_icon_1"/>
+        <value type="string" value="Arch-Update"/>
+      </property>
     </property>
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
@@ -66,6 +76,11 @@
       <property name="show-command-shutdown" type="bool" value="true"/>
       <property name="show-command-suspend" type="bool" value="true"/>
       <property name="show-command-hibernate" type="bool" value="true"/>
+      <property name="recent" type="array">
+        <value type="string" value="xfce-display-settings.desktop"/>
+      </property>
+      <property name="menu-width" type="int" value="617"/>
+      <property name="menu-height" type="int" value="601"/>
     </property>
   </property>
 </channel>

@@ -1,0 +1,5 @@
+2026/03/06-16:14:46.312 12370 Reusing MANIFEST /home/alex/.config/heroic/Partitions/epic/Local Storage/leveldb/MANIFEST-000001
+2026/03/06-16:14:46.312 12370 Recovering log #9
+2026/03/06-16:14:46.314 12370 Level-0 table #12: started
+2026/03/06-16:14:46.317 12370 Level-0 table #12: 30203 bytes OK
+2026/03/06-16:14:46.322 12370 Delete type=0 #9

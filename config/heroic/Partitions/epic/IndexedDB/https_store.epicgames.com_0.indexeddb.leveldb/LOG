@@ -1,0 +1,3 @@
+2026/03/06-16:16:30.101 1234e Reusing MANIFEST /home/alex/.config/heroic/Partitions/epic/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/06-16:16:30.101 1234e Recovering log #3
+2026/03/06-16:16:30.102 1234e Reusing old log /home/alex/.config/heroic/Partitions/epic/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000003.log 

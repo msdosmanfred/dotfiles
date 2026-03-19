@@ -1,0 +1,10 @@
+[Number]
+NumberOfWindows=2
+
+[WindowProperties1]
+ClassName=KeysManager
+ObjectName=MainWindow#1
+
+[WindowProperties2]
+ClassName=KgpgEditor
+ObjectName=editor

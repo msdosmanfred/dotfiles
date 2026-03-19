@@ -1,0 +1,64 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "f9bf96385af02b5302a4a7a49f8e21763b18e5e95df20d1187a703213c259ac3",
+    "telemetry.devDeviceId": "2a18fdff-c1f5-4507-87b6-85252543568b",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1770398532584"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1770398532584": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#261d45",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#ffffff",
+            "background": "#261d45",
+            "editorBackground": "#261d45",
+            "titleBarBackground": "#100d23",
+            "titleBarBorder": "#100d23",
+            "activityBarBackground": "#261d45",
+            "activityBarBorder": "#1d1833",
+            "sideBarBackground": "#372963",
+            "sideBarBorder": "#1d1833",
+            "statusBarBackground": "rgba(0, 34, 18, 0.93)",
+            "statusBarBorder": "#00ff9c",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/alex/.config/Code - OSS/Backups/1770398532584",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1199,
+                "height": 800
+            }
+        },
+        "openedWindows": []
+    }
+}

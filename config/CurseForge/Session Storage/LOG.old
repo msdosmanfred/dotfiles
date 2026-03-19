@@ -1,0 +1,15 @@
+2026/02/26-14:03:26.274 5cc6 Reusing MANIFEST /home/alex/.config/CurseForge/Session Storage/MANIFEST-000001
+2026/02/26-14:03:26.276 5cc6 Recovering log #25
+2026/02/26-14:03:26.276 5cc6 Reusing old log /home/alex/.config/CurseForge/Session Storage/000025.log 
+2026/02/26-15:02:41.238 5cc7 Level-0 table #29: started
+2026/02/26-15:02:41.242 5cc7 Level-0 table #29: 13629 bytes OK
+2026/02/26-15:02:41.247 5cc7 Delete type=0 #25
+2026/02/26-15:02:41.247 5cc6 Compacting 4@0 + 1@1 files
+2026/02/26-15:02:41.253 5cc6 Generated table #30@0: 1486 keys, 44355 bytes
+2026/02/26-15:02:41.253 5cc6 Compacted 4@0 + 1@1 files => 44355 bytes
+2026/02/26-15:02:41.258 5cc6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/26-15:02:41.258 5cc6 Delete type=2 #20
+2026/02/26-15:02:41.258 5cc6 Delete type=2 #22
+2026/02/26-15:02:41.258 5cc6 Delete type=2 #24
+2026/02/26-15:02:41.258 5cc6 Delete type=2 #26
+2026/02/26-15:02:41.258 5cc6 Delete type=2 #29

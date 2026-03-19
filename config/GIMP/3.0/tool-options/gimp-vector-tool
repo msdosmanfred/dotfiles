@@ -1,0 +1,13 @@
+# GIMP gimp-vector-tool options
+
+(foreground
+    (color "HSVA float" 16 "\0\0\0\0\0\0\200\77\0\0\200\77\0\0\200\77" 0))
+(background
+    (color "R'G'B'A float" 16 "\1\0\200\77\1\0\200\77\1\0\200\77\0\0\200\77" 0))
+(brush "2. Hardness 050")
+(dynamics "Pressure Size")
+(pattern "Pine")
+(gradient "VG nach HG (RGB)")
+(palette "Farbchronik")
+
+# end of gimp-vector-tool options

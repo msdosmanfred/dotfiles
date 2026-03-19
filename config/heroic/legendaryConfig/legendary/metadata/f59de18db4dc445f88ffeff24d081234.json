@@ -1,0 +1,110 @@
+{
+  "app_name": "f59de18db4dc445f88ffeff24d081234",
+  "app_title": "Amnesia: Rebirth",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f59de18db4dc445f88ffeff24d081234",
+      "asset_id": "f59de18db4dc445f88ffeff24d081234",
+      "build_version": "1.42",
+      "catalog_item_id": "97b5a984dfdd4f0ab638605ac1cc3169",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b2df9b20c72446d690718965da41c7ad",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-03-17T14:01:10.196Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AmnesiaRebirth"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b2df9b20c72446d690718965da41c7ad"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Amnesia: Rebirth",
+    "developer": "Frictional Games",
+    "developerId": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+    "endOfSupport": false,
+    "entitlementName": "97b5a984dfdd4f0ab638605ac1cc3169",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "97b5a984dfdd4f0ab638605ac1cc3169",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "7d6c96d8e0ab6bfd7347f6730a7260a1",
+        "size": 1006522,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-10-19T21:40:15.233Z",
+        "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/item/EGS_AmnesiaRebirth_FrictionalGames_S1-2560x1440-7d6c96d8e0ab6bfd7347f6730a7260a1.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "06261861317a4d878f0391cbcf127a5a",
+        "size": 960451,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-10-19T21:40:25.617Z",
+        "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/item/EGS_AmnesiaRebirth_FrictionalGames_S2-1200x1600-06261861317a4d878f0391cbcf127a5a.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-24T10:39:15.099Z",
+    "mainGameItemList": [],
+    "namespace": "b2df9b20c72446d690718965da41c7ad",
+    "releaseInfo": [
+      {
+        "appId": "f59de18db4dc445f88ffeff24d081234",
+        "id": "3f356a839b5548d09373f33793ce4627",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Amnesia: Rebirth",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

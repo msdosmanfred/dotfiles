@@ -1,0 +1,426 @@
+{
+  "app_name": "a01150ee6deb406c92dd2b2445186163",
+  "app_title": "Gamedec - Definitive Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a01150ee6deb406c92dd2b2445186163",
+      "asset_id": "a01150ee6deb406c92dd2b2445186163",
+      "build_version": "20221128_1.7.1.r70100",
+      "catalog_item_id": "0b4e0ef7c827455d89383049caa4a653",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567DUXTV7FHzwfNULKhdiDTpM3N",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-19T10:46:14.406Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "settings.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/GameDEC/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "gamedec"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b8abdf9f9bc64ed6b4128a71fd47607f"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Gamedec - Definitive Edition",
+    "developer": "Anshar Publishing",
+    "developerId": "o-9z65aawjyvtc2yfpv8ud48hjx6xhv9",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-19T15:07:57.348Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "trofie k sor",
+        "developer": "Anshar Publishing",
+        "developerId": "o-9z65aawjyvtc2yfpv8ud48hjx6xhv9",
+        "endOfSupport": false,
+        "entitlementName": "1ab5f72b2893455387d77a3508cf8d86",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1ab5f72b2893455387d77a3508cf8d86",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-02-01T19:23:59.967Z",
+        "mainGameItem": {
+          "id": "0b4e0ef7c827455d89383049caa4a653",
+          "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0b4e0ef7c827455d89383049caa4a653",
+            "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "trofie k sor",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-02-24T19:13:13.861Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Gamedec: Izmael Krostov Skin DLC",
+        "developer": "Anshar Publishing",
+        "developerId": "o-9z65aawjyvtc2yfpv8ud48hjx6xhv9",
+        "endOfSupport": false,
+        "entitlementName": "a980dfb3bab54c9397aaa0f3f44d2f54",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a980dfb3bab54c9397aaa0f3f44d2f54",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-02-01T19:23:59.887Z",
+        "mainGameItem": {
+          "id": "0b4e0ef7c827455d89383049caa4a653",
+          "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0b4e0ef7c827455d89383049caa4a653",
+            "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gamedec: Izmael Krostov Skin DLC",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-19T15:10:54.186Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "trofie z zh",
+        "developer": "Anshar Publishing",
+        "developerId": "o-9z65aawjyvtc2yfpv8ud48hjx6xhv9",
+        "endOfSupport": false,
+        "entitlementName": "12f33c253af34bf4b0230e25a580a4b9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "12f33c253af34bf4b0230e25a580a4b9",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-02-01T19:24:00.110Z",
+        "mainGameItem": {
+          "id": "0b4e0ef7c827455d89383049caa4a653",
+          "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0b4e0ef7c827455d89383049caa4a653",
+            "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "trofie z zh",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-19T15:09:41.448Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "trofie t sa",
+        "developer": "Anshar Publishing",
+        "developerId": "o-9z65aawjyvtc2yfpv8ud48hjx6xhv9",
+        "endOfSupport": false,
+        "entitlementName": "4990ee8f9a3e4b7a86323a4fd093a2e2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4990ee8f9a3e4b7a86323a4fd093a2e2",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-02-01T19:24:00.042Z",
+        "mainGameItem": {
+          "id": "0b4e0ef7c827455d89383049caa4a653",
+          "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0b4e0ef7c827455d89383049caa4a653",
+            "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "trofie t sa",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-19T15:09:05.091Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "trofie t mt",
+        "developer": "Anshar Publishing",
+        "developerId": "o-9z65aawjyvtc2yfpv8ud48hjx6xhv9",
+        "endOfSupport": false,
+        "entitlementName": "8e0653a30a224bb4a5481a5b8ca9195b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8e0653a30a224bb4a5481a5b8ca9195b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-02-01T19:23:59.999Z",
+        "mainGameItem": {
+          "id": "0b4e0ef7c827455d89383049caa4a653",
+          "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0b4e0ef7c827455d89383049caa4a653",
+            "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "trofie t mt",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-02-24T19:13:55.227Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Gamedec: Dafne Bennet Skin DLC",
+        "developer": "Anshar Publishing",
+        "developerId": "o-9z65aawjyvtc2yfpv8ud48hjx6xhv9",
+        "endOfSupport": false,
+        "entitlementName": "211c376bf8ef4286a6e2fb5891822d5d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "211c376bf8ef4286a6e2fb5891822d5d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-02-01T19:23:59.928Z",
+        "mainGameItem": {
+          "id": "0b4e0ef7c827455d89383049caa4a653",
+          "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0b4e0ef7c827455d89383049caa4a653",
+            "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gamedec: Dafne Bennet Skin DLC",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-19T15:10:23.935Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "trofie k ca",
+        "developer": "Anshar Publishing",
+        "developerId": "o-9z65aawjyvtc2yfpv8ud48hjx6xhv9",
+        "endOfSupport": false,
+        "entitlementName": "9486cfcab70b48a89cfe80c1039b24e7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9486cfcab70b48a89cfe80c1039b24e7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-02-01T19:24:00.077Z",
+        "mainGameItem": {
+          "id": "0b4e0ef7c827455d89383049caa4a653",
+          "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0b4e0ef7c827455d89383049caa4a653",
+            "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "trofie k ca",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "0b4e0ef7c827455d89383049caa4a653",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && gamedec)"
+    ],
+    "id": "0b4e0ef7c827455d89383049caa4a653",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3d18c3f9ffe2ba4ca88305479f99d1be",
+        "size": 291714,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-10-06T13:21:34.329Z",
+        "url": "https://cdn1.epicgames.com/item/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S1_2560x1440-3d18c3f9ffe2ba4ca88305479f99d1be",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d9d5b3cb95fd4efaa178bee267b63dd2",
+        "size": 215178,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-10-06T13:21:37.269Z",
+        "url": "https://cdn1.epicgames.com/item/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S2_1200x1600-d9d5b3cb95fd4efaa178bee267b63dd2",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-02-01T19:23:59.618Z",
+    "mainGameItemList": [],
+    "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+    "releaseInfo": [
+      {
+        "appId": "a01150ee6deb406c92dd2b2445186163",
+        "id": "e75d8ae1dfaa429e95d9531c3c76d52f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Gamedec - Definitive Edition",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

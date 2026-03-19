@@ -1,0 +1,171 @@
+{
+  "app_name": "e21be436768f4add87d4935a180b4932",
+  "app_title": "Dark Deity",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "e21be436768f4add87d4935a180b4932",
+      "asset_id": "e21be436768f4add87d4935a180b4932",
+      "build_version": "1.58",
+      "catalog_item_id": "ed510ff91037484c90ac1fd50152dbae",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "1da964df05c340cda2a467d81ce2f8eb"
+      },
+      "namespace": "be69d6b9214f4bc594c4cb1cd310a553",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-10-12T14:48:51.202Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "DarkDeityPdnOn"
+      }
+    },
+    "description": "Dark Deity",
+    "developer": "Freedom Games",
+    "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-21T16:19:58.146Z",
+        "customAttributes": {},
+        "description": "Suns Out, Swords Out DLC",
+        "developer": "Freedom Games",
+        "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+        "endOfSupport": false,
+        "entitlementName": "beb570c3866542eebb4351781a6f01e0",
+        "entitlementType": "EXECUTABLE",
+        "id": "beb570c3866542eebb4351781a6f01e0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Dark Deity Suns Out, Swords Out DLC Offer",
+            "height": 1440,
+            "md5": "7af95e599002247dd566b6b144eddabb",
+            "size": 542320,
+            "type": "OfferImageWide",
+            "uploadedDate": "2022-07-21T16:21:50.446Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/1d1ceda7b1ba4e7893a36a1166ac3e41/dark-deity-suns-out-swords-out-dlc-offer-1upk6.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Dark Deity Suns Out, Swords Out DLC Offer",
+            "height": 1600,
+            "md5": "993982b08dcb8fd65e3cc7c08c9426a2",
+            "size": 307570,
+            "type": "OfferImageTall",
+            "uploadedDate": "2022-07-21T16:21:50.818Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/1d1ceda7b1ba4e7893a36a1166ac3e41/download-dark-deity-suns-out-swords-out-dlc-offer-ij3kh.jpg",
+            "width": 1200
+          },
+          {
+            "alt": "Dark Deity Suns Out, Swords Out DLC Offer",
+            "height": 1440,
+            "md5": "7af95e599002247dd566b6b144eddabb",
+            "size": 542320,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-07-21T16:21:53.196Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/1d1ceda7b1ba4e7893a36a1166ac3e41/dark-deity-suns-out-swords-out-dlc-offer-1gvdd.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Dark Deity Suns Out, Swords Out DLC Offer",
+            "height": 1600,
+            "md5": "993982b08dcb8fd65e3cc7c08c9426a2",
+            "size": 307570,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-07-21T16:21:53.405Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/1d1ceda7b1ba4e7893a36a1166ac3e41/download-dark-deity-suns-out-swords-out-dlc-offer-k6ojr.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-11-11T10:18:21.118Z",
+        "mainGameItem": {
+          "id": "ed510ff91037484c90ac1fd50152dbae",
+          "namespace": "be69d6b9214f4bc594c4cb1cd310a553",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ed510ff91037484c90ac1fd50152dbae",
+            "namespace": "be69d6b9214f4bc594c4cb1cd310a553",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "be69d6b9214f4bc594c4cb1cd310a553",
+        "releaseInfo": [
+          {
+            "appId": "151bbf1f51594189990f68915de9e6e4",
+            "id": "d32da62b7c07489ab4630bc8c9f34618",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Suns Out, Swords Out DLC",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "ed510ff91037484c90ac1fd50152dbae",
+    "entitlementType": "EXECUTABLE",
+    "id": "ed510ff91037484c90ac1fd50152dbae",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Download Dark Deity Offer",
+        "height": 1600,
+        "md5": "84f79e84cecb1a0d7ec394b85f466ad4",
+        "size": 358632,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-10-19T22:21:05.769Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/1d1ceda7b1ba4e7893a36a1166ac3e41/download-dark-deity-offer-1rs6y.jpg",
+        "width": 1200
+      },
+      {
+        "alt": "Dark Deity Offer",
+        "height": 1440,
+        "md5": "9678d1a9db25e17c8729a771fcc80ca3",
+        "size": 669586,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-10-19T22:21:06.169Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/1d1ceda7b1ba4e7893a36a1166ac3e41/dark-deity-offer-13ebi.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2022-11-22T15:33:38.121Z",
+    "mainGameItemList": [],
+    "namespace": "be69d6b9214f4bc594c4cb1cd310a553",
+    "releaseInfo": [
+      {
+        "appId": "e21be436768f4add87d4935a180b4932",
+        "id": "c3560ce04215404eabd1fdb18f5270bd",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Dark Deity",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

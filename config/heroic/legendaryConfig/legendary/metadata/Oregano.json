@@ -1,0 +1,2942 @@
+{
+  "app_name": "Oregano",
+  "app_title": "Anno 1800",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Oregano",
+      "asset_id": "Oregano",
+      "build_version": "4.2.880604",
+      "catalog_item_id": "0d23689ab18b477c878f4bed8f9bc2de",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "oregano",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-03-29T14:46:24.783Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ANNO1800"
+      },
+      "GameID": {
+        "type": "STRING",
+        "value": "4553"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "Anno1800.exe"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "oregano"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "Anno1800.exe,UbisoftGameLauncher.exe"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "InstallDir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\4553"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "ThirdPartyManagedProvider": {
+        "type": "STRING",
+        "value": "UbisoftConnect"
+      },
+      "isPrepurchase": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "partnerLinkId": {
+        "type": "STRING",
+        "value": "1ff283ce9e054747abe9ac66074c7ebc"
+      },
+      "partnerLinkType": {
+        "type": "STRING",
+        "value": "ubisoft"
+      }
+    },
+    "description": "Anno 1800",
+    "developer": "Ubisoft Entertainment",
+    "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-22T20:50:54.990Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "1baaac3de88a4eefa3e3a837a40a0da6"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Season 4 Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "d3a5661587d34a63b69a634124f78444",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d3a5661587d34a63b69a634124f78444",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-04-12T15:29:50.549Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "Oregano_S4P",
+            "compatibleApps": [],
+            "dateAdded": "2022-03-22T20:50:30.440Z",
+            "id": "e272fcab6ec840cbadde361d7589ff85",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Season 4 Pass",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-05-18T22:18:47.711Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "7c99f8da72a14a1a83efe4d0abf7d4ca"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Tourist Season - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "12868bffd6f24f62a41da22b2791f82a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "12868bffd6f24f62a41da22b2791f82a",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-05-25T15:53:30.783Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "OreganoADLC",
+            "compatibleApps": [],
+            "dateAdded": "2020-07-30T00:00:00.000Z",
+            "id": "8081c0f87bdc47808e28e33ac01012f7",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tourist Season - DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-22T20:34:02.644Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Cosmetic Pack DLC 7",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "6794452f141740f8bf937c4a4fdb55cc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6794452f141740f8bf937c4a4fdb55cc",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-03-22T20:40:55.861Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "CP_DLC7",
+            "compatibleApps": [],
+            "dateAdded": "2022-03-22T20:37:26.738Z",
+            "id": "3dd46137f1e14355947048548ffed9f7",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Cosmetic Pack DLC 7",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-03-07T05:16:06.582Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "bee847ab252a4635a1dc04c392631957"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Bright Harvest - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "5cd17ca3cba0409899ef7c1da0558623",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5cd17ca3cba0409899ef7c1da0558623",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-06-02T14:42:11.917Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "BH",
+            "compatibleApps": [],
+            "dateAdded": "2019-04-25T00:00:00.000Z",
+            "id": "b4aad501b5134669a96472a8fd34f68d",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Bright Harvest - DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-22T20:31:05.558Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "21fbfbd909bc4394baf351bac229fcb8"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Cosmetic Pack Season 4",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "33362a4afa8148a6b2d1f6c336d74478",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "33362a4afa8148a6b2d1f6c336d74478",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-09T19:33:37.050Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "OreganoCosmicPS4_DLC",
+            "compatibleApps": [],
+            "dateAdded": "2023-03-09T19:33:35.421Z",
+            "id": "7628853eb9c64b268f4c888fbf2e8ce2",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Cosmetic Pack Season 4",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-04-25T16:41:56.949Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "8a0620f3d4324f458dfb76aa23b9e951"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Anno 1800 Deluxe Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "995ea60916b3458491671a5ae2fd9451",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "995ea60916b3458491671a5ae2fd9451",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "DeluxePackTest",
+            "compatibleApps": [],
+            "dateAdded": "2019-04-25T00:00:00.000Z",
+            "id": "90b0b7eab74b45aaa1aa05ba31ae7e8d",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Anno 1800 Deluxe Pack",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-10-12T15:39:08.537Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "c41a162d6d5442c79db4c74fbce0faa3"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Land of Lions - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "d389fa9770204f439b79adae6984653d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d389fa9770204f439b79adae6984653d",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-10-22T14:58:23.423Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "OreganoADLC",
+            "compatibleApps": [],
+            "dateAdded": "2020-07-30T00:00:00.000Z",
+            "id": "8081c0f87bdc47808e28e33ac01012f7",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Land of Lions - DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-02-02T01:23:13.567Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "0dd6412bd221464d95e5e26fc2de92f5"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Docklands - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "8a685fae988c4886afdf320e1573fc1f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8a685fae988c4886afdf320e1573fc1f",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-02-23T15:55:16.876Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "OreganoADLC",
+            "compatibleApps": [],
+            "dateAdded": "2020-07-30T00:00:00.000Z",
+            "id": "8081c0f87bdc47808e28e33ac01012f7",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Docklands - DLC",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-03-03T19:44:11.445Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "64324cec620843d39317be753a5eb279"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Anno 1800 Season 2 Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "e943b6b07f2042ad9acf0a1f35a4de45",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e943b6b07f2042ad9acf0a1f35a4de45",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-05-27T21:47:43.337Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "SeasonPass2Test",
+            "compatibleApps": [],
+            "dateAdded": "2019-04-16T00:00:00.000Z",
+            "id": "bd8e7811eac242b3b1865b474856b27f",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Anno 1800 Season 2 Pass",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-09-04T15:23:35.399Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "c4ac2e3a74044fd79589c438aa0f503a"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "The Passage - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "046441c6b7034dcbb840bfb67c46605a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "046441c6b7034dcbb840bfb67c46605a",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "PassTest",
+            "compatibleApps": [],
+            "dateAdded": "2019-04-25T00:00:00.000Z",
+            "id": "3c224776046e4c80a79daf370cdff33f",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "The Passage - DLC",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-03-03T19:54:20.182Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "66b739169aea49cf995f6211d933a0b8"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Seat of Power - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "0b523c821a6d4477acc0f376d03aa589",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0b523c821a6d4477acc0f376d03aa589",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "SOP",
+            "compatibleApps": [],
+            "dateAdded": "2019-04-25T00:00:00.000Z",
+            "id": "8081c0f87bdc47808e28e33ac01012f7",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Seat of Power - DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-13T21:47:54.247Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "4d4d270a5ebb45bb87648422e9f27dd1"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Pedestrian Zone Pack - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "ec54c2e66b7b46d4a2dfbff0c89d465c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ec54c2e66b7b46d4a2dfbff0c89d465c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "bc564e0f6cbf7d04f1481488997ab490",
+            "size": 471757,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-09-13T21:47:41.802Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_ANNO_PEDESTRIAN_ZONE_EPIC_Store_Landscape_2560x1440 _2560x1440-bc564e0f6cbf7d04f1481488997ab490",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "a0f050aac32b4169c2622c3ba6f415ff",
+            "size": 853861,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-09-13T21:47:47.921Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_ANNO_PEDESTRIAN_ZONE_EPIC_Store_Portrait_1200x1600 _1200x1600-a0f050aac32b4169c2622c3ba6f415ff",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-09-28T14:59:21.948Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "OreganoADLC",
+            "compatibleApps": [],
+            "dateAdded": "2020-07-30T00:00:00.000Z",
+            "id": "8081c0f87bdc47808e28e33ac01012f7",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Pedestrian Zone Pack - DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-22T20:33:54.724Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "1504d7a36656422a8e967fe329ddb983"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Empire of the Skies - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "49699a081876426ca366b478adb89028",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "49699a081876426ca366b478adb89028",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-09-20T12:52:12.753Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "DLC11 EOS",
+            "compatibleApps": [],
+            "dateAdded": "2022-03-22T21:04:12.836Z",
+            "id": "fcd39fefb0e94738bd030821ab4ead8a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Empire of the Skies - DLC",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-09-04T01:05:59.129Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "0dd9a4a77e0047c39f42e9ecccb4e0a6"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Botanica - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "8daa7711fa0848429f23a5682afde739",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8daa7711fa0848429f23a5682afde739",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "BO",
+            "compatibleApps": [],
+            "dateAdded": "2019-04-25T00:00:00.000Z",
+            "id": "ceef2af433aa47c599b05ddfdc9d68b4",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Botanica - DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-02-04T15:27:41.123Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "9ea7f7c20ec844129c3cd483f40346dd"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Seasonal Decorations - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "bc564f0ddd114ef3912786fcfb7a99b0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bc564f0ddd114ef3912786fcfb7a99b0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "60081986201fb4901efab2999272f4c5",
+            "size": 459148,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-02-11T17:41:45.298Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/UK_ANNO_SEASONAL DECORATIONS_EPIC_Store Landscape_2560x1440_2560x1440-60081986201fb4901efab2999272f4c5",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "e7f83cad256e3ab3bd88575e29655892",
+            "size": 431871,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-02-11T17:41:53.238Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/UK_ANNO_SEASONAL DECORATIONS_EPIC_Store Portrait_1200x1600_1200x1600-e7f83cad256e3ab3bd88575e29655892",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-02-14T23:15:58.728Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "OreganoDLC7",
+            "compatibleApps": [],
+            "dateAdded": "2022-02-04T15:24:00.000Z",
+            "id": "aa0eac69e81447bf970c2563bfeeca49",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Seasonal Decorations - DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-22T20:31:00.155Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "4f82666326494d8baabda0f6c63b3b7e"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Seeds Of Change",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "f152e62165f74fb0b40131b44f8c302b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f152e62165f74fb0b40131b44f8c302b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-04-12T15:29:50.564Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "DLC10 SOC",
+            "compatibleApps": [],
+            "dateAdded": "2022-03-22T20:58:16.553Z",
+            "id": "bc726c0e36be4569bc0e3ead22c9f9cb",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Seeds Of Change",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-07-25T23:53:15.626Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "d72f612e95f84b918a23514d6d125785"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Sunken Treasures - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "bc810b7f733e41789da4c87cba58d836",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bc810b7f733e41789da4c87cba58d836",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-05-27T21:47:43.337Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "STP",
+            "compatibleApps": [],
+            "dateAdded": "2019-04-25T00:00:00.000Z",
+            "id": "5509c3f95618469885ea9ba6dbc686af",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Sunken Treasures - DLC",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-06T15:56:29.274Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "b4813de8f0404f6f8d9f7eef6f96f36d"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Holiday Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "458c88f1df8744b5bcf2542cc10d1933",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "458c88f1df8744b5bcf2542cc10d1933",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "HolDLC",
+            "compatibleApps": [],
+            "dateAdded": "2019-04-25T00:00:00.000Z",
+            "id": "d57a3eef9ab54b8ea680e569bdbec444",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Holiday Pack",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-12-08T06:54:20.963Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "69041035a20c43bf98cd48b51f40e1cb"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Vibrant Cities Pack - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "2f0368b3b37a4237905d19df9c6695bf",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2f0368b3b37a4237905d19df9c6695bf",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-12-14T05:18:15.982Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "OreganoADLC",
+            "compatibleApps": [],
+            "dateAdded": "2020-07-30T00:00:00.000Z",
+            "id": "8081c0f87bdc47808e28e33ac01012f7",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Vibrant Cities Pack - DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-22T20:33:49.805Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkID": {
+            "type": "STRING",
+            "value": "fe6bc482d11f44fd93aec25d3a724e7f"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "National Park Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "6d876ede44eb4e66a51647835f68f2b6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6d876ede44eb4e66a51647835f68f2b6",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-08-22T12:59:05.702Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "DLC12_SPARE",
+            "compatibleApps": [],
+            "dateAdded": "2022-03-22T21:10:56.239Z",
+            "id": "dcad9705ef4144a7b23048f12875dd65",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "National Park Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "application"
+          },
+          {
+            "path": "games"
+          }
+        ],
+        "creationDate": "2022-06-21T07:43:00.109Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "neverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "553e4db697b346ff89e5ce11de569bdf"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Industrial Zone Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "da7ab113612c404da406ac0e30cca84f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "da7ab113612c404da406ac0e30cca84f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "97de17c3961cb71037b44fd568776d47",
+            "size": 932138,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-06-24T08:36:51.325Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/AN18_UCS25932_StoreLandscape_2560x1440_2560x1440-97de17c3961cb71037b44fd568776d47",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "bb2948a258762eae614849c16682c8eb",
+            "size": 1291468,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-06-24T08:36:54.992Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/AN18_UCS25932_StorePortrait_1200x1600_1200x1600-bb2948a258762eae614849c16682c8eb",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-06-27T20:01:52.774Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "oreganoCDLC8",
+            "compatibleApps": [],
+            "dateAdded": "2022-06-21T07:53:21.004Z",
+            "id": "3f5ea19b92b54e5090f77d7b57caf079",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Industrial Zone Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-03-07T05:18:54.271Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "f035efa2d6f9480aa7746a41884e6f5c"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "City Lights - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "e311871f74b84ce79b304d6ae1c28ce8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e311871f74b84ce79b304d6ae1c28ce8",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-11-12T15:55:27.080Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "OreganoDLC07",
+            "compatibleApps": [],
+            "dateAdded": "2019-04-25T00:00:00.000Z",
+            "id": "de2ea0d79d254aaaa9f5ebe2640b46f1",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "City Lights - DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-05-19T16:07:25.519Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "a4c8ee0acfe34a9983b13fa7fe0ae36b"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Vehicle Liveries Pack - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "603dc16e404f42acacddec77d09bb987",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "603dc16e404f42acacddec77d09bb987",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-05-25T15:53:30.783Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "OreganoADLC",
+            "compatibleApps": [],
+            "dateAdded": "2020-07-30T00:00:00.000Z",
+            "id": "8081c0f87bdc47808e28e33ac01012f7",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Vehicle Liveries Pack - DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-12-08T07:11:46.365Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "f2d5e62336fe4af7af031abd0540813b"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Plant a Tree - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "55f5d2ec42e84dc29a78caa7c8ea6db5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "55f5d2ec42e84dc29a78caa7c8ea6db5",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-12-14T05:18:15.983Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "OreganoADLC",
+            "compatibleApps": [],
+            "dateAdded": "2020-07-30T00:00:00.000Z",
+            "id": "8081c0f87bdc47808e28e33ac01012f7",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Plant a Tree - DLC",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-04-15T18:27:04.271Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "2dd540880b97473b85c084f24a3eb4ac"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Anno 1800 Season Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "96ced8854d0d472ab231c482a6c2c339",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "96ced8854d0d472ab231c482a6c2c339",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "SeasonPassTest",
+            "compatibleApps": [],
+            "dateAdded": "2019-04-16T00:00:00.000Z",
+            "id": "a380c20ec0774e2698f077fba754a428",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Anno 1800 Season Pass",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-08-25T19:50:48.122Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "b250a1975fa34ad9a94942c4b9516609"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "The High Life - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "5a1da0d879834a059fd9910b3a1425c6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5a1da0d879834a059fd9910b3a1425c6",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "06c13a07e899524792abdd8d2226486e",
+            "size": 2360910,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-08-27T21:25:07.719Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_ANNO_DLC9_EPIC_Store_Portrait_1200x1600_ENG _1200x1600-06c13a07e899524792abdd8d2226486e",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "0888b568c0e2df2ca86f47c57f395f68",
+            "size": 1201448,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-08-30T19:11:19.704Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_ANNO_DLC9_EPIC_Store_Landscape_2560x1440_ENG _2560x1440-0888b568c0e2df2ca86f47c57f395f68",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2021-08-31T16:28:23.969Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "OreganoADLC",
+            "compatibleApps": [],
+            "dateAdded": "2020-07-30T00:00:00.000Z",
+            "id": "8081c0f87bdc47808e28e33ac01012f7",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The High Life - DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-01-29T23:09:03.230Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "03fdd13847284d85a72f67d03a3c4646"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Anno 1800 Season 3 Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "1faf32503b7a406795b0073cd555493b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1faf32503b7a406795b0073cd555493b",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-02-23T15:55:16.876Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "SeasonPass3Test",
+            "compatibleApps": [],
+            "dateAdded": "2019-04-16T00:00:00.000Z",
+            "id": "bd8e7811eac242b3b1865b474856b27f",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Anno 1800 Season 3 Pass",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-17T20:28:18.819Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "681fc63361be43f3888da113089d231a"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Anno 1800 - New World Rising",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "edfdecd1317f46dba2e3add1d4f68c72",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "edfdecd1317f46dba2e3add1d4f68c72",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "7dd41de8121d12f22f58df28ebedebcd",
+            "size": 2238391,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-11-18T14:34:43.852Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/AN18_UCS27658_StoreLandscape_2560x1440_2560x1440-7dd41de8121d12f22f58df28ebedebcd",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "ed85df92fa1ff8397c66e24959577bac",
+            "size": 941496,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-11-18T14:34:49.252Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/AN18_UCS27658_StorePortrait_1200x1600_1200x1600-ed85df92fa1ff8397c66e24959577bac",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-03-09T19:32:52.354Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "Oregano_NewWR_DLC",
+            "compatibleApps": [],
+            "id": "ca122f20f4d24d0da0a46264c5edcdfc",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Anno 1800 - New World Rising",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-17T20:52:24.943Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "d621fa7cb4ed47e0abe1ed3f17cbe32b"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Anno 1800\u2122 Old Town Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "99d3c510a5224f8d9c2e604d0b7491e3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "99d3c510a5224f8d9c2e604d0b7491e3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "92ce1919f7a6a433beeebda2ca851c57",
+            "size": 2864512,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-11-18T14:40:20.750Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/AN18_UCS26521_StoreLandscape_2560x1440_2560x1440-92ce1919f7a6a433beeebda2ca851c57",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "d53ce6ec8e889a8294d0e6498c73938f",
+            "size": 1364704,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-11-18T14:40:25.637Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/AN18_UCS26521_StorePortrait_1200x1600_1200x1600-d53ce6ec8e889a8294d0e6498c73938f",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-03-09T19:25:39.055Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "OreganoOTPC_DLC",
+            "compatibleApps": [],
+            "dateAdded": "2023-03-09T19:25:00.000Z",
+            "id": "20d060006c2741bbb9c7bc01d0a91a85",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Anno 1800\u2122 Old Town Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-01-09T16:20:13.981Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "a16e87222f184dd6afee48c287d83650"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Anno 1800 \u2013 Dragon Garden Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "a182ac0a581748c68a6ac91e27dcd138",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a182ac0a581748c68a6ac91e27dcd138",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "ce02fc31c11fd8896c047857a6b792f9",
+            "size": 637638,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-01-10T13:05:02.278Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/EGST_StorePortrait_1200x1600_1200x1600-ce02fc31c11fd8896c047857a6b792f9",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "3f43ddbbedb54b51d25450667189ac3e",
+            "size": 1336032,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-01-10T13:05:26.892Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/EGST_StoreLandscape_2560x1440_2560x1440-3f43ddbbedb54b51d25450667189ac3e",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2023-03-09T19:32:21.194Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "OreganoDragonGP_DLC",
+            "compatibleApps": [],
+            "id": "4368618bd8b54a71b7b77040dfedad5f",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Anno 1800 \u2013 Dragon Garden Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-05-17T17:44:01.594Z",
+        "customAttributes": {
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkID": {
+            "type": "STRING",
+            "value": "2e6bfd308243468dbff0d1a1d03e263b"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Fiesta Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "334b720e11e34affb4adf43a3a0736ee",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "334b720e11e34affb4adf43a3a0736ee",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-10-18T20:47:57.397Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "oreganoFiestaDLC",
+            "compatibleApps": [],
+            "dateAdded": "2023-10-18T20:47:56.098Z",
+            "id": "d169364210fe419d8fdf3a9ba0fc8d43",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Fiesta Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-10-11T17:16:41.336Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkID": {
+            "type": "STRING",
+            "value": "992a8f9039b94f6898e3fb4c52bc2225"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Cosmetic Pack Bundle",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "e0ec2123d24b4fef970c1791dfb91e04",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e0ec2123d24b4fef970c1791dfb91e04",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-10-17T12:58:14.172Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "Anno1800_CosmeticPack2_AppName",
+            "compatibleApps": [],
+            "dateAdded": "2023-10-17T01:26:00.000Z",
+            "id": "d468c10794264e199fd40ce335ee4f99",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Cosmetic Pack Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-09T18:30:49.455Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "d46536a000184aff910328a8e3280410"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Anno 1800: Eldritch Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "5a83ee3e2cca446b828140319e7cc2f3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5a83ee3e2cca446b828140319e7cc2f3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "7aa66bb772945e123e36c4e5c759a0bd",
+            "size": 1180693,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-13T15:41:52.871Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/EGST_StoreLandscape_2560x1440_2560x1440-7aa66bb772945e123e36c4e5c759a0bd",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "2779d0c22d18ffc3090ed6ddb2eb601b",
+            "size": 635267,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-13T15:41:59.245Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/EGST_StorePortrait_1200x1600_1200x1600-2779d0c22d18ffc3090ed6ddb2eb601b",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-11-14T12:53:30.139Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "anno1800EldritchPack",
+            "compatibleApps": [],
+            "id": "9e2fe1f7f8ca4dbc807330ad62e71689",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Anno 1800 Eldritch Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-10T18:34:35.712Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "2047abd6b232425f9b91094ed423e063"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Steampunk Pack \u2013 Anno 1800",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "730a8e4f29cd496bbd8bb82de3913aa4",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "730a8e4f29cd496bbd8bb82de3913aa4",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "628ef67e7ade7261cf913213bd880e2a",
+            "size": 1068895,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-12T20:43:34.944Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/steamwide_2560x1440-628ef67e7ade7261cf913213bd880e2a",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "b57bc98e831573365f503f00f57e6dc3",
+            "size": 520384,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-12T20:43:39.034Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/steamtall_1200x1600-b57bc98e831573365f503f00f57e6dc3",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-05-14T12:59:21.568Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Steampunk Pack \u2013 Anno 1800",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-16T11:45:52.691Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "c3cb1bf3b1ed429086c8d1c1672ce286"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Pirate Cove Pack - Anno 1800",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "ee81e66afb03400195466f66b1dda447",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ee81e66afb03400195466f66b1dda447",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1080,
+            "md5": "7851ce275eda8ac51e0dd4d70c90d819",
+            "size": 637399,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-09-19T10:24:53.362Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/EGST_Edition_Thumbnail_1920X1080_1920x1080-7851ce275eda8ac51e0dd4d70c90d819",
+            "width": 1920
+          },
+          {
+            "height": 1600,
+            "md5": "25ae0e96a05ce7bcbe3e9b2c794b8a32",
+            "size": 571317,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-09-19T10:24:58.283Z",
+            "url": "https://cdn1.epicgames.com/item/oregano/EGST_StorePortrait_1200x1600_1200x1600-25ae0e96a05ce7bcbe3e9b2c794b8a32",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-19T13:00:21.577Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "anno1800PirateCovePack",
+            "compatibleApps": [],
+            "id": "a78f10fbf7b44e5c9b76a4aee71056f4",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Pirate Cove Pack - Anno 1800",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-11-27T18:32:52.426Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkID": {
+            "type": "STRING",
+            "value": "9ffb103cd4bd4ba3ac54ea7a83442975"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "EoaE",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "e7f248b753ad4df1abc72ef28c98f654",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e7f248b753ad4df1abc72ef28c98f654",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-12-05T13:27:14.313Z",
+        "mainGameItem": {
+          "id": "0d23689ab18b477c878f4bed8f9bc2de",
+          "namespace": "oregano",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0d23689ab18b477c878f4bed8f9bc2de",
+            "namespace": "oregano",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "eoae",
+            "compatibleApps": [],
+            "id": "911c13511ec6481e9fe91a83fc10cf0f",
+            "platform": []
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "EoaE",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "0d23689ab18b477c878f4bed8f9bc2de",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "0d23689ab18b477c878f4bed8f9bc2de",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "cea85f12443da424bef2a30a20be060b",
+        "size": 4501409,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-09-13T17:04:46.108Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/ANNO_Store_Landscape_1920x1080_1920x1080-cea85f12443da424bef2a30a20be060b",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "fe7774bb1563f584b97142f0b202d209",
+        "size": 865324,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-09-13T17:05:45.143Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/AN18_Store_Portrait_1200x1600 (1)_1200x1600-fe7774bb1563f584b97142f0b202d209",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-12-05T13:27:14.331Z",
+    "mainGameItemList": [],
+    "namespace": "oregano",
+    "releaseInfo": [
+      {
+        "appId": "Oregano",
+        "compatibleApps": [],
+        "dateAdded": "2019-03-29T00:00:00.000Z",
+        "id": "9575694983e1476495452c3f7d3dec4a",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Anno 1800",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

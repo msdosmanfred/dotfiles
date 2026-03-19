@@ -1,0 +1,6 @@
+2026/02/24-19:36:49.138 92ac Creating DB /home/alex/.config/CurseForge/WebStorage/5/IndexedDB/indexeddb.leveldb since it was missing.
+2026/02/24-19:36:49.147 92ac Reusing MANIFEST /home/alex/.config/CurseForge/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/02/24-19:36:59.466 92ad Level-0 table #5: started
+2026/02/24-19:36:59.469 92ad Level-0 table #5: 480 bytes OK
+2026/02/24-19:36:59.473 92ad Delete type=0 #3
+2026/02/24-19:36:59.474 92ad Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,27 @@
+{
+    "_videoPreferences": {
+        "_customMasterTextureLimit": null,
+        "_customAnisotropicFiltering": null,
+        "_customShadowQuality": null,
+        "_customShadowResolution": null,
+        "_customVSyncCount": null,
+        "_customLODBias": null,
+        "_ambientOcclusion": false,
+        "_bloom": false,
+        "_antialiasing": false,
+        "_depthOfField": false,
+        "_particles": "Low",
+        "_hospitalShadowDistance": "Near",
+        "_lightFadeDistance": "Near",
+        "_hospitalLightingQuality": "Low",
+        "_maximumFPS": 150,
+        "_characterDrawDistance": 0.0
+    },
+    "_audioPreferences": {
+        "_musicVolume": 1.0,
+        "_masterVolume": 1.0,
+        "_sfxVolume": 1.0,
+        "_tannoyVolume": 0.3079183,
+        "_djVolume": 0.16405
+    }
+}

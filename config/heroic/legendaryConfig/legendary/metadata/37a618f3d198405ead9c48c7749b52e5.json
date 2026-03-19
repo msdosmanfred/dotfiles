@@ -1,0 +1,1420 @@
+{
+  "app_name": "37a618f3d198405ead9c48c7749b52e5",
+  "app_title": "Total War: WARHAMMER III",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "37a618f3d198405ead9c48c7749b52e5",
+      "asset_id": "37a618f3d198405ead9c48c7749b52e5",
+      "build_version": "43670.3959560",
+      "catalog_item_id": "ade663f595c64895a792c6c89616ed4c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9259cc2cad3d42f1a1595d7674037697"
+      },
+      "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567Y3rPT0HVCHjO3g4gQUbeHkKE",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-07-17T14:39:29.016Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TotalWarWARHAMMERIII"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "dda64c2956b54f1ba3cd97f6aaee775f"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Total War: WARHAMMER III",
+    "developer": "SEGA of Europe",
+    "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-09-17T20:47:59.883Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Empires"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailEmpires Audience",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "705a83c3c2834eae9b84339cdc1aff99",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "705a83c3c2834eae9b84339cdc1aff99",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2021-11-12T17:26:07.476Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailEmpires Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {
+          "PEGI": {
+            "ageControl": 18,
+            "descriptor": "Violence",
+            "descriptorIds": [
+              51
+            ],
+            "elementIds": [],
+            "gameRating": "PEGI 18",
+            "isIARC": false,
+            "isTrad": true,
+            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_18_192_192x192-d6a2111e4c05a18bc5ec235df88a7382",
+            "ratingSystem": "PEGI",
+            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-18_436x530-f31bca6eb9a143791a8525f8b278462f",
+            "title": "PEGI 18"
+          }
+        },
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-08-27T19:52:13.403Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "WHBloodPack"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "dda64c2956b54f1ba3cd97f6aaee775f"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Total War: WARHAMMER III \u2013 Blood for the Blood Gods III",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "f83ee374b3934892b75d40dd295079cb",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f83ee374b3934892b75d40dd295079cb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "9b0b7f115e628cb420b5913f55eb94ed",
+            "size": 819307,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-08-26T17:02:59.321Z",
+            "url": "https://cdn1.epicgames.com/offer/dda64c2956b54f1ba3cd97f6aaee775f/EGS_TotalWarWARHAMMERIIIBloodfortheBloodGod_SEGA_DLC_S2_1200x1600-9b0b7f115e628cb420b5913f55eb94ed",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "d61ddd0ab0c0c703ba204ed19820f774",
+            "size": 785857,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-08-26T17:03:14.207Z",
+            "url": "https://cdn1.epicgames.com/offer/dda64c2956b54f1ba3cd97f6aaee775f/EGS_TotalWarWARHAMMERIIIBloodfortheBloodGod_SEGA_DLC_S1_2560x1440-d61ddd0ab0c0c703ba204ed19820f774",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2026-01-05T18:25:57.437Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [
+          {
+            "appId": "d6d72614437d425f9d5372d0608e557b",
+            "compatibleApps": [],
+            "dateAdded": "2020-12-07T00:00:00.000Z",
+            "id": "a6a7dd5b52d4415886ae42fadb5ba977",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "Second staging build!",
+        "title": "Total War: WARHAMMER III \u2013 Blood for the Blood Gods III",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-20T21:09:26.660Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Ringtail Ogre Kingdoms DLC",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "b8d6cb05e875462f9f34b2075e565efc",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b8d6cb05e875462f9f34b2075e565efc",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-02-24T15:57:59.729Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Ringtail Ogre Kingdoms DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-06-21T15:34:55.974Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Total War: WARHAMMER III - Forge of the Chaos Dwarfs",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "a00b2c729e1d4cf8a8869b8445b14c5b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a00b2c729e1d4cf8a8869b8445b14c5b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "c1df54c623a75518d68184d4b1994ea6",
+            "size": 949963,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-03-08T15:19:47.638Z",
+            "url": "https://cdn1.epicgames.com/item/dda64c2956b54f1ba3cd97f6aaee775f/EGS_TotalWarWARHAMMERIIIForgeoftheChaosDwar_SEGA_DLC_S1_2560x1440-c1df54c623a75518d68184d4b1994ea6",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "4a87fadccf67e800f26028d1fec0130e",
+            "size": 694913,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-03-08T15:19:51.864Z",
+            "url": "https://cdn1.epicgames.com/item/dda64c2956b54f1ba3cd97f6aaee775f/EGS_TotalWarWARHAMMERIIIForgeoftheChaosDwar_SEGA_DLC_S2_1200x1600-4a87fadccf67e800f26028d1fec0130e",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-04-13T13:59:25.477Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Total War: WARHAMMER III - Forge of the Chaos Dwarfs",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-20T14:45:18.582Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Chickpea"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailChickpea Prepurchase Audience",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "e836e2f1933947d8a8d1a0f76f591481",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e836e2f1933947d8a8d1a0f76f591481",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-23T13:25:12.526Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailChickpea Prepurchase Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-12-07T15:33:09.405Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "RingtailAssemblyKit"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "dda64c2956b54f1ba3cd97f6aaee775f"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "RingtailAssemblyKit",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "3b1d13a9469044799954e74dd072c63b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3b1d13a9469044799954e74dd072c63b",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-11-12T14:30:52.864Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [
+          {
+            "appId": "45f70e3f9c6446f98c118f0429ae2111",
+            "compatibleApps": [],
+            "dateAdded": "2020-12-07T00:00:00.000Z",
+            "id": "437fb3a14e0740b1b3d7204a4c9b8989",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailAssemblyKit",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-12-16T16:38:20.764Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Chickpea"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailChickpea Audience",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "1dd3102cfb8841a48a0c9870e0994b26",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1dd3102cfb8841a48a0c9870e0994b26",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-23T17:32:22.872Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailChickpea Audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-13T15:15:29.726Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Reckless",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "e8347734696e48dbb5b58cce3328fb61",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e8347734696e48dbb5b58cce3328fb61",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-07-13T15:15:29.726Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Reckless",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-28T22:20:04.827Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailBird",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "d71327bbd172452587a394acc01d39a4",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d71327bbd172452587a394acc01d39a4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-02-22T14:59:17.677Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailBird",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-28T22:20:29.436Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailBunny",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "d6a965f0793a404f8883f5533b8e36b7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d6a965f0793a404f8883f5533b8e36b7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-09T13:59:04.813Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailBunny",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-28T22:20:48.036Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailSodium",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "35bc2cb66eb341e48c5f4f47539e08d3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "35bc2cb66eb341e48c5f4f47539e08d3",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-28T22:20:48.036Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailSodium",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-07T07:44:53.058Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RingtailBurdock prepurchase audience",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "7c80ba8b750b4b2ea951af386804fe1d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7c80ba8b750b4b2ea951af386804fe1d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-04-13T13:59:25.596Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailBurdock prepurchase audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-24T10:10:11.215Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailSpace",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "cd90809e16354ccbac77a4576b124e56",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cd90809e16354ccbac77a4576b124e56",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-11-26T14:34:40.254Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailSpace",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-24T10:10:42.367Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailDuck",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "e92ac046cf8d49d5acf226f82ee6a5e5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e92ac046cf8d49d5acf226f82ee6a5e5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-08-24T10:10:42.367Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailDuck",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-11T14:33:15.618Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailJericho",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "cf7dac0bf047495282d578c88c206dce",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cf7dac0bf047495282d578c88c206dce",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-11T14:33:15.618Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailJericho",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-03-14T14:23:50.539Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailThumper",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "d1769a98e10245589ad616fe54dc8fb2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d1769a98e10245589ad616fe54dc8fb2",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-22T13:06:52.547Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailThumper",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-03-14T14:23:52.655Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailOreo",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "7eb560e83174403eaf440af5321c3c2c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7eb560e83174403eaf440af5321c3c2c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-22T13:07:03.015Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailOreo",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-07-25T19:31:57.705Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailAlternate",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "b8c0677a703a4acba64bc893184342ac",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b8c0677a703a4acba64bc893184342ac",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-11-26T14:34:40.252Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailAlternate",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-07-25T19:32:18.171Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailShift",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "02af1b489b8a4828a5d6d117828ff754",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "02af1b489b8a4828a5d6d117828ff754",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-11-26T14:34:40.242Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailShift",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-01-09T15:39:54.040Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailEquals",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "bc7e346dbd1343f1a9f6dcbb6d828f2f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bc7e346dbd1343f1a9f6dcbb6d828f2f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-11-06T14:59:57.957Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailEquals",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-01-09T15:40:19.211Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailDistance",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "4f4d6866f0614f438fc0bed080d73866",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4f4d6866f0614f438fc0bed080d73866",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-11-06T14:59:57.957Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailDistance",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-01-09T15:40:42.241Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailTime",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "5fc8b87cf74f43cd8949a340d359fb40",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5fc8b87cf74f43cd8949a340d359fb40",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-11-06T14:59:57.957Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailTime",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-07-15T14:06:35.770Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailOcean",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "aee5041d61dd4939bb9275cba1883287",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "aee5041d61dd4939bb9275cba1883287",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-11-27T15:57:33.851Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailOcean",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-09-24T16:17:48.836Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailLava",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "fdfb95b1114f4c7285b2e25b7a6eb2f2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fdfb95b1114f4c7285b2e25b7a6eb2f2",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-24T16:17:48.836Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailLava",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-02-04T15:00:48.832Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RingtailLake",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "2687bb8d9d9f4d028a9924193ff6fc4b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2687bb8d9d9f4d028a9924193ff6fc4b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-02-04T15:00:48.832Z",
+        "mainGameItem": {
+          "id": "ade663f595c64895a792c6c89616ed4c",
+          "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ade663f595c64895a792c6c89616ed4c",
+            "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RingtailLake",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "ade663f595c64895a792c6c89616ed4c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && sega_of_europe)"
+    ],
+    "id": "ade663f595c64895a792c6c89616ed4c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "f2b9adc02c4aa5d6c61f03cb4b1ec9c2",
+        "size": 1005950,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-04-16T18:34:23.268Z",
+        "url": "https://cdn1.epicgames.com/dda64c2956b54f1ba3cd97f6aaee775f/item/EGS_TotalWarWARHAMMERIII_CreativeAssembly_S1-2560x1440-2560x1440-f2b9adc02c4aa5d6c61f03cb4b1ec9c2.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "bf935f14317eaf51f4906079a2888ced",
+        "size": 899607,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-04-16T18:34:27.129Z",
+        "url": "https://cdn1.epicgames.com/dda64c2956b54f1ba3cd97f6aaee775f/item/EGS_TotalWarWARHAMMERIII_CreativeAssembly_S2-1200x1600-1200x1600-bf935f14317eaf51f4906079a2888ced.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-02-04T15:00:48.851Z",
+    "mainGameItemList": [],
+    "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+    "releaseInfo": [
+      {
+        "appId": "37a618f3d198405ead9c48c7749b52e5",
+        "compatibleApps": [],
+        "dateAdded": "2020-12-07T00:00:00.000Z",
+        "id": "164eacc7c7224775902ed7362463236d",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "technicalDetails": "RingtailRetail - public main build",
+    "title": "Total War: WARHAMMER III",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

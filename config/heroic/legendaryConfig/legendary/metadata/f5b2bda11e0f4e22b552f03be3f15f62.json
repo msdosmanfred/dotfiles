@@ -1,0 +1,84 @@
+{
+  "app_name": "f5b2bda11e0f4e22b552f03be3f15f62",
+  "app_title": "Outliver: Tribulation",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f5b2bda11e0f4e22b552f03be3f15f62",
+      "asset_id": "f5b2bda11e0f4e22b552f03be3f15f62",
+      "build_version": "1.1.4",
+      "catalog_item_id": "2036f1c3d4074be6b5adb31a3713918a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "69047ccc8af744b5bb30220d88b3de3e"
+      },
+      "namespace": "13e30807efce43ea9e04ac1c45668d8e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-06-12T13:38:21.113Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "OutliverTribulation"
+      }
+    },
+    "description": "Eine dunkle Vergangenheit ruft dich in diesem \"Afrikanische Mythologie trifft auf Survival-Horror und Souls-\u00e4hnliches\" Erlebnis!",
+    "developer": "Plug In Digital SAS",
+    "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "endOfSupport": false,
+    "entitlementName": "2036f1c3d4074be6b5adb31a3713918a",
+    "entitlementType": "EXECUTABLE",
+    "id": "2036f1c3d4074be6b5adb31a3713918a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Outliver - Tribulation Offer",
+        "height": 1440,
+        "md5": "687e0817d3316730109d36ed0c739ae0",
+        "size": 4024333,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-06-18T19:49:21.293Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/b3880830b9a54ae7bf9262ec56487f2f/outliver--tribulation-1urwx.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Outliver - Tribulation Offer",
+        "height": 1600,
+        "md5": "82bd9448ec3e1f8c2ffbe3d7d3dcaa20",
+        "size": 2136268,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-06-18T19:49:08.353Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/b3880830b9a54ae7bf9262ec56487f2f/outliver--tribulation-beix3.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-06-30T09:47:23.588Z",
+    "mainGameItemList": [],
+    "namespace": "13e30807efce43ea9e04ac1c45668d8e",
+    "releaseInfo": [
+      {
+        "appId": "f5b2bda11e0f4e22b552f03be3f15f62",
+        "id": "148fec9b04c049f496fe31bf7a4087c4",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Outliver: Tribulation",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

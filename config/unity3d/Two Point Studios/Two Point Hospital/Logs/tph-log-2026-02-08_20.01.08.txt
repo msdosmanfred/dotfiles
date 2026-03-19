@@ -1,0 +1,409 @@
+2026-02-08 20:01:08.528|1177|INFO||Version 1.30.0-0.local+2025-02-14.1007 (Build: 20226401)
+2026-02-08 20:01:09.023|1177|ERRR|Save|Mapping already contains entry for ID: -413481113. This: TH20.InteractionAttributeModifier. Other: T_UI_Loading_Rotting_Hill (UnityEngine.Sprite). New asset path _interactionAttributeModifiers0
+AssetIDMapping.VisitClassWithReflection(TH20.AssetIDMapping+ToVisit currentlyVisited,System.Collections.Generic.Queue`1[TH20.AssetIDMapping+ToVisit] toVisit,System.Collections.Generic.List`1[TH20.AssetIDMapping+ToVisit] toVisitSet,System.Collections.Generic.List`1[TH20.AssetIDMapping+ToVisit] visited,TH20.BiDictionary`2[System.Int32,System.Object] mapping,System.Type objType,System.Object obj) (at :0)
+AssetIDMapping.Visit(TH20.AssetIDMapping+ToVisit currentlyVisited,System.Collections.Generic.Queue`1[TH20.AssetIDMapping+ToVisit] toVisit,System.Collections.Generic.List`1[TH20.AssetIDMapping+ToVisit] toVisitSet,System.Collections.Generic.List`1[TH20.AssetIDMapping+ToVisit] visited,TH20.BiDictionary`2[System.Int32,System.Object] mapping) (at :0)
+AssetIDMapping.GenerateExternalReferencesListInternal(TH20.AssetIDMapping+ToVisit firstVisited,System.Collections.Generic.List`1[TH20.AssetIDMapping+ToVisit] visitedOut) (at :0)
+AssetIDMapping.GenerateExternalReferencesList(FullInspector.ISharedInstance rootObject) (at :0)
+App..ctor(UnityEngine.UI.GraphicRaycaster graphicRaycaster,UnityEngine.EventSystems.EventSystem eventSystem,UnityEngine.MonoBehaviour behaviourToRunCoroutinesOn,TH20.UnhandledErrorDialogue unhandledErrorDialogue,UnityConsole.ConsoleUI consoleUI,TH20.ScreenFade screenFade,TH20.LoadSaveProgressScreen loadSaveProgressScreen,TH20.FullScreenVideoMenu fullScreenVideoMenu,TH20.MessageBox messageBox,TH20.BackupSaveBox backupSaveBox,TH20.SoundTest soundTest,Backtrace.Unity.BacktraceClient backtraceClient,FullInspector.SharedInstance`1[TH20.AppConfig] config) (at :0)
+MainScript.Start() (at :0)
+
+2026-02-08 20:01:10.301|1177|INFO||IsPublicBuild = True
+2026-02-08 20:01:13.083|1222|WARN|Unity|The character used for Underline is not available in font asset [PalanquinDark-Regular SDF].
+2026-02-08 20:01:15.106|1312|INFO|PlayFab|00:00:02:885,GetLeaderboardAroundPlayer,816,GetEntryCount for SuperBugNode_0
+2026-02-08 20:01:15.800|1354|INFO|PlayFab|00:00:03:584,GetPlayerStatistics,159,DownloadLeaderboardEntryForLocalUser for SuperBugNode_0
+2026-02-08 20:01:16.518|1397|INFO|PlayFab|00:00:04:300,GetLeaderboardAroundPlayer,819,GetEntryCount for SuperBugNode_1
+2026-02-08 20:01:17.254|1441|INFO|PlayFab|00:00:05:039,GetPlayerStatistics,159,DownloadLeaderboardEntryForLocalUser for SuperBugNode_1
+2026-02-08 20:01:17.960|1483|INFO|PlayFab|00:00:05:740,GetLeaderboardAroundPlayer,819,GetEntryCount for SuperBugNode_2
+2026-02-08 20:01:18.648|1523|INFO|PlayFab|00:00:06:426,GetPlayerStatistics,159,DownloadLeaderboardEntryForLocalUser for SuperBugNode_2
+2026-02-08 20:01:19.358|1565|INFO|PlayFab|00:00:07:134,GetLeaderboardAroundPlayer,819,GetEntryCount for SuperBugNode_5
+2026-02-08 20:01:20.079|1609|INFO|PlayFab|00:00:07:864,GetPlayerStatistics,159,DownloadLeaderboardEntryForLocalUser for SuperBugNode_5
+2026-02-08 20:01:20.799|1650|INFO|PlayFab|00:00:08:584,GetLeaderboardAroundPlayer,819,GetEntryCount for SuperBugNode_3
+2026-02-08 20:01:21.508|1693|INFO|PlayFab|00:00:09:297,GetPlayerStatistics,159,DownloadLeaderboardEntryForLocalUser for SuperBugNode_3
+2026-02-08 20:01:22.233|1737|INFO|PlayFab|00:00:10:021,GetLeaderboardAroundPlayer,819,GetEntryCount for SuperBugNode_4
+2026-02-08 20:01:22.950|1779|INFO|PlayFab|00:00:10:733,GetPlayerStatistics,159,DownloadLeaderboardEntryForLocalUser for SuperBugNode_4
+2026-02-08 20:01:23.667|1823|INFO|PlayFab|00:00:11:453,GetLeaderboardAroundPlayer,819,GetEntryCount for SuperBugNode_9
+2026-02-08 20:01:24.384|1866|INFO|PlayFab|00:00:12:168,GetPlayerStatistics,159,DownloadLeaderboardEntryForLocalUser for SuperBugNode_9
+2026-02-08 20:01:25.153|1912|INFO|PlayFab|00:00:12:937,GetLeaderboardAroundPlayer,819,GetEntryCount for SuperBugNode_6
+2026-02-08 20:01:25.851|1954|INFO|PlayFab|00:00:13:636,GetPlayerStatistics,159,DownloadLeaderboardEntryForLocalUser for SuperBugNode_6
+2026-02-08 20:01:26.587|1998|INFO|PlayFab|00:00:14:371,GetLeaderboardAroundPlayer,819,GetEntryCount for SuperBugNode_7
+2026-02-08 20:01:27.289|2040|INFO|PlayFab|00:00:15:073,GetPlayerStatistics,159,DownloadLeaderboardEntryForLocalUser for SuperBugNode_7
+2026-02-08 20:01:27.973|2081|INFO|PlayFab|00:00:15:758,GetLeaderboardAroundPlayer,819,GetEntryCount for SuperBugNode_8
+2026-02-08 20:01:28.676|2123|INFO|PlayFab|00:00:16:460,GetPlayerStatistics,159,DownloadLeaderboardEntryForLocalUser for SuperBugNode_8
+2026-02-08 20:01:29.394|2166|INFO|PlayFab|00:00:17:178,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_13
+2026-02-08 20:01:30.156|2184|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:01:30.222|2185|INFO|PlayFab|00:00:17:634,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_13
+2026-02-08 20:01:30.323|2186|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:01:30.731|2211|INFO|PlayFab|00:00:18:508,GetUserData,169,
+2026-02-08 20:01:30.975|2226|INFO|PlayFab|00:00:18:759,GetUserData,187,
+2026-02-08 20:01:30.975|2226|INFO|PlayFab|00:00:18:759,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_14
+2026-02-08 20:01:31.659|2264|INFO|PlayFab|00:00:19:452,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_14
+2026-02-08 20:01:32.452|2312|INFO|PlayFab|00:00:20:236,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_10
+2026-02-08 20:01:32.688|2326|INFO|PlayFab|00:00:20:470,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561199161363994
+2026-02-08 20:01:32.688|2326|WARN||[Playfab] Failed to find GenericID for user : 76561199161363994
+2026-02-08 20:01:32.690|2326|INFO|PlayFab|00:00:20:470,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561199161363994
+2026-02-08 20:01:32.691|2326|INFO|PlayFab|00:00:20:470,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198370821870
+2026-02-08 20:01:32.691|2326|WARN||[Playfab] Failed to find GenericID for user : 76561198370821870
+2026-02-08 20:01:32.691|2326|INFO|PlayFab|00:00:20:470,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198370821870
+2026-02-08 20:01:32.692|2326|INFO|PlayFab|00:00:20:470,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198141107772
+2026-02-08 20:01:32.692|2326|WARN||[Playfab] Failed to find GenericID for user : 76561198141107772
+2026-02-08 20:01:32.692|2326|INFO|PlayFab|00:00:20:470,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198141107772
+2026-02-08 20:01:32.711|2327|INFO|PlayFab|00:00:20:486,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198137868525
+2026-02-08 20:01:32.711|2327|WARN||[Playfab] Failed to find GenericID for user : 76561198137868525
+2026-02-08 20:01:32.714|2327|INFO|PlayFab|00:00:20:486,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198137868525
+2026-02-08 20:01:32.777|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198182007699
+2026-02-08 20:01:32.777|2331|WARN||[Playfab] Failed to find GenericID for user : 76561198182007699
+2026-02-08 20:01:32.781|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198182007699
+2026-02-08 20:01:32.782|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198124486021
+2026-02-08 20:01:32.782|2331|WARN||[Playfab] Failed to find GenericID for user : 76561198124486021
+2026-02-08 20:01:32.783|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198124486021
+2026-02-08 20:01:32.785|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198118357471
+2026-02-08 20:01:32.785|2331|WARN||[Playfab] Failed to find GenericID for user : 76561198118357471
+2026-02-08 20:01:32.805|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198118357471
+2026-02-08 20:01:32.805|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198087920495
+2026-02-08 20:01:32.805|2331|WARN||[Playfab] Failed to find GenericID for user : 76561198087920495
+2026-02-08 20:01:32.806|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198087920495
+2026-02-08 20:01:32.806|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198083074197
+2026-02-08 20:01:32.806|2331|WARN||[Playfab] Failed to find GenericID for user : 76561198083074197
+2026-02-08 20:01:32.807|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198083074197
+2026-02-08 20:01:32.807|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198041552692
+2026-02-08 20:01:32.807|2331|WARN||[Playfab] Failed to find GenericID for user : 76561198041552692
+2026-02-08 20:01:32.807|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198041552692
+2026-02-08 20:01:32.807|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198021714458
+2026-02-08 20:01:32.807|2331|WARN||[Playfab] Failed to find GenericID for user : 76561198021714458
+2026-02-08 20:01:32.808|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198021714458
+2026-02-08 20:01:32.808|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198006720507
+2026-02-08 20:01:32.808|2331|WARN||[Playfab] Failed to find GenericID for user : 76561198006720507
+2026-02-08 20:01:32.808|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198006720507
+2026-02-08 20:01:32.809|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561197999678047
+2026-02-08 20:01:32.809|2331|WARN||[Playfab] Failed to find GenericID for user : 76561197999678047
+2026-02-08 20:01:32.809|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561197999678047
+2026-02-08 20:01:32.809|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561197997151018
+2026-02-08 20:01:32.809|2331|WARN||[Playfab] Failed to find GenericID for user : 76561197997151018
+2026-02-08 20:01:32.810|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561197997151018
+2026-02-08 20:01:32.810|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198004077322
+2026-02-08 20:01:32.810|2331|WARN||[Playfab] Failed to find GenericID for user : 76561198004077322
+2026-02-08 20:01:32.810|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561198004077322
+2026-02-08 20:01:32.811|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561197997081402
+2026-02-08 20:01:32.811|2331|WARN||[Playfab] Failed to find GenericID for user : 76561197997081402
+2026-02-08 20:01:32.811|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561197997081402
+2026-02-08 20:01:32.812|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561197960278047
+2026-02-08 20:01:32.812|2331|WARN||[Playfab] Failed to find GenericID for user : 76561197960278047
+2026-02-08 20:01:32.817|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561197960278047
+2026-02-08 20:01:32.819|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561197988813539
+2026-02-08 20:01:32.819|2331|WARN||[Playfab] Failed to find GenericID for user : 76561197988813539
+2026-02-08 20:01:32.821|2331|INFO|PlayFab|00:00:20:553,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561197988813539
+2026-02-08 20:01:32.834|2332|INFO|PlayFab|00:00:20:575,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561199569668934
+2026-02-08 20:01:32.834|2332|WARN||[Playfab] Failed to find GenericID for user : 76561199569668934
+2026-02-08 20:01:32.835|2332|INFO|PlayFab|00:00:20:575,GetPlayFabIDsFromGenericIDs,235,AddPlayfabIDFromGenericID. PlayFab ID:  Generic ID: 76561199569668934
+2026-02-08 20:01:33.205|2355|INFO|PlayFab|00:00:20:984,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_10
+2026-02-08 20:01:33.894|2397|INFO|PlayFab|00:00:21:669,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_11
+2026-02-08 20:01:34.584|2439|INFO|PlayFab|00:00:22:368,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_11
+2026-02-08 20:01:35.287|2481|INFO|PlayFab|00:00:23:070,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_12
+2026-02-08 20:01:35.991|2522|INFO|PlayFab|00:00:23:771,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_12
+2026-02-08 20:01:36.691|2565|INFO|PlayFab|00:00:24:476,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_17
+2026-02-08 20:01:37.388|2607|INFO|PlayFab|00:00:25:171,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_17
+2026-02-08 20:01:38.107|2650|INFO|PlayFab|00:00:25:891,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_16
+2026-02-08 20:01:38.826|2693|INFO|PlayFab|00:00:26:610,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_16
+2026-02-08 20:01:39.547|2736|INFO|PlayFab|00:00:27:333,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_15
+2026-02-08 20:01:40.236|2778|INFO|PlayFab|00:00:28:023,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_15
+2026-02-08 20:01:40.974|2822|INFO|PlayFab|00:00:28:752,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_18
+2026-02-08 20:01:41.696|2865|INFO|PlayFab|00:00:29:478,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_18
+2026-02-08 20:01:41.972|2881|WARN||[PlayFab] Uploading : Metadata file with compressed 2077 bytes  TimeStamp 54,42496
+2026-02-08 20:01:41.976|2881|INFO|PlayFab|00:00:29:744,UpdateUserData,2480,UploadLatestUpdate
+2026-02-08 20:01:42.403|2908|INFO|PlayFab|00:00:30:189,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_19
+2026-02-08 20:01:43.124|2951|INFO|PlayFab|00:00:30:908,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_19
+2026-02-08 20:01:43.832|2993|INFO|PlayFab|00:00:31:613,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_20
+2026-02-08 20:01:44.538|3036|INFO|PlayFab|00:00:32:323,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_20
+2026-02-08 20:01:45.253|3079|INFO|PlayFab|00:00:33:038,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_21
+2026-02-08 20:01:45.964|3121|INFO|PlayFab|00:00:33:743,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_21
+2026-02-08 20:01:46.659|3163|INFO|PlayFab|00:00:34:445,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_25
+2026-02-08 20:01:47.356|3204|INFO|PlayFab|00:00:35:136,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_25
+2026-02-08 20:01:48.069|3245|INFO|PlayFab|00:00:35:855,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_22
+2026-02-08 20:01:48.807|3290|INFO|PlayFab|00:00:36:586,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_22
+2026-02-08 20:01:49.537|3334|INFO|PlayFab|00:00:37:320,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_23
+2026-02-08 20:01:50.270|3377|INFO|PlayFab|00:00:38:056,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_23
+2026-02-08 20:01:50.985|3421|INFO|PlayFab|00:00:38:768,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_26
+2026-02-08 20:01:51.693|3463|INFO|PlayFab|00:00:39:477,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_26
+2026-02-08 20:01:52.427|3507|INFO|PlayFab|00:00:40:211,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_24
+2026-02-08 20:01:53.187|3552|INFO|PlayFab|00:00:40:967,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_24
+2026-02-08 20:01:53.904|3595|INFO|PlayFab|00:00:41:684,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_30
+2026-02-08 20:01:54.610|3638|INFO|PlayFab|00:00:42:385,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_30
+2026-02-08 20:01:55.325|3681|INFO|PlayFab|00:00:43:107,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_33
+2026-02-08 20:01:56.035|3723|INFO|PlayFab|00:00:43:809,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_33
+2026-02-08 20:01:56.727|3765|INFO|PlayFab|00:00:44:511,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_27
+2026-02-08 20:01:57.460|3809|INFO|PlayFab|00:00:45:243,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_27
+2026-02-08 20:01:58.191|3853|INFO|PlayFab|00:00:45:975,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_28
+2026-02-08 20:01:58.894|3895|INFO|PlayFab|00:00:46:676,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_28
+2026-02-08 20:01:59.595|3937|INFO|PlayFab|00:00:47:378,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_31
+2026-02-08 20:02:00.311|3980|INFO|PlayFab|00:00:48:095,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_31
+2026-02-08 20:02:01.805|3984|INFO|PlayFab|00:00:48:371,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_29
+2026-02-08 20:02:01.858|3985|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:02:02.150|3990|INFO|Save|SaveImplementation() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:02:02.525|4006|INFO|PlayFab|00:00:50:315,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_29
+2026-02-08 20:02:03.228|4048|INFO|PlayFab|00:00:51:010,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_32
+2026-02-08 20:02:03.934|4090|INFO|PlayFab|00:00:51:712,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_32
+2026-02-08 20:02:04.647|4133|INFO|PlayFab|00:00:52:430,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_34
+2026-02-08 20:02:05.347|4175|INFO|PlayFab|00:00:53:131,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_34
+2026-02-08 20:02:06.066|4218|INFO|PlayFab|00:00:53:850,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_37
+2026-02-08 20:02:06.788|4261|INFO|PlayFab|00:00:54:567,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_37
+2026-02-08 20:02:07.500|4304|INFO|PlayFab|00:00:55:283,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_35
+2026-02-08 20:02:08.216|4347|INFO|PlayFab|00:00:56:001,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_35
+2026-02-08 20:02:08.934|4390|INFO|PlayFab|00:00:56:717,GetLeaderboardAroundPlayer,820,GetEntryCount for SuperBugNode_36
+2026-02-08 20:02:09.618|4431|INFO|PlayFab|00:00:57:407,GetPlayerStatistics,160,DownloadLeaderboardEntryForLocalUser for SuperBugNode_36
+2026-02-08 20:02:10.585|4489|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 83,04185
+2026-02-08 20:02:10.586|4489|INFO|PlayFab|00:00:58:367,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:02:55.135|7130|WARN||[PlayFab] Uploading : Metadata file with compressed 2068 bytes  TimeStamp 127,5907
+2026-02-08 20:02:55.135|7130|INFO|PlayFab|00:01:42:910,UpdateUserData,2471,UploadLatestUpdate
+2026-02-08 20:03:08.315|7920|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:04:02.385|11144|WARN||[PlayFab] Uploading : Metadata file with compressed 2069 bytes  TimeStamp 194,8407
+2026-02-08 20:04:02.386|11144|INFO|PlayFab|00:02:50:167,UpdateUserData,2472,UploadLatestUpdate
+2026-02-08 20:04:16.498|11989|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:04:26.452|12586|WARN||[PlayFab] Uploading : Metadata file with compressed 2070 bytes  TimeStamp 218,9066
+2026-02-08 20:04:26.453|12586|INFO|PlayFab|00:03:14:239,UpdateUserData,2473,UploadLatestUpdate
+2026-02-08 20:04:47.035|13821|WARN||[PlayFab] Uploading : Metadata file with compressed 2070 bytes  TimeStamp 239,4898
+2026-02-08 20:04:47.036|13821|INFO|PlayFab|00:03:34:817,UpdateUserData,2473,UploadLatestUpdate
+2026-02-08 20:04:56.129|14366|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:05:17.105|15624|WARN||[PlayFab] Uploading : Metadata file with compressed 2075 bytes  TimeStamp 269,5581
+2026-02-08 20:05:17.106|15624|INFO|PlayFab|00:04:04:881,UpdateUserData,2478,UploadLatestUpdate
+2026-02-08 20:06:13.106|18965|WARN||[PlayFab] Uploading : Metadata file with compressed 2075 bytes  TimeStamp 325,5592
+2026-02-08 20:06:13.106|18965|INFO|PlayFab|00:05:00:881,UpdateUserData,2478,UploadLatestUpdate
+2026-02-08 20:06:41.107|20645|WARN||[PlayFab] Uploading : Metadata file with compressed 2075 bytes  TimeStamp 353,5577
+2026-02-08 20:06:41.107|20645|INFO|PlayFab|00:05:28:880,UpdateUserData,2478,UploadLatestUpdate
+2026-02-08 20:07:17.641|22834|WARN||[PlayFab] Uploading : Metadata file with compressed 2077 bytes  TimeStamp 390,0901
+2026-02-08 20:07:17.642|22834|INFO|PlayFab|00:06:05:413,UpdateUserData,2480,UploadLatestUpdate
+2026-02-08 20:07:27.346|23401|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:07:37.290|23990|WARN||[PlayFab] Uploading : Metadata file with compressed 2077 bytes  TimeStamp 409,7359
+2026-02-08 20:07:37.291|23990|INFO|PlayFab|00:06:25:064,UpdateUserData,2480,UploadLatestUpdate
+2026-02-08 20:08:20.833|26569|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:08:30.778|27158|WARN||[PlayFab] Uploading : Metadata file with compressed 2077 bytes  TimeStamp 463,2285
+2026-02-08 20:08:30.778|27158|INFO|PlayFab|00:07:18:552,UpdateUserData,2480,UploadLatestUpdate
+2026-02-08 20:08:46.656|28109|WARN||[PlayFab] Uploading : Metadata file with compressed 2077 bytes  TimeStamp 479,098
+2026-02-08 20:08:46.657|28109|INFO|PlayFab|00:07:34:426,UpdateUserData,2480,UploadLatestUpdate
+2026-02-08 20:09:02.264|29044|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:09:33.581|30897|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:09:43.340|31482|WARN||[PlayFab] Uploading : Metadata file with compressed 2077 bytes  TimeStamp 535,7894
+2026-02-08 20:09:43.340|31482|INFO|PlayFab|00:08:31:107,UpdateUserData,2480,UploadLatestUpdate
+2026-02-08 20:09:57.323|32320|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:09:59.632|32458|INFO|Save|SaveImplementation() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:10:09.607|33032|WARN||[PlayFab] Uploading : Metadata file with compressed 2077 bytes  TimeStamp 562,0559
+2026-02-08 20:10:09.608|33032|INFO|PlayFab|00:08:57:384,UpdateUserData,2480,UploadLatestUpdate
+2026-02-08 20:10:37.328|34685|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 589,7692
+2026-02-08 20:10:37.328|34685|INFO|PlayFab|00:09:25:096,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:10:53.844|35665|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:11:03.632|36252|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 616,0809
+2026-02-08 20:11:03.633|36252|INFO|PlayFab|00:09:51:399,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:11:06.818|36442|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:12:00.757|39677|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 673,1998
+2026-02-08 20:12:00.758|39677|INFO|PlayFab|00:10:48:527,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:12:36.760|41826|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 709,2009
+2026-02-08 20:12:36.761|41826|INFO|PlayFab|00:11:24:532,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:13:04.747|43488|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 737,1871
+2026-02-08 20:13:04.748|43488|INFO|PlayFab|00:11:52:516,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:13:27.490|44852|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:13:29.228|44957|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:13:37.461|45450|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 769,9077
+2026-02-08 20:13:37.462|45450|INFO|PlayFab|00:12:25:229,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:13:49.414|46166|WARN|Behaviour|Failed to find staff interaction DispenseNurse for Nurse_006: Maddy Tornado in room Room_006: Pharmacy
+2026-02-08 20:13:49.414|46166|WARN|Behaviour|Failed to find patient interaction DispensePatient for Patient_013: Frobisher Bilge in room Room_006: Pharmacy
+2026-02-08 20:14:01.589|46882|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 794,0256
+2026-02-08 20:14:01.589|46882|INFO|PlayFab|00:12:49:353,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:14:34.977|48845|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:14:41.564|49240|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 834,0093
+2026-02-08 20:14:41.564|49240|INFO|PlayFab|00:13:29:333,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:15:09.575|50911|WARN||[PlayFab] Uploading : Metadata file with compressed 2075 bytes  TimeStamp 862,0188
+2026-02-08 20:15:09.575|50911|INFO|PlayFab|00:13:57:342,UpdateUserData,2478,UploadLatestUpdate
+2026-02-08 20:15:44.057|52965|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:15:50.469|53351|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:15:54.033|53561|WARN||[PlayFab] Uploading : Metadata file with compressed 2075 bytes  TimeStamp 906,4768
+2026-02-08 20:15:54.034|53561|INFO|PlayFab|00:14:41:799,UpdateUserData,2478,UploadLatestUpdate
+2026-02-08 20:16:12.118|54645|WARN||[PlayFab] Uploading : Metadata file with compressed 2074 bytes  TimeStamp 924,5522
+2026-02-08 20:16:12.118|54645|INFO|PlayFab|00:14:59:878,UpdateUserData,2477,UploadLatestUpdate
+2026-02-08 20:16:49.361|56868|INFO|Save|SaveImplementation() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:16:59.319|57443|WARN||[PlayFab] Uploading : Metadata file with compressed 2074 bytes  TimeStamp 971,7623
+2026-02-08 20:16:59.319|57443|INFO|PlayFab|00:15:47:093,UpdateUserData,2477,UploadLatestUpdate
+2026-02-08 20:17:21.363|58763|WARN||[PlayFab] Uploading : Metadata file with compressed 2075 bytes  TimeStamp 993,8036
+2026-02-08 20:17:21.363|58763|INFO|PlayFab|00:16:09:131,UpdateUserData,2478,UploadLatestUpdate
+2026-02-08 20:18:08.091|61537|WARN||[PlayFab] Uploading : Metadata file with compressed 2075 bytes  TimeStamp 1040,533
+2026-02-08 20:18:08.091|61537|INFO|PlayFab|00:16:55:861,UpdateUserData,2478,UploadLatestUpdate
+2026-02-08 20:18:53.820|64277|WARN||[PlayFab] Uploading : Metadata file with compressed 2075 bytes  TimeStamp 1086,261
+2026-02-08 20:18:53.821|64277|INFO|PlayFab|00:17:41:584,UpdateUserData,2478,UploadLatestUpdate
+2026-02-08 20:19:21.826|65950|WARN||[PlayFab] Uploading : Metadata file with compressed 2074 bytes  TimeStamp 1114,261
+2026-02-08 20:19:21.827|65950|INFO|PlayFab|00:18:09:589,UpdateUserData,2477,UploadLatestUpdate
+2026-02-08 20:20:30.271|70042|WARN||[PlayFab] Uploading : Metadata file with compressed 2074 bytes  TimeStamp 1182,711
+2026-02-08 20:20:30.272|70042|INFO|PlayFab|00:19:18:025,UpdateUserData,2477,UploadLatestUpdate
+2026-02-08 20:21:17.632|72866|WARN||[PlayFab] Uploading : Metadata file with compressed 2074 bytes  TimeStamp 1230,07
+2026-02-08 20:21:17.633|72866|INFO|PlayFab|00:20:05:399,UpdateUserData,2477,UploadLatestUpdate
+2026-02-08 20:21:46.820|74593|WARN||[PlayFab] Uploading : Metadata file with compressed 2075 bytes  TimeStamp 1259,259
+2026-02-08 20:21:46.820|74593|INFO|PlayFab|00:20:34:525,UpdateUserData,2478,UploadLatestUpdate
+2026-02-08 20:22:43.929|78001|WARN||[PlayFab] Uploading : Metadata file with compressed 2075 bytes  TimeStamp 1316,368
+2026-02-08 20:22:43.929|78001|INFO|PlayFab|00:21:31:693,UpdateUserData,2478,UploadLatestUpdate
+2026-02-08 20:22:53.562|78578|INFO|Save|SaveImplementation() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:23:03.536|79128|WARN||[PlayFab] Uploading : Metadata file with compressed 2075 bytes  TimeStamp 1335,968
+2026-02-08 20:23:03.536|79128|INFO|PlayFab|00:21:51:289,UpdateUserData,2478,UploadLatestUpdate
+2026-02-08 20:23:17.532|79948|WARN||[PlayFab] Uploading : Metadata file with compressed 2075 bytes  TimeStamp 1349,969
+2026-02-08 20:23:17.532|79948|INFO|PlayFab|00:22:05:293,UpdateUserData,2478,UploadLatestUpdate
+2026-02-08 20:23:31.943|80808|INFO|Metagame|RewardStar:Apply() Awarding star Star1 to metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:23:31.943|80808|INFO|Metagame|Awarded star Star1 for level Hogsport
+2026-02-08 20:23:32.017|80810|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:23:41.946|81404|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 1374,384
+2026-02-08 20:23:41.947|81404|INFO|PlayFab|00:22:29:710,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:24:16.356|83427|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 1408,787
+2026-02-08 20:24:16.357|83427|INFO|PlayFab|00:23:04:110,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:24:49.234|85359|WARN|Pathfinding|Failed to generate path for character Janitor_008: Tex Whiz.
+2026-02-08 20:24:56.359|85787|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 1448,797
+2026-02-08 20:24:56.360|85787|INFO|PlayFab|00:23:44:115,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:25:24.370|87426|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 1476,806
+2026-02-08 20:25:24.371|87426|INFO|PlayFab|00:24:12:120,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:26:20.355|90699|WARN||[PlayFab] Uploading : Metadata file with compressed 2077 bytes  TimeStamp 1532,79
+2026-02-08 20:26:20.356|90699|INFO|PlayFab|00:25:08:111,UpdateUserData,2480,UploadLatestUpdate
+2026-02-08 20:26:57.602|92924|WARN||[PlayFab] Uploading : Metadata file with compressed 2077 bytes  TimeStamp 1570,036
+2026-02-08 20:26:57.602|92924|INFO|PlayFab|00:25:45:359,UpdateUserData,2480,UploadLatestUpdate
+2026-02-08 20:27:25.619|94542|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 1598,052
+2026-02-08 20:27:25.620|94542|INFO|PlayFab|00:26:13:375,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:28:21.632|97791|WARN||[PlayFab] Uploading : Metadata file with compressed 2076 bytes  TimeStamp 1654,066
+2026-02-08 20:28:21.632|97791|INFO|PlayFab|00:27:09:382,UpdateUserData,2479,UploadLatestUpdate
+2026-02-08 20:28:46.124|99246|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:28:58.075|99956|INFO|Save|SaveImplementation() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:29:00.762|100090|WARN|Unity|Missing localised text in NotificationMessages
+2026-02-08 20:29:06.678|100444|WARN|Unity|Missing localised text in NotificationMessages
+2026-02-08 20:29:08.040|100524|WARN||[PlayFab] Uploading : Metadata file with compressed 2075 bytes  TimeStamp 1700,475
+2026-02-08 20:29:08.041|100524|INFO|PlayFab|00:27:55:794,UpdateUserData,2478,UploadLatestUpdate
+2026-02-08 20:29:13.173|100805|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:29:22.919|101383|WARN||[PlayFab] Uploading : Metadata file with compressed 2075 bytes  TimeStamp 1715,349
+2026-02-08 20:29:22.920|101383|INFO|PlayFab|00:28:10:674,UpdateUserData,2478,UploadLatestUpdate
+2026-02-08 20:29:47.266|102828|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 1739,701
+2026-02-08 20:29:47.267|102828|INFO|PlayFab|00:28:35:024,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:30:43.266|106143|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 1795,7
+2026-02-08 20:30:43.266|106143|INFO|PlayFab|00:29:31:026,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:31:23.282|108531|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 1835,716
+2026-02-08 20:31:23.283|108531|INFO|PlayFab|00:30:11:044,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:31:55.373|110438|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 1867,801
+2026-02-08 20:31:55.374|110438|INFO|PlayFab|00:30:43:127,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:32:31.612|112588|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 1904,044
+2026-02-08 20:32:31.612|112588|INFO|PlayFab|00:31:19:363,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:32:45.614|113421|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 1918,047
+2026-02-08 20:32:45.614|113421|INFO|PlayFab|00:31:33:368,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:32:53.883|113914|WARN|Behaviour|Failed to find staff interaction DispenseNurse for Nurse_022: Perry Woodstone in room Room_006: Pharmacy
+2026-02-08 20:32:53.883|113914|WARN|Behaviour|Failed to find patient interaction DispensePatient for Patient_061: Phoebe Plebb in room Room_006: Pharmacy
+2026-02-08 20:32:59.613|114242|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 1932,045
+2026-02-08 20:32:59.614|114242|INFO|PlayFab|00:31:47:353,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:33:04.623|114521|WARN|Unity|Missing localised text in NotificationMessages
+2026-02-08 20:33:20.796|115441|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:33:30.760|116036|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 1963,193
+2026-02-08 20:33:30.760|116036|INFO|PlayFab|00:32:18:515,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:33:42.201|116706|INFO|Save|SaveImplementation() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:33:52.175|117237|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 1984,599
+2026-02-08 20:33:52.175|117237|INFO|PlayFab|00:32:39:929,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:34:06.166|118053|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 1998,596
+2026-02-08 20:34:06.166|118053|INFO|PlayFab|00:32:53:922,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:34:34.172|119721|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 2026,604
+2026-02-08 20:34:34.173|119721|INFO|PlayFab|00:33:21:932,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:34:52.159|120757|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 2044,581
+2026-02-08 20:34:52.159|120757|INFO|PlayFab|00:33:39:903,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:35:06.158|121573|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 2058,591
+2026-02-08 20:35:06.159|121573|INFO|PlayFab|00:33:53:920,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:36:27.059|126226|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 2139,487
+2026-02-08 20:36:27.060|126226|INFO|PlayFab|00:35:14:825,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:37:08.861|128656|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 2181,282
+2026-02-08 20:37:08.862|128656|INFO|PlayFab|00:35:56:616,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:37:22.844|129404|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 2195,273
+2026-02-08 20:37:22.844|129404|INFO|PlayFab|00:36:10:598,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:38:06.043|131779|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 2238,463
+2026-02-08 20:38:06.043|131779|INFO|PlayFab|00:36:53:800,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:38:07.129|131844|WARN|Unity|Missing localised text in NotificationMessages
+2026-02-08 20:38:16.351|132373|INFO|Metagame|RewardStar:Apply() Awarding star Star2 to metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:38:16.351|132373|INFO|Metagame|Awarded star Star2 for level Hogsport
+2026-02-08 20:38:16.411|132375|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:38:23.775|132775|INFO|Save|SaveImplementation() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:38:26.367|132877|WARN||[PlayFab] Uploading : Metadata file with compressed 2078 bytes  TimeStamp 2258,793
+2026-02-08 20:38:26.367|132877|INFO|PlayFab|00:37:14:121,UpdateUserData,2481,UploadLatestUpdate
+2026-02-08 20:38:40.210|133632|WARN|Behaviour|Failed to find staff interaction DispenseNurse for Nurse_066: Kensington Goop in room Room_006: Pharmacy
+2026-02-08 20:38:40.210|133632|WARN|Behaviour|Failed to find patient interaction DispensePatient for Patient_085: Bert Muffin in room Room_006: Pharmacy
+2026-02-08 20:38:47.744|134068|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2280,173
+2026-02-08 20:38:47.745|134068|INFO|PlayFab|00:37:35:505,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:39:30.985|136564|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2323,413
+2026-02-08 20:39:30.985|136564|INFO|PlayFab|00:38:18:753,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:39:50.985|137721|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2343,413
+2026-02-08 20:39:50.986|137721|INFO|PlayFab|00:38:38:737,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:40:07.347|138621|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2359,769
+2026-02-08 20:40:07.347|138621|INFO|PlayFab|00:38:55:107,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:40:40.087|140422|WARN|Behaviour|Failed to find patient interaction CureMachinePatient for Patient_093: Oosha Amethyst in room Room_032: De-Lux Clinic
+2026-02-08 20:41:03.342|141711|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2415,771
+2026-02-08 20:41:03.343|141711|INFO|PlayFab|00:39:51:108,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:41:23.917|142885|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2436,344
+2026-02-08 20:41:23.917|142885|INFO|PlayFab|00:40:11:684,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:41:37.909|143692|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2450,336
+2026-02-08 20:41:37.909|143692|INFO|PlayFab|00:40:25:672,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:41:40.043|143819|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:41:50.001|144412|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2462,428
+2026-02-08 20:41:50.002|144412|INFO|PlayFab|00:40:37:770,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:42:28.567|146668|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2500,995
+2026-02-08 20:42:28.568|146668|INFO|PlayFab|00:41:16:330,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:42:53.805|148150|WARN|Unity|Missing localised text in NotificationMessages
+2026-02-08 20:42:56.002|148276|INFO|Save|SaveImplementation() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:43:00.775|148531|WARN|Unity|Missing localised text in NotificationMessages
+2026-02-08 20:43:05.982|148842|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2538,409
+2026-02-08 20:43:05.982|148842|INFO|PlayFab|00:41:53:751,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:43:27.864|150045|WARN|Pathfinding|Failed to generate path for character Nurse_059: Morris Desert.
+2026-02-08 20:43:35.139|150444|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2567,564
+2026-02-08 20:43:35.140|150444|INFO|PlayFab|00:42:22:907,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:44:31.152|153587|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2623,575
+2026-02-08 20:44:31.153|153587|INFO|PlayFab|00:43:18:927,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:45:10.764|155800|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2663,189
+2026-02-08 20:45:10.765|155800|INFO|PlayFab|00:43:58:539,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:45:22.461|156484|INFO|Save|SaveImplementation() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:45:26.151|156690|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2678,57
+2026-02-08 20:45:26.151|156690|INFO|PlayFab|00:44:13:921,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:46:27.047|160040|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2739,469
+2026-02-08 20:46:27.047|160040|INFO|PlayFab|00:45:14:814,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:46:35.264|160493|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:47:00.866|161840|WARN|Behaviour|Failed to find staff interaction DispenseNurse for Nurse_047: Edmund Sovereign in room Room_035: Pharmacy
+2026-02-08 20:47:00.866|161840|WARN|Behaviour|Failed to find patient interaction DispensePatient for Patient_110: Christopher Pilchard in room Room_035: Pharmacy
+2026-02-08 20:47:07.219|162177|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2779,639
+2026-02-08 20:47:07.219|162177|INFO|PlayFab|00:45:54:980,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:47:35.222|163578|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2807,641
+2026-02-08 20:47:35.223|163578|INFO|PlayFab|00:46:22:982,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:47:44.213|164097|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:47:54.162|164695|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2826,586
+2026-02-08 20:47:54.163|164695|INFO|PlayFab|00:46:41:936,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:48:19.708|166175|WARN|Behaviour|Failed to find staff interaction Diagnosis4 for Nurse_041: Perry Chopper in room Room_053: General Diagnosis
+2026-02-08 20:48:19.708|166175|WARN|Behaviour|Failed to find patient interaction Diagnosis4 Patient for Patient_120: Laura Rawhide in room Room_053: General Diagnosis
+2026-02-08 20:48:32.475|166871|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2864,898
+2026-02-08 20:48:32.476|166871|INFO|PlayFab|00:47:20:230,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:49:12.204|169173|INFO|Save|SaveImplementation() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:49:15.406|169313|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:49:22.174|169716|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2914,594
+2026-02-08 20:49:22.175|169716|INFO|PlayFab|00:48:09:931,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:49:54.450|171618|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2946,872
+2026-02-08 20:49:54.451|171618|INFO|PlayFab|00:48:42:216,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:50:22.467|173279|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2974,888
+2026-02-08 20:50:22.468|173279|INFO|PlayFab|00:49:10:226,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:50:42.459|174374|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 2994,882
+2026-02-08 20:50:42.460|174374|INFO|PlayFab|00:49:30:228,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:50:56.450|175169|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 3008,871
+2026-02-08 20:50:56.450|175169|INFO|PlayFab|00:49:44:219,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:51:24.471|176808|WARN||[PlayFab] Uploading : Metadata file with compressed 2079 bytes  TimeStamp 3036,891
+2026-02-08 20:51:24.472|176808|INFO|PlayFab|00:50:12:231,UpdateUserData,2482,UploadLatestUpdate
+2026-02-08 20:51:38.464|177552|WARN||[PlayFab] Uploading : Metadata file with compressed 2080 bytes  TimeStamp 3050,883
+2026-02-08 20:51:38.464|177552|INFO|PlayFab|00:50:26:226,UpdateUserData,2483,UploadLatestUpdate
+2026-02-08 20:51:52.471|178375|WARN||[PlayFab] Uploading : Metadata file with compressed 2081 bytes  TimeStamp 3064,892
+2026-02-08 20:51:52.472|178375|INFO|PlayFab|00:50:40:244,UpdateUserData,2484,UploadLatestUpdate
+2026-02-08 20:52:03.252|179021|INFO|Metagame|RewardStar:Apply() Awarding star Star3 to metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:52:03.252|179021|INFO|Metagame|Awarded star Star3 for level Hogsport
+2026-02-08 20:52:03.294|179022|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:52:03.320|179023|INFO|Save|SaveMetagame() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:52:13.229|179611|WARN||[PlayFab] Uploading : Metadata file with compressed 2081 bytes  TimeStamp 3085,651
+2026-02-08 20:52:13.230|179611|INFO|PlayFab|00:51:00:997,UpdateUserData,2484,UploadLatestUpdate
+2026-02-08 20:52:25.055|180285|INFO|Save|SaveImplementation() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:52:32.051|180644|INFO|Save|SaveImplementation() Saving metagame with guid 90c2b739-532c-4a2a-ac9e-c619d793f6f6
+2026-02-08 20:52:32.919|180649|WARN|Unity|There can be only one active Event System.
+2026-02-08 20:52:32.929|180649|WARN|RoomTemplates|Attempting to load in duplicate template (file name already exists in dictionary) ': ClownClinic_zirkus
+2026-02-08 20:52:32.931|180649|WARN|RoomTemplates|Attempting to load in duplicate template (file name already exists in dictionary) ': GPOffice_praxis
+2026-02-08 20:52:32.932|180649|WARN|RoomTemplates|Attempting to load in duplicate template (file name already exists in dictionary) ': LightHeaded_maglite
+2026-02-08 20:52:32.933|180649|WARN|RoomTemplates|Attempting to load in duplicate template (file name already exists in dictionary) ': PandemicClinic_töpperei
+2026-02-08 20:52:32.933|180649|WARN|RoomTemplates|Attempting to load in duplicate template (file name already exists in dictionary) ': Pharmacy_drogen
+2026-02-08 20:52:32.934|180649|WARN|RoomTemplates|Attempting to load in duplicate template (file name already exists in dictionary) ': Psychiatry_klapse
+2026-02-08 20:52:32.935|180649|WARN|RoomTemplates|Attempting to load in duplicate template (file name already exists in dictionary) ': Toilets_klo
+2026-02-08 20:52:32.937|180649|WARN|RoomTemplates|Attempting to load in duplicate template (file name already exists in dictionary) ': Training_schule
+2026-02-08 20:52:32.938|180649|WARN|RoomTemplates|Attempting to load in duplicate template (file name already exists in dictionary) ': Ward_station
+2026-02-08 20:52:47.572|181525|INFO|GameFlow|Quitting

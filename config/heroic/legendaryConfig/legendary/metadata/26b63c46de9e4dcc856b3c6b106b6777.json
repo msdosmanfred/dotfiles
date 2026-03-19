@@ -1,0 +1,110 @@
+{
+  "app_name": "26b63c46de9e4dcc856b3c6b106b6777",
+  "app_title": "AER Memories of Old",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "26b63c46de9e4dcc856b3c6b106b6777",
+      "asset_id": "26b63c46de9e4dcc856b3c6b106b6777",
+      "build_version": "1.0.4.1",
+      "catalog_item_id": "9576e5296aef4c99aec3767280b09bc3",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f3720f53cccb4a20841a392a8ea0457f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-16T12:19:22.909Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AERMemoriesOfOld"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "f3720f53cccb4a20841a392a8ea0457f"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "AER Memories of Old",
+    "developer": "Daedalic Entertainment",
+    "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+    "endOfSupport": false,
+    "entitlementName": "9576e5296aef4c99aec3767280b09bc3",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "9576e5296aef4c99aec3767280b09bc3",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "72330b37a0acda88398b4c73cbbaf4f0",
+        "size": 925978,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-06-17T21:45:15.059Z",
+        "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/item/EGS_AERMemoriesofOld_ForgottenKey_S3-2560x1440-72330b37a0acda88398b4c73cbbaf4f0.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "54da10a6ade9e99d9a469d5ee1c4a5e1",
+        "size": 638902,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-06-17T21:45:30.738Z",
+        "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/item/EGS_AERMemoriesofOld_ForgottenKey_S2-1200x1600-54da10a6ade9e99d9a469d5ee1c4a5e1.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-06-25T14:50:45.301Z",
+    "mainGameItemList": [],
+    "namespace": "f3720f53cccb4a20841a392a8ea0457f",
+    "releaseInfo": [
+      {
+        "appId": "26b63c46de9e4dcc856b3c6b106b6777",
+        "dateAdded": "2020-06-16T00:00:00.000Z",
+        "id": "2df25911288f41dfa1ce95b566763782",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "AER Memories of Old",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

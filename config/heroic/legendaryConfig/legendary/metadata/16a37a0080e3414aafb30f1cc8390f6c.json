@@ -1,0 +1,212 @@
+{
+  "app_name": "16a37a0080e3414aafb30f1cc8390f6c",
+  "app_title": "Redout 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "16a37a0080e3414aafb30f1cc8390f6c",
+      "asset_id": "16a37a0080e3414aafb30f1cc8390f6c",
+      "build_version": "7c9c7c-S-D-P",
+      "catalog_item_id": "74447f48d95a4cdbbf77ef4f248ff19c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "05ae696a3c5f49af91a7433547460c21",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45676ar6shir4Sc8hCAMtbJTZdj4",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-12-10T23:57:21.400Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Redout2/Saved/SaveGames/Epic/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Redout2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "05ae696a3c5f49af91a7433547460c21"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Redout 2",
+    "developer": "34BigThings SRL",
+    "developerId": "o-62eha3hyhu884lyt649ma5cgxxp33u",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-02T21:00:04.080Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "monterey DLC3 audience",
+        "developer": "34BigThings SRL",
+        "developerId": "o-62eha3hyhu884lyt649ma5cgxxp33u",
+        "endOfSupport": false,
+        "entitlementName": "60e904377d854fe79997ba8283fd6a39",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "60e904377d854fe79997ba8283fd6a39",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-09-27T17:00:59.455Z",
+        "mainGameItem": {
+          "id": "74447f48d95a4cdbbf77ef4f248ff19c",
+          "namespace": "05ae696a3c5f49af91a7433547460c21",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "74447f48d95a4cdbbf77ef4f248ff19c",
+            "namespace": "05ae696a3c5f49af91a7433547460c21",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "05ae696a3c5f49af91a7433547460c21",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "monterey DLC3 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-02T21:04:37.290Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "monterey DLC4 audience",
+        "developer": "34BigThings SRL",
+        "developerId": "o-62eha3hyhu884lyt649ma5cgxxp33u",
+        "endOfSupport": false,
+        "entitlementName": "5bc2d679124c4ce2895d7346bfe8f993",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5bc2d679124c4ce2895d7346bfe8f993",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-09-27T17:00:59.467Z",
+        "mainGameItem": {
+          "id": "74447f48d95a4cdbbf77ef4f248ff19c",
+          "namespace": "05ae696a3c5f49af91a7433547460c21",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "74447f48d95a4cdbbf77ef4f248ff19c",
+            "namespace": "05ae696a3c5f49af91a7433547460c21",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "05ae696a3c5f49af91a7433547460c21",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "monterey DLC4 audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "74447f48d95a4cdbbf77ef4f248ff19c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "74447f48d95a4cdbbf77ef4f248ff19c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "15165db53ba987f704968f8c3e4c0f0b",
+        "size": 904714,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-06-13T11:43:42.966Z",
+        "url": "https://cdn1.epicgames.com/item/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S1_2560x1440-15165db53ba987f704968f8c3e4c0f0b",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "448c323c84902f4cbc64c1db23fb17bc",
+        "size": 650437,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-06-13T11:44:08.975Z",
+        "url": "https://cdn1.epicgames.com/item/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S2_1200x1600-448c323c84902f4cbc64c1db23fb17bc",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-09-27T17:00:58.948Z",
+    "mainGameItemList": [],
+    "namespace": "05ae696a3c5f49af91a7433547460c21",
+    "releaseInfo": [
+      {
+        "appId": "16a37a0080e3414aafb30f1cc8390f6c",
+        "id": "c6843901734e47b98ff1b1e8d18a2964",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Redout 2",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

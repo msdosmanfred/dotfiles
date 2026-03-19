@@ -1,0 +1,238 @@
+{
+  "app_name": "ad8aff099d2a445599f9797a24e9ff93",
+  "app_title": "Against All Odds",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ad8aff099d2a445599f9797a24e9ff93",
+      "asset_id": "ad8aff099d2a445599f9797a24e9ff93",
+      "build_version": "1.3.5",
+      "catalog_item_id": "6b5d6216a086463db74848c8460eb50e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "919494d482404969a4125978a9f30491"
+      },
+      "namespace": "676a89b2e8344c9db39a79724150cba6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-10-18T20:50:03.443Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "AgainstAllOdds"
+      }
+    },
+    "description": "Kein Wasser. Die Miete ist f\u00e4llig. Jobs sind Mangelware. Du brauchst Geld. Viel Geld. Tritt in der Slaughter League an und gewinne eine irrwitzige Serie t\u00f6dlicher Wettrennen. In diesem kompetitiven Multiplayer-Plattformer kann nur einer gewinnen, also vergiss alle Freundschaft!",
+    "developer": "Freedom Games",
+    "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-22T19:31:22.938Z",
+        "description": "ConsumableAudience",
+        "developer": "Freedom Games",
+        "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+        "endOfSupport": false,
+        "entitlementName": "0dc49f4f4c3241b8af0b4c3c206475b5",
+        "entitlementType": "AUDIENCE",
+        "id": "0dc49f4f4c3241b8af0b4c3c206475b5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-03-27T14:42:49.689Z",
+        "mainGameItem": {
+          "id": "6b5d6216a086463db74848c8460eb50e",
+          "namespace": "676a89b2e8344c9db39a79724150cba6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6b5d6216a086463db74848c8460eb50e",
+            "namespace": "676a89b2e8344c9db39a79724150cba6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "676a89b2e8344c9db39a79724150cba6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-22T19:40:42.935Z",
+        "description": "ConsumableAudience",
+        "developer": "Freedom Games",
+        "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+        "endOfSupport": false,
+        "entitlementName": "70ae349b60354f57b53809f492d35be4",
+        "entitlementType": "AUDIENCE",
+        "id": "70ae349b60354f57b53809f492d35be4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-03-27T14:42:49.689Z",
+        "mainGameItem": {
+          "id": "6b5d6216a086463db74848c8460eb50e",
+          "namespace": "676a89b2e8344c9db39a79724150cba6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6b5d6216a086463db74848c8460eb50e",
+            "namespace": "676a89b2e8344c9db39a79724150cba6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "676a89b2e8344c9db39a79724150cba6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-22T19:41:42.893Z",
+        "description": "ConsumableAudience",
+        "developer": "Freedom Games",
+        "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+        "endOfSupport": false,
+        "entitlementName": "b7476cc3a4944549811f9c6f653ec4f7",
+        "entitlementType": "AUDIENCE",
+        "id": "b7476cc3a4944549811f9c6f653ec4f7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-03-27T14:42:49.689Z",
+        "mainGameItem": {
+          "id": "6b5d6216a086463db74848c8460eb50e",
+          "namespace": "676a89b2e8344c9db39a79724150cba6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6b5d6216a086463db74848c8460eb50e",
+            "namespace": "676a89b2e8344c9db39a79724150cba6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "676a89b2e8344c9db39a79724150cba6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-22T19:05:25.032Z",
+        "description": "ConsumableAudience",
+        "developer": "Freedom Games",
+        "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+        "endOfSupport": false,
+        "entitlementName": "899a1d98ce1a41a6904cb21bb30128e6",
+        "entitlementType": "AUDIENCE",
+        "id": "899a1d98ce1a41a6904cb21bb30128e6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-03-27T14:42:49.689Z",
+        "mainGameItem": {
+          "id": "6b5d6216a086463db74848c8460eb50e",
+          "namespace": "676a89b2e8344c9db39a79724150cba6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6b5d6216a086463db74848c8460eb50e",
+            "namespace": "676a89b2e8344c9db39a79724150cba6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "676a89b2e8344c9db39a79724150cba6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "6b5d6216a086463db74848c8460eb50e",
+    "entitlementType": "EXECUTABLE",
+    "id": "6b5d6216a086463db74848c8460eb50e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Slaughter League Offer",
+        "height": 1440,
+        "md5": "23405ebcc7c2223fd9caac37c8965aa7",
+        "size": 1373104,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-06-07T15:25:58.444Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a2f2a8a46ff648928b50bcc776bf9857/slaughter-league-offer-9w1er.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Slaughter League Offer",
+        "height": 1600,
+        "md5": "873473a7774e948553af28adb9b50e3e",
+        "size": 826920,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-06-07T15:25:58.028Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a2f2a8a46ff648928b50bcc776bf9857/download-slaughter-league-offer-bezya.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-12-05T15:43:39.139Z",
+    "mainGameItemList": [],
+    "namespace": "676a89b2e8344c9db39a79724150cba6",
+    "releaseInfo": [
+      {
+        "appId": "ad8aff099d2a445599f9797a24e9ff93",
+        "id": "551e16dc5abe4be8b96b582370da482a",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Against All Odds",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

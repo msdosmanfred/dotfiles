@@ -1,0 +1,559 @@
+{
+  "app_name": "5c147002780d4e6eb292f54edfe73fda",
+  "app_title": "Evil Dead The Game",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5c147002780d4e6eb292f54edfe73fda",
+      "asset_id": "5c147002780d4e6eb292f54edfe73fda",
+      "build_version": "S2171_Patch21",
+      "catalog_item_id": "4a896599a11348d0925d66f852977059",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-06-10T17:55:09.022Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "EvilDeadTheGame"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "95e09a8c24c44684bca1a6f25aea920c"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Evil Dead The Game",
+    "developer": "Saber Interactive",
+    "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-09-27T18:34:39.266Z",
+        "customAttributes": {},
+        "description": "mantis ImmortalPowerAudience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "0fad4f53ba2343e7975a6c632048cefb",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0fad4f53ba2343e7975a6c632048cefb",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-02-13T16:24:45.933Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4a896599a11348d0925d66f852977059",
+            "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mantis ImmortalPowerAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-01-26T20:48:35.463Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Evil Dead 2013 Bundle audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "6b21c55717f34a1eabbe763c26a22a5a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6b21c55717f34a1eabbe763c26a22a5a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-01T23:11:50.114Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4a896599a11348d0925d66f852977059",
+            "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Evil Dead 2013 Bundle audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-09-27T18:32:50.315Z",
+        "customAttributes": {},
+        "description": "mantis SeasonPassAudience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "17182d55864b478c8aa689ef0a7ce07a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "17182d55864b478c8aa689ef0a7ce07a",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-04-25T23:02:00.727Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4a896599a11348d0925d66f852977059",
+            "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mantis SeasonPassAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-01-26T15:37:39.668Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Ash - Gallant Knight Outfit audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "caefafaebc4a4a478bed21b092cfad48",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "caefafaebc4a4a478bed21b092cfad48",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-01T23:16:04.384Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4a896599a11348d0925d66f852977059",
+            "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Ash - Gallant Knight Outfit audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-01-26T15:38:48.958Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Ash - S-Mart Employee Outfit audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "0b8dd58f578c42a9aa2597b1d1d240eb",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0b8dd58f578c42a9aa2597b1d1d240eb",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-01T23:16:11.881Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4a896599a11348d0925d66f852977059",
+            "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Ash - S-Mart Employee Outfit audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-09-27T18:33:41.731Z",
+        "customAttributes": {},
+        "description": "mantis ClassicsBundleDLCAudience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "88f647c048224023abbd190afe896a35",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "88f647c048224023abbd190afe896a35",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-02-01T23:16:46.568Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4a896599a11348d0925d66f852977059",
+            "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mantis ClassicsBundleDLCAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-10T20:38:02.682Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Evil Dead: The Game - Who\u2019s Your Daddy Bundle",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "5bd46f9e773848b39c79e30e6e7f639e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5bd46f9e773848b39c79e30e6e7f639e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "19e884ee268353d430e1cd5e7346df66",
+            "size": 704770,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-02-13T12:27:28.876Z",
+            "url": "https://cdn1.epicgames.com/item/95e09a8c24c44684bca1a6f25aea920c/EGS_EvilDeadTheGameWhosYourDaddyBundle_SaberInteractiveInc_DLC_S1_2560x1440-19e884ee268353d430e1cd5e7346df66",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "059ec45ff4d89659e9afb3d26e0b695c",
+            "size": 334253,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-02-13T12:27:31.552Z",
+            "url": "https://cdn1.epicgames.com/item/95e09a8c24c44684bca1a6f25aea920c/EGS_EvilDeadTheGameWhosYourDaddyBundle_SaberInteractiveInc_DLC_S2_1200x1600-059ec45ff4d89659e9afb3d26e0b695c",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-03-29T22:07:12.106Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4a896599a11348d0925d66f852977059",
+            "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Evil Dead: The Game - Who\u2019s Your Daddy Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-10T20:35:46.103Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mantis GOTY Upgrade audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "3af94ed1df35443da7085f359d2ce0aa",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3af94ed1df35443da7085f359d2ce0aa",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-04-25T22:54:20.440Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4a896599a11348d0925d66f852977059",
+            "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mantis GOTY Upgrade audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-10T20:38:02.595Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "mantis Who\u2019s Your Daddy Bundle audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "8e9b7ab9cf264e3bba243c562a7051aa",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8e9b7ab9cf264e3bba243c562a7051aa",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-04-25T22:54:20.441Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4a896599a11348d0925d66f852977059",
+            "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mantis Who\u2019s Your Daddy Bundle audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "4a896599a11348d0925d66f852977059",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "4a896599a11348d0925d66f852977059",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "fde136bc32f2b93006b9df0bc421fec0",
+        "size": 749910,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-02-08T07:47:17.336Z",
+        "url": "https://cdn1.epicgames.com/item/95e09a8c24c44684bca1a6f25aea920c/evilDeadWide_2560x1440-fde136bc32f2b93006b9df0bc421fec0",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "8e839d708bc638cd58c219ae38d58f6f",
+        "size": 861659,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-02-08T07:47:26.488Z",
+        "url": "https://cdn1.epicgames.com/item/95e09a8c24c44684bca1a6f25aea920c/evilDeadTall_1200x1600-8e839d708bc638cd58c219ae38d58f6f",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-06-06T17:00:24.235Z",
+    "mainGameItemList": [],
+    "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+    "releaseInfo": [
+      {
+        "appId": "5c147002780d4e6eb292f54edfe73fda",
+        "id": "7e988dc5822046ad864e0b6db48fa0d2",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Evil Dead The Game",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

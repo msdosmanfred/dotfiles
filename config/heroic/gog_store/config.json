@@ -1,0 +1,57 @@
+{
+	"isLoggedIn": true,
+	"userData": {
+		"country": "DE",
+		"currencies": [
+			{
+				"code": "EUR",
+				"symbol": "€"
+			},
+			{
+				"code": "USD",
+				"symbol": "$"
+			}
+		],
+		"selectedCurrency": {
+			"code": "EUR",
+			"symbol": "€"
+		},
+		"preferredLanguage": {
+			"code": "en",
+			"name": "English"
+		},
+		"ratingBrand": "USK",
+		"isLoggedIn": true,
+		"checksum": {
+			"cart": null,
+			"games": "b657b3d52a83aab001ca25517289691e",
+			"wishlist": null,
+			"reviews_votes": null,
+			"games_rating": null
+		},
+		"updates": {
+			"messages": 0,
+			"pendingFriendRequests": 0,
+			"unreadChatMessages": 0,
+			"products": 55,
+			"forum": 0,
+			"total": 55
+		},
+		"userId": "48141268213219",
+		"username": "amok_alex",
+		"galaxyUserId": "48141268182230006",
+		"avatar": "https://images.gog.com/48689112ea1e614b099a281ef23c76087e1a1a94bbdba2492dbd59b7ce1fa560",
+		"walletBalance": {
+			"currency": "EUR",
+			"amount": 0
+		},
+		"purchasedItems": {
+			"games": 180,
+			"movies": 0
+		},
+		"wishlistedItems": 0,
+		"friends": [],
+		"personalizedProductPrices": [],
+		"personalizedSeriesPrices": []
+	}
+}

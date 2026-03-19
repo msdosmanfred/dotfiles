@@ -1,0 +1,24 @@
+2026/02/26-14:03:25.938 5cc6 Reusing MANIFEST /home/alex/.config/CurseForge/Local Storage/leveldb/MANIFEST-000001
+2026/02/26-14:03:25.944 5cc6 Recovering log #170
+2026/02/26-14:03:25.944 5cc6 Reusing old log /home/alex/.config/CurseForge/Local Storage/leveldb/000170.log 
+2026/02/26-14:03:37.013 5cc7 Level-0 table #174: started
+2026/02/26-14:03:37.016 5cc7 Level-0 table #174: 30509 bytes OK
+2026/02/26-14:03:37.021 5cc7 Delete type=0 #170
+2026/02/26-14:03:37.021 5cc6 Compacting 4@0 + 1@1 files
+2026/02/26-14:03:37.025 5cc6 Generated table #175@0: 163 keys, 54558 bytes
+2026/02/26-14:03:37.025 5cc6 Compacted 4@0 + 1@1 files => 54558 bytes
+2026/02/26-14:03:37.030 5cc6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/26-14:03:37.031 5cc6 Delete type=2 #165
+2026/02/26-14:03:37.031 5cc6 Delete type=2 #167
+2026/02/26-14:03:37.031 5cc6 Delete type=2 #169
+2026/02/26-14:03:37.031 5cc6 Delete type=2 #171
+2026/02/26-14:03:37.031 5cc6 Delete type=2 #174
+2026/02/26-14:09:55.781 5cc7 Level-0 table #177: started
+2026/02/26-14:09:55.788 5cc7 Level-0 table #177: 37219 bytes OK
+2026/02/26-14:09:55.793 5cc7 Delete type=0 #173
+2026/02/26-14:20:15.546 5cc7 Level-0 table #179: started
+2026/02/26-14:20:15.552 5cc7 Level-0 table #179: 33499 bytes OK
+2026/02/26-14:20:15.557 5cc7 Delete type=0 #176
+2026/02/26-14:30:27.290 5cc7 Level-0 table #181: started
+2026/02/26-14:30:27.293 5cc7 Level-0 table #181: 27817 bytes OK
+2026/02/26-14:30:27.299 5cc7 Delete type=0 #178

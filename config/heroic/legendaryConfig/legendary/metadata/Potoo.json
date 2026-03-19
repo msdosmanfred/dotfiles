@@ -1,0 +1,414 @@
+{
+  "app_name": "Potoo",
+  "app_title": "Overcooked! 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Potoo",
+      "asset_id": "Potoo",
+      "build_version": "v.246.807171.1",
+      "catalog_item_id": "08addee88a7a400c940c9db6263b61db",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-27T18:42:41.367Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../locallow/Team17/Overcooked2/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Overcooked2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "2d94b7b33d7f4d02a8fff6fbf71ac7ab"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Overcooked! 2",
+    "developer": "Team17 Digital Ltd",
+    "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-07T13:17:59.940Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "CCO_PackAudience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "e9302432c61b41c08197ac538168a53b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e9302432c61b41c08197ac538168a53b",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-10-24T11:12:35.304Z",
+        "mainGameItem": {
+          "id": "08addee88a7a400c940c9db6263b61db",
+          "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "08addee88a7a400c940c9db6263b61db",
+            "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "CCO_PackAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-07T13:17:59.935Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "SNT_PackAudience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "7effcd4a52f74ca9b43f8badcefa728e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7effcd4a52f74ca9b43f8badcefa728e",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-10-24T11:12:35.304Z",
+        "mainGameItem": {
+          "id": "08addee88a7a400c940c9db6263b61db",
+          "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "08addee88a7a400c940c9db6263b61db",
+            "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "SNT_PackAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-27T18:42:41.365Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "SP_Audience",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "a0021a5001114b41b8857efc6a6d6e7c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a0021a5001114b41b8857efc6a6d6e7c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-10-24T11:12:35.304Z",
+        "mainGameItem": {
+          "id": "08addee88a7a400c940c9db6263b61db",
+          "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "08addee88a7a400c940c9db6263b61db",
+            "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "SP_Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-07T13:17:59.930Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "NOTHH_PackAudience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "50f625e533644ed9b5505ff64d4de09e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "50f625e533644ed9b5505ff64d4de09e",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-10-24T11:12:35.304Z",
+        "mainGameItem": {
+          "id": "08addee88a7a400c940c9db6263b61db",
+          "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "08addee88a7a400c940c9db6263b61db",
+            "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "NOTHH_PackAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-07T13:17:59.934Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "TMC_PackAudience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "708f2bea0a104deeb31927e5fc48a89e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "708f2bea0a104deeb31927e5fc48a89e",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-10-24T11:12:35.304Z",
+        "mainGameItem": {
+          "id": "08addee88a7a400c940c9db6263b61db",
+          "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "08addee88a7a400c940c9db6263b61db",
+            "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "TMC_PackAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-07T13:17:59.932Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "CC_PackAudience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "54ad93f7627b481b835e3b331957d0e0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "54ad93f7627b481b835e3b331957d0e0",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-10-24T11:12:35.304Z",
+        "mainGameItem": {
+          "id": "08addee88a7a400c940c9db6263b61db",
+          "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "08addee88a7a400c940c9db6263b61db",
+            "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "CC_PackAudience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "08addee88a7a400c940c9db6263b61db",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "08addee88a7a400c940c9db6263b61db",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "199f84aa92269c75b85715c0d281e86e",
+        "size": 185856,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-11-05T16:04:44.431Z",
+        "url": "https://cdn1.epicgames.com/2d94b7b33d7f4d02a8fff6fbf71ac7ab/item/egs-overcooked2-ghosttowngamesandteam17digitalltd-s5-1920x1080-846624431-1920x1080-199f84aa92269c75b85715c0d281e86e.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "fbae89fad70c05cd1979316f620e64a9",
+        "size": 233103,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-11-05T16:04:57.874Z",
+        "url": "https://cdn1.epicgames.com/2d94b7b33d7f4d02a8fff6fbf71ac7ab/item/egs-overcooked2-ghosttowngamesandteam17digitalltd-s2-1200x1600-846624393-1200x1600-fbae89fad70c05cd1979316f620e64a9.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-24T11:12:35.304Z",
+    "longDescription": "Overcooked! 2",
+    "mainGameItemList": [],
+    "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+    "releaseInfo": [
+      {
+        "appId": "Potoo",
+        "id": "b3e9eeaa653a4a7fb2f48b0fe35d53c1",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Overcooked! 2",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

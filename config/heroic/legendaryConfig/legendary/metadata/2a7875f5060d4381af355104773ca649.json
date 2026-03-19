@@ -1,0 +1,520 @@
+{
+  "app_name": "2a7875f5060d4381af355104773ca649",
+  "app_title": "Divine Knockout",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2a7875f5060d4381af355104773ca649",
+      "asset_id": "2a7875f5060d4381af355104773ca649",
+      "build_version": "935",
+      "catalog_item_id": "c4111084404c4f13b23f645aef415025",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "1200aeb2f87c48349594d96554e2833d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-01-06T02:10:08.879Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DivineKnockout"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Divine Knockout",
+    "developer": "Hi-Rez Studios",
+    "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-17T11:28:22.226Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "12000 Runes audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "28fe93fc14544ae58f723de2a72ecbfd",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "28fe93fc14544ae58f723de2a72ecbfd",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-11-18T15:03:59.616Z",
+        "mainGameItem": {
+          "id": "c4111084404c4f13b23f645aef415025",
+          "namespace": "1200aeb2f87c48349594d96554e2833d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4111084404c4f13b23f645aef415025",
+            "namespace": "1200aeb2f87c48349594d96554e2833d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1200aeb2f87c48349594d96554e2833d",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "12000 Runes audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-17T11:27:55.846Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "4600 Runes audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "971032e893fb4a1b96888e9b00cae954",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "971032e893fb4a1b96888e9b00cae954",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-11-18T15:03:59.616Z",
+        "mainGameItem": {
+          "id": "c4111084404c4f13b23f645aef415025",
+          "namespace": "1200aeb2f87c48349594d96554e2833d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4111084404c4f13b23f645aef415025",
+            "namespace": "1200aeb2f87c48349594d96554e2833d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1200aeb2f87c48349594d96554e2833d",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "4600 Runes audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-08-17T11:29:35.830Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Standard Founders Pack",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "22b669319562458299935ee41cf017f6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "22b669319562458299935ee41cf017f6",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-01-13T15:02:36.192Z",
+        "mainGameItem": {
+          "id": "c4111084404c4f13b23f645aef415025",
+          "namespace": "1200aeb2f87c48349594d96554e2833d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4111084404c4f13b23f645aef415025",
+            "namespace": "1200aeb2f87c48349594d96554e2833d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1200aeb2f87c48349594d96554e2833d",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Standard Founders Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-17T11:23:52.884Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "500 Runes audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "9995aeeb418d40ceb706f17638805dba",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9995aeeb418d40ceb706f17638805dba",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-11-18T15:03:59.614Z",
+        "mainGameItem": {
+          "id": "c4111084404c4f13b23f645aef415025",
+          "namespace": "1200aeb2f87c48349594d96554e2833d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4111084404c4f13b23f645aef415025",
+            "namespace": "1200aeb2f87c48349594d96554e2833d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1200aeb2f87c48349594d96554e2833d",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "500 Runes audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-10-05T16:59:59.157Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "DKO upgrade pack",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "1cbe5a324c544432ba09bc01b2b4dee5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1cbe5a324c544432ba09bc01b2b4dee5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-10-05T16:59:59.157Z",
+        "mainGameItem": {
+          "id": "c4111084404c4f13b23f645aef415025",
+          "namespace": "1200aeb2f87c48349594d96554e2833d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4111084404c4f13b23f645aef415025",
+            "namespace": "1200aeb2f87c48349594d96554e2833d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1200aeb2f87c48349594d96554e2833d",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DKO upgrade pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-08-17T11:30:02.678Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Ultimate Founders Pack",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "a19b6807915647e3a7a01c49be09b105",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a19b6807915647e3a7a01c49be09b105",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-12-06T09:51:03.264Z",
+        "mainGameItem": {
+          "id": "c4111084404c4f13b23f645aef415025",
+          "namespace": "1200aeb2f87c48349594d96554e2833d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4111084404c4f13b23f645aef415025",
+            "namespace": "1200aeb2f87c48349594d96554e2833d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1200aeb2f87c48349594d96554e2833d",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Ultimate Founders Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-17T11:26:34.313Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "2750 Runes audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "e58102d76fa24d56b0735a86588052d3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e58102d76fa24d56b0735a86588052d3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-11-18T15:03:59.615Z",
+        "mainGameItem": {
+          "id": "c4111084404c4f13b23f645aef415025",
+          "namespace": "1200aeb2f87c48349594d96554e2833d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4111084404c4f13b23f645aef415025",
+            "namespace": "1200aeb2f87c48349594d96554e2833d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1200aeb2f87c48349594d96554e2833d",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2750 Runes audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-17T11:26:10.741Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "1000 Runes audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "e593855a3c48461ba67645f1fa8b55c9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e593855a3c48461ba67645f1fa8b55c9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-11-18T15:03:59.615Z",
+        "mainGameItem": {
+          "id": "c4111084404c4f13b23f645aef415025",
+          "namespace": "1200aeb2f87c48349594d96554e2833d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4111084404c4f13b23f645aef415025",
+            "namespace": "1200aeb2f87c48349594d96554e2833d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1200aeb2f87c48349594d96554e2833d",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1000 Runes audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-12-09T12:56:17.172Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "starterpack",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "4f1d129ce72d41e58513bc4c1bb3409b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4f1d129ce72d41e58513bc4c1bb3409b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-06-29T10:40:30.225Z",
+        "mainGameItem": {
+          "id": "c4111084404c4f13b23f645aef415025",
+          "namespace": "1200aeb2f87c48349594d96554e2833d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4111084404c4f13b23f645aef415025",
+            "namespace": "1200aeb2f87c48349594d96554e2833d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1200aeb2f87c48349594d96554e2833d",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "starterpack",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "c4111084404c4f13b23f645aef415025",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c4111084404c4f13b23f645aef415025",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "725ebcd09d6cca173b6da05b7bcefd27",
+        "size": 435084,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-07-24T13:38:34.043Z",
+        "url": "https://cdn1.epicgames.com/item/1200aeb2f87c48349594d96554e2833d/S1_DKO_1920x1080-725ebcd09d6cca173b6da05b7bcefd27",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "6422e73e12274502a6cfae74daeab890",
+        "size": 402822,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-07-24T13:38:37.414Z",
+        "url": "https://cdn1.epicgames.com/item/1200aeb2f87c48349594d96554e2833d/DKO_S2_1200x1600-6422e73e12274502a6cfae74daeab890",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-07-24T13:38:48.081Z",
+    "mainGameItemList": [],
+    "namespace": "1200aeb2f87c48349594d96554e2833d",
+    "releaseInfo": [
+      {
+        "appId": "2a7875f5060d4381af355104773ca649",
+        "compatibleApps": [],
+        "dateAdded": "2022-01-06T02:12:58.661Z",
+        "id": "7c4e4906b338406cb3e99ae74f5e5d2f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Divine Knockout",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

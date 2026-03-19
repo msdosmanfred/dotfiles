@@ -1,0 +1,255 @@
+{
+  "app_name": "0c942b2c920149ff986af1ed93c92ddf",
+  "app_title": "First Class Trouble",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "0c942b2c920149ff986af1ed93c92ddf",
+      "asset_id": "0c942b2c920149ff986af1ed93c92ddf",
+      "build_version": "1.9.8.158-77647-Shipping-FirstClassTroubleEnvironment",
+      "catalog_item_id": "41717f3c71d94cf0ac272a8a5e2e6f40",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "36e93c54bd5845669e9edc06ce6dab58"
+      },
+      "namespace": "27834480410d4000a987b32801e9abba",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567XPSJz9nxwGE7IDN7bclkJXla",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-04-02T18:27:30.920Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "FirstClassTrouble"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "27834480410d4000a987b32801e9abba"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "First Class Trouble",
+    "developer": "Invisible Walls",
+    "developerId": "o-90e9e31076994cf0ad47d8f37cf485",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-30T19:34:40.816Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Test Consumable audience",
+        "developer": "Invisible Walls",
+        "developerId": "o-90e9e31076994cf0ad47d8f37cf485",
+        "endOfSupport": false,
+        "entitlementName": "40a74a39367541b99fb33fd14a207183",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "40a74a39367541b99fb33fd14a207183",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-09T14:37:50.386Z",
+        "mainGameItem": {
+          "id": "41717f3c71d94cf0ac272a8a5e2e6f40",
+          "namespace": "27834480410d4000a987b32801e9abba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "41717f3c71d94cf0ac272a8a5e2e6f40",
+            "namespace": "27834480410d4000a987b32801e9abba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "27834480410d4000a987b32801e9abba",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Test Consumable audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-30T19:21:34.535Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Test Durable audience",
+        "developer": "Invisible Walls",
+        "developerId": "o-90e9e31076994cf0ad47d8f37cf485",
+        "endOfSupport": false,
+        "entitlementName": "d6ddba708b1f4ee1a74e8ca2ce65bb06",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d6ddba708b1f4ee1a74e8ca2ce65bb06",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-04-09T14:37:50.456Z",
+        "mainGameItem": {
+          "id": "41717f3c71d94cf0ac272a8a5e2e6f40",
+          "namespace": "27834480410d4000a987b32801e9abba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "41717f3c71d94cf0ac272a8a5e2e6f40",
+            "namespace": "27834480410d4000a987b32801e9abba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "27834480410d4000a987b32801e9abba",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Test Durable audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-30T22:29:02.303Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "First Class Trouble Sci-Fi Noir Pack audience",
+        "developer": "Invisible Walls",
+        "developerId": "o-90e9e31076994cf0ad47d8f37cf485",
+        "endOfSupport": false,
+        "entitlementName": "c95f7f9a49624a05b63cb7e13f8362b8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c95f7f9a49624a05b63cb7e13f8362b8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-09T14:37:50.398Z",
+        "mainGameItem": {
+          "id": "41717f3c71d94cf0ac272a8a5e2e6f40",
+          "namespace": "27834480410d4000a987b32801e9abba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "41717f3c71d94cf0ac272a8a5e2e6f40",
+            "namespace": "27834480410d4000a987b32801e9abba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "27834480410d4000a987b32801e9abba",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "First Class Trouble Sci-Fi Noir Pack audience",
+        "unsearchable": true,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "41717f3c71d94cf0ac272a8a5e2e6f40",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "41717f3c71d94cf0ac272a8a5e2e6f40",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "5949bbfd7f9dd488810526905e93a0f1",
+        "size": 616467,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-07-28T14:22:07.858Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-firstclasstrouble-invisiblewalls-s1-2560x1440-061767b6ed3f_2560x1440-5949bbfd7f9dd488810526905e93a0f1",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "b5a83139d665f8f17bd3d052e2aa7bbf",
+        "size": 406467,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-07-28T14:22:03.790Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-firstclasstrouble-invisiblewalls-s2-1200x1600-c19b5d5496b1_1200x1600-b5a83139d665f8f17bd3d052e2aa7bbf",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-12-19T12:03:46.070Z",
+    "mainGameItemList": [],
+    "namespace": "27834480410d4000a987b32801e9abba",
+    "releaseInfo": [
+      {
+        "appId": "0c942b2c920149ff986af1ed93c92ddf",
+        "id": "8e8715cc9bf44d67b4a37138cf4bb504",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "First Class Trouble",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

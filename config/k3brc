@@ -29,7 +29,7 @@ readcd last seen newest version=3.2a09
 readcd user parameters=
 search path[$e]=/usr/bin/,/usr/local/bin/,/usr/sbin/,/usr/local/sbin/,/sbin
 sox default=/usr/bin/sox
-sox last seen newest version=14.7.0.8
+sox last seen newest version=14.7.1.1
 sox user parameters=
 vcdxbuild default=/usr/bin/vcdxbuild
 vcdxbuild last seen newest version=2.0.1
@@ -45,17 +45,25 @@ vcdxrip user parameters=
 Allow overburning=false
 Fifo buffer=4
 Force unsafe operations=false
-Last system check version=25.12.2
+Last system check version=25.12.3
 Manual buffer size=false
 Navigator breadcrumb mode=true
 No cd eject=false
 Show Document Header=true
+Show advanced GUI=false
+Show progress OSD=false
+Show splash=true
 Temp Dir=/home/alex/Videos/
+action dialog startup settings=2
+ask_for_saving_changes_on_exit=true
+auto rewritable erasing=true
 burnfree=true
 check system config=true
-config version=25.12.2
+config version=25.12.3
 current theme=quant
 current_writer=/dev/sr0
+hide main window while writing=false
+keep action dialogs open=false
 
 [Welcome Widget]
 welcome_actions=file_new_data,file_new_audio,tools_copy_medium
@@ -76,7 +84,7 @@ show bookmarks=false
 
 [image writing]
 last written image[$e]=/data/zeugs/multi.iso
-recent images[$e]=/data/zeugs/multi.iso
+recent images[$e]=/mnt/Spiele/abenteuer-auf-der-lego-insel/Abenteuer auf der Lego Insel.iso,/mnt/Spiele/LEGO Creator (Germany) (Rerelease)/LEGO Creator (Germany) (Rerelease).cue,/mnt/Spiele/Colin McRae Rally/Colin McRae Rally (Europe) (En\\,Fr\\,De\\,Es).cue,/mnt/Spiele/Rally Racing 97/Rallye Racing 97 (Germany).cue,/data/zeugs/multi.iso
 
 [last used Formatting and Erasing]
 force=false

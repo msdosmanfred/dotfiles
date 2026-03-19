@@ -3,6 +3,7 @@ update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBa
 
 [General]
 LastUsedVersion=210800
+SideBarPage=operations
 
 [MainWindow]
 1918x920 screen: XPosition=639
@@ -12,26 +13,27 @@ State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 Virtual1=Virtual1
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/boing_fertig.png
-File10[$e]=/data/zeugs/fat32-unterstützung.png
-File2[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_223545.png
-File3[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_223955.png
-File4[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_224049.png
-File5[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_224118.png
-File6[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_224253.png
-File7[$e]=$HOME/Bilder/Screenshots/2026-02-14_22-47.png
-File8[$e]=$HOME/86Box VMs/PC005/screenshots/Monitor_1_20260218-173550-849.png
-File9[$e]=$HOME/86Box VMs/PC005/screenshots/Monitor_1_20260218-173608-863.png
-Name1[$e]=boing_fertig.png
-Name10[$e]=fat32-unterstützung.png
-Name2[$e]=Bildschirmfoto_20260214_223545.png
-Name3[$e]=Bildschirmfoto_20260214_223955.png
-Name4[$e]=Bildschirmfoto_20260214_224049.png
-Name5[$e]=Bildschirmfoto_20260214_224118.png
-Name6[$e]=Bildschirmfoto_20260214_224253.png
-Name7[$e]=2026-02-14_22-47.png
-Name8[$e]=Monitor_1_20260218-173550-849.png
-Name9[$e]=Monitor_1_20260218-173608-863.png
+File1[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_224118.png
+File10[$e]=/data/zeugs/ZETA/zeta key.png
+File2[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_224253.png
+File3[$e]=$HOME/Bilder/Screenshots/2026-02-14_22-47.png
+File4[$e]=$HOME/86Box VMs/PC005/screenshots/Monitor_1_20260218-173550-849.png
+File5[$e]=$HOME/86Box VMs/PC005/screenshots/Monitor_1_20260218-173608-863.png
+File6[$e]=/data/zeugs/fat32-unterstützung.png
+File7[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260226_012937.png
+File8[$e]=$HOME/86Box VMs/PC021/printer/20260304-100436-923.png
+File9[$e]=$HOME/86Box VMs/PC021/printer/20260304-100757-081.png
+Name1[$e]=Bildschirmfoto_20260214_224118.png
+Name10[$e]=zeta key.png
+Name2[$e]=Bildschirmfoto_20260214_224253.png
+Name3[$e]=2026-02-14_22-47.png
+Name4[$e]=Monitor_1_20260218-173550-849.png
+Name5[$e]=Monitor_1_20260218-173608-863.png
+Name6[$e]=fat32-unterstützung.png
+Name7[$e]=Bildschirmfoto_20260226_012937.png
+Name8[$e]=20260304-100436-923.png
+Name9[$e]=20260304-100757-081.png
 
 [SideBar]
-InformationSplitterSizes=210,245
+InformationSplitterSizes=219,256
+SideBarSplitterSizes=297,1622

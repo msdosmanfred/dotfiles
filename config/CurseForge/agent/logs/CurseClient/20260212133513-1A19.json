@@ -1,0 +1,899 @@
+{
+  "Name": "CurseClient",
+  "Process": "Curse.Agent.Host",
+  "PID": 6681,
+  "Arguments": [
+    "/opt/curseforge/resources/app.asar.unpacked/plugins/curse/linux/Curse.Agent.Host",
+    "--port=52667",
+    "--to-port=52687",
+    "--pid=6404",
+    "--appDataPath=/home/alex/.config/CurseForge",
+    "--api-key=5aec292c-d3bf-4eb3-9b70-ae3f9473f5ca",
+    "--clientId=Overwolf"
+  ],
+  "ProcessStart": "2026-02-12T12:35:12.983221Z",
+  "Version": "1.298.3.31077",
+  "BuildDate": "2000-01-04T16:15:54Z",
+  "Start": "2026-02-12T13:35:13.4526785+01:00",
+  "Log": [
+{
+  "timestamp": "2026-02-12T13:35:13.4415207+01:00",
+  "level": "Warn",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Failed to modified BuiltInConverters: Cannot set initonly static field 'BuiltInConverters' after type 'Newtonsoft.Json.Serialization.DefaultContractResolver' is initialized."
+},
+{
+  "timestamp": "2026-02-12T13:35:13.4489297+01:00",
+  "level": "Info",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Startup Name: CurseForge, Version: 1.298.3.31077"
+},
+{
+  "timestamp": "2026-02-12T13:35:13.4497892+01:00",
+  "level": "Info",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Running Mods Agent with args: --port=52667,--to-port=52687,--pid=6404,--appDataPath=/home/alex/.config/CurseForge,--api-key=5aec292c-d3bf-4eb3-9b70-ae3f9473f5ca,--clientId=Overwolf"
+},
+{
+  "timestamp": "2026-02-12T13:35:13.4534087+01:00",
+  "level": "Info",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "start monitor process: 6404"
+},
+{
+  "timestamp": "2026-02-12T13:35:14.5314742+01:00",
+  "level": "Info",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Unable to load game instances from disk. No file was found at: /home/alex/.config/CurseForge/agent/GameInstances/ModpackGameInstances.json"
+},
+{
+  "timestamp": "2026-02-12T13:35:14.684369+01:00",
+  "level": "Info",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Mods Agent server started on port 52667"
+},
+{
+  "timestamp": "2026-02-12T13:35:14.7399464+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Web Socket session connected"
+},
+{
+  "timestamp": "2026-02-12T13:35:14.9581978+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Update simultaneous downloads '1' => '3'"
+},
+{
+  "timestamp": "2026-02-12T13:35:14.9607248+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "UpdateOverrideLauncher"
+},
+{
+  "timestamp": "2026-02-12T13:35:14.9630624+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Initializing Curse Mods Agent"
+},
+{
+  "timestamp": "2026-02-12T13:35:14.9662881+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "update client Info 'ey'..."
+},
+{
+  "timestamp": "2026-02-12T13:35:15.0067481+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Network connected and internet available"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.0259152+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "AddonServiceClient - CfCore Url: https://api.curseforge.com"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.4148208+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Attempt #1 of 2 on GameDatabase -> GetRemoteItems"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.4159499+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Getting Games from server"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.4804544+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Loaded 25 games from the server"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.480782+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Saving games to local cache at /home/alex/.config/CurseForge/agent/gamesCache.json"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.5162031+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "[GameRepository] Completed download of cache",
+  "data": {
+    "name": "Games",
+    "elapsedTime": "94.00"
+  }
+},
+{
+  "timestamp": "2026-02-12T13:35:15.5437233+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Initializing local databases..."
+},
+{
+  "timestamp": "2026-02-12T13:35:15.5441511+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Initializing SQLite database..."
+},
+{
+  "timestamp": "2026-02-12T13:35:15.5506748+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "SQLite database initialized at: /home/alex/.config/CurseForge/agent/database/app.db"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.5512377+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Initializing game instances."
+},
+{
+  "timestamp": "2026-02-12T13:35:15.5716399+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Found RegisterType on Type: 'Curse.Radium.Addons.AddonGameInstance'"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.5722234+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Found RegisterType on Type: 'Curse.Games.Minecraft.MinecraftGameInstance'"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.5725701+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Initializing game instance of type Curse.Radium.Addons.AddonGameInstance"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.733843+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] LoadInstancesFromDisk loaded 2 instances"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.7408128+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Initializing game instance of type Curse.Games.Minecraft.MinecraftGameInstance"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.8131898+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "[MinecraftGameInstance] LoadInstancesFromDisk loaded 0 instances"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.8182496+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Game Euro Truck Simulator 2 (Id: 504) was detected at /home/alex/.local/share/Steam/steamapps/common/Euro Truck Simulator 2/bin/win_x64/"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.831956+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Checking for game instance Euro Truck Simulator 2 updates"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.834939+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Completed checking for updates in instance Euro Truck Simulator 2. Operation took 1 ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.8349524+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Initialized game Euro Truck Simulator 2 instance"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.835344+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Game Hytale (Id: 70216) was detected at /home/alex/.var/app/com.hypixel.HytaleLauncher/data/Hytale/"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.840509+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Checking for game instance Hytale updates"
+},
+{
+  "timestamp": "2026-02-12T13:35:15.8438723+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Attempt #1 of 3 on InstalledAddonDatabase -> GetAddons"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.310153+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Completed checking for updates in instance Hytale. Operation took 469 ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.310595+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Initialized game Hytale instance"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3111833+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Game instances initialization completed. Operation took 759 ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3120893+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Initializing Modpack instances."
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3144027+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Running startup game detection"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3180192+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Performing quick game detection for 25 games..."
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3293009+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Completed startup game detection. We have a total of 2 detected game instances. Operation took 14 ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3326079+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3338218+01:00",
+  "level": "Warn",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "/home/alex/Documents/curseforge/minecraft/Install/minecraft-launcher not found."
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3389567+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Initializing tasks"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3396788+01:00",
+  "level": "Info",
+  "thread": 15,
+  "memory": 0.0,
+  "message": "Refreshing Minecraft instances list"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3496984+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Discord RPC client initialized successfully."
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3498724+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Initializing Periodic Tasks"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3771666+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "update client Info 'ey'..."
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3779023+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Performing addon sync..."
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3840991+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.3841611+01:00",
+  "level": "Warn",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "/home/alex/Documents/curseforge/minecraft/Install/minecraft-launcher not found."
+},
+{
+  "timestamp": "2026-02-12T13:35:16.4296191+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Starting Game Instance Hytale scan"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.4326217+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Processed 0 invalid installed mods for Hytale. Operation took 0 ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.4327313+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Performing a minimal scan of Hytale"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.4327871+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Checking for game instance Hytale updates"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.433474+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Completed checking for updates in instance Hytale. Operation took 0 ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.4561712+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Completed game instance Hytale scan. Operation took 26 ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.4562398+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Starting Game Instance Euro Truck Simulator 2 scan"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.4564915+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Processed 0 invalid installed mods for Euro Truck Simulator 2. Operation took 0 ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.4565005+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Performing a full scan of Euro Truck Simulator 2"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.4588039+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Completed fingerprinting local mods for Euro Truck Simulator 2. Operation took 0 ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.4672323+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Checking for game instance Euro Truck Simulator 2 updates"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.4672795+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Completed checking for updates in instance Euro Truck Simulator 2. Operation took 0 ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.4676086+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Completed game instance Euro Truck Simulator 2 scan. Operation took 11 ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.5223685+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "[ModLoaderRepository] Completed download of cache",
+  "data": {
+    "name": "Minecraft Modloaders",
+    "elapsedTime": "165.00"
+  }
+},
+{
+  "timestamp": "2026-02-12T13:35:16.6173128+01:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "[MinecraftVersionDatabase] Completed download of cache",
+  "data": {
+    "name": "Minecraft Versions",
+    "elapsedTime": "38.00"
+  }
+},
+{
+  "timestamp": "2026-02-12T13:35:16.6204648+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "[AddonSyncManager] Got sync profile Successfully. Got 0 sync game instances"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.6367508+01:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "Downloading project file from https://edge.forgecdn.net/files/7599/262/vein-mining-2.0.1.jar"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.6367776+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Downloading project file from https://edge.forgecdn.net/files/7590/54/LuckyMining-1.0.4.jar"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.6367909+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Downloading project file from https://edge.forgecdn.net/files/7611/478/EnderChest.jar"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.6629235+01:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "Downloading: https://edge.forgecdn.net/files/7599/262/vein-mining-2.0.1.jar to /tmp/CF_Q9qT7uMJ02F21kfsFahvg/C3OrB8LS7kOqHS5Pgj3dGA/2.zip"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.6629235+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Downloading: https://edge.forgecdn.net/files/7611/478/EnderChest.jar to /tmp/CF_Q9qT7uMJ02F21kfsFahvg/H6eJPB9GMkac1ozqFKdCiQ/1.zip"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.6629264+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Downloading: https://edge.forgecdn.net/files/7590/54/LuckyMining-1.0.4.jar to /tmp/CF_Q9qT7uMJ02F21kfsFahvg/8AJSXEGiZUqOEI7Tqmv6sQ/3.zip"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.8684578+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.8684869+01:00",
+  "level": "Warn",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "/home/alex/Documents/curseforge/minecraft/Install/minecraft-launcher not found."
+},
+{
+  "timestamp": "2026-02-12T13:35:16.8787261+01:00",
+  "level": "Info",
+  "thread": 16,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.8787579+01:00",
+  "level": "Warn",
+  "thread": 16,
+  "memory": 0.0,
+  "message": "/home/alex/Documents/curseforge/minecraft/Install/minecraft-launcher not found."
+},
+{
+  "timestamp": "2026-02-12T13:35:16.9634147+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Downloaded file for project Lucky Mining - (1405422) in 327ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.9833713+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "Delete previous mod file '/home/alex/.var/app/com.hypixel.HytaleLauncher/data/Hytale/UserData/Mods/LuckyMining-1.0.3.jar'"
+},
+{
+  "timestamp": "2026-02-12T13:35:16.9902859+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saving AddonGameInstance DB with 2 items"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.130812+01:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "Downloaded file for project Vein Mining - (1428922) in 495ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.1325975+01:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "Delete previous mod file '/home/alex/.var/app/com.hypixel.HytaleLauncher/data/Hytale/UserData/Mods/vein-mining-1.3.7.jar'"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.1658671+01:00",
+  "level": "Info",
+  "thread": 10,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saved AddonGameInstance DB, which took 175ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.1661276+01:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saving AddonGameInstance DB with 2 items"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.2185154+01:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saved AddonGameInstance DB, which took 52ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.3113367+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Downloading project file from https://edge.forgecdn.net/files/7601/126/Multitools-1.2.4.jar"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.3123513+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Downloading: https://edge.forgecdn.net/files/7601/126/Multitools-1.2.4.jar to /tmp/CF_Q9qT7uMJ02F21kfsFahvg/8AJSXEGiZUqOEI7Tqmv6sQ/4.zip"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.3831875+01:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "Downloading project file from https://edge.forgecdn.net/files/7605/335/BuilderWand-1.1.0.jar"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.3832968+01:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "Downloading: https://edge.forgecdn.net/files/7605/335/BuilderWand-1.1.0.jar to /tmp/CF_Q9qT7uMJ02F21kfsFahvg/8AJSXEGiZUqOEI7Tqmv6sQ/5.zip"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.3899629+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Validating Minecraft installation"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.3899934+01:00",
+  "level": "Warn",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "/home/alex/Documents/curseforge/minecraft/Install/minecraft-launcher not found."
+},
+{
+  "timestamp": "2026-02-12T13:35:17.3939368+01:00",
+  "level": "Info",
+  "thread": 8,
+  "memory": 0.0,
+  "message": "Getting modpacks for game 70216"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.5112123+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Downloaded file for project Multitools - (1429210) in 199ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.5130487+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "Delete previous mod file '/home/alex/.var/app/com.hypixel.HytaleLauncher/data/Hytale/UserData/Mods/Multitools-1.2.3.jar'"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.5133578+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saving AddonGameInstance DB with 2 items"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.5606125+01:00",
+  "level": "Info",
+  "thread": 13,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saved AddonGameInstance DB, which took 47ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.662936+01:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "Downloaded file for project Builder Wands - (1451742) in 279ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.6648199+01:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "Delete previous mod file '/home/alex/.var/app/com.hypixel.HytaleLauncher/data/Hytale/UserData/Mods/BuilderWand-1.0.7.jar'"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.6650698+01:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saving AddonGameInstance DB with 2 items"
+},
+{
+  "timestamp": "2026-02-12T13:35:17.7201547+01:00",
+  "level": "Info",
+  "thread": 19,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saved AddonGameInstance DB, which took 55ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:18.3493307+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "Downloaded file for project Ender Chests - (1432990) in 1713ms"
+},
+{
+  "timestamp": "2026-02-12T13:35:18.3717468+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saving AddonGameInstance DB with 2 items"
+},
+{
+  "timestamp": "2026-02-12T13:35:18.4168606+01:00",
+  "level": "Info",
+  "thread": 6,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saved AddonGameInstance DB, which took 45ms"
+},
+{
+  "timestamp": "2026-02-12T13:55:36.2690119+01:00",
+  "level": "Info",
+  "thread": 11,
+  "memory": 0.0,
+  "message": "Curse Mods Agent is shutting down"
+},
+{
+  "timestamp": "2026-02-12T13:55:36.2691595+01:00",
+  "level": "Info",
+  "thread": 11,
+  "memory": 0.0,
+  "message": "Shutting down periodic tasks"
+},
+{
+  "timestamp": "2026-02-12T13:55:36.2693356+01:00",
+  "level": "Info",
+  "thread": 11,
+  "memory": 0.0,
+  "message": "Disabling periodic timers"
+},
+{
+  "timestamp": "2026-02-12T13:55:36.2709023+01:00",
+  "level": "Info",
+  "thread": 11,
+  "memory": 0.0,
+  "message": "[InstallTaskManager] Install Manager Shutting Down"
+},
+{
+  "timestamp": "2026-02-12T13:55:36.2709213+01:00",
+  "level": "Info",
+  "thread": 11,
+  "memory": 0.0,
+  "message": "[InstallTaskManager] Install Manager Shutting Down"
+},
+{
+  "timestamp": "2026-02-12T13:55:36.2709251+01:00",
+  "level": "Info",
+  "thread": 11,
+  "memory": 0.0,
+  "message": "[InstallTaskManager] Install Manager Shutting Down"
+},
+{
+  "timestamp": "2026-02-12T13:55:36.2710734+01:00",
+  "level": "Info",
+  "thread": 11,
+  "memory": 0.0,
+  "message": "Shutdown game instances."
+},
+{
+  "timestamp": "2026-02-12T13:55:36.2720169+01:00",
+  "level": "Info",
+  "thread": 11,
+  "memory": 0.0,
+  "message": "[MinecraftGameInstance] GameInstance.SaveInstancesToDisk: Saving GameInstance DB with 0 items"
+},
+{
+  "timestamp": "2026-02-12T13:55:36.3706834+01:00",
+  "level": "Info",
+  "thread": 11,
+  "memory": 0.0,
+  "message": "[MinecraftGameInstance] GameInstance.SaveInstancesToDisk: Saved GameInstance DB, which took 98ms"
+},
+{
+  "timestamp": "2026-02-12T13:55:36.3709021+01:00",
+  "level": "Info",
+  "thread": 11,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saving AddonGameInstance DB with 2 items"
+},
+{
+  "timestamp": "2026-02-12T13:55:36.4116371+01:00",
+  "level": "Info",
+  "thread": 11,
+  "memory": 0.0,
+  "message": "[AddonGameInstance] GameInstance.SaveInstancesToDisk: Saved AddonGameInstance DB, which took 40ms"
+},
+{
+  "timestamp": "2026-02-12T13:55:36.4157741+01:00",
+  "level": "Info",
+  "thread": 11,
+  "memory": 0.0,
+  "message": "Clearing Discord presence."
+},
+{
+  "timestamp": "2026-02-12T13:55:36.416538+01:00",
+  "level": "Info",
+  "thread": 11,
+  "memory": 0.0,
+  "message": "Discord RPC client disposed successfully."
+},
+{
+  "timestamp": "2026-02-12T13:55:36.4166694+01:00",
+  "level": "Info",
+  "thread": 11,
+  "memory": 0.0,
+  "message": "SQLite service disposed."
+},
+{
+  "timestamp": "2026-02-12T13:55:36.4304271+01:00",
+  "level": "Info",
+  "thread": 22,
+  "memory": 0.0,
+  "message": "Web Socket session disconnected"
+},
+{
+  "timestamp": "2026-02-12T13:55:36.4307323+01:00",
+  "level": "Warn",
+  "thread": 22,
+  "memory": 0.0,
+  "message": "Client disconnected from server"
+},
+{
+  "timestamp": "2026-02-12T13:55:36.5906974+01:00",
+  "level": "Warn",
+  "thread": 5,
+  "memory": 0.0,
+  "message": "Parent process is no longer active. Mods Agent will shutdown."
+},
+{
+  "timestamp": "2026-02-12T13:55:36.5908642+01:00",
+  "level": "Warn",
+  "thread": 1,
+  "memory": 0.0,
+  "message": "Parent process exit. Shutting down..."
+},
+{
+  "timestamp": "2026-02-12T13:55:36.5956207+01:00",
+  "level": "Info",
+  "thread": 2,
+  "memory": 0.0,
+  "message": "Shutting down the logger"
+},
+{
+  "timestamp": "2026-02-12T13:55:36.6508825+01:00",
+  "level": "Info",
+  "thread": 2,
+  "memory": 0.0,
+  "message": "Logging worker finished"
+}
+]}

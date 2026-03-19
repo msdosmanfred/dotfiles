@@ -1,0 +1,6 @@
+2026/02/24-22:04:36.419 12209 Reusing MANIFEST /home/alex/.config/heroic/Local Storage/leveldb/MANIFEST-000001
+2026/02/24-22:04:36.424 12209 Recovering log #3
+2026/02/24-22:04:36.424 12209 Reusing old log /home/alex/.config/heroic/Local Storage/leveldb/000003.log 
+2026/02/24-22:05:36.426 12227 Level-0 table #5: started
+2026/02/24-22:05:36.431 12227 Level-0 table #5: 42484 bytes OK
+2026/02/24-22:05:36.435 12227 Delete type=0 #3

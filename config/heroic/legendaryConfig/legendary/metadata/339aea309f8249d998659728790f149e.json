@@ -1,0 +1,84 @@
+{
+  "app_name": "339aea309f8249d998659728790f149e",
+  "app_title": "Morbid: The Seven Acolytes",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "339aea309f8249d998659728790f149e",
+      "asset_id": "339aea309f8249d998659728790f149e",
+      "build_version": "1.3",
+      "catalog_item_id": "04e59ade6c724476887219291da6d3d7",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "fab8678747b4419fa1eed517981d4c47"
+      },
+      "namespace": "debff0fcd55f4649ae5014f0ca6f9e8c",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-04-05T10:30:11.105Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "MorbidTheSevenAcolytyVMBa"
+      }
+    },
+    "description": "Morbid: The Seven Acolytes",
+    "developer": "Silver Lining Interactive",
+    "developerId": "o-d9dh23jb6uamngl64hw8lnejdz6334",
+    "endOfSupport": false,
+    "entitlementName": "04e59ade6c724476887219291da6d3d7",
+    "entitlementType": "EXECUTABLE",
+    "id": "04e59ade6c724476887219291da6d3d7",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Morbid: The Seven Acolytes Offer",
+        "height": 1440,
+        "md5": "20ac0b2d4eeeee4b180952b86bbc2332",
+        "size": 1528575,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-04-30T11:31:52.506Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/5d70b1d5a9204dd183d881bce4f2fa20/morbid-the-seven-acolytes-fak69.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Morbid: The Seven Acolytes Offer",
+        "height": 1600,
+        "md5": "c2b358ffd983221e17b0b985785cd3a3",
+        "size": 857339,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-04-30T11:31:52.372Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/5d70b1d5a9204dd183d881bce4f2fa20/morbid-the-seven-acolytes-11l8p.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-18T01:07:19.387Z",
+    "mainGameItemList": [],
+    "namespace": "debff0fcd55f4649ae5014f0ca6f9e8c",
+    "releaseInfo": [
+      {
+        "appId": "339aea309f8249d998659728790f149e",
+        "id": "9b15fbc33aba4698b4a89af83e7cd373",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Morbid: The Seven Acolytes",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

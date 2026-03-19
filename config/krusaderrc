@@ -1,0 +1,155 @@
+Config Version=1
+First Time=false
+Version=2.9.0
+
+[Archives]
+Supported Packers=tar,gzip,bzip2,lzma,xz,unzip,zip,cbz,lha,cpio,unrar,rar,cbr,arj,unarj,unace,7z,rpm
+
+[Dependencies]
+7z=/usr/bin/7z
+arj=/usr/bin/arj
+bzip2=/usr/bin/bzip2
+checksum utility=/usr/bin/md5sum
+cpio=/usr/bin/cpio
+diff utility=/usr/bin/kdiff3
+gzip=/usr/bin/gzip
+kdiff3=/usr/bin/kdiff3
+kget=/usr/bin/kget
+kmail=/usr/bin/kmail
+kompare=/usr/bin/kompare
+krename=/usr/bin/krename
+lha=/usr/bin/lha
+locate=/usr/bin/locate
+lzma=/usr/bin/lzma
+mailer=/usr/bin/thunderbird
+md5sum=/usr/bin/md5sum
+mount=/usr/bin/mount
+rar=/usr/bin/rar
+rm=/usr/bin/rm
+rpm=/usr/bin/rpm
+rpm2cpio=/usr/bin/rpm2cpio
+sha1sum=/usr/bin/sha1sum
+sha224sum=/usr/bin/sha224sum
+sha256sum=/usr/bin/sha256sum
+sha384sum=/usr/bin/sha384sum
+sha512sum=/usr/bin/sha512sum
+tar=/usr/bin/tar
+thunderbird=/usr/bin/thunderbird
+umount=/usr/bin/umount
+unace=/usr/bin/unace
+unarj=/usr/bin/unarj
+unrar=/usr/bin/unrar
+unzip=/usr/bin/unzip
+updatedb=/usr/bin/updatedb
+xz=/usr/bin/xz
+zip=/usr/bin/zip
+
+[General]
+Move To Trash=false
+
+[Konfigurator]
+Window Height=680
+Window Maximized=false
+Window Width=900
+
+[ListPanelButtons]
+Icons=true
+
+[Locate]
+Search For=
+
+[Look&Feel]
+Back Button Visible=true
+Equal Button Visible=true
+Forward Button Visible=true
+Home Button Visible=true
+SyncBrowse Button Visible=true
+
+[MountMan]
+Last State=\x00\x00\x00\xff\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02+\x00\x00\x00\x06\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00^\xff\xff\xff\xff\x00\x00\x00\x81\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00x\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00<\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00x\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00Z\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00Z\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00K\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x03\xe8\x00\x00\x00\x00K\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01
+ShowOnlyRemovable=false
+Window Height=334
+Window Maximized=false
+Window Width=600
+
+[Notification Messages]
+Confirm Root Mode=false
+
+[Private]
+NewFolder Completion list=Watch_Dogs:1,Spiele:1,Cultures:1,Cultures 2:1
+NewFolder History list=Cultures 2,Cultures,Spiele,Watch_Dogs
+PopularUrls=krarc:///home/alex/Downloads/Adaptec EZ-SCSI Deluxe Edition v5.0 for Windows (3-5-1998) (ISO).7z/,krarc:///home/alex/Downloads/Windows98QuickInstall_20260309_2205.zip/,file:///home/alex/win98-quickinstall/_DRIVER_/,file:///home/alex/win98-quickinstall/_EXTRA_DRIVER_/,krarc:///home/alex/Downloads/promodz_ets2/promods-cap-v158.7z/,file:///home/alex/.local/share/Steam/steamapps/compatdata/270880/pfx/drive_c/users/steamuser/Documents/American Truck Simulator/mod/,file:///home/alex/Downloads/,krarc:///home/alex/Downloads/promodz_ets2/promods-ats-v161.7z/,file:///data/zeugs/,file:///home/alex/.local/share/Steam/steamapps/compatdata/270880/pfx/drive_c/users/steamuser/Documents/American Truck Simulator/,file:///home/alex/win98-quickinstall/,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod/RusMap_v.2.58.7z/,file:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod/,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod/promods-eu-dlcsupport-v281.zip/,file:///home/alex/,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod/promods-v281.7z/,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod/promods-tgs-v160.7z/,file:///home/alex/Downloads/promodz_ets2/,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod/promods-tcp-v158.7z/,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod/promods-me-v281.7z/,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod/promods-ma-v101.7z/,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod/promods-cap-v158.7z/,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod/European Grand Utopia v1.8 UNZIP by Adyox.rar/,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod/BartolandPrem-1.5x.zip/,file:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/,file:///data/,krarc:///home/alex/Downloads/MOTOTRAC.ZIP/,krarc:///home/alex/Downloads/MOTOTRAC.ZIP/DISKDD/,file:///mnt/Spiele/Moto Racer/,krarc:///home/alex/Downloads/mr322.zip/
+PopularUrlsRank=18,16,12,10,3,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Start Position=1920,0
+Start Size=1920,1012
+cmdline history=
+newFTP Completion list=192.168.0.12:1
+newFTP History list=192.168.0.12
+newFTP Protocol=ftp://
+
+[Search]
+ContainsText Completion=
+ContainsText History=
+SearchFor Completion=*
+SearchFor History=*
+
+[Startup]
+Left Side Is Active=true
+Show Cmd Line=false
+Show FN Keys=true
+Show Terminal Emulator=false
+Splitter Sizes=960,959
+State=\x00\x00\x00\xff\x00\x00\x00\x00\xfd\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x03\x92\x00\x00\x00\x04\x00\x00\x00\x04\x00\x00\x00\x08\x00\x00\x00\x08\xfc\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00\x16\x00m\x00a\x00i\x00n\x00T\x00o\x00o\x00l\x00B\x00a\x00r\x01\x00\x00\x00\x00\xff\xff\xff\xff\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x1c\x00a\x00c\x00t\x00i\x00o\x00n\x00s\x00T\x00o\x00o\x00l\x00B\x00a\x00r\x01\x00\x00\x02\xc6\xff\xff\xff\xff\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00j\x00o\x00b\x00T\x00o\x00o\x00l\x00B\x00a\x00r\x01\x00\x00\x02\xd2\xff\xff\xff\xff\x00\x00\x00\x00\x00\x00\x00\x00
+Terminal Emulator Splitter Sizes=100,100
+Vertical Mode=false
+
+[Startup][Left Tab Bar]
+ActiveTab=0
+
+[Startup][Left Tab Bar][Tabs][Tab0]
+PinnedUrl=
+Properties=0
+Type=0
+Url=file:///home/alex/Downloads
+
+[Startup][Left Tab Bar][Tabs][Tab0][History]
+CurrentIndex=0
+CurrentItems=bypass_paywalls_clean-latest.xpi,Adaptec EZ-SCSI Deluxe Edition v5.0 for Windows (3-5-1998) (ISO).7z,..,Adaptec EZ-SCSI Deluxe Edition v5.0 for Windows (3-5-1998) (ISO).7z,Windows98QuickInstall_20260309_2205.zip,..,Windows98QuickInstall_20260309_2205.zip,otgr_assets.scs,BartolandPrem-1.5x.zip,..,BartolandPrem-1.5x.zip,mod,..
+Entrys=file:///home/alex/Downloads,krarc:///home/alex/Downloads,krarc:///home/alex/Downloads/Adaptec EZ-SCSI Deluxe Edition v5.0 for Windows (3-5-1998) (ISO).7z,file:///home/alex/Downloads,krarc:///home/alex/Downloads,krarc:///home/alex/Downloads/Windows98QuickInstall_20260309_2205.zip,file:///home/alex/Downloads,file:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod/BartolandPrem-1.5x.zip,file:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod,file:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2,file:///home/alex
+
+[Startup][Left Tab Bar][Tabs][Tab0][View]
+AutoResizeColumns=true
+Descending Sort Order=0
+Filter=3
+FilterApplysToDirs=false
+IconSize=22
+Saved State=\x00\x00\x00\xff\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\xa8\x07\x00\x00\x00\x06\x00\x00\x00\x03\x00\x00\x00^\x00\x00\x00\n\x00\x00\x00^\x00\x00\x00\x05\x00\x00\x00^\x00\x00\x00\x08\x00\x00\x00^\x00\x00\x00\x07\x00\x00\x00^\x00\x00\x00\t\x00\x00\x00^\x00\x00\x03\xc0\x00\x00\x00\x0b\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00d\xff\xff\xff\xff\x00\x00\x00\x81\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x02\xa3\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x006\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00Z\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00k\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00"\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x03\xe8\x00\x00\x00\x00^\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01
+ShowPreviews=false
+Sort Column=0
+
+[Startup][Right Tab Bar]
+ActiveTab=0
+
+[Startup][Right Tab Bar][Tabs][Tab0]
+PinnedUrl=
+Properties=0
+Type=0
+Url=file:///data/zeugs
+
+[Startup][Right Tab Bar][Tabs][Tab0][History]
+CurrentIndex=0
+CurrentItems=..,_DRIVER_,win98-quickinstall,..,mod,Sibir Map - Northern Open Spaces RC.scs,BartolandPrem-1.5x.zip,..,BartolandPrem-1.5x.zip,promods-eu-dlcsupport-v281.zip,..,promods-eu-dlcsupport-v281.zip,promods-v281.7z
+Entrys=file:///data/zeugs,file:///home/alex/win98-quickinstall,file:///home/alex,file:///home/alex/.local/share/Steam/steamapps/compatdata/270880/pfx/drive_c/users/steamuser/Documents/American Truck Simulator/mod,file:///home/alex/.local/share/Steam/steamapps/compatdata/270880/pfx/drive_c/users/steamuser/Documents/American Truck Simulator,file:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod/BartolandPrem-1.5x.zip,file:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod/promods-eu-dlcsupport-v281.zip,file:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod,krarc:///home/alex/.local/share/Steam/steamapps/compatdata/227300/pfx/drive_c/users/steamuser/Documents/Euro Truck Simulator 2/mod
+
+[Startup][Right Tab Bar][Tabs][Tab0][View]
+AutoResizeColumns=true
+Descending Sort Order=0
+Filter=3
+FilterApplysToDirs=false
+IconSize=22
+Saved State=\x00\x00\x00\xff\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\xa8\x07\x00\x00\x00\x06\x00\x00\x00\x03\x00\x00\x00^\x00\x00\x00\n\x00\x00\x00^\x00\x00\x00\x05\x00\x00\x00^\x00\x00\x00\x08\x00\x00\x00^\x00\x00\x00\x07\x00\x00\x00^\x00\x00\x00\t\x00\x00\x00^\x00\x00\x03\xaa\x00\x00\x00\x0b\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00d\xff\xff\xff\xff\x00\x00\x00\x81\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x02\x8d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x006\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00Z\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00k\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00"\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x03\xe8\x00\x00\x00\x00^\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01
+ShowPreviews=false
+Sort Column=0
+
+[ViewerModule]
+FirstRun=false

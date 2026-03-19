@@ -1,0 +1,88 @@
+{
+  "app_name": "56348ac4c88f4d6aa8881b1da06e1f49",
+  "app_title": "Scarf",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "56348ac4c88f4d6aa8881b1da06e1f49",
+      "asset_id": "56348ac4c88f4d6aa8881b1da06e1f49",
+      "build_version": "1.2",
+      "catalog_item_id": "1622df18f21f4465b1ce1efaaef88880",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f7de556f73674a33be672c590b3d3a1e"
+      },
+      "namespace": "1c13238391244f828eb1441f1e110eb0",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-10-26T13:47:36.256Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/Scarf/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Scarf40IDx"
+      }
+    },
+    "description": "Scarf",
+    "developer": "Handy Games",
+    "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+    "endOfSupport": false,
+    "entitlementName": "1622df18f21f4465b1ce1efaaef88880",
+    "entitlementType": "EXECUTABLE",
+    "id": "1622df18f21f4465b1ce1efaaef88880",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Scarf Offer",
+        "height": 1440,
+        "md5": "61a9fc1556ec407b563e655e24ce7d8f",
+        "size": 484692,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-11-24T10:02:37.646Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c33a42729a684055919243f22c5cbe7d/scarf-offer-1ecve.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Scarf Offer",
+        "height": 1600,
+        "md5": "3b88ffcc404175c22137da50d6f6d139",
+        "size": 284132,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-11-24T10:07:41.689Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c33a42729a684055919243f22c5cbe7d/download-scarf-offer-14ema.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-06-27T07:41:47.872Z",
+    "mainGameItemList": [],
+    "namespace": "1c13238391244f828eb1441f1e110eb0",
+    "releaseInfo": [
+      {
+        "appId": "56348ac4c88f4d6aa8881b1da06e1f49",
+        "id": "ea42f628019b42d1abb5679f77ac2a82",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Scarf",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

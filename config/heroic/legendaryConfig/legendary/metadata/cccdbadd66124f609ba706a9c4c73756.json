@@ -1,0 +1,584 @@
+{
+  "app_name": "cccdbadd66124f609ba706a9c4c73756",
+  "app_title": "Deceive Inc",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "cccdbadd66124f609ba706a9c4c73756",
+      "asset_id": "cccdbadd66124f609ba706a9c4c73756",
+      "build_version": "Production.1.11.03.72133",
+      "catalog_item_id": "9ee12f049a214208afb3236018bcc168",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "eca9a86adffa4605b8250d383fc01098",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567tGWjhkhbP95m0ffrb2SbDeSB",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-07-15T20:38:15.631Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DeceiveInc"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "eca9a86adffa4605b8250d383fc01098"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Deceive Inc",
+    "developer": "Tripwire Interactive",
+    "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-10-04T16:40:18.842Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Tiny Currency Pack audience",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "1b31ecb33487491a900415448ab4735c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1b31ecb33487491a900415448ab4735c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-01-31T14:02:26.419Z",
+        "mainGameItem": {
+          "id": "9ee12f049a214208afb3236018bcc168",
+          "namespace": "eca9a86adffa4605b8250d383fc01098",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9ee12f049a214208afb3236018bcc168",
+            "namespace": "eca9a86adffa4605b8250d383fc01098",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eca9a86adffa4605b8250d383fc01098",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tiny Currency Pack audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-01-13T19:12:45.530Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Pre-purchase Bonus",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "f1a76862bbdc4804958644fff340a673",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f1a76862bbdc4804958644fff340a673",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "3a1e885fd642564a44875bf005d8ffb3",
+            "size": 940739,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-05T15:37:48.531Z",
+            "url": "https://cdn1.epicgames.com/item/eca9a86adffa4605b8250d383fc01098/Wide_2560x1440-3a1e885fd642564a44875bf005d8ffb3",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "7b92243bc46b5d69987132bd4b3e8309",
+            "size": 678954,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-05T15:37:52.080Z",
+            "url": "https://cdn1.epicgames.com/item/eca9a86adffa4605b8250d383fc01098/Tall_1200x1600-7b92243bc46b5d69987132bd4b3e8309",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-05T15:37:56.204Z",
+        "mainGameItem": {
+          "id": "9ee12f049a214208afb3236018bcc168",
+          "namespace": "eca9a86adffa4605b8250d383fc01098",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9ee12f049a214208afb3236018bcc168",
+            "namespace": "eca9a86adffa4605b8250d383fc01098",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eca9a86adffa4605b8250d383fc01098",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Pre-purchase Bonus",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-20T23:56:58.349Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "cafenoir - Black Tie Content",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "e3481dd94a2a4a65b131f679c7ee465a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e3481dd94a2a4a65b131f679c7ee465a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "3a1e885fd642564a44875bf005d8ffb3",
+            "size": 940739,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-05T15:35:46.860Z",
+            "url": "https://cdn1.epicgames.com/item/eca9a86adffa4605b8250d383fc01098/Wide_2560x1440-3a1e885fd642564a44875bf005d8ffb3",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "7b92243bc46b5d69987132bd4b3e8309",
+            "size": 678954,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-05T15:35:57.580Z",
+            "url": "https://cdn1.epicgames.com/item/eca9a86adffa4605b8250d383fc01098/Tall_1200x1600-7b92243bc46b5d69987132bd4b3e8309",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-05T15:36:01.960Z",
+        "mainGameItem": {
+          "id": "9ee12f049a214208afb3236018bcc168",
+          "namespace": "eca9a86adffa4605b8250d383fc01098",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9ee12f049a214208afb3236018bcc168",
+            "namespace": "eca9a86adffa4605b8250d383fc01098",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eca9a86adffa4605b8250d383fc01098",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "cafenoir - Black Tie Content",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-20T23:56:58.281Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "cafenoir - Black Tie Content audience",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "d0b53e386f5041489112f6c4ebbde2a5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d0b53e386f5041489112f6c4ebbde2a5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-20T17:07:30.872Z",
+        "mainGameItem": {
+          "id": "9ee12f049a214208afb3236018bcc168",
+          "namespace": "eca9a86adffa4605b8250d383fc01098",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9ee12f049a214208afb3236018bcc168",
+            "namespace": "eca9a86adffa4605b8250d383fc01098",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eca9a86adffa4605b8250d383fc01098",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "cafenoir - Black Tie Content audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-11-14T20:42:45.934Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "cafenoir 1100 Bonds audience",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "efa67aeb2d1b4521a404215a81555527",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "efa67aeb2d1b4521a404215a81555527",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-07-31T10:07:59.912Z",
+        "mainGameItem": {
+          "id": "9ee12f049a214208afb3236018bcc168",
+          "namespace": "eca9a86adffa4605b8250d383fc01098",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9ee12f049a214208afb3236018bcc168",
+            "namespace": "eca9a86adffa4605b8250d383fc01098",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eca9a86adffa4605b8250d383fc01098",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "cafenoir 1100 Bonds audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-11-14T20:42:17.580Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "cafenoir 500 Bonds audience",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "d9e8ffd90f2a4ef6840af9acb2eef0be",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d9e8ffd90f2a4ef6840af9acb2eef0be",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-07-31T10:08:10.140Z",
+        "mainGameItem": {
+          "id": "9ee12f049a214208afb3236018bcc168",
+          "namespace": "eca9a86adffa4605b8250d383fc01098",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9ee12f049a214208afb3236018bcc168",
+            "namespace": "eca9a86adffa4605b8250d383fc01098",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eca9a86adffa4605b8250d383fc01098",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "cafenoir 500 Bonds audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-11-14T20:43:12.012Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "cafenoir 2400 Bonds audience",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "b7d9153eed0446c0a17a3fa2c2ff3dcb",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b7d9153eed0446c0a17a3fa2c2ff3dcb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-07-31T10:08:16.195Z",
+        "mainGameItem": {
+          "id": "9ee12f049a214208afb3236018bcc168",
+          "namespace": "eca9a86adffa4605b8250d383fc01098",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9ee12f049a214208afb3236018bcc168",
+            "namespace": "eca9a86adffa4605b8250d383fc01098",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eca9a86adffa4605b8250d383fc01098",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "cafenoir 2400 Bonds audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-11-14T20:44:04.194Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "cafenoir 5600 Bonds audience",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "870495d67c374dd494c26a5dff26b843",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "870495d67c374dd494c26a5dff26b843",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-07-31T10:08:22.850Z",
+        "mainGameItem": {
+          "id": "9ee12f049a214208afb3236018bcc168",
+          "namespace": "eca9a86adffa4605b8250d383fc01098",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9ee12f049a214208afb3236018bcc168",
+            "namespace": "eca9a86adffa4605b8250d383fc01098",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eca9a86adffa4605b8250d383fc01098",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "cafenoir 5600 Bonds audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-11-14T20:41:42.526Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "cafenoir 200 Bonds audience",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "988c4d69286d42b183eefea342ba9bae",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "988c4d69286d42b183eefea342ba9bae",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-07-31T10:08:28.840Z",
+        "mainGameItem": {
+          "id": "9ee12f049a214208afb3236018bcc168",
+          "namespace": "eca9a86adffa4605b8250d383fc01098",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9ee12f049a214208afb3236018bcc168",
+            "namespace": "eca9a86adffa4605b8250d383fc01098",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eca9a86adffa4605b8250d383fc01098",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "cafenoir 200 Bonds audience",
+        "unsearchable": true,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "9ee12f049a214208afb3236018bcc168",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "9ee12f049a214208afb3236018bcc168",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3a1e885fd642564a44875bf005d8ffb3",
+        "size": 940739,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-03-05T09:04:06.047Z",
+        "url": "https://cdn1.epicgames.com/item/eca9a86adffa4605b8250d383fc01098/EGS_DeceiveInc_SweetBanditsStudios_S1_2560x1440-3a1e885fd642564a44875bf005d8ffb3",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "7b92243bc46b5d69987132bd4b3e8309",
+        "size": 678954,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-03-05T09:04:09.170Z",
+        "url": "https://cdn1.epicgames.com/item/eca9a86adffa4605b8250d383fc01098/EGS_DeceiveInc_SweetBanditsStudios_S2_1200x1600-7b92243bc46b5d69987132bd4b3e8309",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-03-05T09:04:11.193Z",
+    "mainGameItemList": [],
+    "namespace": "eca9a86adffa4605b8250d383fc01098",
+    "releaseInfo": [
+      {
+        "appId": "cccdbadd66124f609ba706a9c4c73756",
+        "id": "7197be9e062d4ab9b12e234f881559ab",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Deceive Inc",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

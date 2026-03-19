@@ -1,5 +1,5 @@
 [ExtractDialog]
-DirHistory[$e]=/data/zeugs/
+DirHistory[$e]=$HOME/Downloads/,/data/zeugs/
 
 [Extraction]
 extractToSubfolder=false

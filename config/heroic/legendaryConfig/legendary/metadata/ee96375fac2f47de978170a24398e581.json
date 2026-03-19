@@ -1,0 +1,108 @@
+{
+  "app_name": "ee96375fac2f47de978170a24398e581",
+  "app_title": "DARQ",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ee96375fac2f47de978170a24398e581",
+      "asset_id": "ee96375fac2f47de978170a24398e581",
+      "build_version": "1.3.2d",
+      "catalog_item_id": "015cbe4368dc449b961988c7434d9195",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "3819de76dedf4cd2aebbcf9279e23e43",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-04-20T18:53:07.706Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DARQ"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "3819de76dedf4cd2aebbcf9279e23e43"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "DARQ",
+    "developer": "Unfold Games, LLC",
+    "developerId": "o-k56szhnces4k2s8asp2kvue9xt65fh",
+    "endOfSupport": false,
+    "entitlementName": "015cbe4368dc449b961988c7434d9195",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && darq)"
+    ],
+    "id": "015cbe4368dc449b961988c7434d9195",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "15e5dda133bae02a6b9cdf6086ec03f3",
+        "size": 978096,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-10-21T06:28:05.166Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DARQCompleteEdition_UnfoldGames_S1_2560x1440_2560x1440-15e5dda133bae02a6b9cdf6086ec03f3",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d53e44ba5b0dc0e019ee698f02b6d300",
+        "size": 884646,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-10-21T06:28:08.952Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DARQCompleteEdition_UnfoldGames_S2_1200x1600_1200x1600-d53e44ba5b0dc0e019ee698f02b6d300",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:41:30.644Z",
+    "mainGameItemList": [],
+    "namespace": "3819de76dedf4cd2aebbcf9279e23e43",
+    "releaseInfo": [
+      {
+        "appId": "ee96375fac2f47de978170a24398e581",
+        "id": "bc8484e3388b4e4fa304b6c4d2e74d1e",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "DARQ",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,325 @@
+{
+  "app_name": "SeasonPass2Test",
+  "app_title": "Anno 1800 Season 2 Pass",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "hidden"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-03-03T19:44:11.445Z",
+    "customAttributes": {
+      "parentPartnerLinkId": {
+        "type": "STRING",
+        "value": "1ff283ce9e054747abe9ac66074c7ebc"
+      },
+      "partnerLinkId": {
+        "type": "STRING",
+        "value": "64324cec620843d39317be753a5eb279"
+      },
+      "partnerLinkType": {
+        "type": "STRING",
+        "value": "ubisoft"
+      }
+    },
+    "description": "Anno 1800 Season 2 Pass",
+    "developer": "Ubisoft Entertainment",
+    "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "endOfSupport": false,
+    "entitlementName": "e943b6b07f2042ad9acf0a1f35a4de45",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "e943b6b07f2042ad9acf0a1f35a4de45",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2020-05-27T21:47:43.337Z",
+    "mainGameItem": {
+      "ageGatings": {},
+      "applicationId": "",
+      "categories": [
+        {
+          "path": "games"
+        },
+        {
+          "path": "applications"
+        }
+      ],
+      "creationDate": "2019-03-29T14:46:24.783Z",
+      "customAttributes": {
+        "CanRunOffline": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "CanSkipKoreanIdVerification": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "FolderName": {
+          "type": "STRING",
+          "value": "ANNO1800"
+        },
+        "GameID": {
+          "type": "STRING",
+          "value": "4553"
+        },
+        "MainWindowProcessName": {
+          "type": "STRING",
+          "value": "Anno1800.exe"
+        },
+        "MonitorPresence": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "NeverUpdate": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "PresenceId": {
+          "type": "STRING",
+          "value": "oregano"
+        },
+        "ProcessNames": {
+          "type": "STRING",
+          "value": "Anno1800.exe,UbisoftGameLauncher.exe"
+        },
+        "RegistryKey": {
+          "type": "STRING",
+          "value": "InstallDir"
+        },
+        "RegistryPath": {
+          "type": "STRING",
+          "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\4553"
+        },
+        "RequirementsJson": {
+          "type": "STRING",
+          "value": "[]"
+        },
+        "ThirdPartyManagedProvider": {
+          "type": "STRING",
+          "value": "UbisoftConnect"
+        },
+        "isPrepurchase": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "partnerLinkId": {
+          "type": "STRING",
+          "value": "1ff283ce9e054747abe9ac66074c7ebc"
+        },
+        "partnerLinkType": {
+          "type": "STRING",
+          "value": "ubisoft"
+        }
+      },
+      "description": "Anno 1800",
+      "developer": "Ubisoft Entertainment",
+      "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+      "endOfSupport": false,
+      "entitlementName": "0d23689ab18b477c878f4bed8f9bc2de",
+      "entitlementType": "EXECUTABLE",
+      "eulaIds": [
+        "egstore"
+      ],
+      "id": "0d23689ab18b477c878f4bed8f9bc2de",
+      "itemType": "DURABLE",
+      "keyImages": [
+        {
+          "height": 1080,
+          "md5": "cea85f12443da424bef2a30a20be060b",
+          "size": 4501409,
+          "type": "DieselGameBox",
+          "uploadedDate": "2021-09-13T17:04:46.108Z",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/ANNO_Store_Landscape_1920x1080_1920x1080-cea85f12443da424bef2a30a20be060b",
+          "width": 1920
+        },
+        {
+          "height": 1600,
+          "md5": "fe7774bb1563f584b97142f0b202d209",
+          "size": 865324,
+          "type": "DieselGameBoxTall",
+          "uploadedDate": "2021-09-13T17:05:45.143Z",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/AN18_Store_Portrait_1200x1600 (1)_1200x1600-fe7774bb1563f584b97142f0b202d209",
+          "width": 1200
+        }
+      ],
+      "lastModifiedDate": "2024-12-05T13:27:14.331Z",
+      "mainGameItemList": [],
+      "namespace": "oregano",
+      "releaseInfo": [
+        {
+          "appId": "Oregano",
+          "compatibleApps": [],
+          "dateAdded": "2019-03-29T00:00:00.000Z",
+          "id": "9575694983e1476495452c3f7d3dec4a",
+          "platform": [
+            "Windows"
+          ],
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "status": "ACTIVE",
+      "title": "Anno 1800",
+      "unsearchable": false
+    },
+    "mainGameItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-03-29T14:46:24.783Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ANNO1800"
+          },
+          "GameID": {
+            "type": "STRING",
+            "value": "4553"
+          },
+          "MainWindowProcessName": {
+            "type": "STRING",
+            "value": "Anno1800.exe"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "oregano"
+          },
+          "ProcessNames": {
+            "type": "STRING",
+            "value": "Anno1800.exe,UbisoftGameLauncher.exe"
+          },
+          "RegistryKey": {
+            "type": "STRING",
+            "value": "InstallDir"
+          },
+          "RegistryPath": {
+            "type": "STRING",
+            "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\4553"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "ThirdPartyManagedProvider": {
+            "type": "STRING",
+            "value": "UbisoftConnect"
+          },
+          "isPrepurchase": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "1ff283ce9e054747abe9ac66074c7ebc"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Anno 1800",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "0d23689ab18b477c878f4bed8f9bc2de",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0d23689ab18b477c878f4bed8f9bc2de",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1080,
+            "md5": "cea85f12443da424bef2a30a20be060b",
+            "size": 4501409,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-09-13T17:04:46.108Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/ANNO_Store_Landscape_1920x1080_1920x1080-cea85f12443da424bef2a30a20be060b",
+            "width": 1920
+          },
+          {
+            "height": 1600,
+            "md5": "fe7774bb1563f584b97142f0b202d209",
+            "size": 865324,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-09-13T17:05:45.143Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/AN18_Store_Portrait_1200x1600 (1)_1200x1600-fe7774bb1563f584b97142f0b202d209",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-12-05T13:27:14.331Z",
+        "mainGameItemList": [],
+        "namespace": "oregano",
+        "releaseInfo": [
+          {
+            "appId": "Oregano",
+            "compatibleApps": [],
+            "dateAdded": "2019-03-29T00:00:00.000Z",
+            "id": "9575694983e1476495452c3f7d3dec4a",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Anno 1800",
+        "unsearchable": false
+      }
+    ],
+    "namespace": "oregano",
+    "releaseInfo": [
+      {
+        "appId": "SeasonPass2Test",
+        "compatibleApps": [],
+        "dateAdded": "2019-04-16T00:00:00.000Z",
+        "id": "bd8e7811eac242b3b1865b474856b27f",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Anno 1800 Season 2 Pass",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

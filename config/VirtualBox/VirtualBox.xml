@@ -10,11 +10,32 @@
 <VirtualBox xmlns="http://www.virtualbox.org/" version="1.12-linux">
   <Global>
     <ExtraData>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="2400,36,1330,1012"/>
+      <ExtraDataItem name="GUI/Details/Elements" value="general,system,preview,display,storage,audio,network,usbClosed,sharedFolders,description"/>
+      <ExtraDataItem name="GUI/HelpBrowserDialogGeomety" value="2400,131,960,786"/>
+      <ExtraDataItem name="GUI/HelpBrowserLastURLList" value="qthelp://org.virtualbox/doc/topics/vboxmanage.html#vboxmanage-list"/>
+      <ExtraDataItem name="GUI/HelpBrowserZoomPercentage" value="100"/>
+      <ExtraDataItem name="GUI/LastItemSelected" value="m=0085c358-f04d-45b4-b003-950356034ce9"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="1920,36,1920,1012,max"/>
+      <ExtraDataItem name="GUI/MediumSelector/DialogGeometry" value="2017,36,960,786"/>
+      <ExtraDataItem name="GUI/RecentFolderCD" value="/home/alex"/>
+      <ExtraDataItem name="GUI/RecentFolderFD" value="/data/zeugs/eComStation 2.1"/>
+      <ExtraDataItem name="GUI/RecentFolderHD" value="/home/alex/VirtualBox VMs/PC017"/>
+      <ExtraDataItem name="GUI/RecentListCD" value="--,/data/zeugs/ZETA/MagnusSoft Zeta 1.2.1.cue,/data/zeugs/ZETA/zeta_v1.21.cue,/data/zeugs/haiku-r1beta5-x86_gcc2h-anyboot.iso,/data/zeugs/ZETA/MagnusSoft Zeta 1.2.1.iso"/>
+      <ExtraDataItem name="GUI/RecentListFD" value="/data/zeugs/eComStation 2.1/ecom_key.img,/data/zeugs/Windows 98 SE Boot Diskette.ima,/data/zeugs/patcher9x-0.9.91-boot.ima,/data/zeugs/patcher9x-0.8.50-boot.ima,/data/zeugs/Windows ME Boot Diskette.ima"/>
+      <ExtraDataItem name="GUI/RecentListHD" value="/home/alex/VirtualBox VMs/PC017/PC017.vdi,/home/alex/VirtualBox VMs/PC015/PC015.vdi,/home/alex/VirtualBox VMs/testrechner/testrechner.vdi,/home/alex/VirtualBox VMs/w98qi/w98qi.vhd,/home/alex/VirtualBox VMs/winme-quickinstall/winme-quickinstall.vhd"/>
       <ExtraDataItem name="GUI/Settings/ExpertMode" value="true"/>
-      <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Home,Details"/>
+      <ExtraDataItem name="GUI/SuppressMessages" value="confirmInputCapture,remindAboutMouseIntegration,confirmResetMachine,remindAboutAutoCapture,BootFailure,confirmGoingFullscreen,showRuntimeError.warning.DvdOrFloppyImageInaccessible,confirmGoingScale"/>
+      <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Media,Details"/>
+      <ExtraDataItem name="GUI/VirtualMediaManager/Details/Expanded" value="true"/>
     </ExtraData>
-    <MachineRegistry/>
+    <MachineRegistry>
+      <MachineEntry uuid="{ac3b5e55-1749-4876-92a0-c3cad245300a}" src="/home/alex/VirtualBox VMs/w98qi/w98qi.vbox"/>
+      <MachineEntry uuid="{2627d9dd-9e3d-44cb-a63a-1f74aae8d7a8}" src="/home/alex/VirtualBox VMs/wmeqi/wmeqi.vbox"/>
+      <MachineEntry uuid="{17447f7a-b59f-4002-a768-7a48c1eee931}" src="/home/alex/VirtualBox VMs/testrechner/testrechner.vbox"/>
+      <MachineEntry uuid="{0d15df8f-aee7-4179-9fae-7bba157af8eb}" src="/home/alex/VirtualBox VMs/PC015/PC015.vbox"/>
+      <MachineEntry uuid="{59fb6abd-901c-4576-abae-191356d76eb9}" src="/home/alex/VirtualBox VMs/PC016/PC016.vbox"/>
+      <MachineEntry uuid="{0085c358-f04d-45b4-b003-950356034ce9}" src="/home/alex/VirtualBox VMs/PC017/PC017.vbox"/>
+    </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers>
         <DHCPServer networkName="HostInterfaceNetworking-vboxnet0" IPAddress="192.168.56.100" networkMask="255.255.255.0" lowerIP="192.168.56.101" upperIP="192.168.56.254" enabled="1"/>

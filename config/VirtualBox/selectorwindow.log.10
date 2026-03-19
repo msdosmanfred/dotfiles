@@ -1,0 +1,30 @@
+00:00:00.648058 VirtualBox GUI VM Selector Window 7.2.6 r172322 linux.amd64 (Jan 15 2026 14:44:00) release log
+00:00:00.648061 Log opened 2026-02-28T21:01:08.400193000Z
+00:00:00.648062 Build Type: release
+00:00:00.648068 OS Product: Linux
+00:00:00.648069 OS Release: 6.19.3-2-cachyos
+00:00:00.648070 OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 20 Feb 2026 01:02:58 +0000
+00:00:00.648113 DMI Product Name: Aspire A515-45
+00:00:00.648123 DMI Product Version: V1.55
+00:00:00.648136 Firmware type: UEFI
+00:00:00.648429 Secure Boot: Disabled
+00:00:00.648499 Host RAM: 15329MB (14.9GB) total, 11273MB (11.0GB) available
+00:00:00.648504 Executable: /opt/VirtualBox/VirtualBox
+00:00:00.648505 Process ID: 85387
+00:00:00.648505 Package type: LINUX_64BITS_GENERIC
+00:00:00.648538 Qt version: 6.8.0
+00:00:00.649300 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.677086 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.281934 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1048
+00:00:01.292365 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1048
+00:00:01.320803 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:19.715135 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:22.278643 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:23.375559 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:24.595294 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:30.606098 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:41.394757 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:42.190819 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:42.522420 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:44.405601 GUI: UICommon: Handling aboutToQuit request..
+00:00:45.555180 GUI: UICommon: aboutToQuit request handled!

@@ -1,0 +1,83 @@
+{
+  "app_name": "fdf3e1fda2ea4a7384c3cc7b0e7267ed",
+  "app_title": "Liberte",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "fdf3e1fda2ea4a7384c3cc7b0e7267ed",
+      "asset_id": "fdf3e1fda2ea4a7384c3cc7b0e7267ed",
+      "build_version": "1.0.3.c",
+      "catalog_item_id": "9864ae686306420ebfa6a82f86f2ef5e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "cb98cf9a844542af9df0f5f19195a842"
+      },
+      "namespace": "024b587ece4b44248759adaacb77a5d4",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-11-18T10:34:30.633Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "LibertefHEeI"
+      }
+    },
+    "description": "Liberte",
+    "developer": "Anshar Publishing",
+    "developerId": "o-9z65aawjyvtc2yfpv8ud48hjx6xhv9",
+    "endOfSupport": false,
+    "entitlementName": "9864ae686306420ebfa6a82f86f2ef5e",
+    "entitlementType": "EXECUTABLE",
+    "id": "9864ae686306420ebfa6a82f86f2ef5e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Liberte Offer",
+        "height": 1440,
+        "md5": "ed5c85c5e998de187e647cfea53b244f",
+        "size": 1156552,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-11-22T14:38:51.044Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/2546ec02806a4c9e96aeea7a7484fd3f/liberte-144sf.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Liberte Offer",
+        "height": 1600,
+        "md5": "1d987838c60eb93b8219cc35b8e36e7d",
+        "size": 827205,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-22T14:38:50.814Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/2546ec02806a4c9e96aeea7a7484fd3f/liberte-1yg6v.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-02-01T19:24:00.228Z",
+    "mainGameItemList": [],
+    "namespace": "024b587ece4b44248759adaacb77a5d4",
+    "releaseInfo": [
+      {
+        "appId": "fdf3e1fda2ea4a7384c3cc7b0e7267ed",
+        "id": "4b970c997c164fcd9fc5af2966647edb",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Liberte",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,108 @@
+{
+  "app_name": "9e296d276ad447108f12c654c3341d59",
+  "app_title": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "9e296d276ad447108f12c654c3341d59",
+      "asset_id": "9e296d276ad447108f12c654c3341d59",
+      "build_version": "PAW-PAD2-81",
+      "catalog_item_id": "fefde487d4de4c839d55d4e12eab727a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d98b6c292e224a59b359372f4f5152df",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-08-24T15:50:50.089Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TTAoDKOneShotAdventure"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "d98b6c292e224a59b359372f4f5152df"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
+    "developer": "2K Games, Inc.",
+    "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "endOfSupport": false,
+    "entitlementName": "fefde487d4de4c839d55d4e12eab727a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && amaranth)"
+    ],
+    "id": "fefde487d4de4c839d55d4e12eab727a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "e156d1f0c97520ac901d73c7582bbd9d",
+        "size": 343670,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-11-08T20:04:35.910Z",
+        "url": "https://cdn1.epicgames.com/item/d98b6c292e224a59b359372f4f5152df/EGS_TinyTinasAssaultonDragonKeepAWonderlandsOneshotAdventure_GearboxSoftwareStrayKiteStudios_S3Wide_2560x1440-e156d1f0c97520ac901d73c7582bbd9d",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "a827863daf5091ebb8481ea7ee54c729",
+        "size": 240422,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-11-08T20:04:45.991Z",
+        "url": "https://cdn1.epicgames.com/item/d98b6c292e224a59b359372f4f5152df/EGS_TinyTinasAssaultonDragonKeepAWonderlandsOneshotAdventure_GearboxSoftwareStrayKiteStudios_S2Tall_1200x1600-a827863daf5091ebb8481ea7ee54c729",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-05-02T18:00:09.961Z",
+    "mainGameItemList": [],
+    "namespace": "d98b6c292e224a59b359372f4f5152df",
+    "releaseInfo": [
+      {
+        "appId": "9e296d276ad447108f12c654c3341d59",
+        "id": "ec27dbf9d8184163bb85f93e80e767aa",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

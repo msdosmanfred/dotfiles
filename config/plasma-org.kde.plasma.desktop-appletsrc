@@ -388,7 +388,7 @@ DialogWidth=810
 
 [Containments][2][Applets][83][Configuration][General]
 groupPopups=false
-launchers=applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:org.kde.dolphin.desktop,preferred://browser,applications:org.mozilla.Thunderbird.desktop,applications:org.kde.krusader.desktop
+launchers=applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.krusader.desktop,preferred://browser,applications:org.mozilla.Thunderbird.desktop
 taskMaxWidth=Narrow
 
 [Containments][2][General]
@@ -478,4 +478,4 @@ tabIdentifier=xkcd
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/vmware-workstation.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/steam.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,file:///home/alex/Schreibtisch/Trucky Mods Manager.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/vmware-workstation.desktop,0,1a0a3bec-6ec2-4b3e-8db4-c58f67d1262d,desktop:/com.hypixel.HytaleLauncher.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/net.86box.86Box.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/Trucky Mods Manager.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/avalonia86.desktop,0,1a0a3bec-6ec2-4b3e-8db4-c58f67d1262d,desktop:/86Box.desktop,0,1a0a3bec-6ec2-4b3e-8db4-c58f67d1262d,desktop:/TruckyModsManager_Logs_20260131_153948.zip,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/curseforge.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/firefox.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627
+screenMapping=desktop:/86Box.desktop,0,1a0a3bec-6ec2-4b3e-8db4-c58f67d1262d,desktop:/avalonia86.desktop,0,1a0a3bec-6ec2-4b3e-8db4-c58f67d1262d,desktop:/Trucky Mods Manager.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/TruckyModsManager_Logs_20260131_153948.zip,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/steam.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,file:///home/alex/Schreibtisch/Trucky Mods Manager.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/vmware-workstation.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/Windows_95_Resource_Kit_1995.pdf,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/vmware-workstation.desktop,0,1a0a3bec-6ec2-4b3e-8db4-c58f67d1262d,desktop:/install-ut2004.desktop.download,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/UT2004.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/curseforge.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/firefox.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/net.86box.86Box.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/Windows_98_Resource_Kit_1998.pdf,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/Windows_NT_Workstation_4.0_Resource_Kit_1996.pdf,0,23995814-19d9-4b3f-a526-f3acd0c7b627,desktop:/com.hypixel.HytaleLauncher.desktop,0,23995814-19d9-4b3f-a526-f3acd0c7b627

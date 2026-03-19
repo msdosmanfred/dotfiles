@@ -1,0 +1,120 @@
+{
+  "app_name": "Oriole",
+  "app_title": "The Eternal Cylinder",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Oriole",
+      "asset_id": "Oriole",
+      "build_version": "1.0.3.3-Windows",
+      "catalog_item_id": "734574526b3d4c87aa04b6ea750f2393",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567R26KTbBbSyWnEjvXonExpUKr",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-27T19:15:43.801Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "SavedData.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/TheEternalCylinder/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheEternalCylinder"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "fa0c74ef7780498fb222dcd099bf82a2"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Eternal Cylinder",
+    "developer": "Good Shepherd Entertainment",
+    "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+    "endOfSupport": false,
+    "entitlementName": "734574526b3d4c87aa04b6ea750f2393",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "734574526b3d4c87aa04b6ea750f2393",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "d7fb28493c7513d7f05181e98b7d4858",
+        "size": 1034703,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-09-30T14:30:24.232Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheEternalCylinder_ACETeam_S3_2560x1440-d7fb28493c7513d7f05181e98b7d4858",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "a87a940bd65fe2853363dd6d93e13811",
+        "size": 1028477,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-09-30T14:30:17.198Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheEternalCylinder_ACETeam_S6_1200x1600-a87a940bd65fe2853363dd6d93e13811",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-09-30T14:30:41.402Z",
+    "mainGameItemList": [],
+    "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
+    "releaseInfo": [
+      {
+        "appId": "Oriole",
+        "dateAdded": "2019-08-27T00:00:00.000Z",
+        "id": "b57697ce62ba4130962c085511e3e849",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "The Eternal Cylinder",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

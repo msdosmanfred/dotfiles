@@ -1,0 +1,112 @@
+{
+  "app_name": "9598a70268124b108d80af9d873917b5",
+  "app_title": "New Tales from the Borderlands",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "9598a70268124b108d80af9d873917b5",
+      "asset_id": "9598a70268124b108d80af9d873917b5",
+      "build_version": "CYPRESS2-PATCHDIESEL3b-1",
+      "catalog_item_id": "12564e2ca6164481883dd4b6f66f04aa",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "28ed8f56800c4bcc9eaa0c5264ec6917",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45670RQKHuOrkX7gRGyjzlRpV4Xq",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-10-01T21:14:06.592Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "NewTalesBorderlands"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "28ed8f56800c4bcc9eaa0c5264ec6917"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "New Tales from the Borderlands",
+    "developer": "2K Games, Inc.",
+    "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "endOfSupport": false,
+    "entitlementName": "12564e2ca6164481883dd4b6f66f04aa",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && amaranth)"
+    ],
+    "id": "12564e2ca6164481883dd4b6f66f04aa",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "54b6f98ad17879cdd0439d9de62493a4",
+        "size": 512271,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-08-23T18:27:14.115Z",
+        "url": "https://cdn1.epicgames.com/item/28ed8f56800c4bcc9eaa0c5264ec6917/EGS_NewTalesfromtheBorderlands_GearboxSoftware_S1_2560x1440-54b6f98ad17879cdd0439d9de62493a4",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "552829c46cce40a3a9d5a8dc4fb2c06f",
+        "size": 632136,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-08-23T18:27:16.667Z",
+        "url": "https://cdn1.epicgames.com/item/28ed8f56800c4bcc9eaa0c5264ec6917/EGS_NewTalesfromtheBorderlands_GearboxSoftware_S2_1200x1600-552829c46cce40a3a9d5a8dc4fb2c06f",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-05-02T20:36:53.171Z",
+    "mainGameItemList": [],
+    "namespace": "28ed8f56800c4bcc9eaa0c5264ec6917",
+    "releaseInfo": [
+      {
+        "appId": "9598a70268124b108d80af9d873917b5",
+        "id": "ca01d3038d174513b8a10186e695ab26",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "New Tales from the Borderlands",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

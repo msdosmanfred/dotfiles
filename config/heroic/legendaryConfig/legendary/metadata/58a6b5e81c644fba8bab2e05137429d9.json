@@ -1,0 +1,114 @@
+{
+  "app_name": "58a6b5e81c644fba8bab2e05137429d9",
+  "app_title": "The Vanishing of Ethan Carter Redux",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "58a6b5e81c644fba8bab2e05137429d9",
+      "asset_id": "58a6b5e81c644fba8bab2e05137429d9",
+      "build_version": "1.05",
+      "catalog_item_id": "78a7496bffbd48e1af50165fe830c3e7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f401d7e187e349138380d22e991b29ca",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-12-02T06:04:56.758Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/The Vanishing of Ethan Carter Redux/SavedGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "VanishingEthanCarterRedux"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "f401d7e187e349138380d22e991b29ca"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Vanishing of Ethan Carter Redux",
+    "developer": "The Astronauts",
+    "developerId": "o-5pbnhbs8tsz3wtxqlgs5n8ml72elky",
+    "endOfSupport": false,
+    "entitlementName": "78a7496bffbd48e1af50165fe830c3e7",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "78a7496bffbd48e1af50165fe830c3e7",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "c0166f0ef48b7f939393e5cedc973ac2",
+        "size": 580294,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-12-18T03:16:50.187Z",
+        "url": "https://cdn1.epicgames.com/item/f401d7e187e349138380d22e991b29ca/EGS_TheVanishingofEthanCarter_TheAstronauts_S1_2560x1440-c0166f0ef48b7f939393e5cedc973ac2_2560x1440-c0166f0ef48b7f939393e5cedc973ac2",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "7c91a065dc24801d711197ce8ecb7194",
+        "size": 372899,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-12-18T03:16:54.465Z",
+        "url": "https://cdn1.epicgames.com/item/f401d7e187e349138380d22e991b29ca/EGS_TheVanishingofEthanCarter_TheAstronauts_S2_1200x1600-7c91a065dc24801d711197ce8ecb7194_1200x1600-7c91a065dc24801d711197ce8ecb7194",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-04-10T22:25:56.753Z",
+    "mainGameItemList": [],
+    "namespace": "f401d7e187e349138380d22e991b29ca",
+    "releaseInfo": [
+      {
+        "appId": "58a6b5e81c644fba8bab2e05137429d9",
+        "compatibleApps": [],
+        "dateAdded": "2021-12-02T06:04:44.386Z",
+        "id": "9c16ec64b59c44f4921121a95f068894",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Vanishing of Ethan Carter Redux",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,683 @@
+{
+  "app_name": "351fe5b32e22412d8fa41f4c7395fed1",
+  "app_title": "Dungeons 3",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "351fe5b32e22412d8fa41f4c7395fed1",
+      "asset_id": "351fe5b32e22412d8fa41f4c7395fed1",
+      "build_version": "v1.7 build13 @c33954b v11",
+      "catalog_item_id": "78fafe7a43344aff820d0c8dc218df2a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4cc669f0bcac420baf402a42128f380e"
+      },
+      "namespace": "213259527d2f41baa90cbe0ae5555271",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567XbJYoVF1Hg1xYik8W1Ah8LSA",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-04-15T18:51:09.131Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "savegames/,config-cloud.cfg,keybindings-*.txt"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/Kalypso Media/Dungeons 3/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Dungeons3"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "213259527d2f41baa90cbe0ae5555271"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Dungeons 3",
+    "developer": "Kalypso Media Group GmbH",
+    "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          }
+        ],
+        "creationDate": "2020-05-08T15:34:40.481Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ClashofGods"
+          }
+        },
+        "description": "Clash of Gods",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "4d8a8601510b4c25b2c32194f670a7e4",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4d8a8601510b4c25b2c32194f670a7e4",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "890de7b2f4ee43345b4a3ade2a41bec8",
+            "size": 940481,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-10-01T17:50:45.690Z",
+            "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_ClashofGods_RealmforgeStudios_DLC_S1-2560x1440-890de7b2f4ee43345b4a3ade2a41bec8.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "c03f2fb113d4ae44be955655887ce105",
+            "size": 670179,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-10-01T17:50:52.704Z",
+            "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_ClashofGods_RealmforgeStudios_DLC_S2-1200x1600-c03f2fb113d4ae44be955655887ce105.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-11-04T21:17:58.117Z",
+        "mainGameItem": {
+          "id": "78fafe7a43344aff820d0c8dc218df2a",
+          "namespace": "213259527d2f41baa90cbe0ae5555271",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "78fafe7a43344aff820d0c8dc218df2a",
+            "namespace": "213259527d2f41baa90cbe0ae5555271",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "213259527d2f41baa90cbe0ae5555271",
+        "releaseInfo": [
+          {
+            "appId": "d220ca009f7d4418a036ad85017ef405",
+            "dateAdded": "2020-05-08T00:00:00.000Z",
+            "id": "f64e616ce4e74592a9cbcd497a78375a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Clash of Gods",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          }
+        ],
+        "creationDate": "2020-05-08T15:34:43.399Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "UnexpectedDLC"
+          }
+        },
+        "description": "An Unexpected DLC",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "0f79a28dfcdc40c39dd305b55198826d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0f79a28dfcdc40c39dd305b55198826d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "e6bb8df32a67c46cde46acb5c9dea420",
+            "size": 920199,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-10-01T17:52:52.205Z",
+            "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_AnUnexpectedDLC_RealmforgeStudios_DLC_S1-2560x1440-e6bb8df32a67c46cde46acb5c9dea420.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "980ae761aefd12d6945145d957e6f5c4",
+            "size": 653387,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-10-01T17:53:00.946Z",
+            "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_AnUnexpectedDLC_RealmforgeStudios_DLC_S2-1200x1600-980ae761aefd12d6945145d957e6f5c4.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-11-04T21:19:23.548Z",
+        "mainGameItem": {
+          "id": "78fafe7a43344aff820d0c8dc218df2a",
+          "namespace": "213259527d2f41baa90cbe0ae5555271",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "78fafe7a43344aff820d0c8dc218df2a",
+            "namespace": "213259527d2f41baa90cbe0ae5555271",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "213259527d2f41baa90cbe0ae5555271",
+        "releaseInfo": [
+          {
+            "appId": "d9e60fb862e3405a963d46e787faea27",
+            "dateAdded": "2020-05-08T00:00:00.000Z",
+            "id": "f64e616ce4e74592a9cbcd497a78375a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "An Unexpected DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          }
+        ],
+        "creationDate": "2020-05-08T15:34:48.597Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "MultitudeofMaps"
+          }
+        },
+        "description": "Multitude of Maps",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "241f4b967e5748f584d2454eb293185b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "241f4b967e5748f584d2454eb293185b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "89ec466bfd704ccc48df447fdaf70ebd",
+            "size": 822797,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-10-01T17:53:54.680Z",
+            "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_AMultitudeofMaps_RealmforgeStudios_DLC_S1-2560x1440-89ec466bfd704ccc48df447fdaf70ebd.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "d468b55a81acd41f9d80265fb5cf53e2",
+            "size": 629349,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-10-01T17:54:01.403Z",
+            "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_AMultitudeofMaps_RealmforgeStudios_DLC_S2-1200x1600-d468b55a81acd41f9d80265fb5cf53e2.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-11-04T21:19:35.116Z",
+        "mainGameItem": {
+          "id": "78fafe7a43344aff820d0c8dc218df2a",
+          "namespace": "213259527d2f41baa90cbe0ae5555271",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "78fafe7a43344aff820d0c8dc218df2a",
+            "namespace": "213259527d2f41baa90cbe0ae5555271",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "213259527d2f41baa90cbe0ae5555271",
+        "releaseInfo": [
+          {
+            "appId": "da51bc7bf9424a3898f509b882babe0a",
+            "dateAdded": "2020-05-08T00:00:00.000Z",
+            "id": "f64e616ce4e74592a9cbcd497a78375a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Multitude of Maps",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          }
+        ],
+        "creationDate": "2020-05-08T15:34:35.465Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "EvilCaribbean"
+          }
+        },
+        "description": "Evil of the Caribbean",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "36699a5807b746a8a4d2114561717c0d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "36699a5807b746a8a4d2114561717c0d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "4645b896028b5f69a29a317add49cf7f",
+            "size": 839809,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-10-01T17:48:38.001Z",
+            "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_EviloftheCaribbean_RealmforgeStudios_DLC_S1-2560x1440-4645b896028b5f69a29a317add49cf7f.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "c5ef3a4fcf5be9ff99667f575d734ed4",
+            "size": 667671,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-10-01T17:48:47.102Z",
+            "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_EviloftheCaribbean_RealmforgeStudios_DLC_S2-1200x1600-c5ef3a4fcf5be9ff99667f575d734ed4.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-11-04T21:19:47.229Z",
+        "mainGameItem": {
+          "id": "78fafe7a43344aff820d0c8dc218df2a",
+          "namespace": "213259527d2f41baa90cbe0ae5555271",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "78fafe7a43344aff820d0c8dc218df2a",
+            "namespace": "213259527d2f41baa90cbe0ae5555271",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "213259527d2f41baa90cbe0ae5555271",
+        "releaseInfo": [
+          {
+            "appId": "22f0871053f445e0b4e23cadd2bae685",
+            "dateAdded": "2020-05-08T00:00:00.000Z",
+            "id": "f64e616ce4e74592a9cbcd497a78375a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Evil of the Caribbean",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          }
+        ],
+        "creationDate": "2020-05-08T15:34:38.111Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "lordofkings"
+          }
+        },
+        "description": "Lord of the Kings",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "48cc8f94220b4460a2e9caa4d31d6c88",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "48cc8f94220b4460a2e9caa4d31d6c88",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "449f40bdf0937082c8c4e2dc144e67f6",
+            "size": 945556,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-10-01T17:49:41.848Z",
+            "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_LordoftheKings_RealmforgeStudios_DLC_S1-2560x1440-449f40bdf0937082c8c4e2dc144e67f6.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "08aaf55ec7f0a34a8e449d0d962d3418",
+            "size": 644437,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-10-01T17:49:52.093Z",
+            "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_LordoftheKings_RealmforgeStudios_DLC_S2-1200x1600-08aaf55ec7f0a34a8e449d0d962d3418.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-11-04T21:17:58.117Z",
+        "mainGameItem": {
+          "id": "78fafe7a43344aff820d0c8dc218df2a",
+          "namespace": "213259527d2f41baa90cbe0ae5555271",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "78fafe7a43344aff820d0c8dc218df2a",
+            "namespace": "213259527d2f41baa90cbe0ae5555271",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "213259527d2f41baa90cbe0ae5555271",
+        "releaseInfo": [
+          {
+            "appId": "880dc7bb671a4534a85a46fc8c6a66db",
+            "dateAdded": "2020-05-08T00:00:00.000Z",
+            "id": "f64e616ce4e74592a9cbcd497a78375a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Lord of the Kings",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          }
+        ],
+        "creationDate": "2020-05-08T15:34:19.037Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "OnceUponATime"
+          }
+        },
+        "description": "Once Upon A Time",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "9397f3cdb15641e3b106fb83df185f61",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9397f3cdb15641e3b106fb83df185f61",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "f1ffd5cfd088b1dee6288e4685cb3a28",
+            "size": 871823,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-10-01T17:48:00.195Z",
+            "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_OnceUponATime_RealmforgeStudios_DLC_S1-2560x1440-f1ffd5cfd088b1dee6288e4685cb3a28.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "458c6a66a28a913d33d02f8534eb1283",
+            "size": 652701,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-10-01T17:48:08.516Z",
+            "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_OnceUponATime_RealmforgeStudios_DLC_S2-1200x1600-458c6a66a28a913d33d02f8534eb1283.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-11-04T21:17:58.124Z",
+        "mainGameItem": {
+          "id": "78fafe7a43344aff820d0c8dc218df2a",
+          "namespace": "213259527d2f41baa90cbe0ae5555271",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "78fafe7a43344aff820d0c8dc218df2a",
+            "namespace": "213259527d2f41baa90cbe0ae5555271",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "213259527d2f41baa90cbe0ae5555271",
+        "releaseInfo": [
+          {
+            "appId": "f125759bf285439d92ca5a4420236d8c",
+            "dateAdded": "2020-05-08T00:00:00.000Z",
+            "id": "f64e616ce4e74592a9cbcd497a78375a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Once Upon A Time",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          }
+        ],
+        "creationDate": "2020-05-08T15:34:46.301Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "FamousLastWords"
+          }
+        },
+        "description": "Famous Last Words",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "2fe2d78958c847a6ba1b6db5e00ed5bf",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2fe2d78958c847a6ba1b6db5e00ed5bf",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "e72cc587df055aa1f9476d3f17768e4e",
+            "size": 938010,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-10-01T17:52:01.445Z",
+            "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_FamousLastWords_RealmforgeStudios_DLC_S1-2560x1440-e72cc587df055aa1f9476d3f17768e4e.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "4727f1431348f1eea326711907e5b2bc",
+            "size": 751720,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-10-01T17:52:11.684Z",
+            "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_FamousLastWords_RealmforgeStudios_DLC_S2-1200x1600-4727f1431348f1eea326711907e5b2bc.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-11-04T21:19:40.844Z",
+        "mainGameItem": {
+          "id": "78fafe7a43344aff820d0c8dc218df2a",
+          "namespace": "213259527d2f41baa90cbe0ae5555271",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "78fafe7a43344aff820d0c8dc218df2a",
+            "namespace": "213259527d2f41baa90cbe0ae5555271",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "213259527d2f41baa90cbe0ae5555271",
+        "releaseInfo": [
+          {
+            "appId": "dfe83c3087564851869938f9b3faaa66",
+            "dateAdded": "2020-05-08T00:00:00.000Z",
+            "id": "f64e616ce4e74592a9cbcd497a78375a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Famous Last Words",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "78fafe7a43344aff820d0c8dc218df2a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "78fafe7a43344aff820d0c8dc218df2a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "21b5fe0f44bc1f4c23a68bf6e159be40",
+        "size": 769264,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-10-01T17:47:00.057Z",
+        "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_Dungeons3_RealmforgeStudios_S3-2560x1440-21b5fe0f44bc1f4c23a68bf6e159be40.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "1bd28634e22cae5706b41f0e3ef9cc0c",
+        "size": 645843,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-10-01T17:47:08.761Z",
+        "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_Dungeons3_RealmforgeStudios_S4-1200x1600-1bd28634e22cae5706b41f0e3ef9cc0c.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-11-04T21:17:58.124Z",
+    "mainGameItemList": [],
+    "namespace": "213259527d2f41baa90cbe0ae5555271",
+    "releaseInfo": [
+      {
+        "appId": "351fe5b32e22412d8fa41f4c7395fed1",
+        "dateAdded": "2020-05-08T00:00:00.000Z",
+        "id": "632c006b7af64a6495d8b4e65685dce3",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Dungeons 3",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

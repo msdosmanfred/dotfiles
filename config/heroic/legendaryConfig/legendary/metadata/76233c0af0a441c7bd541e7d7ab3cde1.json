@@ -1,0 +1,84 @@
+{
+  "app_name": "76233c0af0a441c7bd541e7d7ab3cde1",
+  "app_title": "Unrailed",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "76233c0af0a441c7bd541e7d7ab3cde1",
+      "asset_id": "76233c0af0a441c7bd541e7d7ab3cde1",
+      "build_version": "2.1-bea80b268_3",
+      "catalog_item_id": "4acdb0d6e5884177bfc75dcdebfb7bab",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "82704c3c74c2479aa89ba29b6e5397f9"
+      },
+      "namespace": "5a6d34ba28bc45d081d9311c3885feef",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi45676LCJvggph2UiDTNsmVkjuULk",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-09-22T23:58:06.906Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "Unrailed"
+      }
+    },
+    "description": "Unrailed",
+    "developer": "Daedalic Entertainment",
+    "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+    "endOfSupport": false,
+    "entitlementName": "4acdb0d6e5884177bfc75dcdebfb7bab",
+    "entitlementType": "EXECUTABLE",
+    "id": "4acdb0d6e5884177bfc75dcdebfb7bab",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Unrailed Offer",
+        "height": 1440,
+        "md5": "8d1fd67d86fe66fce468c862e67cae4d",
+        "size": 1049805,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-12-14T16:49:11.096Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/dc57439aac3c481aaa52ccb443a4d01a/unrailed-1s7bg.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Unrailed Offer",
+        "height": 1600,
+        "md5": "b150add7f06d48292ef644e7ca2d452d",
+        "size": 1700448,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-12-14T16:44:04.937Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/dc57439aac3c481aaa52ccb443a4d01a/unrailed-1sz5f.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-03-10T08:46:41.271Z",
+    "mainGameItemList": [],
+    "namespace": "5a6d34ba28bc45d081d9311c3885feef",
+    "releaseInfo": [
+      {
+        "appId": "76233c0af0a441c7bd541e7d7ab3cde1",
+        "id": "f0b0beb91d1a4dd5910f42c7945b6baf",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Unrailed",
+    "unsearchable": false
+  },
+  "sidecar": null
+}
