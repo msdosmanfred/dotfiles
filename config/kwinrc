@@ -5,7 +5,8 @@ update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-
 Id_1=2e06bf7e-5da3-4767-9d87-6e54121a1ae8
 Id_2=f834646e-db20-4bcb-b772-f3709ddb2005
 Id_3=0f8c1a10-3a54-4b44-ab96-5e50838ff1c9
-Id_4=275c849e-178f-4cfb-a361-297246a54fcb
+Id_4=c5ecbe06-a7d9-4d1c-a68d-02431c968a66
+Name_4=New Desktop
 Number=4
 Rows=2
 
@@ -87,6 +88,14 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][820087db-188b-5e2d-9692-31ba8886597f]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][c5ecbe06-a7d9-4d1c-a68d-02431c968a66][24972881-dbfe-43d7-ad12-a135ba064403]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][c5ecbe06-a7d9-4d1c-a68d-02431c968a66][b0be5658-a585-4be4-a26d-30b92f777e36]
+padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][d84321b2-b923-5f4a-8c61-2657ce182fbf]

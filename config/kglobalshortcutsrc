@@ -271,6 +271,7 @@ activate widget 115=none,none,Miniprogramm Anwendungsmenü aktivieren
 activate widget 116=none,none,Miniprogramm KDE Kontrollzentrum aktivieren
 activate widget 175=,none,Miniprogramm Anwendungsstarter aktivieren
 activate widget 176=,none,Miniprogramm Anwendungsstarter aktivieren
+activate widget 19=,none,Miniprogramm Tastaturbelegung aktivieren
 activate widget 27=none,none,Miniprogramm Anwendungsmenü aktivieren
 activate widget 29=none,none,Miniprogramm Fensterleiste mit Symbolen und Text aktivieren
 activate widget 30=none,none,Miniprogramm Anwendungsmenü aktivieren
