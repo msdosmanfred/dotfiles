@@ -1,4 +1,0 @@
-(21:55:19) [INFO]:    GOG REDIST:: GOGDL_CONFIG_PATH=/home/alex/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/alex/.config/heroic/gog_store/auth.json redist --ids ISI --path /home/alex/.config/heroic/tools/redist/gog 
-
-[API] INFO: Getting Dependencies repository
-[REDIST] INFO: Nothing to do

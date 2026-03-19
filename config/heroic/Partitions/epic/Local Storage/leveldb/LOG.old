@@ -1,9 +1,0 @@
-2026/02/24-21:55:26.011 11920 Reusing MANIFEST /home/alex/.config/heroic/Partitions/epic/Local Storage/leveldb/MANIFEST-000001
-2026/02/24-21:55:26.012 11920 Recovering log #4
-2026/02/24-21:55:26.013 11920 Reusing old log /home/alex/.config/heroic/Partitions/epic/Local Storage/leveldb/000004.log 
-2026/02/24-21:58:27.386 1191f Level-0 table #8: started
-2026/02/24-21:58:27.391 1191f Level-0 table #8: 24986 bytes OK
-2026/02/24-21:58:27.396 1191f Delete type=0 #4
-2026/02/24-22:01:50.947 118f9 Level-0 table #10: started
-2026/02/24-22:01:51.015 118f9 Level-0 table #10: 36629 bytes OK
-2026/02/24-22:01:51.020 118f9 Delete type=0 #7
