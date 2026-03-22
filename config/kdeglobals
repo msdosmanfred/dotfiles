@@ -135,12 +135,13 @@ ForegroundVisited=155,89,182
 [General]
 AccentColor=144,46,188
 ColorSchemeHash=2c3f86428c11011a7c64ee1e7f47c274d498ff10
+LastUsedCustomAccentColor=233,58,154
 UseSystemBell=true
 XftAntialias=true
-XftHintStyle=hintfull
-XftSubPixel=rgb
+XftHintStyle=hintslight
+XftSubPixel=none
 accentColorFromWallpaper=true
-fixed=ComicShannsMono Nerd Font,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+fixed=ComicShannsMono Nerd Font Mono,14,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 font=Cabin,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 menuFont=Cabin,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 smallestReadableFont=Cabin,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
@@ -153,11 +154,11 @@ Theme=BeautyLine
 LookAndFeelPackage=org.kde.breezedark.desktop
 contrast=4
 frameContrast=0.2
-widgetStyle=Breeze
+widgetStyle=qt6ct-style
 
 [KFileDialog Settings]
 Allow Expansion=false
-Automatically select filename extension=false
+Automatically select filename extension=true
 Breadcrumb Navigation=false
 Decoration position=2
 Show Full Path=false

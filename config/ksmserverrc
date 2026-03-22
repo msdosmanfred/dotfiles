@@ -5,29 +5,4 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-clientId1=107f423030000177388104900009287380002
-clientId2=107f423030000177388104900009287380003
-clientId3=107f423030000177388105000009287380005
-clientId4=107f423030000177388105000009287380008
-clientId5[$d]
-count=4
-program1=/usr/bin/kclockd
-program2=/usr/lib/DiscoverNotifier
-program3=/usr/bin/kalendarac
-program4=/usr/bin/ckb-next
-program5[$d]
-restartCommand1=/usr/bin/kclockd,-session,107f423030000177388104900009287380002_1773881162_59542
-restartCommand2=/usr/lib/DiscoverNotifier,-session,107f423030000177388104900009287380003_1773881162_59561
-restartCommand3=/usr/bin/kalendarac,-session,107f423030000177388105000009287380005_1773881162_59573
-restartCommand4=/usr/bin/ckb-next,-session,107f423030000177388105000009287380008_1773881162_59604,-name,ckb-next
-restartCommand5[$d]
-restartStyleHint1=0
-restartStyleHint2=0
-restartStyleHint3=0
-restartStyleHint4=0
-restartStyleHint5[$d]
-userId1=alex
-userId2=alex
-userId3=alex
-userId4=alex
-userId5[$d]
+count=0

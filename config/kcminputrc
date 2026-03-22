@@ -13,6 +13,7 @@ TapToClick=true
 
 [Mouse]
 X11LibInputXAccelProfileFlat=true
+XLbInptAccelProfileFlat=false
 cursorTheme=Sweet-cursors
 
 [Tmp]

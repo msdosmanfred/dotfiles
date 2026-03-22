@@ -6,7 +6,6 @@ Id_1=2e06bf7e-5da3-4767-9d87-6e54121a1ae8
 Id_2=f834646e-db20-4bcb-b772-f3709ddb2005
 Id_3=0f8c1a10-3a54-4b44-ab96-5e50838ff1c9
 Id_4=c5ecbe06-a7d9-4d1c-a68d-02431c968a66
-Name_4=New Desktop
 Number=4
 Rows=2
 
@@ -41,6 +40,9 @@ squashEnabled=false
 translucencyEnabled=true
 virtualdesktopsonlyonprimaryEnabled=true
 wobblywindowsEnabled=true
+
+[Tiling]
+padding=4
 
 [Tiling][0d3998b5-12fb-5e5d-9844-298a9a2f96a3]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
