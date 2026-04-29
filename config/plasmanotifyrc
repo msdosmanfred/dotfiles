@@ -10,5 +10,11 @@ Seen=true
 [Applications][heroic]
 Seen=true
 
+[Applications][org.mozilla.Thunderbird]
+Seen=true
+
 [Applications][org.qbittorrent.qBittorrent]
+Seen=true
+
+[Applications][org.telegram.desktop]
 Seen=true

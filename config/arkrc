@@ -10,3 +10,7 @@ ShowSidebar=true
 
 [MainWindow]
 StatusBar=Disabled
+splitterSizes=843,103
+
+[Viewer]
+StatusBar=Disabled

@@ -3,26 +3,26 @@ FullScreen=false
 
 [General]
 LockSidebar=true
-ShowSidebar=true
+ShowSidebar=false
 
 [Recent Files]
-File1[$e]=$HOME/win98-quickinstall/README.md
-File10[$e]=$HOME/Schreibtisch/Windows_95_Resource_Kit_1995.pdf
-File2[$e]=$HOME/86Box VMs/PC003/printer/20260221-124028-618.pdf
-File3[$e]=$HOME/86Box VMs/PC005/printer/20260221-222101-007.pdf
-File4[$e]=$HOME/86Box VMs/PC012/printer/20260301-110958-920.pdf
-File5[$e]=$HOME/Schreibtisch/Windows_98_Resource_Kit_1998.pdf
-File6[$e]=$HOME/Schreibtisch/Windows_NT_Workstation_4.0_Resource_Kit_1996.pdf
-File7[$e]=$HOME/86Box VMs/PC032/printer/20260308-231239-548.pdf
-File8[$e]=$HOME/Dokumente/AU-Schein.pdf
-File9[$e]=/data/zeugs/eComStation 2.1/eCS21_qckguide.pdf
-Name1[$e]=README.md
-Name10[$e]=Windows_95_Resource_Kit_1995.pdf
-Name2[$e]=20260221-124028-618.pdf
-Name3[$e]=20260221-222101-007.pdf
-Name4[$e]=20260301-110958-920.pdf
-Name5[$e]=Windows_98_Resource_Kit_1998.pdf
-Name6[$e]=Windows_NT_Workstation_4.0_Resource_Kit_1996.pdf
-Name7[$e]=20260308-231239-548.pdf
-Name8[$e]=AU-Schein.pdf
-Name9[$e]=eCS21_qckguide.pdf
+File1[$e]=$HOME/86Box VMs/PC002/printer/20260418-011416-486.pdf
+File10[$e]=$HOME/Schreibtisch/Windows_NT_Workstation_4.0_Resource_Kit_1996.pdf
+File2[$e]=$HOME/86Box VMs/PC002/printer/20260418-011521-198.pdf
+File3[$e]=$HOME/86Box VMs/PC002/printer/20260418-012227-330.pdf
+File4[$e]=$HOME/86Box VMs/PC002/printer/20260418-012417-014.pdf
+File5[$e]=$HOME/86Box VMs/PC002/printer/20260418-012640-940.pdf
+File6[$e]=$HOME/86Box VMs/PC002/printer/20260418-012742-695.pdf
+File7[$e]=$HOME/86Box VMs/PC002/printer/20260418-012747-693.pdf
+File8[$e]=$HOME/Schreibtisch/Windows_95_Resource_Kit_1995.pdf
+File9[$e]=$HOME/Schreibtisch/Windows_98_Resource_Kit_1998.pdf
+Name1[$e]=20260418-011416-486.pdf
+Name10[$e]=Windows_NT_Workstation_4.0_Resource_Kit_1996.pdf
+Name2[$e]=20260418-011521-198.pdf
+Name3[$e]=20260418-012227-330.pdf
+Name4[$e]=20260418-012417-014.pdf
+Name5[$e]=20260418-012640-940.pdf
+Name6[$e]=20260418-012742-695.pdf
+Name7[$e]=20260418-012747-693.pdf
+Name8[$e]=Windows_95_Resource_Kit_1995.pdf
+Name9[$e]=Windows_98_Resource_Kit_1998.pdf

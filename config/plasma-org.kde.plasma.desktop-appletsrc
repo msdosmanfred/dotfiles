@@ -19,6 +19,12 @@ wallpaperplugin=org.kde.image
 DialogHeight=630
 DialogWidth=810
 
+[Containments][25][General]
+changedPositions={"desktop:/vmware-workstation.desktop":["1920x1080","0","7"]}
+lastResolution=1920x1080
+positions={"1920x1080":["1","17","desktop:/firefox.desktop","0","2","desktop:/install-ut2004.desktop.download","0","4","desktop:/Windows_95_Resource_Kit_1995.pdf","0","8","desktop:/Windows_NT_Workstation_4.0_Resource_Kit_1996.pdf","0","10","desktop:/Windows_98_Resource_Kit_1998.pdf","0","9","desktop:/vmware-workstation.desktop","0","7","desktop:/curseforge.desktop","0","1","desktop:/com.hypixel.HytaleLauncher.desktop","0","3","desktop:/net.86box.86Box.desktop","0","0","desktop:/steam.desktop","0","5","desktop:/UT2004.desktop","0","6"]}
+sortMode=-1
+
 [Containments][25][Wallpaper][org.kde.image][General]
 FillMode=0
 Image=file:///usr/share/wallpapers/synthwave.jpg
@@ -48,23 +54,6 @@ lastScreen=1
 location=4
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
-
-[Containments][28][Applets][29]
-immutability=1
-plugin=org.kde.plasma.kickoff
-
-[Containments][28][Applets][29][Configuration]
-popupHeight=539
-popupWidth=741
-
-[Containments][28][Applets][29][Configuration][ConfigDialog]
-DialogHeight=630
-DialogWidth=810
-
-[Containments][28][Applets][29][Configuration][General]
-favoritesPortedToKAstats=true
-icon=org.cachyos.hello
-systemFavorites=suspend\\,hibernate\\,reboot\\,shutdown
 
 [Containments][28][Applets][31]
 immutability=1
@@ -155,6 +144,9 @@ plugin=org.kde.plasma.bluetooth
 immutability=1
 plugin=org.kde.plasma.battery
 
+[Containments][28][Applets][32][Applets][48][Configuration][General]
+showPercentage=true
+
 [Containments][28][Applets][32][Applets][49]
 immutability=1
 plugin=org.kde.plasma.brightness
@@ -189,8 +181,25 @@ plugin=org.kde.plasma.taskmanager
 [Containments][28][Applets][53][Configuration][General]
 launchers=applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:org.kde.krusader.desktop,preferred://filemanager,preferred://browser,applications:org.mozilla.Thunderbird.desktop
 
+[Containments][28][Applets][55]
+immutability=1
+plugin=org.kde.plasma.kicker
+
+[Containments][28][Applets][55][Configuration]
+popupHeight=516
+popupWidth=335
+
+[Containments][28][Applets][55][Configuration][ConfigDialog]
+DialogHeight=630
+DialogWidth=810
+
+[Containments][28][Applets][55][Configuration][General]
+favoritesPortedToKAstats=true
+icon=org.cachyos.hello
+systemFavorites=suspend\\,hibernate\\,reboot\\,shutdown
+
 [Containments][28][General]
-AppletOrder=29;53;31;32;50;51
+AppletOrder=55;53;31;32;50;51
 
 [Containments][3]
 activityId=
@@ -216,29 +225,29 @@ fontWeight=400
 immutability=1
 plugin=org.kde.plasma.showdesktop
 
-[Containments][3][Applets][4]
-immutability=1
-plugin=org.kde.plasma.kickoff
-
-[Containments][3][Applets][4][Configuration]
-popupHeight=539
-popupWidth=741
-
-[Containments][3][Applets][4][Configuration][ConfigDialog]
-DialogHeight=630
-DialogWidth=810
-
-[Containments][3][Applets][4][Configuration][General]
-favoritesPortedToKAstats=true
-icon=org.cachyos.hello
-systemFavorites=suspend\\,hibernate\\,reboot\\,shutdown
-
 [Containments][3][Applets][52]
 immutability=1
 plugin=org.kde.plasma.taskmanager
 
 [Containments][3][Applets][52][Configuration][General]
 launchers=applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:org.kde.krusader.desktop,preferred://filemanager,preferred://browser,applications:org.mozilla.Thunderbird.desktop
+
+[Containments][3][Applets][54]
+immutability=1
+plugin=org.kde.plasma.kicker
+
+[Containments][3][Applets][54][Configuration]
+popupHeight=516
+popupWidth=996
+
+[Containments][3][Applets][54][Configuration][ConfigDialog]
+DialogHeight=630
+DialogWidth=810
+
+[Containments][3][Applets][54][Configuration][General]
+favoritesPortedToKAstats=true
+icon=org.cachyos.hello
+systemFavorites=suspend\\,hibernate\\,reboot\\,shutdown
 
 [Containments][3][Applets][7]
 immutability=1
@@ -320,6 +329,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][3][Applets][8][Applets][21][Configuration][General]
+currentTab=streams
 migrated=true
 
 [Containments][3][Applets][8][Applets][22]
@@ -334,6 +344,9 @@ plugin=org.kde.plasma.bluetooth
 immutability=1
 plugin=org.kde.plasma.battery
 
+[Containments][3][Applets][8][Applets][26][Configuration][General]
+showPercentage=true
+
 [Containments][3][Applets][8][Applets][27]
 immutability=1
 plugin=org.kde.plasma.brightness
@@ -346,13 +359,18 @@ plugin=org.kde.plasma.mediacontroller
 immutability=1
 plugin=org.kde.plasma.vault
 
+[Containments][3][Applets][8][ConfigDialog]
+DialogHeight=630
+DialogWidth=810
+
 [Containments][3][Applets][8][General]
 extraItems=org.kde.plasma.vault,org.kde.plasma.kclock_1x2,org.kde.merkuro.contact.applet,org.kde.plasma.bluetooth,org.kde.plasma.cameraindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.weather,org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.brightness,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.printmanager
 knownItems=org.kde.plasma.vault,org.kde.plasma.kclock_1x2,org.kde.merkuro.contact.applet,org.kde.plasma.bluetooth,org.kde.plasma.cameraindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.weather,org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.brightness,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.printmanager
+scaleIconsToFit=true
 
 [Containments][3][General]
-AppletOrder=4;52;7;8;23;24
+AppletOrder=54;52;7;8;23;24
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/com.hypixel.HytaleLauncher.desktop,0,,desktop:/Windows_98_Resource_Kit_1998.pdf,0,,desktop:/Windows_98_Resource_Kit_1998.pdf,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/curseforge.desktop,0,,desktop:/install-ut2004.desktop.download,0,,desktop:/vmware-workstation.desktop,0,,desktop:/steam.desktop,0,,desktop:/curseforge.desktop,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/Windows_NT_Workstation_4.0_Resource_Kit_1996.pdf,0,,desktop:/net.86box.86Box.desktop,0,,desktop:/install-ut2004.desktop.download,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/vmware-workstation.desktop,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/firefox.desktop,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/steam.desktop,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/Windows_95_Resource_Kit_1995.pdf,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/Windows_95_Resource_Kit_1995.pdf,0,,desktop:/net.86box.86Box.desktop,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/firefox.desktop,0,,desktop:/Windows_NT_Workstation_4.0_Resource_Kit_1996.pdf,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/UT2004.desktop,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/UT2004.desktop,0,,desktop:/com.hypixel.HytaleLauncher.desktop,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5
+screenMapping=desktop:/install-ut2004.desktop.download,0,,desktop:/Windows_95_Resource_Kit_1995.pdf,0,,desktop:/Windows_98_Resource_Kit_1998.pdf,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/com.hypixel.HytaleLauncher.desktop,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/install-ut2004.desktop.download,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/UT2004.desktop,0,,desktop:/Windows_95_Resource_Kit_1995.pdf,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/curseforge.desktop,0,,desktop:/steam.desktop,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/vmware-workstation.desktop,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/UT2004.desktop,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/curseforge.desktop,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/firefox.desktop,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/firefox.desktop,0,,desktop:/steam.desktop,0,,desktop:/vmware-workstation.desktop,0,,desktop:/Windows_98_Resource_Kit_1998.pdf,0,,desktop:/com.hypixel.HytaleLauncher.desktop,0,,desktop:/Windows_NT_Workstation_4.0_Resource_Kit_1996.pdf,0,,desktop:/net.86box.86Box.desktop,0,,desktop:/Windows_NT_Workstation_4.0_Resource_Kit_1996.pdf,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5,desktop:/net.86box.86Box.desktop,0,f15b910e-0516-4ab3-b907-363e1c7fe7e5

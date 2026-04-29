@@ -137,10 +137,10 @@ Walk Through Windows of Current Application Alternative (Reverse)=none,none,Alte
 Window Above Other Windows=none,,Fenster im Vordergrund halten
 Window Below Other Windows=none,,Fenster im Hintergrund halten
 Window Close=Alt+F4,Alt+F4,Fenster schließen
-Window Custom Quick Tile Bottom=none,,Custom Quick Tile Window to the Bottom
-Window Custom Quick Tile Left=none,,Custom Quick Tile Window to the Left
-Window Custom Quick Tile Right=none,,Custom Quick Tile Window to the Right
-Window Custom Quick Tile Top=none,,Custom Quick Tile Window to the Top
+Window Custom Quick Tile Bottom=none,,Fenster im benutzerdefinierten Raster nach unten anordnen
+Window Custom Quick Tile Left=none,,Fenster im benutzerdefinierten Raster nach links anordnen
+Window Custom Quick Tile Right=none,,Fenster im benutzerdefinierten Raster nach rechts anordnen
+Window Custom Quick Tile Top=none,,Fenster im benutzerdefinierten Raster nach oben anordnen
 Window Fullscreen=none,,Fenster auf Vollbildgröße
 Window Grow Horizontal=none,,Fenster waagerecht maximieren
 Window Grow Vertical=none,,Fenster senkrecht maximieren
@@ -161,7 +161,7 @@ Window One Screen Down=none,,Fenster einen Bildschirm nach unten verschieben
 Window One Screen Up=none,,Fenster einen Bildschirm nach oben verschieben
 Window One Screen to the Left=none,,Fenster einen Bildschirm nach links verschieben
 Window One Screen to the Right=none,,Fenster einen Bildschirm nach rechts verschieben
-Window Operations Menu=Alt+F3,Alt+F3,Window Menu
+Window Operations Menu=Alt+F3,Alt+F3,Fenstermenü
 Window Pack Down=none,,Fenster nach unten verschieben
 Window Pack Left=none,,Fenster nach links verschieben
 Window Pack Right=none,,Fenster nach rechts verschieben
@@ -273,10 +273,10 @@ activate widget 175=,none,Miniprogramm Anwendungsstarter aktivieren
 activate widget 176=,none,Miniprogramm Anwendungsstarter aktivieren
 activate widget 19=,none,Miniprogramm Tastaturbelegung aktivieren
 activate widget 27=none,none,Miniprogramm Anwendungsmenü aktivieren
-activate widget 29=none,none,Miniprogramm Fensterleiste mit Symbolen und Text aktivieren
 activate widget 52=,none,Miniprogramm Fensterleiste mit Symbolen und Text aktivieren
 activate widget 53=,none,Miniprogramm Fensterleiste mit Symbolen und Text aktivieren
-activate widget 55=none,none,Miniprogramm Anwendungsübersicht aktivieren
+activate widget 54=,none,Miniprogramm Anwendungsmenü aktivieren
+activate widget 55=,none,Miniprogramm Anwendungsmenü aktivieren
 activate widget 83=none,none,Miniprogramm Fensterleiste mit Symbolen und Text aktivieren
 clear-history=none,,Verlauf der Zwischenablage leeren
 clipboard_action=Meta+Ctrl+X,Meta+Ctrl+X,Automatisches Aufklappmenü für Aktionen
@@ -299,6 +299,8 @@ toggle do not disturb=none,,Nicht stören umschalten
 _launch=Meta+T
 
 [services][org.kde.spectacle.desktop]
+CurrentMonitorScreenShot=
+OpenWithoutScreenshot=
 RecordWindow=none
 
 [services][org.kde.touchpadshortcuts.desktop]
@@ -314,3 +316,7 @@ Toggle screen map selection=Meta+Ctrl+M,Meta+Ctrl+M,Zwischen allen Bildschirmen 
 Toggle stylus mode=Meta+Ctrl+S,Meta+Ctrl+S,Funktionsweise des Stift-Werkzeugs zwischen relativ/absolut umschalten
 Toggle touch tool=Meta+Ctrl+T,Meta+Ctrl+T,Touch-Werkzeug aktivieren/deaktivieren
 _k_friendly_name=Wacom-Tablett
+
+[yakuake]
+_k_friendly_name=Yakuake
+toggle-window-state=F12,F12,Yakuake einfahren/ausfahren

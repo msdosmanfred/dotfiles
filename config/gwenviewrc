@@ -13,26 +13,26 @@ State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 Virtual1=Virtual1
 
 [Recent Files]
-File1[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_224118.png
-File10[$e]=/data/zeugs/ZETA/zeta key.png
-File2[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260214_224253.png
-File3[$e]=$HOME/Bilder/Screenshots/2026-02-14_22-47.png
-File4[$e]=$HOME/86Box VMs/PC005/screenshots/Monitor_1_20260218-173550-849.png
-File5[$e]=$HOME/86Box VMs/PC005/screenshots/Monitor_1_20260218-173608-863.png
-File6[$e]=/data/zeugs/fat32-unterstützung.png
-File7[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260226_012937.png
-File8[$e]=$HOME/86Box VMs/PC021/printer/20260304-100436-923.png
-File9[$e]=$HOME/86Box VMs/PC021/printer/20260304-100757-081.png
-Name1[$e]=Bildschirmfoto_20260214_224118.png
-Name10[$e]=zeta key.png
-Name2[$e]=Bildschirmfoto_20260214_224253.png
-Name3[$e]=2026-02-14_22-47.png
-Name4[$e]=Monitor_1_20260218-173550-849.png
-Name5[$e]=Monitor_1_20260218-173608-863.png
-Name6[$e]=fat32-unterstützung.png
-Name7[$e]=Bildschirmfoto_20260226_012937.png
-Name8[$e]=20260304-100436-923.png
-Name9[$e]=20260304-100757-081.png
+File1[$e]=$HOME/86Box VMs/PC005/screenshots/Monitor_1_20260218-173550-849.png
+File10[$e]=/data/zeugs/Microsoft Systems Management Server 1.2 (ISO)/Microsoft SMS Server - CD.jpg
+File2[$e]=$HOME/86Box VMs/PC005/screenshots/Monitor_1_20260218-173608-863.png
+File3[$e]=/data/zeugs/fat32-unterstützung.png
+File4[$e]=$HOME/Bilder/Bildschirmfotos/Bildschirmfoto_20260226_012937.png
+File5[$e]=$HOME/86Box VMs/PC021/printer/20260304-100436-923.png
+File6[$e]=$HOME/86Box VMs/PC021/printer/20260304-100757-081.png
+File7[$e]=/data/zeugs/ZETA/zeta key.png
+File8[$e]=$HOME/Downloads/pngegg.png
+File9[$e]=$HOME/Downloads/acng_expiration.png
+Name1[$e]=Monitor_1_20260218-173550-849.png
+Name10[$e]=Microsoft SMS Server - CD.jpg
+Name2[$e]=Monitor_1_20260218-173608-863.png
+Name3[$e]=fat32-unterstützung.png
+Name4[$e]=Bildschirmfoto_20260226_012937.png
+Name5[$e]=20260304-100436-923.png
+Name6[$e]=20260304-100757-081.png
+Name7[$e]=zeta key.png
+Name8[$e]=pngegg.png
+Name9[$e]=acng_expiration.png
 
 [SideBar]
 InformationSplitterSizes=219,256
