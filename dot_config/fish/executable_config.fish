@@ -7,6 +7,7 @@ source /usr/share/cachyos-fish-config/cachyos-config.fish
 #end
 #
 
+alias vi='vim'
 alias vim='nvim'
 
 set EDITOR vim
