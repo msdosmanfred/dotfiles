@@ -1,0 +1,152 @@
+[Devices]
+DVD RW UNKNOWN=4234,1765
+
+[External Programs]
+cdrdao default=/usr/bin/cdrdao
+cdrdao last seen newest version=1.2.6
+cdrdao user parameters=
+cdrecord default=/usr/bin/cdrecord
+cdrecord last seen newest version=3.2a09
+cdrecord user parameters=
+cdrskin default=/usr/bin/cdrskin
+cdrskin last seen newest version=1.5.8
+cdrskin user parameters=
+dvd+rw-format default=/usr/bin/dvd+rw-format
+dvd+rw-format last seen newest version=7.1
+dvd+rw-format user parameters=
+eMovix default=/usr/bin/
+eMovix last seen newest version=0.9.0
+eMovix user parameters=
+growisofs default=/usr/bin/growisofs
+growisofs last seen newest version=7.1
+growisofs user parameters=
+mkisofs default=/usr/bin/mkisofs
+mkisofs last seen newest version=3.2a09
+mkisofs user parameters=
+normalize user parameters=
+readcd default=/usr/bin/readcd
+readcd last seen newest version=3.2a09
+readcd user parameters=
+search path[$e]=/usr/bin/,/usr/local/bin/,/usr/sbin/,/usr/local/sbin/,/sbin
+sox default=/usr/bin/sox
+sox last seen newest version=14.8.0.1
+sox user parameters=
+vcdxbuild default=/usr/bin/vcdxbuild
+vcdxbuild last seen newest version=2.0.1
+vcdxbuild user parameters=
+vcdxminfo default=/usr/bin/vcdxminfo
+vcdxminfo last seen newest version=2.0.1
+vcdxminfo user parameters=
+vcdxrip default=/usr/bin/vcdxrip
+vcdxrip last seen newest version=2.0.1
+vcdxrip user parameters=
+
+[General Options]
+Allow overburning=false
+Fifo buffer=4
+Force unsafe operations=false
+Last system check version=26.8.0
+Manual buffer size=false
+Navigator breadcrumb mode=true
+No cd eject=false
+Show Document Header=true
+Temp Dir=/home/alex/Videos/
+burnfree=true
+check system config=true
+config version=26.8.0
+current theme=quant
+current_writer=/dev/sr0
+
+[Welcome Widget]
+welcome_actions=file_new_data,file_new_audio,tools_copy_medium
+
+[file view]
+Allow Expansion=false
+Decoration position=2
+Show Inline Previews=true
+Show Preview=false
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+View Style=DetailTree
+last url[$e]=$HOME/Downloads/OOG680_m5_native_packed-1_de.9221/
+show bookmarks=false
+
+[image writing]
+last written image[$e]=/data/zeugs/NetBSD-10.1-i386.iso
+recent images[$e]=/data/zeugs/NetBSD-10.1-i386.iso
+
+[last used Formatting and Erasing]
+force=false
+quick format=true
+writer_device=/dev/sr0
+writing_app=Automatisch
+writing_mode=auto
+writing_speed=0
+
+[last used default data settings]
+abstract file=
+allow 31 character filenames=true
+allow beginning period=false
+allow lowercase filenames=false
+allow multiple dots=false
+application id=K3B THE CD KREATOR (C) 1998-2018 SEBASTIAN TRUEG, MICHAL MALEK AND LESLIE ZHAI
+bibliograph file=
+copies=1
+copyright file=
+create TRANS_TBL=true
+data_track_mode=auto
+discard broken symlinks=false
+discard symlinks=false
+do not cache inodes=true
+do not import last session=false
+follow symbolic links=false
+hide TRANS_TBL=false
+image path[$e]=/data/zeugs/OpenOffice.org 2.3.0 Sol-x86.iso
+iso_level=3
+joliet=false
+joliet long=true
+max ISO filenames=true
+multisession mode=auto
+no iSO translation=false
+omit trailing period=false
+omit version numbers=false
+on_the_fly=true
+only_create_image=true
+preparer=
+preserve file permissions=false
+publisher=
+relaxed filenames=false
+remove_image=false
+rock_ridge=true
+simulate=false
+system id=LINUX
+udf=false
+untranslated filenames=false
+verify data=false
+volume id=OOo_2.3.0_Sol-x86
+volume set id=
+volume set number=1
+volume set size=1
+white_space_treatment=noChange
+whitespace replace string=_
+writer_device=
+writing_app=Automatisch
+writing_mode=auto
+writing_speed=0
+
+[last used image writing]
+copies=1
+data_track_mode=auto
+image path[$e]=/data/zeugs/NetBSD-10.1-i386.iso
+image type=auto
+multisession=false
+on_the_fly=true
+simulate=false
+verify_data=false
+writer_device=/dev/sr0
+writing_app=Automatisch
+writing_mode=auto
+writing_speed=0

@@ -1,0 +1,41 @@
+00:00:00.001646 main     VirtualBox XPCOM Server 7.2.20 r175154 linux.amd64 (Sep 22 2026 08:12:19) release log
+00:00:00.001650 main     Log opened 2026-10-21T12:04:08.071301000Z
+00:00:00.001650 main     Build Type: release
+00:00:00.001656 main     OS Product: Linux
+00:00:00.001657 main     OS Release: 7.2.11-1-cachyos
+00:00:00.001657 main     OS Version: #1 SMP PREEMPT_DYNAMIC Sun, 18 Oct 2026 14:54:49 +0000
+00:00:00.001682 main     DMI Product Name: Aspire A515-45
+00:00:00.001689 main     DMI Product Version: V1.55
+00:00:00.001697 main     Firmware type: UEFI
+00:00:00.001938 main     Secure Boot: Disabled
+00:00:00.001987 main     Host RAM: 15328MB (14.9GB) total, 12565MB (12.2GB) available
+00:00:00.001991 main     Executable: /opt/VirtualBox/VBoxSVC
+00:00:00.001991 main     Process ID: 44075
+00:00:00.001992 main     Package type: LINUX_64BITS_GENERIC
+00:00:00.003960 main     IPC socket path: /tmp/.vbox-alex-ipc/ipcd
+00:00:00.029263 DCon01   VirtualBox: object creation starts
+00:00:00.029337 DCon01   Home directory: '/home/alex/.config/VirtualBox'
+00:00:00.029464 DCon01   Loading settings file "/home/alex/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.031226 DCon01   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0029)
+00:00:00.031268 DCon01   Successfully initialised host USB using sysfs
+00:00:00.041636 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.046562 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet8: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.047573 DCon01   HostDnsMonitor: initializing
+00:00:00.047731 DCon01   NAT: resolv.conf: nameserver 127.0.0.53
+00:00:00.047739 DCon01   NAT: resolv.conf: ignoring "options edns0 trust-ad"
+00:00:00.047751 DCon01   HostDnsMonitor: updating information
+00:00:00.047763 DCon01   HostDnsMonitor: old information
+00:00:00.047768 DCon01     no server entries
+00:00:00.047774 DCon01     no domain set
+00:00:00.047778 DCon01     no search string entries
+00:00:00.047783 DCon01   HostDnsMonitor: new information
+00:00:00.047788 DCon01     server 1: 127.0.0.53
+00:00:00.047793 DCon01     domain: speedport.ip
+00:00:00.047798 DCon01     search string 1: speedport.ip
+00:00:00.049063 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.049874 DCon01   VirtualBox: object created
+00:00:05.054675 main     VirtualBox: object deletion starts
+00:00:05.055196 main     HostDnsMonitor: shutting down ...
+00:00:05.055333 main     HostDnsMonitor: shut down
+00:00:05.065908 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:05.065988 main     VirtualBox: object deleted

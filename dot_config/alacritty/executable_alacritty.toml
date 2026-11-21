@@ -1,0 +1,25 @@
+import =  [ "~/.config/alacritty/dracula.toml" ]
+
+[font]
+size = 14.0
+
+[font.bold]
+family = "Mononoki Nerd Font Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "Mononoki Nerd Font Mono"
+style = "Bold Italic"
+
+[font.italic]
+family = "Mononoki Nerd Font Mono"
+style = "Italic"
+
+[font.normal]
+family = "Mononoki Nerd Font Mono"
+style = "Regular"
+
+[window]
+opacity = 0.8
+blur = true
+dynamic_title = true

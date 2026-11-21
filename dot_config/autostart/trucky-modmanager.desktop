@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=trucky-modmanager
+Comment=trucky-modmanagerstartup script
+Exec=/tmp/.mount_TruckyNtfr2o/trucky-modmanager --hidden
+StartupNotify=false
+Terminal=false

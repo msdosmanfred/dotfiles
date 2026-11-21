@@ -1,0 +1,1419 @@
+Type: Error Num: 2
+Date: 2026.08.23 09:57:38 105
+Sender: QMap<QString, QString> System_Info::Find_QEMU_Binary_Files( const QString &path )
+Message: Path "/root/.local/bin/" not exists!
+
+Type: Error Num: 6
+Date: 2026.08.23 09:57:38 295
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 8
+Date: 2026.08.23 09:57:38 356
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/usr/bin/qemu-system-arm". Use default list
+
+Type: Warning Num: 9
+Date: 2026.08.23 09:57:38 404
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/usr/bin/qemu-system-arm". Use default list
+
+Type: Error Num: 11
+Date: 2026.08.23 09:57:38 478
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 13
+Date: 2026.08.23 09:57:38 520
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/usr/bin/qemu-system-m68k". Use default list
+
+Type: Warning Num: 14
+Date: 2026.08.23 09:57:38 653
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/usr/bin/qemu-system-m68k". Use default list
+
+Type: Error Num: 16
+Date: 2026.08.23 09:57:38 717
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 18
+Date: 2026.08.23 09:57:38 756
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/usr/bin/qemu-system-microblaze". Use default list
+
+Type: Warning Num: 19
+Date: 2026.08.23 09:57:38 861
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/usr/bin/qemu-system-microblaze". Use default list
+
+Type: Error Num: 21
+Date: 2026.08.23 09:57:38 946
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 23
+Date: 2026.08.23 09:57:38 995
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/usr/bin/qemu-system-mips". Use default list
+
+Type: Warning Num: 24
+Date: 2026.08.23 09:57:39 106
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/usr/bin/qemu-system-mips". Use default list
+
+Type: Error Num: 26
+Date: 2026.08.23 09:57:39 192
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 28
+Date: 2026.08.23 09:57:39 246
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/usr/bin/qemu-system-mips64". Use default list
+
+Type: Warning Num: 29
+Date: 2026.08.23 09:57:39 358
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/usr/bin/qemu-system-mips64". Use default list
+
+Type: Error Num: 31
+Date: 2026.08.23 09:57:39 447
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 33
+Date: 2026.08.23 09:57:39 505
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/usr/bin/qemu-system-mips64el". Use default list
+
+Type: Warning Num: 34
+Date: 2026.08.23 09:57:39 620
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/usr/bin/qemu-system-mips64el". Use default list
+
+Type: Error Num: 36
+Date: 2026.08.23 09:57:39 703
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 38
+Date: 2026.08.23 09:57:39 750
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/usr/bin/qemu-system-mipsel". Use default list
+
+Type: Warning Num: 39
+Date: 2026.08.23 09:57:39 860
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/usr/bin/qemu-system-mipsel". Use default list
+
+Type: Error Num: 41
+Date: 2026.08.23 09:57:39 951
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 43
+Date: 2026.08.23 09:57:40 107
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/usr/bin/qemu-system-ppc". Use default list
+
+Type: Warning Num: 44
+Date: 2026.08.23 09:57:40 220
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/usr/bin/qemu-system-ppc". Use default list
+
+Type: Error Num: 46
+Date: 2026.08.23 09:57:40 312
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 48
+Date: 2026.08.23 09:57:40 489
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/usr/bin/qemu-system-ppc64". Use default list
+
+Type: Warning Num: 49
+Date: 2026.08.23 09:57:40 621
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/usr/bin/qemu-system-ppc64". Use default list
+
+Type: Error Num: 51
+Date: 2026.08.23 09:57:40 701
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 53
+Date: 2026.08.23 09:57:40 746
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/usr/bin/qemu-system-sh4". Use default list
+
+Type: Warning Num: 54
+Date: 2026.08.23 09:57:40 785
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/usr/bin/qemu-system-sh4". Use default list
+
+Type: Error Num: 56
+Date: 2026.08.23 09:57:40 864
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 58
+Date: 2026.08.23 09:57:40 909
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/usr/bin/qemu-system-sh4eb". Use default list
+
+Type: Warning Num: 59
+Date: 2026.08.23 09:57:40 948
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/usr/bin/qemu-system-sh4eb". Use default list
+
+Type: Error Num: 61
+Date: 2026.08.23 09:57:41 013
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 63
+Date: 2026.08.23 09:57:41 051
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/usr/bin/qemu-system-sparc". Use default list
+
+Type: Warning Num: 64
+Date: 2026.08.23 09:57:41 200
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/usr/bin/qemu-system-sparc". Use default list
+
+Type: Error Num: 66
+Date: 2026.08.23 09:57:41 282
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 68
+Date: 2026.08.23 09:57:41 326
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/usr/bin/qemu-system-sparc64". Use default list
+
+Type: Warning Num: 69
+Date: 2026.08.23 09:57:41 441
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/usr/bin/qemu-system-sparc64". Use default list
+
+Type: Error Num: 71
+Date: 2026.08.23 09:57:41 547
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 73
+Date: 2026.08.23 09:57:41 682
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/usr/bin/qemu-system-x86_64". Use default list
+
+Type: Warning Num: 74
+Date: 2026.08.23 09:57:41 805
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/usr/bin/qemu-system-x86_64". Use default list
+
+Type: Error Num: 77
+Date: 2026.08.23 09:57:41 906
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 79
+Date: 2026.08.23 09:57:41 970
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/bin/qemu-system-arm". Use default list
+
+Type: Warning Num: 80
+Date: 2026.08.23 09:57:42 019
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/bin/qemu-system-arm". Use default list
+
+Type: Error Num: 82
+Date: 2026.08.23 09:57:42 084
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 84
+Date: 2026.08.23 09:57:42 125
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/bin/qemu-system-m68k". Use default list
+
+Type: Warning Num: 85
+Date: 2026.08.23 09:57:42 232
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/bin/qemu-system-m68k". Use default list
+
+Type: Error Num: 87
+Date: 2026.08.23 09:57:42 291
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 89
+Date: 2026.08.23 09:57:42 331
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/bin/qemu-system-microblaze". Use default list
+
+Type: Warning Num: 90
+Date: 2026.08.23 09:57:42 440
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/bin/qemu-system-microblaze". Use default list
+
+Type: Error Num: 92
+Date: 2026.08.23 09:57:42 513
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 94
+Date: 2026.08.23 09:57:42 562
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/bin/qemu-system-mips". Use default list
+
+Type: Warning Num: 95
+Date: 2026.08.23 09:57:42 677
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/bin/qemu-system-mips". Use default list
+
+Type: Error Num: 97
+Date: 2026.08.23 09:57:42 750
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 99
+Date: 2026.08.23 09:57:42 802
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/bin/qemu-system-mips64". Use default list
+
+Type: Warning Num: 100
+Date: 2026.08.23 09:57:42 914
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/bin/qemu-system-mips64". Use default list
+
+Type: Error Num: 102
+Date: 2026.08.23 09:57:42 985
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 104
+Date: 2026.08.23 09:57:43 039
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/bin/qemu-system-mips64el". Use default list
+
+Type: Warning Num: 105
+Date: 2026.08.23 09:57:43 156
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/bin/qemu-system-mips64el". Use default list
+
+Type: Error Num: 107
+Date: 2026.08.23 09:57:43 227
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 109
+Date: 2026.08.23 09:57:43 276
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/bin/qemu-system-mipsel". Use default list
+
+Type: Warning Num: 110
+Date: 2026.08.23 09:57:43 393
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/bin/qemu-system-mipsel". Use default list
+
+Type: Error Num: 112
+Date: 2026.08.23 09:57:43 478
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 114
+Date: 2026.08.23 09:57:43 639
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/bin/qemu-system-ppc". Use default list
+
+Type: Warning Num: 115
+Date: 2026.08.23 09:57:43 759
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/bin/qemu-system-ppc". Use default list
+
+Type: Error Num: 117
+Date: 2026.08.23 09:57:43 842
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 119
+Date: 2026.08.23 09:57:44 019
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/bin/qemu-system-ppc64". Use default list
+
+Type: Warning Num: 120
+Date: 2026.08.23 09:57:44 143
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/bin/qemu-system-ppc64". Use default list
+
+Type: Error Num: 122
+Date: 2026.08.23 09:57:44 214
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 124
+Date: 2026.08.23 09:57:44 260
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/bin/qemu-system-sh4". Use default list
+
+Type: Warning Num: 125
+Date: 2026.08.23 09:57:44 302
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/bin/qemu-system-sh4". Use default list
+
+Type: Error Num: 127
+Date: 2026.08.23 09:57:44 375
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 129
+Date: 2026.08.23 09:57:44 421
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/bin/qemu-system-sh4eb". Use default list
+
+Type: Warning Num: 130
+Date: 2026.08.23 09:57:44 463
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/bin/qemu-system-sh4eb". Use default list
+
+Type: Error Num: 132
+Date: 2026.08.23 09:57:44 521
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 134
+Date: 2026.08.23 09:57:44 559
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/bin/qemu-system-sparc". Use default list
+
+Type: Warning Num: 135
+Date: 2026.08.23 09:57:44 680
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/bin/qemu-system-sparc". Use default list
+
+Type: Error Num: 137
+Date: 2026.08.23 09:57:44 756
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 139
+Date: 2026.08.23 09:57:44 801
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/bin/qemu-system-sparc64". Use default list
+
+Type: Warning Num: 140
+Date: 2026.08.23 09:57:44 945
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/bin/qemu-system-sparc64". Use default list
+
+Type: Error Num: 142
+Date: 2026.08.23 09:57:45 028
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: net_str is Empty
+
+Type: Warning Num: 144
+Date: 2026.08.23 09:57:45 165
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get machines info from emulator "/bin/qemu-system-x86_64". Use default list
+
+Type: Warning Num: 145
+Date: 2026.08.23 09:57:45 289
+Sender: Available_Devices System_Info::Get_Emulator_Info( const QString &path, bool *ok,VM::Emulator_Version version, const QString &internalName )
+Message: Cannot get net cards info from emulator "/bin/qemu-system-x86_64". Use default list
+
+Type: Warning Num: 154
+Date: 2026.08.23 09:57:51 836
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 156
+Date: 2026.08.23 09:57:51 838
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 159
+Date: 2026.08.23 09:57:51 858
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 161
+Date: 2026.08.23 09:57:51 863
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 163
+Date: 2026.08.23 09:57:51 932
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 165
+Date: 2026.08.23 09:57:51 935
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Error Num: 166
+Date: 2026.08.23 09:57:52 145
+Sender: void Main_Window::init_dbus()
+Message: registered
+
+Type: Warning Num: 167
+Date: 2026.08.23 09:57:52 145
+Sender: Main_Window::Main_Window( QWidget *parent )
+Message: No VM Loaded!
+
+Type: Error Num: 168
+Date: 2026.08.23 09:59:34 541
+Sender: void Update_Current_Emulator_Devices()
+Message: Cannot Load Info About This Emulator! AQEMU Doesn't Work!
+
+Type: Error Num: 172
+Date: 2026.08.23 10:00:33 416
+Sender: void Main_Window::on_Machines_List_currentItemChanged( QListWidgetItem* current, QListWidgetItem* previous )
+Message: Index Invalid!
+
+Type: Warning Num: 173
+Date: 2026.08.23 10:00:33 432
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp With Cluster Size Not Matched!
+
+Type: Error Num: 174
+Date: 2026.08.23 10:00:33 432
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp Without Cluster Size Not Matched! Image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+Data: image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+file format: qcow2
+virtual size: 40 GiB (42949672960 bytes)
+disk size: 196 KiB
+cluster_size: 65536
+Format specific information:
+    compat: 1.1
+    compression type: zlib
+    lazy refcounts: false
+    refcount bits: 16
+    corrupt: false
+    extended l2: false
+Child node '/file':
+    filename: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+    protocol type: file
+    file length: 193 KiB (197632 bytes)
+    disk size: 196 KiB
+
+
+Type: Warning Num: 178
+Date: 2026.08.23 10:02:44 586
+Sender: QString Main_Window::Get_QEMU_Args()
+Message: Index < 0
+
+Type: Warning Num: 179
+Date: 2026.08.23 10:05:22 070
+Sender: QString Main_Window::Get_QEMU_Args()
+Message: Index < 0
+
+Type: Warning Num: 2
+Date: 2026.08.23 10:06:28 389
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 4
+Date: 2026.08.23 10:06:28 393
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 6
+Date: 2026.08.23 10:06:28 753
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 8
+Date: 2026.08.23 10:06:28 756
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Error Num: 9
+Date: 2026.08.23 10:06:28 930
+Sender: void Main_Window::init_dbus()
+Message: registered
+
+Type: Warning Num: 14
+Date: 2026.08.23 10:06:28 958
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 16
+Date: 2026.08.23 10:06:28 961
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 17
+Date: 2026.08.23 10:06:28 962
+Sender: bool Main_Window::Load_Virtual_Machines()
+Message: cur_row < 0
+
+Type: Warning Num: 20
+Date: 2026.08.23 10:06:29 028
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp With Cluster Size Not Matched!
+
+Type: Error Num: 21
+Date: 2026.08.23 10:06:29 028
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp Without Cluster Size Not Matched! Image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+Data: image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+file format: qcow2
+virtual size: 40 GiB (42949672960 bytes)
+disk size: 196 KiB
+cluster_size: 65536
+Format specific information:
+    compat: 1.1
+    compression type: zlib
+    lazy refcounts: false
+    refcount bits: 16
+    corrupt: false
+    extended l2: false
+Child node '/file':
+    filename: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+    protocol type: file
+    file length: 193 KiB (197632 bytes)
+    disk size: 196 KiB
+
+
+Type: Error Num: 24
+Date: 2026.08.23 10:06:32 569
+Sender: void Main_Window::on_action_Power_On_triggered()
+Message: Cannot Start VM!
+
+Type: Warning Num: 27
+Date: 2026.08.23 10:06:32 574
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/manufacturer"!
+
+Type: Warning Num: 28
+Date: 2026.08.23 10:06:32 574
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 29
+Date: 2026.08.23 10:06:32 574
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/product"!
+
+Type: Warning Num: 30
+Date: 2026.08.23 10:06:32 574
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read product from /sys/bus/usb/devices/
+
+Type: Warning Num: 31
+Date: 2026.08.23 10:06:32 574
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/serial"!
+
+Type: Warning Num: 32
+Date: 2026.08.23 10:06:32 574
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 33
+Date: 2026.08.23 10:06:32 575
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-4/serial"!
+
+Type: Warning Num: 34
+Date: 2026.08.23 10:06:32 575
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 35
+Date: 2026.08.23 10:06:32 575
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/manufacturer"!
+
+Type: Warning Num: 36
+Date: 2026.08.23 10:06:32 575
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 37
+Date: 2026.08.23 10:06:32 575
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/serial"!
+
+Type: Warning Num: 38
+Date: 2026.08.23 10:06:32 575
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 39
+Date: 2026.08.23 10:06:32 575
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3.4/serial"!
+
+Type: Warning Num: 40
+Date: 2026.08.23 10:06:32 575
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Error Num: 41
+Date: 2026.08.23 10:06:32 576
+Sender: QString AQEMU_Service::start(const QString& s)
+Message: /home/alex/.aqemu/test.aqemu
+
+Type: Warning Num: 44
+Date: 2026.08.23 10:06:32 578
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp With Cluster Size Not Matched!
+
+Type: Error Num: 45
+Date: 2026.08.23 10:06:32 578
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp Without Cluster Size Not Matched! Image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+Data: image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+file format: qcow2
+virtual size: 40 GiB (42949672960 bytes)
+disk size: 196 KiB
+cluster_size: 65536
+Format specific information:
+    compat: 1.1
+    compression type: zlib
+    lazy refcounts: false
+    refcount bits: 16
+    corrupt: false
+    extended l2: false
+Child node '/file':
+    filename: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+    protocol type: file
+    file length: 193 KiB (197632 bytes)
+    disk size: 196 KiB
+
+
+Type: Error Num: 47
+Date: 2026.08.23 10:06:32 578
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: state changed
+
+Type: Error Num: 48
+Date: 2026.08.23 10:06:32 590
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: Running
+
+Type: Error Num: 50
+Date: 2026.08.23 10:06:32 676
+Sender: QEMU return value != 0
+Message: 
+
+Type: Error Num: 51
+Date: 2026.08.23 10:06:32 677
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: state changed
+
+Type: Error Num: 52
+Date: 2026.08.23 10:06:32 685
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: Power Off
+
+Type: Error Num: 61
+Date: 2026.08.23 10:07:00 966
+Sender: void Main_Window::on_action_Power_On_triggered()
+Message: Cannot Start VM!
+
+Type: Warning Num: 64
+Date: 2026.08.23 10:07:00 972
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/manufacturer"!
+
+Type: Warning Num: 65
+Date: 2026.08.23 10:07:00 972
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 66
+Date: 2026.08.23 10:07:00 972
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/product"!
+
+Type: Warning Num: 67
+Date: 2026.08.23 10:07:00 972
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read product from /sys/bus/usb/devices/
+
+Type: Warning Num: 68
+Date: 2026.08.23 10:07:00 972
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/serial"!
+
+Type: Warning Num: 69
+Date: 2026.08.23 10:07:00 972
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 70
+Date: 2026.08.23 10:07:00 972
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-4/serial"!
+
+Type: Warning Num: 71
+Date: 2026.08.23 10:07:00 972
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 72
+Date: 2026.08.23 10:07:00 972
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/manufacturer"!
+
+Type: Warning Num: 73
+Date: 2026.08.23 10:07:00 972
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 74
+Date: 2026.08.23 10:07:00 972
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/serial"!
+
+Type: Warning Num: 75
+Date: 2026.08.23 10:07:00 972
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 76
+Date: 2026.08.23 10:07:00 973
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3.4/serial"!
+
+Type: Warning Num: 77
+Date: 2026.08.23 10:07:00 973
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Error Num: 78
+Date: 2026.08.23 10:07:00 974
+Sender: QString AQEMU_Service::start(const QString& s)
+Message: /home/alex/.aqemu/test.aqemu
+
+Type: Warning Num: 81
+Date: 2026.08.23 10:07:00 977
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp With Cluster Size Not Matched!
+
+Type: Error Num: 82
+Date: 2026.08.23 10:07:00 977
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp Without Cluster Size Not Matched! Image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+Data: image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+file format: qcow2
+virtual size: 40 GiB (42949672960 bytes)
+disk size: 196 KiB
+cluster_size: 65536
+Format specific information:
+    compat: 1.1
+    compression type: zlib
+    lazy refcounts: false
+    refcount bits: 16
+    corrupt: false
+    extended l2: false
+Child node '/file':
+    filename: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+    protocol type: file
+    file length: 193 KiB (197632 bytes)
+    disk size: 196 KiB
+
+
+Type: Error Num: 84
+Date: 2026.08.23 10:07:00 977
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: state changed
+
+Type: Error Num: 85
+Date: 2026.08.23 10:07:00 988
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: Running
+
+Type: Error Num: 87
+Date: 2026.08.23 10:07:01 069
+Sender: QEMU return value != 0
+Message: 
+
+Type: Error Num: 88
+Date: 2026.08.23 10:07:01 075
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: state changed
+
+Type: Error Num: 89
+Date: 2026.08.23 10:07:01 084
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: Power Off
+
+Type: Error Num: 113
+Date: 2026.08.23 10:08:14 220
+Sender: void Main_Window::on_action_Power_On_triggered()
+Message: Cannot Start VM!
+
+Type: Warning Num: 116
+Date: 2026.08.23 10:08:14 225
+Sender: QStringList Virtual_Machine::Build_QEMU_Args()
+Message: No boot devices? Use empty boot settings...
+
+Type: Warning Num: 117
+Date: 2026.08.23 10:08:14 226
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/manufacturer"!
+
+Type: Warning Num: 118
+Date: 2026.08.23 10:08:14 226
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 119
+Date: 2026.08.23 10:08:14 226
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/product"!
+
+Type: Warning Num: 120
+Date: 2026.08.23 10:08:14 226
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read product from /sys/bus/usb/devices/
+
+Type: Warning Num: 121
+Date: 2026.08.23 10:08:14 226
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/serial"!
+
+Type: Warning Num: 122
+Date: 2026.08.23 10:08:14 226
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 123
+Date: 2026.08.23 10:08:14 226
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-4/serial"!
+
+Type: Warning Num: 124
+Date: 2026.08.23 10:08:14 226
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 125
+Date: 2026.08.23 10:08:14 226
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/manufacturer"!
+
+Type: Warning Num: 126
+Date: 2026.08.23 10:08:14 226
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 127
+Date: 2026.08.23 10:08:14 226
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/serial"!
+
+Type: Warning Num: 128
+Date: 2026.08.23 10:08:14 226
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 129
+Date: 2026.08.23 10:08:14 226
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3.4/serial"!
+
+Type: Warning Num: 130
+Date: 2026.08.23 10:08:14 226
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Error Num: 131
+Date: 2026.08.23 10:08:14 227
+Sender: QString AQEMU_Service::start(const QString& s)
+Message: /home/alex/.aqemu/test.aqemu
+
+Type: Warning Num: 134
+Date: 2026.08.23 10:08:14 230
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp With Cluster Size Not Matched!
+
+Type: Error Num: 135
+Date: 2026.08.23 10:08:14 230
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp Without Cluster Size Not Matched! Image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+Data: image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+file format: qcow2
+virtual size: 40 GiB (42949672960 bytes)
+disk size: 196 KiB
+cluster_size: 65536
+Format specific information:
+    compat: 1.1
+    compression type: zlib
+    lazy refcounts: false
+    refcount bits: 16
+    corrupt: false
+    extended l2: false
+Child node '/file':
+    filename: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+    protocol type: file
+    file length: 193 KiB (197632 bytes)
+    disk size: 196 KiB
+
+
+Type: Error Num: 137
+Date: 2026.08.23 10:08:14 230
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: state changed
+
+Type: Error Num: 138
+Date: 2026.08.23 10:08:14 241
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: Running
+
+Type: Error Num: 141
+Date: 2026.08.23 10:08:25 716
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: state changed
+
+Type: Error Num: 142
+Date: 2026.08.23 10:08:25 726
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: Power Off
+
+Type: Error Num: 151
+Date: 2026.08.23 10:08:34 903
+Sender: VM_Net_Card_Native Network_Widget::Get_Net_Card_From_Ui() const
+Message: Cannot Read Network Type! Use Default: User Mode
+
+Type: Error Num: 158
+Date: 2026.08.23 10:08:57 945
+Sender: void Main_Window::on_action_Power_On_triggered()
+Message: Cannot Start VM!
+
+Type: Warning Num: 161
+Date: 2026.08.23 10:08:57 950
+Sender: QStringList Virtual_Machine::Build_QEMU_Args()
+Message: No boot devices? Use empty boot settings...
+
+Type: Warning Num: 162
+Date: 2026.08.23 10:08:57 951
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/manufacturer"!
+
+Type: Warning Num: 163
+Date: 2026.08.23 10:08:57 951
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 164
+Date: 2026.08.23 10:08:57 951
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/product"!
+
+Type: Warning Num: 165
+Date: 2026.08.23 10:08:57 951
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read product from /sys/bus/usb/devices/
+
+Type: Warning Num: 166
+Date: 2026.08.23 10:08:57 951
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/serial"!
+
+Type: Warning Num: 167
+Date: 2026.08.23 10:08:57 951
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 168
+Date: 2026.08.23 10:08:57 951
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-4/serial"!
+
+Type: Warning Num: 169
+Date: 2026.08.23 10:08:57 951
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 170
+Date: 2026.08.23 10:08:57 951
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/manufacturer"!
+
+Type: Warning Num: 171
+Date: 2026.08.23 10:08:57 951
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 172
+Date: 2026.08.23 10:08:57 951
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/serial"!
+
+Type: Warning Num: 173
+Date: 2026.08.23 10:08:57 951
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 174
+Date: 2026.08.23 10:08:57 952
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3.4/serial"!
+
+Type: Warning Num: 175
+Date: 2026.08.23 10:08:57 952
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Error Num: 176
+Date: 2026.08.23 10:08:57 953
+Sender: QString AQEMU_Service::start(const QString& s)
+Message: /home/alex/.aqemu/test.aqemu
+
+Type: Warning Num: 179
+Date: 2026.08.23 10:08:57 955
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp With Cluster Size Not Matched!
+
+Type: Error Num: 180
+Date: 2026.08.23 10:08:57 955
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp Without Cluster Size Not Matched! Image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+Data: image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+file format: qcow2
+virtual size: 40 GiB (42949672960 bytes)
+disk size: 196 KiB
+cluster_size: 65536
+Format specific information:
+    compat: 1.1
+    compression type: zlib
+    lazy refcounts: false
+    refcount bits: 16
+    corrupt: false
+    extended l2: false
+Child node '/file':
+    filename: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+    protocol type: file
+    file length: 193 KiB (197632 bytes)
+    disk size: 196 KiB
+
+
+Type: Error Num: 182
+Date: 2026.08.23 10:08:57 955
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: state changed
+
+Type: Error Num: 183
+Date: 2026.08.23 10:08:57 966
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: Running
+
+Type: Error Num: 185
+Date: 2026.08.23 10:08:58 019
+Sender: QEMU return value != 0
+Message: 
+
+Type: Error Num: 186
+Date: 2026.08.23 10:08:58 021
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: state changed
+
+Type: Error Num: 187
+Date: 2026.08.23 10:08:58 029
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: Power Off
+
+Type: Error Num: 191
+Date: 2026.08.23 10:09:20 256
+Sender: void Main_Window::on_action_Power_On_triggered()
+Message: Cannot Start VM!
+
+Type: Warning Num: 194
+Date: 2026.08.23 10:09:20 262
+Sender: QStringList Virtual_Machine::Build_QEMU_Args()
+Message: No boot devices? Use empty boot settings...
+
+Type: Warning Num: 195
+Date: 2026.08.23 10:09:20 263
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/manufacturer"!
+
+Type: Warning Num: 196
+Date: 2026.08.23 10:09:20 263
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 197
+Date: 2026.08.23 10:09:20 263
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/product"!
+
+Type: Warning Num: 198
+Date: 2026.08.23 10:09:20 263
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read product from /sys/bus/usb/devices/
+
+Type: Warning Num: 199
+Date: 2026.08.23 10:09:20 263
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/serial"!
+
+Type: Warning Num: 200
+Date: 2026.08.23 10:09:20 263
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 201
+Date: 2026.08.23 10:09:20 263
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-4/serial"!
+
+Type: Warning Num: 202
+Date: 2026.08.23 10:09:20 263
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 203
+Date: 2026.08.23 10:09:20 264
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/manufacturer"!
+
+Type: Warning Num: 204
+Date: 2026.08.23 10:09:20 264
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 205
+Date: 2026.08.23 10:09:20 264
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/serial"!
+
+Type: Warning Num: 206
+Date: 2026.08.23 10:09:20 264
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 207
+Date: 2026.08.23 10:09:20 264
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3.4/serial"!
+
+Type: Warning Num: 208
+Date: 2026.08.23 10:09:20 264
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Error Num: 209
+Date: 2026.08.23 10:09:20 265
+Sender: QString AQEMU_Service::start(const QString& s)
+Message: /home/alex/.aqemu/test.aqemu
+
+Type: Warning Num: 212
+Date: 2026.08.23 10:09:20 267
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp With Cluster Size Not Matched!
+
+Type: Error Num: 213
+Date: 2026.08.23 10:09:20 267
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp Without Cluster Size Not Matched! Image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+Data: image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+file format: qcow2
+virtual size: 40 GiB (42949672960 bytes)
+disk size: 196 KiB
+cluster_size: 65536
+Format specific information:
+    compat: 1.1
+    compression type: zlib
+    lazy refcounts: false
+    refcount bits: 16
+    corrupt: false
+    extended l2: false
+Child node '/file':
+    filename: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+    protocol type: file
+    file length: 193 KiB (197632 bytes)
+    disk size: 196 KiB
+
+
+Type: Error Num: 215
+Date: 2026.08.23 10:09:20 267
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: state changed
+
+Type: Error Num: 216
+Date: 2026.08.23 10:09:20 279
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: Running
+
+Type: Error Num: 218
+Date: 2026.08.23 10:09:20 365
+Sender: QEMU return value != 0
+Message: 
+
+Type: Error Num: 219
+Date: 2026.08.23 10:09:20 365
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: state changed
+
+Type: Error Num: 220
+Date: 2026.08.23 10:09:20 373
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: Power Off
+
+Type: Error Num: 224
+Date: 2026.08.23 10:09:27 382
+Sender: void Main_Window::on_action_Power_On_triggered()
+Message: Cannot Start VM!
+
+Type: Warning Num: 227
+Date: 2026.08.23 10:09:27 388
+Sender: QStringList Virtual_Machine::Build_QEMU_Args()
+Message: No boot devices? Use empty boot settings...
+
+Type: Warning Num: 228
+Date: 2026.08.23 10:09:27 389
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/manufacturer"!
+
+Type: Warning Num: 229
+Date: 2026.08.23 10:09:27 389
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 230
+Date: 2026.08.23 10:09:27 389
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/product"!
+
+Type: Warning Num: 231
+Date: 2026.08.23 10:09:27 389
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read product from /sys/bus/usb/devices/
+
+Type: Warning Num: 232
+Date: 2026.08.23 10:09:27 389
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-3/serial"!
+
+Type: Warning Num: 233
+Date: 2026.08.23 10:09:27 389
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 234
+Date: 2026.08.23 10:09:27 389
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-4/serial"!
+
+Type: Warning Num: 235
+Date: 2026.08.23 10:09:27 389
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 236
+Date: 2026.08.23 10:09:27 389
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/manufacturer"!
+
+Type: Warning Num: 237
+Date: 2026.08.23 10:09:27 389
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 238
+Date: 2026.08.23 10:09:27 389
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/serial"!
+
+Type: Warning Num: 239
+Date: 2026.08.23 10:09:27 389
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 240
+Date: 2026.08.23 10:09:27 389
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3.4/serial"!
+
+Type: Warning Num: 241
+Date: 2026.08.23 10:09:27 389
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Error Num: 242
+Date: 2026.08.23 10:09:27 391
+Sender: QString AQEMU_Service::start(const QString& s)
+Message: /home/alex/.aqemu/test.aqemu
+
+Type: Warning Num: 245
+Date: 2026.08.23 10:09:27 393
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp With Cluster Size Not Matched!
+
+Type: Error Num: 246
+Date: 2026.08.23 10:09:27 393
+Sender: void QEMU_IMG_Thread::Parse_Info( int exitCode, QProcess::ExitStatus exitStatus )
+Message: QRegExp Without Cluster Size Not Matched! Image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+Data: image: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+file format: qcow2
+virtual size: 40 GiB (42949672960 bytes)
+disk size: 196 KiB
+cluster_size: 65536
+Format specific information:
+    compat: 1.1
+    compression type: zlib
+    lazy refcounts: false
+    refcount bits: 16
+    corrupt: false
+    extended l2: false
+Child node '/file':
+    filename: /home/alex/Dokumente/QEMU-VMs/hda.qcow2
+    protocol type: file
+    file length: 193 KiB (197632 bytes)
+    disk size: 196 KiB
+
+
+Type: Error Num: 248
+Date: 2026.08.23 10:09:27 393
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: state changed
+
+Type: Error Num: 249
+Date: 2026.08.23 10:09:27 404
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: Running
+
+Type: Error Num: 252
+Date: 2026.08.23 10:13:13 532
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: state changed
+
+Type: Error Num: 253
+Date: 2026.08.23 10:13:13 543
+Sender: void Main_Window::VM_State_Changed(const QString &vm, int state)
+Message: Power Off
+
+Type: Warning Num: 257
+Date: 2026.08.23 10:14:09 847
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 259
+Date: 2026.08.23 10:14:09 850
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 261
+Date: 2026.08.23 10:15:02 691
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 263
+Date: 2026.08.23 10:15:02 693
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 265
+Date: 2026.08.23 10:15:19 507
+Sender: void Main_Window::Update_VM_Ui()
+Message: VM Index Out of Range
+

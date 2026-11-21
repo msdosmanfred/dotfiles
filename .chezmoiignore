@@ -1,0 +1,6 @@
+~/.config/chezmoi/
+~/.config/chezmoi/**
+~/.config/Bitwarden/
+~/.config/Bitwarden/**
+~/.config/Bitwarden CLI/
+~/.config/Bitwarden CLI/**
